@@ -1,0 +1,1184 @@
+route_id,route_short_name,route_long_name,stop_sequence,stop_id,stop_name
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,1,lucknow-toIwEsNj,Samparn Hospital
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,2,lucknow-NdGXSbwa,Sharda Nahar Baitha
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,3,lucknow-QMamEFne,Chakhaar Chauraha
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,4,lucknow-QnuLRivf,Tata Moters
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,5,lucknow-yKLbabOO,Shivpuri
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,6,lucknow-ABAmmwxm,Matiyari Chauraha
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,7,lucknow-SrLzFPkD,Matiyari Flyover
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,8,lucknow-aDrbTgQL,Chinhat Petrol Pump
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,9,lucknow-VMlinduX,Chinhat Turn
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,10,lucknow-gvCIJDEB,Kamta Bus Station
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,11,lucknow-FAObqJZX,Kamta Tiraha
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,12,lucknow-BwkmYPbQ,HIgh Court Or Surendra Nagar
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,13,lucknow-IVJwiHAb,Ismail Ganj
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,14,lucknow-KMkcNAzS,Sector 8
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,15,lucknow-yipqfpcT,Polytechnic
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,16,lucknow-zTUCNqvt,Aravali Turn
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,17,lucknow-XEJuWqSs,H A L
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,18,lucknow-pkYqNKfZ,Bhootnath
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,19,lucknow-jrjhALyQ,Neelgiri
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,20,lucknow-BSexhQwz,Lekhraj
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,21,lucknow-SomEAEor,Shakti Nagar Dhal
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,22,lucknow-vRDaTDLE,Badshah Nagar
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,23,lucknow-nUFxTvOM,Nishatganj
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,24,lucknow-pOstlNXJ,Paper Mill Colony
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,25,lucknow-EvqHhxNH,Gokhale Marg
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,26,lucknow-kkpruABB,Sikandarbagh Chauraha
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,27,lucknow-MAGNWJQe,Jawahar Bhawan
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,28,lucknow-hZbYgAWb,Shakti Bhawan
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,29,lucknow-VmdJduoc,Aayakar Bhawan
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,30,lucknow-GHglbqdr,G P O
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,31,lucknow-RHfKehlI,Bapu Bhawan
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,32,lucknow-YeKyDPrf,Burlington Chauraha
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,33,lucknow-yltGqhml,Hussainganj Chauraha
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,34,lucknow-TwvTVtNS,Vikas Deep
+lucknow-BrelJTRM,103,Samparn Hospital to Charbagh,35,lucknow-453,Kkc
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,1,lucknow-LbzcNGvc,High Court Or Kamta Tiraha
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,2,lucknow-cFnlEJXC,Gomtinagar Bus Station
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,3,lucknow-gtoXDDxd,Husariya Chauraha
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,4,lucknow-Cfhmhgzn,Home Guard Office
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,5,lucknow-CrZLWHBG,Delhi Public School 2
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,6,lucknow-veHFyPzr,Lucknow New Stadium
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,7,lucknow-AFWenpIC,Suda Office
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,8,lucknow-ROSNzUEW,Ahimamau
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,9,lucknow-Opgypgnx,CMS
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,10,lucknow-LvEszWTd,Awadh Shilp Gram 2
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,11,lucknow-WPjNbZQQ,Delhi Public School
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,12,lucknow-jShgWxeV,Awadh Shilp Gram
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,13,lucknow-NpfFcsvF,Vrindavan Yojna
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,14,lucknow-MNGNXXeu,Utharatia
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,15,lucknow-rjCSzAXd,Shubham South City
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,16,lucknow-leRAwanH,Rama Bai Maidan Or Ambedakar University Turn
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,17,lucknow-oIcgNhNO,Auragnabaad
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,18,lucknow-TXxTXKSG,New Garora Colony
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,19,lucknow-MZSYvdMQ,Transport Nagar
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,20,lucknow-gHpYIhhw,Bagia No 2
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,21,lucknow-blVJTYWr,Bagia No 3
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,22,lucknow-ZvrDaSez,Airport
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,23,lucknow-afSHjBbT,Nadar Ganj
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,24,lucknow-isIhvMPy,Shanti Nagar
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,25,lucknow-WUUPbNvC,Sainik School
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,26,lucknow-ZPeOeCZk,Hydel Colony
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,27,lucknow-aHSPaBvg,Gauri Vihar
+lucknow-FlbhlIAN,12,High Court Or Kamta Tiraha to Industrial Area,28,lucknow-kFNHctSb,Scooter India
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,1,lucknow-dLkjKmId,Goel Institute
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,2,lucknow-DPRGnIPS,Ramswaroop College
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,3,lucknow-kOVASkPh,Tiwari Ganj
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,4,lucknow-LGizdOpJ,B B D
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,5,lucknow-OkhmNJRP,Dayial Regidencey
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,6,lucknow-ABAmmwxm,Matiyari Chauraha
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,7,lucknow-aDrbTgQL,Chinhat Petrol Pump
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,8,lucknow-VMlinduX,Chinhat Turn
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,9,lucknow-NhQzRRSa,Awadh Bus Station
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,10,lucknow-BwkmYPbQ,HIgh Court Or Surendra Nagar
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,11,lucknow-IVJwiHAb,Ismail Ganj
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,12,lucknow-KMkcNAzS,Sector 8
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,13,lucknow-yipqfpcT,Polytechnic
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,14,lucknow-zTUCNqvt,Aravali Turn
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,15,lucknow-XEJuWqSs,H A L
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,16,lucknow-pkYqNKfZ,Bhootnath
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,17,lucknow-jrjhALyQ,Neelgiri
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,18,lucknow-BSexhQwz,Lekhraj
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,19,lucknow-SomEAEor,Shakti Nagar Dhal
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,20,lucknow-iqGDgxQI,Badshah Nagar
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,21,lucknow-nUFxTvOM,Nishatganj
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,22,lucknow-pOstlNXJ,Paper Mill Colony
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,23,lucknow-EvqHhxNH,Gokhale Marg
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,24,lucknow-kkpruABB,Sikandarbagh Chauraha
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,25,lucknow-MAGNWJQe,Jawahar Bhawan
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,26,lucknow-hZbYgAWb,Shakti Bhawan
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,27,lucknow-VmdJduoc,Aayakar Bhawan
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,28,lucknow-GHglbqdr,G P O
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,29,lucknow-RHfKehlI,Bapu Bhawan
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,30,lucknow-sGdpFHJi,Burlington Chauraha
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,31,lucknow-yltGqhml,Hussainganj Chauraha
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,32,lucknow-TwvTVtNS,Vikas Deep
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,33,lucknow-453,Kkc
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,34,lucknow-qnxWDZMr,Charbagh
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,35,lucknow-xzIfxVYY,Mawaiya
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,36,lucknow-RiVebUTQ,Police Station Alambagh
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,37,lucknow-lESKmzfn,Tedi Puliya
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,38,lucknow-qAUtUhst,Almbagh Bus Station
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,39,lucknow-QDndQZyM,Ajanta Hospital
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,40,lucknow-VgzkHopr,Almbagh Chauraha
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,41,lucknow-PvQYrZqI,Ram Nagar
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,42,lucknow-XpFWfJFi,Puran Nagar
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,43,lucknow-EqlMQnaq,Singar Nagar
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,44,lucknow-Ybwakraf,Awadh Hospital
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,45,lucknow-vRcxkfcR,Barabirwa
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,46,lucknow-JvpsWIiN,Krishna Nagar Police Station
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,47,lucknow-BaHIvcTV,Awadh College Gate
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,48,lucknow-bUQwnuAS,Purani Chungi
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,49,lucknow-IowAWtXm,Bima Hospital
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,50,lucknow-qsKXdXDT,Rto Or Transport Nagar
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,51,lucknow-gHpYIhhw,Bagia No 2
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,52,lucknow-blVJTYWr,Bagia No 3
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,53,lucknow-ZvrDaSez,Airport
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,54,lucknow-afSHjBbT,Nadar Ganj
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,55,lucknow-isIhvMPy,Shanti Nagar
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,56,lucknow-WUUPbNvC,Sainik School
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,57,lucknow-ZPeOeCZk,Hydel Colony
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,58,lucknow-aHSPaBvg,Gauri Vihar
+lucknow-GdyHnMqH,502,Goel Institute to Industrial Area,59,lucknow-kFNHctSb,Scooter India
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,1,lucknow-pJgUlsWl,Bhayara Turn
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,2,lucknow-QznECIaB,Deva Sharif Mazar
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,3,lucknow-gGTbsgmz,Deva Sharif Nahar
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,4,lucknow-IheBnpqQ,Siphaiya
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,5,lucknow-PGMwjmfo,Gurguj
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,6,lucknow-NXQfvdhq,Umri
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,7,lucknow-NRUJToFZ,Gwari Chauraha
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,8,lucknow-ynpZKUWO,Saraiya
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,9,lucknow-FkAwmabH,Barethi
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,10,lucknow-PZTvKiBy,Tindola Crossing
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,11,lucknow-ViEbSNzr,Ram Swaroop University
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,12,lucknow-JzkOtqZu,Mati
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,13,lucknow-NdGXSbwa,Sharda Nahar Baitha
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,14,lucknow-QMamEFne,Chakhaar Chauraha
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,15,lucknow-QnuLRivf,Tata Moters
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,16,lucknow-yKLbabOO,Shivpuri
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,17,lucknow-ABAmmwxm,Matiyari Chauraha
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,18,lucknow-VMlinduX,Chinhat Turn
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,19,lucknow-NhQzRRSa,Awadh Bus Station
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,20,lucknow-BwkmYPbQ,HIgh Court Or Surendra Nagar
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,21,lucknow-IVJwiHAb,Ismail Ganj
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,22,lucknow-KMkcNAzS,Sector 8
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,23,lucknow-yipqfpcT,Polytechnic
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,24,lucknow-zTUCNqvt,Aravali Turn
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,25,lucknow-XEJuWqSs,H A L
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,26,lucknow-pkYqNKfZ,Bhootnath
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,27,lucknow-jrjhALyQ,Neelgiri
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,28,lucknow-BSexhQwz,Lekhraj
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,29,lucknow-SomEAEor,Shakti Nagar Dhal
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,30,lucknow-iqGDgxQI,Badshah Nagar
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,31,lucknow-xhbbhnRS,Gol Market
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,32,lucknow-nUFxTvOM,Nishatganj
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,33,lucknow-pOstlNXJ,Paper Mill Colony
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,34,lucknow-EvqHhxNH,Gokhale Marg
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,35,lucknow-kkpruABB,Sikandarbagh Chauraha
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,36,lucknow-MAGNWJQe,Jawahar Bhawan
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,37,lucknow-VmdJduoc,Aayakar Bhawan
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,38,lucknow-GHglbqdr,G P O
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,39,lucknow-RHfKehlI,Bapu Bhawan
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,40,lucknow-sGdpFHJi,Burlington Chauraha
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,41,lucknow-yltGqhml,Hussainganj Chauraha
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,42,lucknow-TwvTVtNS,Vikas Deep
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,43,lucknow-453,Kkc
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,44,lucknow-qnxWDZMr,Charbagh
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,45,lucknow-xzIfxVYY,Mawaiya
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,46,lucknow-catkohvJ,Bhusha Mandi
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,47,lucknow-pHbfLVOB,Eveready Chauraha Or Malviya Nagar
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,48,lucknow-XcBgTYOg,Meena Bakery
+lucknow-ImgpRmVx,7,Bhayara Turn to Rajajipuram Bus Terminal,49,lucknow-OYQnPjAH,M I S Chauraha
+lucknow-JrIazxDA,16,Kaiserbagh Bus Stand to Kamta Tiraha,1,lucknow-hBmMkVRn,Kaiserbagh Bus Stand
+lucknow-JrIazxDA,16,Kaiserbagh Bus Stand to Kamta Tiraha,2,lucknow-lWzgflMj,High Court
+lucknow-JrIazxDA,16,Kaiserbagh Bus Stand to Kamta Tiraha,3,lucknow-lZIAgiDQ,Swasth Bhawan
+lucknow-JrIazxDA,16,Kaiserbagh Bus Stand to Kamta Tiraha,4,lucknow-TkyCLpJs,Clarks Avadh Or Glob Park
+lucknow-JrIazxDA,16,Kaiserbagh Bus Stand to Kamta Tiraha,5,lucknow-iqnnTKit,Parivartan Chowk
+lucknow-JrIazxDA,16,Kaiserbagh Bus Stand to Kamta Tiraha,6,lucknow-bzJGmbIM,Hanuman Setu
+lucknow-JrIazxDA,16,Kaiserbagh Bus Stand to Kamta Tiraha,7,lucknow-zRGWmJLw,Lucknow University
+lucknow-JrIazxDA,16,Kaiserbagh Bus Stand to Kamta Tiraha,8,lucknow-dflndxFC,I T Chauraha
+lucknow-JrIazxDA,16,Kaiserbagh Bus Stand to Kamta Tiraha,9,lucknow-CDoRgJIU,Nishatganj
+lucknow-JrIazxDA,16,Kaiserbagh Bus Stand to Kamta Tiraha,10,lucknow-VCIDuipr,Badshah Nagar
+lucknow-JrIazxDA,16,Kaiserbagh Bus Stand to Kamta Tiraha,11,lucknow-dXhMOvBJ,Shakti Nagar Dhal
+lucknow-JrIazxDA,16,Kaiserbagh Bus Stand to Kamta Tiraha,12,lucknow-GFgpePfH,Lekhraj
+lucknow-JrIazxDA,16,Kaiserbagh Bus Stand to Kamta Tiraha,13,lucknow-iyrdpcmo,Neelgiri
+lucknow-JrIazxDA,16,Kaiserbagh Bus Stand to Kamta Tiraha,14,lucknow-cRNCirVd,Bhootnath
+lucknow-JrIazxDA,16,Kaiserbagh Bus Stand to Kamta Tiraha,15,lucknow-STrxtbeq,H A L
+lucknow-JrIazxDA,16,Kaiserbagh Bus Stand to Kamta Tiraha,16,lucknow-CMKlVEyN,Aravali Turn
+lucknow-JrIazxDA,16,Kaiserbagh Bus Stand to Kamta Tiraha,17,lucknow-PSZccCfH,Polytechnic
+lucknow-JrIazxDA,16,Kaiserbagh Bus Stand to Kamta Tiraha,18,lucknow-occaTcbR,Sector 8
+lucknow-JrIazxDA,16,Kaiserbagh Bus Stand to Kamta Tiraha,19,lucknow-cfSUuAJb,Ismail Ganj
+lucknow-JrIazxDA,16,Kaiserbagh Bus Stand to Kamta Tiraha,20,lucknow-xoFZJRdk,High Court Or Surendra Nagar
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,1,lucknow-tbuGLxyf,Ghantaghar
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,2,lucknow-KpTuuNUK,Koneshwar Chauraha
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,3,lucknow-eqnxxvSN,Tahsinganj
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,4,lucknow-ilqbZvps,Thakurganj
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,5,lucknow-sbMWieWy,Balaganj Chauraha
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,6,lucknow-vRQFPjVW,E R A Hospital
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,7,lucknow-CxkRLPlt,Dubagga Chauraha
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,8,lucknow-tOHEvnRt,Sabji Mandi Dubagga
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,9,lucknow-cQUUcvgl,Sitapur Bypass
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,10,lucknow-lfpaCvSZ,M C Saxena
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,11,lucknow-DTwUdtmS,M C Saxena College
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,12,lucknow-hoxWaNQs,Saitha Chowk
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,13,lucknow-BtcQBWHg,Jehta
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,14,lucknow-bWmsvZpT,Kakrabad
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,15,lucknow-MEEkfPuO,Batkharava
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,16,lucknow-hUIBeYXW,Gopramau Chauraha
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,17,lucknow-JepclTuo,Fhul Tara Chowk
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,18,lucknow-ywPRYrzr,Gauriya
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,19,lucknow-xiVxYmvr,Narayanpur
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,20,lucknow-zguSCnWz,Mall
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,21,lucknow-WeZEIeVy,Maal Thana
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,22,lucknow-KBnkTVxK,Atari
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,23,lucknow-tuOpOibS,Ghatghata
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,24,lucknow-lXbnSdkT,Bargadiya
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,25,lucknow-clNMlJxy,Vishwanath Mahavidyalaya Newada
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,26,lucknow-PsYGqKIc,Newada Tiraha
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,27,lucknow-uSEwuuTW,Mishra Khera
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,28,lucknow-rZpxtKPi,Khasraul Nahar
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,29,lucknow-ThFsJjFp,Bharawan Chawraha
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,30,lucknow-qNivONip,Atrauli
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,31,lucknow-IowaRXff,Meenapur Tiraha
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,32,lucknow-hawCCgds,Baheriya
+lucknow-NhFwzcWs,6,Ghantaghar to Gondwa Chauraha,33,lucknow-dFLnVZIu,Chattur Khera
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,1,lucknow-iodgZMSb,Industrial Area
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,2,lucknow-PVzpGCfX,Scooter India
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,3,lucknow-qrpHBFYu,Gauri Vihar
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,4,lucknow-LMMbUTVL,Hydel Colony
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,5,lucknow-VQibJDnY,Sainik School
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,6,lucknow-hotbWasn,Shanti Nagar
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,7,lucknow-PsIliYiw,Nadar Ganj
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,8,lucknow-hfzYLWsR,Airport
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,9,lucknow-FNPsIVYA,Bagia No 3
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,10,lucknow-HtRiIJkb,Bagia No 2
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,11,lucknow-baYkUjBm,Rto Or Transport Nagar
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,12,lucknow-pwvoxVpY,Bima Hospital
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,13,lucknow-ObkKYYCX,Purani Chungi
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,14,lucknow-IWvTnpBc,Awadh College Gate
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,15,lucknow-rGIxFSYb,Krishna Nagar Police Station
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,16,lucknow-exRsaOkD,Barabirwa
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,17,lucknow-DcsuzDUm,Awadh Hospital
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,18,lucknow-KGnsBChq,Singar Nagar
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,19,lucknow-iylItyir,Puran Nagar
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,20,lucknow-TPzXTKiA,Ram Nagar
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,21,lucknow-WDbhKlVr,Alambagh Chauraha
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,22,lucknow-iPXnMWoT,Ajanta Hospital
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,23,lucknow-vmkOUyXR,Almbagh Bus Station
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,24,lucknow-gjLuVrFb,Tedi Puliya
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,25,lucknow-XMcJqAbK,Police Station Alambagh
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,26,lucknow-ZOIzApRa,Mawaiya
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,27,lucknow-qQisDVWL,Charbagh
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,28,lucknow-454,Kkc
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,29,lucknow-pYScdcPZ,Vikas Deep
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,30,lucknow-eHDyhbdD,Hussainganj Chauraha
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,31,lucknow-kbfPGKwn,Burlington Chauraha
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,32,lucknow-JyDcgyXY,Bapu Bhawan
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,33,lucknow-mbseIDrT,G P O
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,34,lucknow-zabZIhHO,Aayakar Bhawan
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,35,lucknow-dWIGIBnI,Shakti Bhawan
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,36,lucknow-oczsdnRU,Jawahar Bhawan
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,37,lucknow-qbOSQLlG,Sikandarbagh Chauraha
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,38,lucknow-BXCicANH,Gokhale Marg
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,39,lucknow-UOlzIIkr,Paper Mill Colony
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,40,lucknow-ieXMyvkF,Nishatganj
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,41,lucknow-SIsTbXgk,Gol Market
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,42,lucknow-VCIDuipr,Badshah Nagar
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,43,lucknow-dXhMOvBJ,Shakti Nagar Dhal
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,44,lucknow-GFgpePfH,Lekhraj
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,45,lucknow-iyrdpcmo,Neelgiri
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,46,lucknow-cRNCirVd,Bhootnath
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,47,lucknow-STrxtbeq,H A L
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,48,lucknow-CMKlVEyN,Aravali Turn
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,49,lucknow-PSZccCfH,Polytechnic
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,50,lucknow-occaTcbR,Sector 8
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,51,lucknow-cfSUuAJb,Ismail Ganj
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,52,lucknow-xoFZJRdk,High Court Or Surendra Nagar
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,53,lucknow-NhQzRRSa,Awadh Bus Station
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,54,lucknow-QuYyupZQ,Chinhat Turn
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,55,lucknow-LFeGcHPQ,Chinhat Petrol Pump
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,56,lucknow-JHBFAFiK,Matiyari Chauraha
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,57,lucknow-395,Dayial Residencey
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,58,lucknow-CeMFbGDR,B B D
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,59,lucknow-UOdpumNU,Tiwari Ganj
+lucknow-PKZhHKlp,502,Industrial Area to Goel Institute,60,lucknow-OhsIGCJn,Ramswaroop College
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,1,lucknow-EBLXxzEb,Nindoora
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,2,lucknow-mWkweJKd,Q F University
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,3,lucknow-GmcFCYvx,Kanchana Pur
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,4,lucknow-UPkamgxW,Tikaitganj
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,5,lucknow-KJSfoBdl,Midura Rajkiya School
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,6,lucknow-lvaEqGNt,Kursi Kotwali
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,7,lucknow-wLivbpuU,Ahmad Chauraha
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,8,lucknow-kZTiSWCY,Amirul Tiraha
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,9,lucknow-lxdDakEm,Md Degree College
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,10,lucknow-rEYwLHzV,Shiya College
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,11,lucknow-kPJHfsfr,Anwari Chauraha
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,12,lucknow-NIbfPcQB,Kisan Path
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,13,lucknow-CEwGJUzW,Behta Bazar
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,14,lucknow-mzXVeAGS,Paikaramau
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,15,lucknow-AOkZmvZp,Integral University
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,16,lucknow-ABSNypMV,Skarpio Club
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,17,lucknow-zuIgprrG,Guru Govind Sports College
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,18,lucknow-eTuKKhEs,Police Station Gudamba
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,19,lucknow-JJQWfHpS,Tedhi Puliya
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,20,lucknow-eFLSqUoj,Mama Chauraha
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,21,lucknow-LZLZCqkE,Rajkiya Seetagrah
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,22,lucknow-QknbusUh,Purania
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,23,lucknow-PekNYmbt,Sector C
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,24,lucknow-dBijigIp,Kapoorthala
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,25,lucknow-BsQcEeAc,Vivekanand Hospital
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,26,lucknow-EErOLZRO,I T Chauraha
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,27,lucknow-RGBhcxSk,Lucknow University
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,28,lucknow-dfTmAAZJ,Parivartan Chowk
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,29,lucknow-LKIMfvzd,Swasth Bhawan
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,30,lucknow-ASEedsQq,CDRI
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,31,lucknow-iDZVpHAR,Pariwahan Bhawan
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,32,lucknow-HJlPgCMm,Residency Park
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,33,lucknow-jaWolFHZ,Daliganj Bridge
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,34,lucknow-bztQYDPR,Teele Wali Masjid Or Pakka Pul
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,35,lucknow-tbuGLxyf,Ghantaghar
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,36,lucknow-KpTuuNUK,Koneshwar Chauraha
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,37,lucknow-eqnxxvSN,Tahsinganj
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,38,lucknow-ilqbZvps,Thakurganj
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,39,lucknow-sbMWieWy,Balaganj Chauraha
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,40,lucknow-vRQFPjVW,E R A Hospital
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,41,lucknow-CxkRLPlt,Dubagga Chauraha
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,42,lucknow-tOHEvnRt,Sabji Mandi Dubagga
+lucknow-QLSajeZt,1,Nindoora to Dubagga Bus Station,43,lucknow-dSChtVsV,Sitapur Bypass
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,1,lucknow-YKYQxixg,Chandrika Devi Temple
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,2,lucknow-XJRBvnuf,Chandrika Deva Chaurha
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,3,lucknow-IRFTKaxa,Kathwara
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,4,lucknow-qBxHDtmQ,Haridwar Pur Chauraha
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,5,lucknow-CrLcaaMw,Parvatpur
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,6,lucknow-IzysSFZc,Devrai Kala
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,7,lucknow-pdJJAWwf,Swami Vivekanand Law College
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,8,lucknow-IutfcXul,Chandrika Devi More
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,9,lucknow-JrtGQuFR,Bakshi Ka Talab
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,10,lucknow-EAjwkNXI,Nandana Crossing
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,11,lucknow-DhafNsHF,Chakkar Purwa
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,12,lucknow-PqgyBXXD,Sewa Hospital
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,13,lucknow-KACiDUON,IIM Bhitauli Crossing
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,14,lucknow-nEepypaj,Police Station Madiyanva
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,15,lucknow-TfiuNsDD,Engineering College
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,16,lucknow-KltrSskv,Ram Ram Bank
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,17,lucknow-uyjBceLh,Sector  Q
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,18,lucknow-hrqyyXaz,Beligarad Chauraha
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,19,lucknow-efnxelKQ,P And T Colony
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,20,lucknow-QknbusUh,Purania
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,21,lucknow-doVVTRfl,Anchalik Vigyan Kendra
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,22,lucknow-PekNYmbt,Sector C
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,23,lucknow-kLelWONm,Nagar Nigam
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,24,lucknow-dBijigIp,Kapoorthala
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,25,lucknow-uEYxpxMH,Channi Lal Chauraha
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,26,lucknow-xqvaqlCV,Mahanagar Boys
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,27,lucknow-tedtmmXl,Gol Market
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,28,lucknow-gnKjntEh,Badshah Nagar
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,29,lucknow-nUFxTvOM,Nishatganj
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,30,lucknow-pOstlNXJ,Paper Mill Colony
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,31,lucknow-EvqHhxNH,Gokhale Marg
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,32,lucknow-kkpruABB,Sikandarbagh Chauraha
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,33,lucknow-MAGNWJQe,Jawahar Bhawan
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,34,lucknow-hZbYgAWb,Shakti Bhawan
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,35,lucknow-VmdJduoc,Aayakar Bhawan
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,36,lucknow-GHglbqdr,G P O
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,37,lucknow-RHfKehlI,Bapu Bhawan
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,38,lucknow-YeKyDPrf,Burlington Chauraha
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,39,lucknow-yltGqhml,Hussainganj Chauraha
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,40,lucknow-TwvTVtNS,Vikas Deep
+lucknow-QnRJizNt,13,Chandrika Devi Temple to Charbagh,41,lucknow-453,Kkc
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,1,lucknow-qQisDVWL,Charbagh
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,2,lucknow-454,Kkc
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,3,lucknow-pYScdcPZ,Vikas Deep
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,4,lucknow-eHDyhbdD,Hussainganj Chauraha
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,5,lucknow-ByRXGSFq,Burlington Chauraha
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,6,lucknow-JyDcgyXY,Bapu Bhawan
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,7,lucknow-mbseIDrT,G P O
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,8,lucknow-zabZIhHO,Aayakar Bhawan
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,9,lucknow-dWIGIBnI,Shakti Bhawan
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,10,lucknow-oczsdnRU,Jawahar Bhawan
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,11,lucknow-qbOSQLlG,Sikandarbagh Chauraha
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,12,lucknow-BXCicANH,Gokhale Marg
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,13,lucknow-UOlzIIkr,Paper Mill Colony
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,14,lucknow-ieXMyvkF,Nishatganj
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,15,lucknow-SIsTbXgk,Gol Market
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,16,lucknow-VCIDuipr,Badshah Nagar
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,17,lucknow-dXhMOvBJ,Shakti Nagar Dhal
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,18,lucknow-GFgpePfH,Lekhraj
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,19,lucknow-iyrdpcmo,Neelgiri
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,20,lucknow-cRNCirVd,Bhootnath
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,21,lucknow-STrxtbeq,H A L
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,22,lucknow-CMKlVEyN,Aravali Turn
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,23,lucknow-rbviuPuG,Polytechnic
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,24,lucknow-occaTcbR,Sector 8
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,25,lucknow-cfSUuAJb,Ismail Ganj
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,26,lucknow-xoFZJRdk,High Court Or Surendra Nagar
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,27,lucknow-YYBlPoCi,Kamta Tiraha
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,28,lucknow-InzDEtqy,Kamta Bus Station
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,29,lucknow-QuYyupZQ,Chinhat Turn
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,30,lucknow-LFeGcHPQ,Chinhat Petrol Pump
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,31,lucknow-YXVPTnsI,Matiyari Flyover
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,32,lucknow-JHBFAFiK,Matiyari Chauraha
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,33,lucknow-dtIKFkVi,Shivpuri
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,34,lucknow-zAhmowtJ,Tata Moters
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,35,lucknow-fxJscclo,Chakhaar Chauraha
+lucknow-QqmvDQby,103,Charbagh to Samparn Hospital,36,lucknow-tZpxDEXu,Sharda Nahar Baitha
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,1,lucknow-sbMWieWy,Balaganj Chauraha
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,2,lucknow-vRQFPjVW,E R A Hospital
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,3,lucknow-CxkRLPlt,Dubagga Chauraha
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,4,lucknow-tOHEvnRt,Sabji Mandi Dubagga
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,5,lucknow-cQUUcvgl,Sitapur Bypass
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,6,lucknow-lGAoFexu,Unity Turn
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,7,lucknow-uUNlEJQy,Saheed Smarak
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,8,lucknow-lfpaCvSZ,M C Saxena
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,9,lucknow-oxgHHgHV,Carrier Medical College
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,10,lucknow-KCZMvXQg,Sahara City
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,11,lucknow-lLWQGnTP,Urdu Farsi University
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,12,lucknow-MoskbVMc,Iim Turn
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,13,lucknow-PQcKcwgw,Mutakkipur
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,14,lucknow-BjKWqRkk,Ayushman Hospital Or Maharishi Vidya Mandir
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,15,lucknow-KACiDUON,IIM Bhitauli Crossing
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,16,lucknow-Sarwrgqo,Madiyanw
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,17,lucknow-SPsbRntD,Engineering College
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,18,lucknow-egzvDtSe,Tedhi Puliya
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,19,lucknow-ZrcrPOFn,Jagrani Hospital
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,20,lucknow-craEbBiE,Khurram Nagar
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,21,lucknow-KTcxbdAm,Sector 25
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,22,lucknow-hjgmswZB,Munshipuliya
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,23,lucknow-rbviuPuG,Polytechnic
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,24,lucknow-occaTcbR,Sector 8
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,25,lucknow-xoFZJRdk,High Court Or Surendra Nagar
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,26,lucknow-tBsKLovZ,Vijaipur
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,27,lucknow-BrHWtnIt,Kathauta Chauraha
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,28,lucknow-kxJwWVuj,Amity University
+lucknow-RTSyAEva,4,Balaganj Chauraha to Viraj Khand Bus Terminus,29,lucknow-JaFDvJtH,Heinemann Chauraha
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,1,lucknow-RwCzEsyj,Dubagga Bus Station
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,2,lucknow-rpAYERcR,Sitapur Bypass
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,3,lucknow-SYlSUtqa,Sabji Mandi Dubagga
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,4,lucknow-MqrLyqyo,Dubagga Chauraha
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,5,lucknow-HlVtXotr,E R A Hospital
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,6,lucknow-tXceDDaF,Balaganj Chauraha
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,7,lucknow-WiwlAXdY,Thakurganj
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,8,lucknow-CQgFVusm,Tahsinganj
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,9,lucknow-vSrzbfOQ,Koneshwar Chauraha
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,10,lucknow-YpNCMyPy,Ghantaghar
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,11,lucknow-pIcwffrg,Teele Wali Masjid Or Pakka Pul
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,12,lucknow-aVGskoNZ,Daliganj Bridge
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,13,lucknow-cMJTESOJ,Residency Park
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,14,lucknow-NTNJBySK,Pariwahan Bhawan
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,15,lucknow-cfYbqHVv,CDRI
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,16,lucknow-vfreVrNo,Swasth Bhawan
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,17,lucknow-ewBbhVqh,Parivartan Chowk
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,18,lucknow-zRGWmJLw,Lucknow University
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,19,lucknow-dflndxFC,I T Chauraha
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,20,lucknow-qJamAqFl,Vivekanand Hospital
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,21,lucknow-TKSetdMV,Kapoorthala
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,22,lucknow-ZDadTCha,Sector C
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,23,lucknow-nCWmfIyf,Purania
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,24,lucknow-RLoKcPgM,Rajkiya Seetagrah
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,25,lucknow-trtyRzUx,Mama Chauraha
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,26,lucknow-qUNegEeW,Tedhi Puliya
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,27,lucknow-gvDWAwud,Police Station Gudamba
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,28,lucknow-uTAHAWYD,Guru Govind Sports College
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,29,lucknow-lMukmkTw,Skarpio Club
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,30,lucknow-hSiQZZrL,Integral University
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,31,lucknow-lPQtSGTi,Paikaramau
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,32,lucknow-bgjhZcGw,Behta Bazar
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,33,lucknow-uFVqOTKw,Kisan Path
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,34,lucknow-FvGqkvKP,Anwari Chauraha
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,35,lucknow-CIUbZBBp,Shiya College
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,36,lucknow-MjwjdzxT,Md Degree College
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,37,lucknow-KVvyQsAs,Amirul Tiraha
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,38,lucknow-qmcwWldi,Ahmad Chauraha
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,39,lucknow-XiicOzpl,Kursi Kotwali
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,40,lucknow-XDfJHUnO,Midura Rajkiya School
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,41,lucknow-OxlFJvlQ,Tikaitganj
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,42,lucknow-bLoyWKUl,Kanchana Pur
+lucknow-USdXfUYi,1,Dubagga Bus Station to Nindoora,43,lucknow-hJMcnaDf,Q F University
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,1,lucknow-RwCzEsyj,Dubagga Bus Station
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,2,lucknow-rpAYERcR,Sitapur Bypass
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,3,lucknow-SYlSUtqa,Sabji Mandi Dubagga
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,4,lucknow-StKehYFd,Dubagga Chauraha
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,5,lucknow-LGXrExZo,Faridipur Chowki
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,6,lucknow-iQighlee,Amar Vihar
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,7,lucknow-dVPeaCyV,Siddhartha Public School
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,8,lucknow-UKuZXtjP,Buddeswar Chauraha
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,9,lucknow-cKwFHgkJ,Purvi Kheda Or Tikonia
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,10,lucknow-OxyYIQMO,Rajendra Public Inter College
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,11,lucknow-sULlJNLZ,Dr Kheda
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,12,lucknow-obErRbtG,Para Police Station
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,13,lucknow-kCmHhqNO,D R M Office
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,14,lucknow-KaTQrRUU,Vikram Nagar Crossing
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,15,lucknow-AKClySnI,Awadh Hospital
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,16,lucknow-KGnsBChq,Singar Nagar
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,17,lucknow-iylItyir,Puran Nagar
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,18,lucknow-TPzXTKiA,Ram Nagar
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,19,lucknow-WDbhKlVr,Alambagh Chauraha
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,20,lucknow-iPXnMWoT,Ajanta Hospital
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,21,lucknow-vmkOUyXR,Almbagh Bus Station
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,22,lucknow-XMcJqAbK,Police Station Alambagh
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,23,lucknow-jVkNUTHC,Mawaiya
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,24,lucknow-qQisDVWL,Charbagh
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,25,lucknow-454,Kkc
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,26,lucknow-pYScdcPZ,Vikas Deep
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,27,lucknow-eHDyhbdD,Hussainganj Chauraha
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,28,lucknow-kbfPGKwn,Burlington Chauraha
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,29,lucknow-JyDcgyXY,Bapu Bhawan
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,30,lucknow-ePHzEBlt,G P O
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,31,lucknow-ebHaYTwR,Rajpal Bhawan
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,32,lucknow-lCwuNLZq,Bandariya Bagh Chauraha
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,33,lucknow-eEeQxQtT,Loreto Convent School
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,34,lucknow-jgBVZgQp,Katai Pul
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,35,lucknow-JHWrelXp,Dilkusha Colony Chowk
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,36,lucknow-UfTZjHzN,Rajman Bazar Chowki
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,37,lucknow-SGzucCeu,Arjunganj
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,38,lucknow-vDVndbme,Sarsawan
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,39,lucknow-AFWenpIC,Suda Office
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,40,lucknow-bbxlgfRo,Ahimamau
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,41,lucknow-oZTuBDjb,H C L
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,42,lucknow-uMLSzawb,Surya Public School
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,43,lucknow-ogbUyvLF,Khurdhai Bazar
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,44,lucknow-yRtYvUzX,Sharda Nahar
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,45,lucknow-ZNGEGiUM,Kabir Pur
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,46,lucknow-koXughot,Chand Saray Mod
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,47,lucknow-lfjCOVPn,Goshai Ganj
+lucknow-VRceBPFF,2,Dubagga Bus Station to Ganga Ganj,48,lucknow-FgilIYoQ,Amethi
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,1,lucknow-VLKZAnbN,Sandila
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,2,lucknow-qIUAGFBO,Begamganj
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,3,lucknow-MqPGQWFO,CHC Sandila
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,4,lucknow-vjldWyoP,Tiloyian Kala Petrol Pump
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,5,lucknow-qCsNjQOc,Badi Tiloiyan
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,6,lucknow-PnfVTtGv,Narayanpur
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,7,lucknow-KCOyWtCp,Tiloyian
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,8,lucknow-rPwEZUyB,Chandaura
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,9,lucknow-xtpejbJF,Bulbul Khera
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,10,lucknow-eDfpLBxe,Adaora
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,11,lucknow-FOTeLFoG,Jalamau
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,12,lucknow-JlHGgNlh,Tiraona
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,13,lucknow-COqolnWS,Rahimabad
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,14,lucknow-Psxfxzzr,Banjaran Kheda
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,15,lucknow-sLgBZStU,Bhatoiya
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,16,lucknow-zpGsLkwu,Katauli
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,17,lucknow-jUTHjxns,Malihabad
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,18,lucknow-EWiunmuI,Mahmood Nagar
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,19,lucknow-TusYCDWz,Aamrapaali Water Park
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,20,lucknow-kkhVpVLg,Moti Neem
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,21,lucknow-FBURNGLB,Gola Kuwa
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,22,lucknow-fBKwPtiR,Kakori Turn
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,23,lucknow-tUnUHbuZ,Andhe Ki Chowki
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,24,lucknow-RwCzEsyj,Dubagga Bus Station
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,25,lucknow-rpAYERcR,Sitapur Bypass
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,26,lucknow-SYlSUtqa,Sabji Mandi Dubagga
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,27,lucknow-MqrLyqyo,Dubagga Chauraha
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,28,lucknow-HlVtXotr,E R A Hospital
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,29,lucknow-tXceDDaF,Balaganj Chauraha
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,30,lucknow-WiwlAXdY,Thakurganj
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,31,lucknow-CQgFVusm,Tahsinganj
+lucknow-YCobJcfp,5,Sandila to Ghantaghar,32,lucknow-vSrzbfOQ,Koneshwar Chauraha
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,1,lucknow-BSzVdimp,Dubagga Bus Depot
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,2,lucknow-rpAYERcR,Sitapur Bypass
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,3,lucknow-SYlSUtqa,Sabji Mandi Dubagga
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,4,lucknow-MqrLyqyo,Dubagga Chauraha
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,5,lucknow-HlVtXotr,E R A Hospital
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,6,lucknow-tXceDDaF,Balaganj Chauraha
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,7,lucknow-WiwlAXdY,Thakurganj
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,8,lucknow-CQgFVusm,Tahsinganj
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,9,lucknow-vSrzbfOQ,Koneshwar Chauraha
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,10,lucknow-YpNCMyPy,Ghantaghar
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,11,lucknow-KpTuuNUK,Koneshwar Chauraha
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,12,lucknow-eqnxxvSN,Tahsinganj
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,13,lucknow-ilqbZvps,Thakurganj
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,14,lucknow-sbMWieWy,Balaganj Chauraha
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,15,lucknow-vRQFPjVW,E R A Hospital
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,16,lucknow-CxkRLPlt,Dubagga Chauraha
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,17,lucknow-tOHEvnRt,Sabji Mandi Dubagga
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,18,lucknow-dSChtVsV,Sitapur Bypass
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,19,lucknow-EodjzEZJ,Dubagga Bus Station
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,20,lucknow-KYzeBvcU,Andhe Ki Chowki
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,21,lucknow-KbsCMbWS,Lal Nagar Khera
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,22,lucknow-PYdoRhqB,Samrat Nagar
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,23,lucknow-lYwjIJkF,Bhakar Bagh
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,24,lucknow-CxpzsZtM,Kushmaura Haluapur
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,25,lucknow-hLKELoCC,Hafiz Khera
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,26,lucknow-xSheTeVz,Kasmandi Kalan
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,27,lucknow-uyRHprHW,Vajid Nagar
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,28,lucknow-XAQYAYjU,Bhadwana
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,29,lucknow-AkgvZCLw,Himmat Khera
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,30,lucknow-DNWGtzoQ,Nabi Panah
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,31,lucknow-troJDXnF,Bhatta Chauraha
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,32,lucknow-jsEbvJPf,Masina
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,33,lucknow-zguSCnWz,Mall
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,34,lucknow-WeZEIeVy,Maal Thana
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,35,lucknow-nBXySzTq,Tiwari Kheda
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,36,lucknow-417,Shekhavapur
+lucknow-aDtcfrRl,11,Dubagga Bus Depot to Gahndo Tiraha,37,lucknow-GOEWAfzx,Chandra Sekhar College
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,1,lucknow-44,Gahndo Tiraha
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,2,lucknow-fyGoOlWk,Chandra Sekhar College
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,3,lucknow-RxXbflVa,Shekhavapur
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,4,lucknow-JDPpAcXo,Tiwari Kheda
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,5,lucknow-YduaZyQh,Maal Thana
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,6,lucknow-rYKNqkZL,Mall
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,7,lucknow-juhThEoZ,Masina
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,8,lucknow-diFNgnzt,Bhatta Chauraha
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,9,lucknow-xfbIHEWz,Nabi Panah
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,10,lucknow-qtWWRbrP,Himmat Khera
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,11,lucknow-eBTtGbWh,Bhadwana
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,12,lucknow-YAfxWntY,Vajid Nagar
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,13,lucknow-aYoMNIUI,Kasmandi Kalan
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,14,lucknow-lVRSDPCl,Hafiz Khera
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,15,lucknow-ZFSJhugm,Kushmaura Haluapur
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,16,lucknow-NxKGmeNp,Bhakar Bagh
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,17,lucknow-ovopkbRo,Samrat Nagar
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,18,lucknow-gsrIXNXx,Lal Nagar Khera
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,19,lucknow-tUnUHbuZ,Andhe Ki Chowki
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,20,lucknow-RwCzEsyj,Dubagga Bus Station
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,21,lucknow-rpAYERcR,Sitapur Bypass
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,22,lucknow-SYlSUtqa,Sabji Mandi Dubagga
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,23,lucknow-MqrLyqyo,Dubagga Chauraha
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,24,lucknow-HlVtXotr,E R A Hospital
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,25,lucknow-tXceDDaF,Balaganj Chauraha
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,26,lucknow-WiwlAXdY,Thakurganj
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,27,lucknow-CQgFVusm,Tahsinganj
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,28,lucknow-vSrzbfOQ,Koneshwar Chauraha
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,29,lucknow-YpNCMyPy,Ghantaghar
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,30,lucknow-KpTuuNUK,Koneshwar Chauraha
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,31,lucknow-eqnxxvSN,Tahsinganj
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,32,lucknow-ilqbZvps,Thakurganj
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,33,lucknow-sbMWieWy,Balaganj Chauraha
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,34,lucknow-vRQFPjVW,E R A Hospital
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,35,lucknow-CxkRLPlt,Dubagga Chauraha
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,36,lucknow-tOHEvnRt,Sabji Mandi Dubagga
+lucknow-cyVNZdkm,11,Gahndo Tiraha to Dubagga Bus Depot,37,lucknow-dSChtVsV,Sitapur Bypass
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,1,lucknow-iodgZMSb,Industrial Area
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,2,lucknow-PVzpGCfX,Scooter India
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,3,lucknow-qrpHBFYu,Gauri Vihar
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,4,lucknow-LMMbUTVL,Hydel Colony
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,5,lucknow-VQibJDnY,Sainik School
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,6,lucknow-hotbWasn,Shanti Nagar
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,7,lucknow-PsIliYiw,Nadar Ganj
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,8,lucknow-hfzYLWsR,Airport
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,9,lucknow-FNPsIVYA,Bagia No 3
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,10,lucknow-HtRiIJkb,Bagia No 2
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,11,lucknow-JmRRDkBc,Transport Nagar
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,12,lucknow-OcMaJoyy,New Garora Colony
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,13,lucknow-vpfZQdeH,Auragnabaad
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,14,lucknow-hQQlfJNv,Rama Bai Maidan Or Ambedakar University Turn
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,15,lucknow-bcmGcXix,Shubham South City
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,16,lucknow-CFMwnBkd,Utharatia
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,17,lucknow-QnyDXDQF,Vrindavan Yojna
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,18,lucknow-vXmVKGvd,Awadh Shilp Gram
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,19,lucknow-lyyTMmDi,Delhi Public School
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,20,lucknow-JBjNIZRP,Awadh Shilp Gram 2
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,21,lucknow-lyjebAkq,CMS
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,22,lucknow-bMGjadyh,Ahimamau
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,23,lucknow-zzmHUewu,Suda Office
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,24,lucknow-vhupPAeh,Lucknow New Stadium
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,25,lucknow-ZmCETuDN,Delhi Public School 2
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,26,lucknow-MSBXozXm,Home Guard Office
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,27,lucknow-yCdwMGkb,Husariya Chauraha
+lucknow-dehEuEgM,12,Industrial Area to High Court Or Kamta Tiraha,28,lucknow-OwQCoKsW,Gomtinagar Bus Station
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,1,lucknow-bzezBmIR,Viraj Khand Bus Terminus
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,2,lucknow-HETwiXxG,Heinemann Chauraha
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,3,lucknow-YpQTclZJ,Amity University
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,4,lucknow-LUwsxFDf,Kathauta Chauraha
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,5,lucknow-esUoJkvn,Vijaipur
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,6,lucknow-BwkmYPbQ,HIgh Court Or Surendra Nagar
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,7,lucknow-KMkcNAzS,Sector 8
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,8,lucknow-PSZccCfH,Polytechnic
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,9,lucknow-tYBsLour,Munshipuliya
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,10,lucknow-TqNPxkMC,Sector 25
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,11,lucknow-kFaMuLab,Khurram Nagar
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,12,lucknow-VYniYzif,Jagrani Hospital
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,13,lucknow-SxxgeYWM,Tedhi Puliya
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,14,lucknow-gbRbYefl,Engineering College
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,15,lucknow-30,Madiyanw
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,16,lucknow-zhzhdcTl,IIM Bhitauli Crossing
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,17,lucknow-eiDdXSdE,Ayushman Hospital Or Maharishi Vidya Mandir
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,18,lucknow-ZWgFdlxB,Mutakkipur
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,19,lucknow-rtBzSDHe,Iim Turn
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,20,lucknow-djHfePgx,Urdu Farsi University
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,21,lucknow-ZFHZUFZR,Sahara City
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,22,lucknow-MaMZxHBS,Carrier Medical College
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,23,lucknow-ItTxEfcn,M C Saxena
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,24,lucknow-gEakvkFt,Saheed Smarak
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,25,lucknow-aVhMyOhk,Unity Turn
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,26,lucknow-rpAYERcR,Sitapur Bypass
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,27,lucknow-SYlSUtqa,Sabji Mandi Dubagga
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,28,lucknow-MqrLyqyo,Dubagga Chauraha
+lucknow-hcnTuHIE,4,Viraj Khand Bus Terminus to Balaganj Chauraha,29,lucknow-HlVtXotr,E R A Hospital
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,1,lucknow-tHtPSIYO,Baddu Pur
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,2,lucknow-obAVcGYi,Baba Ki Kuti
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,3,lucknow-MHrIZlag,Riwa Siwa
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,4,lucknow-EBLXxzEb,Nindoora
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,5,lucknow-mWkweJKd,Q F University
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,6,lucknow-GmcFCYvx,Kanchana Pur
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,7,lucknow-UPkamgxW,Tikaitganj
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,8,lucknow-KJSfoBdl,Midura Rajkiya School
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,9,lucknow-lvaEqGNt,Kursi Kotwali
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,10,lucknow-wLivbpuU,Ahmad Chauraha
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,11,lucknow-kZTiSWCY,Amirul Tiraha
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,12,lucknow-lxdDakEm,Md Degree College
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,13,lucknow-rEYwLHzV,Shiya College
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,14,lucknow-kPJHfsfr,Anwari Chauraha
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,15,lucknow-NIbfPcQB,Kisan Path
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,16,lucknow-CEwGJUzW,Behta Bazar
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,17,lucknow-mzXVeAGS,Paikaramau
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,18,lucknow-AOkZmvZp,Integral University
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,19,lucknow-ABSNypMV,Skarpio Club
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,20,lucknow-zuIgprrG,Guru Govind Sports College
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,21,lucknow-eTuKKhEs,Police Station Gudamba
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,22,lucknow-JJQWfHpS,Tedhi Puliya
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,23,lucknow-eFLSqUoj,Mama Chauraha
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,24,lucknow-LZLZCqkE,Rajkiya Seetagrah
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,25,lucknow-QknbusUh,Purania
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,26,lucknow-PekNYmbt,Sector C
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,27,lucknow-dBijigIp,Kapoorthala
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,28,lucknow-BsQcEeAc,Vivekanand Hospital
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,29,lucknow-EErOLZRO,I T Chauraha
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,30,lucknow-RGBhcxSk,Lucknow University
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,31,lucknow-dfTmAAZJ,Parivartan Chowk
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,32,lucknow-LKIMfvzd,Swasth Bhawan
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,33,lucknow-ASEedsQq,CDRI
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,34,lucknow-iDZVpHAR,Pariwahan Bhawan
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,35,lucknow-HJlPgCMm,Residency Park
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,36,lucknow-jaWolFHZ,Daliganj Bridge
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,37,lucknow-bztQYDPR,Teele Wali Masjid Or Pakka Pul
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,38,lucknow-tbuGLxyf,Ghantaghar
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,39,lucknow-KpTuuNUK,Koneshwar Chauraha
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,40,lucknow-eqnxxvSN,Tahsinganj
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,41,lucknow-ilqbZvps,Thakurganj
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,42,lucknow-sbMWieWy,Balaganj Chauraha
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,43,lucknow-vRQFPjVW,E R A Hospital
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,44,lucknow-CxkRLPlt,Dubagga Chauraha
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,45,lucknow-tOHEvnRt,Sabji Mandi Dubagga
+lucknow-jmGnQWAi,1,Baddu Pur to Dubagga Bus Station,46,lucknow-dSChtVsV,Sitapur Bypass
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,1,lucknow-gjLuVrFb,Tedi Puliya
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,2,lucknow-XMcJqAbK,Police Station Alambagh
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,3,lucknow-jVkNUTHC,Mawaiya
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,4,lucknow-qQisDVWL,Charbagh
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,5,lucknow-454,Kkc
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,6,lucknow-pYScdcPZ,Vikas Deep
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,7,lucknow-eHDyhbdD,Hussainganj Chauraha
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,8,lucknow-ByRXGSFq,Burlington Chauraha
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,9,lucknow-JyDcgyXY,Bapu Bhawan
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,10,lucknow-ePHzEBlt,G P O
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,11,lucknow-ebHaYTwR,Rajpal Bhawan
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,12,lucknow-lCwuNLZq,Bandariya Bagh Chauraha
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,13,lucknow-eEeQxQtT,Loreto Convent School
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,14,lucknow-jgBVZgQp,Katai Pul
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,15,lucknow-JHWrelXp,Dilkusha Colony Chowk
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,16,lucknow-UfTZjHzN,Rajman Bazar Chowki
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,17,lucknow-SGzucCeu,Arjunganj
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,18,lucknow-vDVndbme,Sarsawan
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,19,lucknow-AFWenpIC,Suda Office
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,20,lucknow-ROSNzUEW,Ahimamau
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,21,lucknow-Opgypgnx,CMS
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,22,lucknow-LvEszWTd,Awadh Shilp Gram 2
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,23,lucknow-WPjNbZQQ,Delhi Public School
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,24,lucknow-jShgWxeV,Awadh Shilp Gram
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,25,lucknow-NpfFcsvF,Vrindavan Yojna
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,26,lucknow-MNGNXXeu,Utharatia
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,27,lucknow-rjCSzAXd,Shubham South City
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,28,lucknow-leRAwanH,Rama Bai Maidan Or Ambedakar University Turn
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,29,lucknow-oIcgNhNO,Auragnabaad
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,30,lucknow-MZSYvdMQ,Transport Nagar
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,31,lucknow-baYkUjBm,Rto Or Transport Nagar
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,32,lucknow-ObkKYYCX,Purani Chungi
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,33,lucknow-rGIxFSYb,Krishna Nagar Police Station
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,34,lucknow-DcsuzDUm,Awadh Hospital
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,35,lucknow-KGnsBChq,Singar Nagar
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,36,lucknow-iylItyir,Puran Nagar
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,37,lucknow-TPzXTKiA,Ram Nagar
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,38,lucknow-WDbhKlVr,Alambagh Chauraha
+lucknow-kqDQWErQ,Arjunganj-Down,Tedi Puliya to Almbagh Bus Station,39,lucknow-iPXnMWoT,Ajanta Hospital
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,1,lucknow-tbuGLxyf,Ghantaghar
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,2,lucknow-KpTuuNUK,Koneshwar Chauraha
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,3,lucknow-eqnxxvSN,Tahsinganj
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,4,lucknow-ilqbZvps,Thakurganj
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,5,lucknow-sbMWieWy,Balaganj Chauraha
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,6,lucknow-vRQFPjVW,E R A Hospital
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,7,lucknow-CxkRLPlt,Dubagga Chauraha
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,8,lucknow-tOHEvnRt,Sabji Mandi Dubagga
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,9,lucknow-dSChtVsV,Sitapur Bypass
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,10,lucknow-EodjzEZJ,Dubagga Bus Station
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,11,lucknow-KYzeBvcU,Andhe Ki Chowki
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,12,lucknow-etXYOOEk,Kakori Turn
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,13,lucknow-356,Gola Kuwa
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,14,lucknow-103,Moti Neem Chauraha
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,15,lucknow-hoAXJTTf,Aamrapaali Water Park
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,16,lucknow-94,Mahmood Nagar Dhal
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,17,lucknow-ToLhYgUL,Malihabad
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,18,lucknow-yOoBNqel,Katauli
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,19,lucknow-JOKqOAqL,Bhatoiya
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,20,lucknow-QZEYtREU,Banjaran Kheda
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,21,lucknow-QgrvqyJQ,Rahimabad
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,22,lucknow-ytEZzWYU,Tiraona
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,23,lucknow-YPKUldxu,Jalamau
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,24,lucknow-eQDEYkLj,Adaora
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,25,lucknow-vAJJHOTb,Bulbul Khera
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,26,lucknow-MOjedHHK,Chandaura
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,27,lucknow-UAhTDxOS,Tiloyian
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,28,lucknow-pNYQOaBy,Narayanpur
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,29,lucknow-dxWmERdk,Badi Tiloiyan
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,30,lucknow-AuSkdQhl,Tiloyian Kala Petrol Pump
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,31,lucknow-SjvYePEU,CHC Sandila
+lucknow-ksJyOtfd,5,Ghantaghar to Sandila,32,lucknow-dLzzdDDs,Begamganj
+lucknow-lPQvJhKz,1102E,Maal Thana to Ghantaghar,1,lucknow-YduaZyQh,Maal Thana
+lucknow-lPQvJhKz,1102E,Maal Thana to Ghantaghar,2,lucknow-rYKNqkZL,Mall
+lucknow-lPQvJhKz,1102E,Maal Thana to Ghantaghar,3,lucknow-juhThEoZ,Masina
+lucknow-lPQvJhKz,1102E,Maal Thana to Ghantaghar,4,lucknow-diFNgnzt,Bhatta Chauraha
+lucknow-lPQvJhKz,1102E,Maal Thana to Ghantaghar,5,lucknow-xfbIHEWz,Nabi Panah
+lucknow-lPQvJhKz,1102E,Maal Thana to Ghantaghar,6,lucknow-qtWWRbrP,Himmat Khera
+lucknow-lPQvJhKz,1102E,Maal Thana to Ghantaghar,7,lucknow-eBTtGbWh,Bhadwana
+lucknow-lPQvJhKz,1102E,Maal Thana to Ghantaghar,8,lucknow-YAfxWntY,Vajid Nagar
+lucknow-lPQvJhKz,1102E,Maal Thana to Ghantaghar,9,lucknow-aYoMNIUI,Kasmandi Kalan
+lucknow-lPQvJhKz,1102E,Maal Thana to Ghantaghar,10,lucknow-lVRSDPCl,Hafiz Khera
+lucknow-lPQvJhKz,1102E,Maal Thana to Ghantaghar,11,lucknow-ZFSJhugm,Kushmaura Haluapur
+lucknow-lPQvJhKz,1102E,Maal Thana to Ghantaghar,12,lucknow-NxKGmeNp,Bhakar Bagh
+lucknow-lPQvJhKz,1102E,Maal Thana to Ghantaghar,13,lucknow-ovopkbRo,Samrat Nagar
+lucknow-lPQvJhKz,1102E,Maal Thana to Ghantaghar,14,lucknow-gsrIXNXx,Lal Nagar Khera
+lucknow-lPQvJhKz,1102E,Maal Thana to Ghantaghar,15,lucknow-tUnUHbuZ,Andhe Ki Chowki
+lucknow-lPQvJhKz,1102E,Maal Thana to Ghantaghar,16,lucknow-RwCzEsyj,Dubagga Bus Station
+lucknow-lPQvJhKz,1102E,Maal Thana to Ghantaghar,17,lucknow-rpAYERcR,Sitapur Bypass
+lucknow-lPQvJhKz,1102E,Maal Thana to Ghantaghar,18,lucknow-SYlSUtqa,Sabji Mandi Dubagga
+lucknow-lPQvJhKz,1102E,Maal Thana to Ghantaghar,19,lucknow-MqrLyqyo,Dubagga Chauraha
+lucknow-lPQvJhKz,1102E,Maal Thana to Ghantaghar,20,lucknow-HlVtXotr,E R A Hospital
+lucknow-lPQvJhKz,1102E,Maal Thana to Ghantaghar,21,lucknow-tXceDDaF,Balaganj Chauraha
+lucknow-lPQvJhKz,1102E,Maal Thana to Ghantaghar,22,lucknow-WiwlAXdY,Thakurganj
+lucknow-lPQvJhKz,1102E,Maal Thana to Ghantaghar,23,lucknow-CQgFVusm,Tahsinganj
+lucknow-lPQvJhKz,1102E,Maal Thana to Ghantaghar,24,lucknow-vSrzbfOQ,Koneshwar Chauraha
+lucknow-mZDEaGeK,1102E,Ghantaghar to Maal Thana,1,lucknow-tbuGLxyf,Ghantaghar
+lucknow-mZDEaGeK,1102E,Ghantaghar to Maal Thana,2,lucknow-KpTuuNUK,Koneshwar Chauraha
+lucknow-mZDEaGeK,1102E,Ghantaghar to Maal Thana,3,lucknow-eqnxxvSN,Tahsinganj
+lucknow-mZDEaGeK,1102E,Ghantaghar to Maal Thana,4,lucknow-ilqbZvps,Thakurganj
+lucknow-mZDEaGeK,1102E,Ghantaghar to Maal Thana,5,lucknow-sbMWieWy,Balaganj Chauraha
+lucknow-mZDEaGeK,1102E,Ghantaghar to Maal Thana,6,lucknow-vRQFPjVW,E R A Hospital
+lucknow-mZDEaGeK,1102E,Ghantaghar to Maal Thana,7,lucknow-CxkRLPlt,Dubagga Chauraha
+lucknow-mZDEaGeK,1102E,Ghantaghar to Maal Thana,8,lucknow-tOHEvnRt,Sabji Mandi Dubagga
+lucknow-mZDEaGeK,1102E,Ghantaghar to Maal Thana,9,lucknow-dSChtVsV,Sitapur Bypass
+lucknow-mZDEaGeK,1102E,Ghantaghar to Maal Thana,10,lucknow-EodjzEZJ,Dubagga Bus Station
+lucknow-mZDEaGeK,1102E,Ghantaghar to Maal Thana,11,lucknow-KYzeBvcU,Andhe Ki Chowki
+lucknow-mZDEaGeK,1102E,Ghantaghar to Maal Thana,12,lucknow-KbsCMbWS,Lal Nagar Khera
+lucknow-mZDEaGeK,1102E,Ghantaghar to Maal Thana,13,lucknow-PYdoRhqB,Samrat Nagar
+lucknow-mZDEaGeK,1102E,Ghantaghar to Maal Thana,14,lucknow-lYwjIJkF,Bhakar Bagh
+lucknow-mZDEaGeK,1102E,Ghantaghar to Maal Thana,15,lucknow-CxpzsZtM,Kushmaura Haluapur
+lucknow-mZDEaGeK,1102E,Ghantaghar to Maal Thana,16,lucknow-hLKELoCC,Hafiz Khera
+lucknow-mZDEaGeK,1102E,Ghantaghar to Maal Thana,17,lucknow-xSheTeVz,Kasmandi Kalan
+lucknow-mZDEaGeK,1102E,Ghantaghar to Maal Thana,18,lucknow-uyRHprHW,Vajid Nagar
+lucknow-mZDEaGeK,1102E,Ghantaghar to Maal Thana,19,lucknow-XAQYAYjU,Bhadwana
+lucknow-mZDEaGeK,1102E,Ghantaghar to Maal Thana,20,lucknow-AkgvZCLw,Himmat Khera
+lucknow-mZDEaGeK,1102E,Ghantaghar to Maal Thana,21,lucknow-DNWGtzoQ,Nabi Panah
+lucknow-mZDEaGeK,1102E,Ghantaghar to Maal Thana,22,lucknow-troJDXnF,Bhatta Chauraha
+lucknow-mZDEaGeK,1102E,Ghantaghar to Maal Thana,23,lucknow-jsEbvJPf,Masina
+lucknow-mZDEaGeK,1102E,Ghantaghar to Maal Thana,24,lucknow-zguSCnWz,Mall
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,1,lucknow-mDbEVuoB,Gondwa Chauraha
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,2,lucknow-BWcHRObp,Chattur Khera
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,3,lucknow-ryGWKtGc,Baheriya
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,4,lucknow-JvniCDWn,Meenapur Tiraha
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,5,lucknow-lZcIqYaY,Atrauli
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,6,lucknow-ATZkXymG,Bharawan Chawraha
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,7,lucknow-dnWrgEBm,Khasraul Nahar
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,8,lucknow-KNNQoPGO,Mishra Khera
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,9,lucknow-NDZxspin,Newada Tiraha
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,10,lucknow-ApqNrDMa,Vishwanath Mahavidyalaya Newada
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,11,lucknow-oPFbQLce,Bargadiya
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,12,lucknow-LMhiPpWi,Ghatghata
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,13,lucknow-Yqmtmdki,Atari
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,14,lucknow-YduaZyQh,Maal Thana
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,15,lucknow-rYKNqkZL,Mall
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,16,lucknow-jicSfGdw,Narayanpur
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,17,lucknow-ByUipKCa,Gauriya
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,18,lucknow-ARhUxmmG,Fhul Tara Chowk
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,19,lucknow-GMjYIGQz,Gopramau Chauraha
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,20,lucknow-naPmzLye,Batkharava
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,21,lucknow-ugqEXBme,Kakrabad
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,22,lucknow-jCxokeWC,Jehta
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,23,lucknow-CBiIoOnp,Saitha Chowk
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,24,lucknow-oqRGmmRr,M C Saxena College
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,25,lucknow-ItTxEfcn,M C Saxena
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,26,lucknow-rpAYERcR,Sitapur Bypass
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,27,lucknow-SYlSUtqa,Sabji Mandi Dubagga
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,28,lucknow-MqrLyqyo,Dubagga Chauraha
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,29,lucknow-HlVtXotr,E R A Hospital
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,30,lucknow-tXceDDaF,Balaganj Chauraha
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,31,lucknow-WiwlAXdY,Thakurganj
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,32,lucknow-CQgFVusm,Tahsinganj
+lucknow-oMGuMIRN,6,Gondwa Chauraha to Ghantaghar,33,lucknow-vSrzbfOQ,Koneshwar Chauraha
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,1,lucknow-RwCzEsyj,Dubagga Bus Station
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,2,lucknow-rpAYERcR,Sitapur Bypass
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,3,lucknow-SYlSUtqa,Sabji Mandi Dubagga
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,4,lucknow-MqrLyqyo,Dubagga Chauraha
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,5,lucknow-HlVtXotr,E R A Hospital
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,6,lucknow-tXceDDaF,Balaganj Chauraha
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,7,lucknow-WiwlAXdY,Thakurganj
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,8,lucknow-CQgFVusm,Tahsinganj
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,9,lucknow-vSrzbfOQ,Koneshwar Chauraha
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,10,lucknow-YpNCMyPy,Ghantaghar
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,11,lucknow-pIcwffrg,Teele Wali Masjid Or Pakka Pul
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,12,lucknow-aVGskoNZ,Daliganj Bridge
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,13,lucknow-cMJTESOJ,Residency Park
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,14,lucknow-NTNJBySK,Pariwahan Bhawan
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,15,lucknow-cfYbqHVv,CDRI
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,16,lucknow-vfreVrNo,Swasth Bhawan
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,17,lucknow-ewBbhVqh,Parivartan Chowk
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,18,lucknow-zRGWmJLw,Lucknow University
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,19,lucknow-dflndxFC,I T Chauraha
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,20,lucknow-qJamAqFl,Vivekanand Hospital
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,21,lucknow-TKSetdMV,Kapoorthala
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,22,lucknow-ZDadTCha,Sector C
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,23,lucknow-nCWmfIyf,Purania
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,24,lucknow-RLoKcPgM,Rajkiya Seetagrah
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,25,lucknow-trtyRzUx,Mama Chauraha
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,26,lucknow-qUNegEeW,Tedhi Puliya
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,27,lucknow-gvDWAwud,Police Station Gudamba
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,28,lucknow-uTAHAWYD,Guru Govind Sports College
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,29,lucknow-lMukmkTw,Skarpio Club
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,30,lucknow-hSiQZZrL,Integral University
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,31,lucknow-lPQtSGTi,Paikaramau
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,32,lucknow-bgjhZcGw,Behta Bazar
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,33,lucknow-uFVqOTKw,Kisan Path
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,34,lucknow-FvGqkvKP,Anwari Chauraha
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,35,lucknow-CIUbZBBp,Shiya College
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,36,lucknow-MjwjdzxT,Md Degree College
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,37,lucknow-KVvyQsAs,Amirul Tiraha
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,38,lucknow-qmcwWldi,Ahmad Chauraha
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,39,lucknow-XiicOzpl,Kursi Kotwali
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,40,lucknow-XDfJHUnO,Midura Rajkiya School
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,41,lucknow-OxlFJvlQ,Tikaitganj
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,42,lucknow-bLoyWKUl,Kanchana Pur
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,43,lucknow-hJMcnaDf,Q F University
+lucknow-ojfOwpTh,1,Dubagga Bus Station to Baddu Pur,44,lucknow-TERgkjyB,Nindoora
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,1,lucknow-sbMWieWy,Balaganj Chauraha
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,2,lucknow-vRQFPjVW,E R A Hospital
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,3,lucknow-CxkRLPlt,Dubagga Chauraha
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,4,lucknow-tOHEvnRt,Sabji Mandi Dubagga
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,5,lucknow-cQUUcvgl,Sitapur Bypass
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,6,lucknow-lGAoFexu,Unity Turn
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,7,lucknow-uUNlEJQy,Saheed Smarak
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,8,lucknow-lfpaCvSZ,M C Saxena
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,9,lucknow-oxgHHgHV,Carrier Medical College
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,10,lucknow-KCZMvXQg,Sahara City
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,11,lucknow-lLWQGnTP,Urdu Farsi University
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,12,lucknow-MoskbVMc,Iim Turn
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,13,lucknow-PQcKcwgw,Mutakkipur
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,14,lucknow-BjKWqRkk,Ayushman Hospital Or Maharishi Vidya Mandir
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,15,lucknow-KACiDUON,IIM Bhitauli Crossing
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,16,lucknow-Sarwrgqo,Madiyanw
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,17,lucknow-SPsbRntD,Engineering College
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,18,lucknow-egzvDtSe,Tedhi Puliya
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,19,lucknow-ZrcrPOFn,Jagrani Hospital
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,20,lucknow-craEbBiE,Khurram Nagar
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,21,lucknow-KTcxbdAm,Sector 25
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,22,lucknow-hjgmswZB,Munshipuliya
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,23,lucknow-rbviuPuG,Polytechnic
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,24,lucknow-occaTcbR,Sector 8
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,25,lucknow-xoFZJRdk,High Court Or Surendra Nagar
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,26,lucknow-tBsKLovZ,Vijaipur
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,27,lucknow-BrHWtnIt,Kathauta Chauraha
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,28,lucknow-kxJwWVuj,Amity University
+lucknow-qQutqOJm,4,Balaganj Chauraha to Viraj Khand Bus Terminus,29,lucknow-JaFDvJtH,Heinemann Chauraha
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,1,lucknow-bzezBmIR,Viraj Khand Bus Terminus
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,2,lucknow-HETwiXxG,Heinemann Chauraha
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,3,lucknow-YpQTclZJ,Amity University
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,4,lucknow-LUwsxFDf,Kathauta Chauraha
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,5,lucknow-esUoJkvn,Vijaipur
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,6,lucknow-BwkmYPbQ,HIgh Court Or Surendra Nagar
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,7,lucknow-KMkcNAzS,Sector 8
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,8,lucknow-PSZccCfH,Polytechnic
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,9,lucknow-tYBsLour,Munshipuliya
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,10,lucknow-TqNPxkMC,Sector 25
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,11,lucknow-kFaMuLab,Khurram Nagar
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,12,lucknow-VYniYzif,Jagrani Hospital
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,13,lucknow-SxxgeYWM,Tedhi Puliya
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,14,lucknow-gbRbYefl,Engineering College
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,15,lucknow-30,Madiyanw
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,16,lucknow-zhzhdcTl,IIM Bhitauli Crossing
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,17,lucknow-eiDdXSdE,Ayushman Hospital Or Maharishi Vidya Mandir
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,18,lucknow-ZWgFdlxB,Mutakkipur
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,19,lucknow-rtBzSDHe,Iim Turn
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,20,lucknow-djHfePgx,Urdu Farsi University
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,21,lucknow-ZFHZUFZR,Sahara City
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,22,lucknow-MaMZxHBS,Carrier Medical College
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,23,lucknow-ItTxEfcn,M C Saxena
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,24,lucknow-gEakvkFt,Saheed Smarak
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,25,lucknow-aVhMyOhk,Unity Turn
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,26,lucknow-rpAYERcR,Sitapur Bypass
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,27,lucknow-SYlSUtqa,Sabji Mandi Dubagga
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,28,lucknow-MqrLyqyo,Dubagga Chauraha
+lucknow-rZXmweqJ,4,Viraj Khand Bus Terminus to Balaganj Chauraha,29,lucknow-HlVtXotr,E R A Hospital
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,1,lucknow-QSkiGEiE,Ganga Ganj
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,2,lucknow-XYAkAQQU,Amethi
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,3,lucknow-wRXtbvIB,Goshai Ganj
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,4,lucknow-xaOhsvrI,Chand Saray Mod
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,5,lucknow-XsvfWYgG,Kabir Pur
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,6,lucknow-BiIvgilK,Sharda Nahar
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,7,lucknow-rNLpWkge,Khurdhai Bazar
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,8,lucknow-NBeAeupO,Surya Public School
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,9,lucknow-oCCMpTbw,H C L
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,10,lucknow-cLhyfAjh,Ahimamau
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,11,lucknow-zzmHUewu,Suda Office
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,12,lucknow-IJZsSmnm,Sarsawan
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,13,lucknow-TtFOgNOT,Arjunganj
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,14,lucknow-LIijCWTY,Rajman Bazar Chowki
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,15,lucknow-MSDzXFkM,Dilkusha Colony Chowk
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,16,lucknow-leFSuyrU,Katai Pul
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,17,lucknow-uWoKRUMz,Loreto Convent School
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,18,lucknow-PVHFvgRY,Bandariya Bagh Chauraha
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,19,lucknow-IPjKXvSu,Rajpal Bhawan
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,20,lucknow-ichrBBPx,G P O
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,21,lucknow-RHfKehlI,Bapu Bhawan
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,22,lucknow-sGdpFHJi,Burlington Chauraha
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,23,lucknow-yltGqhml,Hussainganj Chauraha
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,24,lucknow-TwvTVtNS,Vikas Deep
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,25,lucknow-453,Kkc
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,26,lucknow-qnxWDZMr,Charbagh
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,27,lucknow-xzIfxVYY,Mawaiya
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,28,lucknow-RiVebUTQ,Police Station Alambagh
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,29,lucknow-qAUtUhst,Almbagh Bus Station
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,30,lucknow-QDndQZyM,Ajanta Hospital
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,31,lucknow-VgzkHopr,Almbagh Chauraha
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,32,lucknow-PvQYrZqI,Ram Nagar
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,33,lucknow-XpFWfJFi,Puran Nagar
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,34,lucknow-EqlMQnaq,Singar Nagar
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,35,lucknow-SLXJbgXi,Awadh Hospital
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,36,lucknow-xiKqKxUB,Vikram Nagar Crossing
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,37,lucknow-XNkyHLrl,D R M Office
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,38,lucknow-xuexpXyo,Para Police Station
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,39,lucknow-FOWhFrEB,Dr Kheda
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,40,lucknow-kmiePYFf,Rajendra Public Inter College
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,41,lucknow-iFibKPNN,Purvi Kheda Or Tikonia
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,42,lucknow-jJwpbeYk,Buddeswar Chauraha
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,43,lucknow-riFRjFIk,Siddhartha Public School
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,44,lucknow-JUVKddTV,Amar Vihar
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,45,lucknow-JnXMpauc,Faridipur Chowki
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,46,lucknow-tmTMLlRq,Dubagga Chauraha
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,47,lucknow-tOHEvnRt,Sabji Mandi Dubagga
+lucknow-swUUYOOw,2,Ganga Ganj to Dubagga Bus Station,48,lucknow-dSChtVsV,Sitapur Bypass
+lucknow-vDGowhEY,16,Kamta Tiraha to Kaiserbagh Bus Stand,1,lucknow-qoeAJaYk,Kamta Tiraha
+lucknow-vDGowhEY,16,Kamta Tiraha to Kaiserbagh Bus Stand,2,lucknow-BwkmYPbQ,HIgh Court Or Surendra Nagar
+lucknow-vDGowhEY,16,Kamta Tiraha to Kaiserbagh Bus Stand,3,lucknow-wRuttlfq,Ismail Ganj
+lucknow-vDGowhEY,16,Kamta Tiraha to Kaiserbagh Bus Stand,4,lucknow-KMkcNAzS,Sector 8
+lucknow-vDGowhEY,16,Kamta Tiraha to Kaiserbagh Bus Stand,5,lucknow-yipqfpcT,Polytechnic
+lucknow-vDGowhEY,16,Kamta Tiraha to Kaiserbagh Bus Stand,6,lucknow-zTUCNqvt,Aravali Turn
+lucknow-vDGowhEY,16,Kamta Tiraha to Kaiserbagh Bus Stand,7,lucknow-XEJuWqSs,H A L
+lucknow-vDGowhEY,16,Kamta Tiraha to Kaiserbagh Bus Stand,8,lucknow-pkYqNKfZ,Bhootnath
+lucknow-vDGowhEY,16,Kamta Tiraha to Kaiserbagh Bus Stand,9,lucknow-jrjhALyQ,Neelgiri
+lucknow-vDGowhEY,16,Kamta Tiraha to Kaiserbagh Bus Stand,10,lucknow-BSexhQwz,Lekhraj
+lucknow-vDGowhEY,16,Kamta Tiraha to Kaiserbagh Bus Stand,11,lucknow-SomEAEor,Shakti Nagar Dhal
+lucknow-vDGowhEY,16,Kamta Tiraha to Kaiserbagh Bus Stand,12,lucknow-iqGDgxQI,Badshah Nagar
+lucknow-vDGowhEY,16,Kamta Tiraha to Kaiserbagh Bus Stand,13,lucknow-aEdtlIGy,Nishatganj
+lucknow-vDGowhEY,16,Kamta Tiraha to Kaiserbagh Bus Stand,14,lucknow-EErOLZRO,I T Chauraha
+lucknow-vDGowhEY,16,Kamta Tiraha to Kaiserbagh Bus Stand,15,lucknow-RGBhcxSk,Lucknow University
+lucknow-vDGowhEY,16,Kamta Tiraha to Kaiserbagh Bus Stand,16,lucknow-XXOUXdov,Hanuman Setu
+lucknow-vDGowhEY,16,Kamta Tiraha to Kaiserbagh Bus Stand,17,lucknow-lzhWKdPr,Parivartan Chowk
+lucknow-vDGowhEY,16,Kamta Tiraha to Kaiserbagh Bus Stand,18,lucknow-MFWXHgdB,Clarks Avadh Or Glob Park
+lucknow-vDGowhEY,16,Kamta Tiraha to Kaiserbagh Bus Stand,19,lucknow-jwzMIVIw,Swasth Bhawan
+lucknow-vDGowhEY,16,Kamta Tiraha to Kaiserbagh Bus Stand,20,lucknow-uoajYmpI,High Court
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,1,lucknow-qQisDVWL,Charbagh
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,2,lucknow-454,Kkc
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,3,lucknow-pYScdcPZ,Vikas Deep
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,4,lucknow-eHDyhbdD,Hussainganj Chauraha
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,5,lucknow-ByRXGSFq,Burlington Chauraha
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,6,lucknow-JyDcgyXY,Bapu Bhawan
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,7,lucknow-mbseIDrT,G P O
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,8,lucknow-zabZIhHO,Aayakar Bhawan
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,9,lucknow-dWIGIBnI,Shakti Bhawan
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,10,lucknow-oczsdnRU,Jawahar Bhawan
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,11,lucknow-qbOSQLlG,Sikandarbagh Chauraha
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,12,lucknow-BXCicANH,Gokhale Marg
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,13,lucknow-UOlzIIkr,Paper Mill Colony
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,14,lucknow-ieXMyvkF,Nishatganj
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,15,lucknow-MkQSdZbF,Gol Market
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,16,lucknow-guHGoqmh,Mahanagar Boys
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,17,lucknow-owLbgOoq,Channi Lal Chauraha
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,18,lucknow-TKSetdMV,Kapoorthala
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,19,lucknow-AYoKXEfq,Nagar Nigam
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,20,lucknow-ZDadTCha,Sector C
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,21,lucknow-raMMmyxw,Anchalik Vigyan Kendra
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,22,lucknow-nCWmfIyf,Purania
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,23,lucknow-SHrwEnpz,P And T Colony
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,24,lucknow-bjLmmdIa,Beligarad Chauraha
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,25,lucknow-LOnzlzth,Sector  Q
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,26,lucknow-eTrndFkw,Ram Ram Bank
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,27,lucknow-MFTpvkKt,Engineering College
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,28,lucknow-30,Madiyanw
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,29,lucknow-zhzhdcTl,IIM Bhitauli Crossing
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,30,lucknow-IQjBKdci,Sewa Hospital
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,31,lucknow-ZwrKdrwE,Chakkar Purwa
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,32,lucknow-NPkeFwpf,Nandana Crossing
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,33,lucknow-ihDCVMWJ,Bakshi Ka Talab
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,34,lucknow-dtnUqsnC,Chandrika Devi More
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,35,lucknow-hSGYWNNb,Swami Vivekanand Law College
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,36,lucknow-gaRrIUxg,Devrai Kala
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,37,lucknow-RKEEbMIk,Parvatpur
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,38,lucknow-HPNEaAKJ,Haridwar Pur Chauraha
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,39,lucknow-bxtTZVPe,Kathwara
+lucknow-yAzCsqVu,13,Charbagh to Chandrika Devi Temple,40,lucknow-fPrNCNaS,Chandrika Deva Chaurha
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,1,lucknow-ZBweAzWR,Rajajipuram Bus Terminal
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,2,lucknow-HPMKJelm,M I S Chauraha
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,3,lucknow-eqFpQPjh,Meena Bakery
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,4,lucknow-rDVpOWst,Eveready Chauraha Or Malviya Nagar
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,5,lucknow-TalBysRz,Bhusha Mandi
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,6,lucknow-jVkNUTHC,Mawaiya
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,7,lucknow-qQisDVWL,Charbagh
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,8,lucknow-454,Kkc
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,9,lucknow-pYScdcPZ,Vikas Deep
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,10,lucknow-eHDyhbdD,Hussainganj Chauraha
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,11,lucknow-kbfPGKwn,Burlington Chauraha
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,12,lucknow-JyDcgyXY,Bapu Bhawan
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,13,lucknow-mbseIDrT,G P O
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,14,lucknow-zabZIhHO,Aayakar Bhawan
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,15,lucknow-oczsdnRU,Jawahar Bhawan
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,16,lucknow-qbOSQLlG,Sikandarbagh Chauraha
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,17,lucknow-BXCicANH,Gokhale Marg
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,18,lucknow-UOlzIIkr,Paper Mill Colony
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,19,lucknow-ieXMyvkF,Nishatganj
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,20,lucknow-tedtmmXl,Gol Market
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,21,lucknow-VCIDuipr,Badshah Nagar
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,22,lucknow-dXhMOvBJ,Shakti Nagar Dhal
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,23,lucknow-GFgpePfH,Lekhraj
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,24,lucknow-iyrdpcmo,Neelgiri
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,25,lucknow-cRNCirVd,Bhootnath
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,26,lucknow-STrxtbeq,H A L
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,27,lucknow-CMKlVEyN,Aravali Turn
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,28,lucknow-PSZccCfH,Polytechnic
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,29,lucknow-occaTcbR,Sector 8
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,30,lucknow-cfSUuAJb,Ismail Ganj
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,31,lucknow-xoFZJRdk,High Court Or Surendra Nagar
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,32,lucknow-NhQzRRSa,Awadh Bus Station
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,33,lucknow-QuYyupZQ,Chinhat Turn
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,34,lucknow-JHBFAFiK,Matiyari Chauraha
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,35,lucknow-dtIKFkVi,Shivpuri
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,36,lucknow-zAhmowtJ,Tata Moters
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,37,lucknow-fxJscclo,Chakhaar Chauraha
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,38,lucknow-tZpxDEXu,Sharda Nahar Baitha
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,39,lucknow-cuKStZDj,Samparn Hospital
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,40,lucknow-KPCBbwzl,Ram Swaroop University
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,41,lucknow-ZWhVBqNF,Tindola Crossing
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,42,lucknow-BMXttrbH,Barethi
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,43,lucknow-OzbGpXXV,Saraiya
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,44,lucknow-dApfQooK,Gwari Chauraha
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,45,lucknow-dHbpSoYN,Umri
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,46,lucknow-zuiOgFSh,Gurguj
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,47,lucknow-eVuaPHDa,Siphaiya
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,48,lucknow-ePHzrUlC,Deva Sharif Nahar
+lucknow-ypKdczWf,7,Rajajipuram Bus Terminal to Bhayara Turn,49,lucknow-raMMGVxL,Deva Sharif Mazar
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,1,lucknow-qAUtUhst,Almbagh Bus Station
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,2,lucknow-QDndQZyM,Ajanta Hospital
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,3,lucknow-VgzkHopr,Almbagh Chauraha
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,4,lucknow-PvQYrZqI,Ram Nagar
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,5,lucknow-XpFWfJFi,Puran Nagar
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,6,lucknow-EqlMQnaq,Singar Nagar
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,7,lucknow-Ybwakraf,Awadh Hospital
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,8,lucknow-JvpsWIiN,Krishna Nagar Police Station
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,9,lucknow-bUQwnuAS,Purani Chungi
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,10,lucknow-qsKXdXDT,Rto Or Transport Nagar
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,11,lucknow-JmRRDkBc,Transport Nagar
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,12,lucknow-vpfZQdeH,Auragnabaad
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,13,lucknow-hQQlfJNv,Rama Bai Maidan Or Ambedakar University Turn
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,14,lucknow-bcmGcXix,Shubham South City
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,15,lucknow-CFMwnBkd,Utharatia
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,16,lucknow-QnyDXDQF,Vrindavan Yojna
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,17,lucknow-vXmVKGvd,Awadh Shilp Gram
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,18,lucknow-lyyTMmDi,Delhi Public School
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,19,lucknow-JBjNIZRP,Awadh Shilp Gram 2
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,20,lucknow-lyjebAkq,CMS
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,21,lucknow-bMGjadyh,Ahimamau
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,22,lucknow-zzmHUewu,Suda Office
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,23,lucknow-IJZsSmnm,Sarsawan
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,24,lucknow-TtFOgNOT,Arjunganj
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,25,lucknow-LIijCWTY,Rajman Bazar Chowki
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,26,lucknow-MSDzXFkM,Dilkusha Colony Chowk
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,27,lucknow-leFSuyrU,Katai Pul
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,28,lucknow-uWoKRUMz,Loreto Convent School
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,29,lucknow-PVHFvgRY,Bandariya Bagh Chauraha
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,30,lucknow-IPjKXvSu,Rajpal Bhawan
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,31,lucknow-ichrBBPx,G P O
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,32,lucknow-RHfKehlI,Bapu Bhawan
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,33,lucknow-sGdpFHJi,Burlington Chauraha
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,34,lucknow-yltGqhml,Hussainganj Chauraha
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,35,lucknow-TwvTVtNS,Vikas Deep
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,36,lucknow-453,Kkc
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,37,lucknow-qnxWDZMr,Charbagh
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,38,lucknow-xzIfxVYY,Mawaiya
+lucknow-zIlHuGEb,Arjunganj-Up,Almbagh Bus Station to Tedi Puliya,39,lucknow-RiVebUTQ,Police Station Alambagh

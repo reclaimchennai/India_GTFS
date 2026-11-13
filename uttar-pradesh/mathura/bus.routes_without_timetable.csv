@@ -1,0 +1,436 @@
+route_id,route_short_name,route_long_name,stop_sequence,stop_id,stop_name
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,1,mathura-OSSBQzim,New Bus Stand Mathura
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,2,mathura-yOROzDFx,Bhuteshwar
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,3,mathura-RYIKooqC,Krishna Nagar
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,4,mathura-FyGZgYNi,Govardhan Chauraha
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,5,mathura-BtTGwgTT,Satoha
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,6,mathura-nluwWXac,Khamini
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,7,mathura-bCuJWSnD,Jachoda
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,8,mathura-nfzYiQaD,Adheeg
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,9,mathura-qKDTJUSn,Govardhan
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,10,mathura-uuoNAPvj,Govardhan Naka
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,11,mathura-ikbxmGUh,Govindam Palace
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,12,mathura-tBPHjhfP,Neemgaon
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,13,mathura-JZuQHwfx,Bhagosha
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,14,mathura-VqKretYs,Palso
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,15,mathura-PpvWHfxo,Ambedkar Park
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,16,mathura-EKiYVmTH,Daroli
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,17,mathura-FjDqMlft,Jarala
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,18,mathura-lypOBRwZ,Barsana Bus Stand
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,19,mathura-dtqiIZxn,Radha Rani Bhojanalay
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,20,mathura-pdXJsetA,Barsana
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,21,mathura-RtOQFDbL,Gajipur
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,22,mathura-ZUNwCgtN,Sanket
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,23,mathura-FCtCqwfS,Krishna College
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,24,mathura-oYbGhTyg,Nandgaon Dham
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,25,mathura-EFYGqyKE,Nand Goan
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,26,mathura-NxGlLdlb,Jaav
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,27,mathura-VUGqHyzs,Surwari
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,28,mathura-GSvfJQSv,Vidya Devi Jindal School
+mathura-CTTirbeL,Mathura-Kosi Via Barsana,New Bus Stand Mathura to Kosi,29,mathura-sZaILYcW,Kosi Kalan Railway Station
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,1,mathura-rIudzNOO,Kosi
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,2,mathura-CuoMpgXr,Kosi Kalan Railway Station
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,3,mathura-oWoOPOOu,Vidya Devi Jindal School
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,4,mathura-hSsPekKL,Surwari
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,5,mathura-adQCTvkf,Jaav
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,6,mathura-EvyVjPJQ,Nand Goan
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,7,mathura-FtglCuNm,Nandgaon Dham
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,8,mathura-iiWDnLMr,Krishna College
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,9,mathura-QhPCxQLx,Sanket
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,10,mathura-vdnVgzYV,Gajipur
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,11,mathura-uPifpjJR,Barsana
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,12,mathura-LpyzBFpx,Radha Rani Bhojanalay
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,13,mathura-LZytorMz,Barsana Bus Stand
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,14,mathura-GHZgdBeY,Jarala
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,15,mathura-cAMcBLBK,Daroli
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,16,mathura-WtZoEjZK,Ambedkar Park
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,17,mathura-opbYgQng,Palso
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,18,mathura-UlijMubD,Bhagosha
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,19,mathura-orUpisut,Neemgaon
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,20,mathura-ztHvopsN,Govindam Palace
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,21,mathura-IoDCshew,Govardhan Naka
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,22,mathura-zRleISHw,Govardhan
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,23,mathura-EIsBobOM,Adheeg
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,24,mathura-oVLUNKpJ,Jachoda
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,25,mathura-oXfSmhAy,Khamini
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,26,mathura-hMCijUwf,Satoha
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,27,mathura-tKVJvmJt,Govardhan Chauraha
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,28,mathura-weQnFGuv,Krishna Nagar
+mathura-DNiPlQuI,Kosi-Mathura Via Barsana,Kosi to New Bus Stand Mathura,29,mathura-qzojRcCK,Bhuteshwar
+mathura-FZbRaymX,Mathura-Bajna Via Vrindavan,New Bus Stand Mathura to Bajna,1,mathura-OSSBQzim,New Bus Stand Mathura
+mathura-FZbRaymX,Mathura-Bajna Via Vrindavan,New Bus Stand Mathura to Bajna,2,mathura-zjCfNSAK,Bhuteshwar
+mathura-FZbRaymX,Mathura-Bajna Via Vrindavan,New Bus Stand Mathura to Bajna,3,mathura-wmqPJPHU,Deeg Gate
+mathura-FZbRaymX,Mathura-Bajna Via Vrindavan,New Bus Stand Mathura to Bajna,4,mathura-hrcmEOdM,Masani Chauraha
+mathura-FZbRaymX,Mathura-Bajna Via Vrindavan,New Bus Stand Mathura to Bajna,5,mathura-FskOFAxl,Birla Mandir
+mathura-FZbRaymX,Mathura-Bajna Via Vrindavan,New Bus Stand Mathura to Bajna,6,mathura-TGsrxIUO,P M V Polytechnic
+mathura-FZbRaymX,Mathura-Bajna Via Vrindavan,New Bus Stand Mathura to Bajna,7,mathura-wZfEieUn,Samvid Gurukulam School Or Bhagal Bagichi
+mathura-FZbRaymX,Mathura-Bajna Via Vrindavan,New Bus Stand Mathura to Bajna,8,mathura-eZciFPWV,Pagal Baba Mandir Or Mayawati Hospital
+mathura-FZbRaymX,Mathura-Bajna Via Vrindavan,New Bus Stand Mathura to Bajna,9,mathura-FnNUXskx,Atalla Chungi
+mathura-FZbRaymX,Mathura-Bajna Via Vrindavan,New Bus Stand Mathura to Bajna,10,mathura-HYfAQgjN,Vrindavan Bus Stand
+mathura-FZbRaymX,Mathura-Bajna Via Vrindavan,New Bus Stand Mathura to Bajna,11,mathura-GytfXcak,Dami Bus Stop
+mathura-FZbRaymX,Mathura-Bajna Via Vrindavan,New Bus Stand Mathura to Bajna,12,mathura-gwLIOwEB,Pani Gaon Chowk
+mathura-FZbRaymX,Mathura-Bajna Via Vrindavan,New Bus Stand Mathura to Bajna,13,mathura-yjbKGUdu,Dangoli Mod
+mathura-FZbRaymX,Mathura-Bajna Via Vrindavan,New Bus Stand Mathura to Bajna,14,mathura-UHHjxeLV,Mant
+mathura-FZbRaymX,Mathura-Bajna Via Vrindavan,New Bus Stand Mathura to Bajna,15,mathura-AlhNroBb,Bhadravan
+mathura-FZbRaymX,Mathura-Bajna Via Vrindavan,New Bus Stand Mathura to Bajna,16,mathura-zloFKMKj,Tenti Gaon
+mathura-FZbRaymX,Mathura-Bajna Via Vrindavan,New Bus Stand Mathura to Bajna,17,mathura-XQWCXeSh,Police Station Surir
+mathura-FZbRaymX,Mathura-Bajna Via Vrindavan,New Bus Stand Mathura to Bajna,18,mathura-jKInJAao,Surir
+mathura-FZbRaymX,Mathura-Bajna Via Vrindavan,New Bus Stand Mathura to Bajna,19,mathura-XHzWPZwP,Meerpur
+mathura-FZbRaymX,Mathura-Bajna Via Vrindavan,New Bus Stand Mathura to Bajna,20,mathura-HSOTXvgE,Hasanpur
+mathura-FZbRaymX,Mathura-Bajna Via Vrindavan,New Bus Stand Mathura to Bajna,21,mathura-RcYymeyi,Pithora
+mathura-FZbRaymX,Mathura-Bajna Via Vrindavan,New Bus Stand Mathura to Bajna,22,mathura-NKiEMArO,Naujhil
+mathura-FZbRaymX,Mathura-Bajna Via Vrindavan,New Bus Stand Mathura to Bajna,23,mathura-VOUpench,SRBS International School
+mathura-FZbRaymX,Mathura-Bajna Via Vrindavan,New Bus Stand Mathura to Bajna,24,mathura-uxUcRVDx,Arcadian Public School
+mathura-KQBHyoAP,Hathras-Mathura Old Bus Stand,Hathras to Mathura Old Bus Stand,1,mathura-HzIpsWwU,Hathras
+mathura-KQBHyoAP,Hathras-Mathura Old Bus Stand,Hathras to Mathura Old Bus Stand,2,mathura-lEuaxTus,Talab Crossing
+mathura-KQBHyoAP,Hathras-Mathura Old Bus Stand,Hathras to Mathura Old Bus Stand,3,mathura-gAZyVFGF,Hatisa
+mathura-KQBHyoAP,Hathras-Mathura Old Bus Stand,Hathras to Mathura Old Bus Stand,4,mathura-scTtxZdC,Collectrate
+mathura-KQBHyoAP,Hathras-Mathura Old Bus Stand,Hathras to Mathura Old Bus Stand,5,mathura-SUHsjlGm,Mursan
+mathura-KQBHyoAP,Hathras-Mathura Old Bus Stand,Hathras to Mathura Old Bus Stand,6,mathura-SvoOqIvv,Sonai
+mathura-KQBHyoAP,Hathras-Mathura Old Bus Stand,Hathras to Mathura Old Bus Stand,7,mathura-kmPBmlwh,Kumha
+mathura-KQBHyoAP,Hathras-Mathura Old Bus Stand,Hathras to Mathura Old Bus Stand,8,mathura-bgIVBaKS,Raya Railway Crossing
+mathura-KQBHyoAP,Hathras-Mathura Old Bus Stand,Hathras to Mathura Old Bus Stand,9,mathura-RBhsbyVi,Raya Bus Stand
+mathura-KQBHyoAP,Hathras-Mathura Old Bus Stand,Hathras to Mathura Old Bus Stand,10,mathura-zQbSlBhE,Raya Cut
+mathura-KQBHyoAP,Hathras-Mathura Old Bus Stand,Hathras to Mathura Old Bus Stand,11,mathura-saFsvqeI,Lohavan Or Dehrua Mod
+mathura-KQBHyoAP,Hathras-Mathura Old Bus Stand,Hathras to Mathura Old Bus Stand,12,mathura-kpTVqmcm,Laxmi Nagar
+mathura-KQBHyoAP,Hathras-Mathura Old Bus Stand,Hathras to Mathura Old Bus Stand,13,mathura-QSLvymMd,Krishna Biochemic Medical College
+mathura-KQBHyoAP,Hathras-Mathura Old Bus Stand,Hathras to Mathura Old Bus Stand,14,mathura-xEFRnWiZ,Krishna Puri Chauraha Or Black Stone Girls College
+mathura-KQBHyoAP,Hathras-Mathura Old Bus Stand,Hathras to Mathura Old Bus Stand,15,mathura-AqrCUMIh,Sadar Bazar
+mathura-KQBHyoAP,Hathras-Mathura Old Bus Stand,Hathras to Mathura Old Bus Stand,16,mathura-moFoTCBZ,Tank Chauraha
+mathura-MaATKEJS,Baldev-Mathura,Baldeo to New Bus Stand Mathura,1,mathura-ClQuqumR,Baldeo
+mathura-MaATKEJS,Baldev-Mathura,Baldeo to New Bus Stand Mathura,2,mathura-pPguHnIB,Baldev Corner
+mathura-MaATKEJS,Baldev-Mathura,Baldeo to New Bus Stand Mathura,3,mathura-dxoiLgFH,Dauji Mandir Road
+mathura-MaATKEJS,Baldev-Mathura,Baldeo to New Bus Stand Mathura,4,mathura-lRiSnaXx,Baldev Public School
+mathura-MaATKEJS,Baldev-Mathura,Baldeo to New Bus Stand Mathura,5,mathura-smcGgzdY,Noorpur Or Mahavan Nahar
+mathura-MaATKEJS,Baldev-Mathura,Baldeo to New Bus Stand Mathura,6,mathura-DmvEPYdg,Mahavan Nah
+mathura-MaATKEJS,Baldev-Mathura,Baldeo to New Bus Stand Mathura,7,mathura-htlahJhF,Mahavan
+mathura-MaATKEJS,Baldev-Mathura,Baldeo to New Bus Stand Mathura,8,mathura-BfZnCURh,Gokul
+mathura-MaATKEJS,Baldev-Mathura,Baldeo to New Bus Stand Mathura,9,mathura-gZJoiWfH,Gokul Temple
+mathura-MaATKEJS,Baldev-Mathura,Baldeo to New Bus Stand Mathura,10,mathura-GmFSoNvp,Brijwashi Dharmashala
+mathura-MaATKEJS,Baldev-Mathura,Baldeo to New Bus Stand Mathura,11,mathura-SKQgyOHS,Township
+mathura-MaATKEJS,Baldev-Mathura,Baldeo to New Bus Stand Mathura,12,mathura-GtwsshGr,Bharatpur Crossing Or Narholi
+mathura-MaATKEJS,Baldev-Mathura,Baldeo to New Bus Stand Mathura,13,mathura-FTqNfYso,Himmatpura
+mathura-MaATKEJS,Baldev-Mathura,Baldeo to New Bus Stand Mathura,14,mathura-HDKzhzgp,State Bank Chauraha
+mathura-OjragBjT,Mathura-Baldev,New Bus Stand Mathura to Baldeo,1,mathura-OSSBQzim,New Bus Stand Mathura
+mathura-OjragBjT,Mathura-Baldev,New Bus Stand Mathura to Baldeo,2,mathura-HbTpoXID,State Bank Chauraha
+mathura-OjragBjT,Mathura-Baldev,New Bus Stand Mathura to Baldeo,3,mathura-vLtmBqmc,Himmatpura
+mathura-OjragBjT,Mathura-Baldev,New Bus Stand Mathura to Baldeo,4,mathura-hkAPqvvl,Bharatpur Crossing Or Narholi
+mathura-OjragBjT,Mathura-Baldev,New Bus Stand Mathura to Baldeo,5,mathura-NmpjlggQ,Township
+mathura-OjragBjT,Mathura-Baldev,New Bus Stand Mathura to Baldeo,6,mathura-uReWDivb,Brijwashi Dharmashala
+mathura-OjragBjT,Mathura-Baldev,New Bus Stand Mathura to Baldeo,7,mathura-BLVjIIhd,Gokul Temple
+mathura-OjragBjT,Mathura-Baldev,New Bus Stand Mathura to Baldeo,8,mathura-sNPkwOGy,Gokul
+mathura-OjragBjT,Mathura-Baldev,New Bus Stand Mathura to Baldeo,9,mathura-SIWsmIBT,Mahavan
+mathura-OjragBjT,Mathura-Baldev,New Bus Stand Mathura to Baldeo,10,mathura-LxXwDfdp,Mahavan Nah
+mathura-OjragBjT,Mathura-Baldev,New Bus Stand Mathura to Baldeo,11,mathura-aGcnGOYd,Noorpur Or Mahavan Nahar
+mathura-OjragBjT,Mathura-Baldev,New Bus Stand Mathura to Baldeo,12,mathura-qXfzWIBk,Baldev Public School
+mathura-OjragBjT,Mathura-Baldev,New Bus Stand Mathura to Baldeo,13,mathura-RQyLTEiR,Dauji Mandir Road
+mathura-OjragBjT,Mathura-Baldev,New Bus Stand Mathura to Baldeo,14,mathura-fdJWVHsV,Baldev Corner
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,1,mathura-wgpndycu,Bijli Ghar
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,2,mathura-byMwRhma,Agra Fort Railway Station
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,3,mathura-dPpaqGTR,Hathi Ghat
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,4,mathura-fFQkBWKC,Belanganj
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,5,mathura-raRbaiRx,Jeoni Mandi Chauraha
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,6,mathura-jMLSnQzZ,Water Works Chauraha
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,7,mathura-QMowLzpD,Sultangunj Crossing
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,8,mathura-MMgMQTIW,Bhagwan Talkies
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,9,mathura-BDnbzLbW,ISBT Agra
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,10,mathura-pJEmOQBX,Sikandra Chauraha
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,11,mathura-fFARwgRz,Artoni
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,12,mathura-WzvjsdZN,Runakta
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,13,mathura-bxzSQmBJ,Arsena
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,14,mathura-aVsBGrMF,Raipura
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,15,mathura-lCLVQLws,Sahjahanpur
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,16,mathura-EitDLTlI,St. Peters Church
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,17,mathura-NeVMEHXG,Farah
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,18,mathura-QzzNDpzn,Usha Educational Institute
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,19,mathura-HngQsOMi,Shahpur Farah
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,20,mathura-UUEaHJSM,ABS Public School
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,21,mathura-npLZwHwW,Barari
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,22,mathura-YpXnGbmW,IOCL Refinery Mathura
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,23,mathura-opBmmPtp,Baad Indiane Gas Agency
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,24,mathura-TEnQwVIr,DIET Mathura or Mathura Refinery Nagar
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,25,mathura-SKQgyOHS,Township
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,26,mathura-TKXipqBH,ITI Mathura
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,27,mathura-GtwsshGr,Bharatpur Crossing Or Narholi
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,28,mathura-FTqNfYso,Himmatpura
+mathura-QSJZzDDx,Agra-Mathura,Bijli Ghar to New Bus Stand Mathura,29,mathura-HDKzhzgp,State Bank Chauraha
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,1,mathura-OSSBQzim,New Bus Stand Mathura
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,2,mathura-HbTpoXID,State Bank Chauraha
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,3,mathura-vLtmBqmc,Himmatpura
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,4,mathura-hkAPqvvl,Bharatpur Crossing Or Narholi
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,5,mathura-rVALlmsh,ITI Mathura
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,6,mathura-qPDghEXu,Township
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,7,mathura-sXndndfb,DIET Mathura or Mathura Refinery Nagar
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,8,mathura-WgVKTRDm,Baad Indiane Gas Agency
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,9,mathura-ljRqkagx,IOCL Refinery Mathura
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,10,mathura-VOsulYtL,Barari
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,11,mathura-dDRzfyTe,ABS Public School
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,12,mathura-WWZxMUOT,Shahpur Farah
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,13,mathura-GlrxhmnE,Usha Educational Institute
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,14,mathura-TGVNfaka,Farah
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,15,mathura-ntpCyGyH,St. Peters Church
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,16,mathura-vcqnLLPg,Sahjahanpur
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,17,mathura-ncpmpKEy,Raipura
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,18,mathura-TFPsaStD,Arsena
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,19,mathura-TlTnUAcJ,Runakta
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,20,mathura-oLCeGZNs,Artoni
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,21,mathura-MFUeEgju,Sikandra Chauraha
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,22,mathura-RtbUOvlX,ISBT Agra
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,23,mathura-RIMoukmO,Bhagwan Talkies
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,24,mathura-agDyVFqV,Sultangunj Crossing
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,25,mathura-FqNRieww,Water Works Chauraha
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,26,mathura-VPSrlNDi,Jeoni Mandi Chauraha
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,27,mathura-fqrZkmVH,Belanganj
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,28,mathura-KgfHsuOJ,Hathi Ghat
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,29,mathura-meoXpHGn,Rani laxmi Bai Chauraha
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,30,mathura-kxeHYQHE,Shahjahan Garden
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,31,mathura-xsyNoISg,Agra Fort
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,32,mathura-PxMMhplr,Bijli Ghar Crossing
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,33,mathura-wgpndycu,Bijli Ghar
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,34,mathura-byMwRhma,Agra Fort Railway Station
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,35,mathura-dPpaqGTR,Hathi Ghat
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,36,mathura-fFQkBWKC,Belanganj
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,37,mathura-raRbaiRx,Jeoni Mandi Chauraha
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,38,mathura-EmKnPFgT,Water Works Chauraha
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,39,mathura-LYtcTgeB,Ram Bagh Chauraha
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,40,mathura-pHGTRKnc,Saiyad Chaurah
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,41,mathura-QIOrRefa,Mandi Samiti
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,42,mathura-LzCUHuNP,Shahadra
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,43,mathura-JZCHvUqr,Agra Vanasthali Vidyalaya
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,44,mathura-TjKtofNx,Chelesar
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,45,mathura-PJpmPTQU,Kuberpur
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,46,mathura-NiVLTRQe,Bhagpur Chauraha
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,47,mathura-OBGKufvm,Navalpur
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,48,mathura-RMcyyimB,Dharera
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,49,mathura-KcoPjHtO,Etmadpur
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,50,mathura-TtPDTVhc,Tundla
+mathura-WEMixiCZ,Mathura-Firozabad,New Bus Stand Mathura to Firozabad,51,mathura-FPKeIzSW,Hajratpur
+mathura-aDWAkRRt,Gomat-Mathura,Gomat to New Bus Stand Mathura,1,mathura-IOiGAlOg,Gomat
+mathura-aDWAkRRt,Gomat-Mathura,Gomat to New Bus Stand Mathura,2,mathura-VwAGDGuM,Shivala
+mathura-aDWAkRRt,Gomat-Mathura,Gomat to New Bus Stand Mathura,3,mathura-FvHjBFuo,Kolahar
+mathura-aDWAkRRt,Gomat-Mathura,Gomat to New Bus Stand Mathura,4,mathura-DpqupzIi,Chinta Garhi
+mathura-aDWAkRRt,Gomat-Mathura,Gomat to New Bus Stand Mathura,5,mathura-QUdYTlDq,Bajna
+mathura-aDWAkRRt,Gomat-Mathura,Gomat to New Bus Stand Mathura,6,mathura-IbQGdvCE,Arcadian Public School
+mathura-aDWAkRRt,Gomat-Mathura,Gomat to New Bus Stand Mathura,7,mathura-BwVaJlJX,SRBS International School
+mathura-aDWAkRRt,Gomat-Mathura,Gomat to New Bus Stand Mathura,8,mathura-ogIHQPnQ,Naujhil
+mathura-aDWAkRRt,Gomat-Mathura,Gomat to New Bus Stand Mathura,9,mathura-xfTJuWLj,Shergarh
+mathura-aDWAkRRt,Gomat-Mathura,Gomat to New Bus Stand Mathura,10,mathura-dXXvuzGH,Ranhera
+mathura-aDWAkRRt,Gomat-Mathura,Gomat to New Bus Stand Mathura,11,mathura-RrKPoeds,Laadpur
+mathura-aDWAkRRt,Gomat-Mathura,Gomat to New Bus Stand Mathura,12,mathura-ynUZDhsv,Chhata
+mathura-aDWAkRRt,Gomat-Mathura,Gomat to New Bus Stand Mathura,13,mathura-xamESUXj,Chhata Railway Station
+mathura-aDWAkRRt,Gomat-Mathura,Gomat to New Bus Stand Mathura,14,mathura-RSDaiYen,Nari Semri
+mathura-aDWAkRRt,Gomat-Mathura,Gomat to New Bus Stand Mathura,15,mathura-PlBxKmCO,Akbarpur
+mathura-aDWAkRRt,Gomat-Mathura,Gomat to New Bus Stand Mathura,16,mathura-HjeKwoCf,Chaumuhan
+mathura-aDWAkRRt,Gomat-Mathura,Gomat to New Bus Stand Mathura,17,mathura-iPHEdewr,Jait
+mathura-aDWAkRRt,Gomat-Mathura,Gomat to New Bus Stand Mathura,18,mathura-ulGZBLMr,Chhatikara
+mathura-aDWAkRRt,Gomat-Mathura,Gomat to New Bus Stand Mathura,19,mathura-dJojdHmT,Maheshwari Hospital Or Gokul Restaurant
+mathura-aDWAkRRt,Gomat-Mathura,Gomat to New Bus Stand Mathura,20,mathura-ReKRloYI,Govardhan Chauraha
+mathura-aDWAkRRt,Gomat-Mathura,Gomat to New Bus Stand Mathura,21,mathura-weQnFGuv,Krishna Nagar
+mathura-aDWAkRRt,Gomat-Mathura,Gomat to New Bus Stand Mathura,22,mathura-qzojRcCK,Bhuteshwar
+mathura-cidkDKIR,Mathura Old Bus Stand-Hathras,Mathura Old Bus Stand to Hathras,1,mathura-fxFfxULP,Mathura Old Bus Stand
+mathura-cidkDKIR,Mathura Old Bus Stand-Hathras,Mathura Old Bus Stand to Hathras,2,mathura-OJFhMWKR,Tank Chauraha
+mathura-cidkDKIR,Mathura Old Bus Stand-Hathras,Mathura Old Bus Stand to Hathras,3,mathura-kUfyTZMl,Sadar Bazar
+mathura-cidkDKIR,Mathura Old Bus Stand-Hathras,Mathura Old Bus Stand to Hathras,4,mathura-wOwikaqX,Krishna Puri Chauraha Or Black Stone Girls College
+mathura-cidkDKIR,Mathura Old Bus Stand-Hathras,Mathura Old Bus Stand to Hathras,5,mathura-FBIDrRPn,Krishna Biochemic Medical College
+mathura-cidkDKIR,Mathura Old Bus Stand-Hathras,Mathura Old Bus Stand to Hathras,6,mathura-fBLmSVrI,Laxmi Nagar
+mathura-cidkDKIR,Mathura Old Bus Stand-Hathras,Mathura Old Bus Stand to Hathras,7,mathura-YXYUJYRV,Lohavan Or Dehrua Mod
+mathura-cidkDKIR,Mathura Old Bus Stand-Hathras,Mathura Old Bus Stand to Hathras,8,mathura-wGpjoNvZ,Raya Cut
+mathura-cidkDKIR,Mathura Old Bus Stand-Hathras,Mathura Old Bus Stand to Hathras,9,mathura-vYJcHJSn,Raya Bus Stand
+mathura-cidkDKIR,Mathura Old Bus Stand-Hathras,Mathura Old Bus Stand to Hathras,10,mathura-KbNbIeif,Raya
+mathura-cidkDKIR,Mathura Old Bus Stand-Hathras,Mathura Old Bus Stand to Hathras,11,mathura-kYBiqqwW,Kumha
+mathura-cidkDKIR,Mathura Old Bus Stand-Hathras,Mathura Old Bus Stand to Hathras,12,mathura-ENSbjTTY,Sonai
+mathura-cidkDKIR,Mathura Old Bus Stand-Hathras,Mathura Old Bus Stand to Hathras,13,mathura-BMUmDLbT,Mursan
+mathura-cidkDKIR,Mathura Old Bus Stand-Hathras,Mathura Old Bus Stand to Hathras,14,mathura-fZoeyQAO,Collectrate
+mathura-cidkDKIR,Mathura Old Bus Stand-Hathras,Mathura Old Bus Stand to Hathras,15,mathura-OIDTsoSX,Hatisa
+mathura-cidkDKIR,Mathura Old Bus Stand-Hathras,Mathura Old Bus Stand to Hathras,16,mathura-fbLkOQfM,Talab Crossing
+mathura-hPjjVNKk,Bajna-Mathura Via Vrindavan,Bajna to New Bus Stand Mathura,1,mathura-eQuVaQkt,Bajna
+mathura-hPjjVNKk,Bajna-Mathura Via Vrindavan,Bajna to New Bus Stand Mathura,2,mathura-IbQGdvCE,Arcadian Public School
+mathura-hPjjVNKk,Bajna-Mathura Via Vrindavan,Bajna to New Bus Stand Mathura,3,mathura-BwVaJlJX,SRBS International School
+mathura-hPjjVNKk,Bajna-Mathura Via Vrindavan,Bajna to New Bus Stand Mathura,4,mathura-xbIQXbmC,Naujhil
+mathura-hPjjVNKk,Bajna-Mathura Via Vrindavan,Bajna to New Bus Stand Mathura,5,mathura-YHUznxbR,Pithora
+mathura-hPjjVNKk,Bajna-Mathura Via Vrindavan,Bajna to New Bus Stand Mathura,6,mathura-edlYNzaj,Hasanpur
+mathura-hPjjVNKk,Bajna-Mathura Via Vrindavan,Bajna to New Bus Stand Mathura,7,mathura-hTVFiShO,Meerpur
+mathura-hPjjVNKk,Bajna-Mathura Via Vrindavan,Bajna to New Bus Stand Mathura,8,mathura-ijAPCpDg,Surir
+mathura-hPjjVNKk,Bajna-Mathura Via Vrindavan,Bajna to New Bus Stand Mathura,9,mathura-wCCKYreH,Police Station Surir
+mathura-hPjjVNKk,Bajna-Mathura Via Vrindavan,Bajna to New Bus Stand Mathura,10,mathura-yZSdvbyt,Tenti Gaon
+mathura-hPjjVNKk,Bajna-Mathura Via Vrindavan,Bajna to New Bus Stand Mathura,11,mathura-FSDdlhXs,Bhadravan
+mathura-hPjjVNKk,Bajna-Mathura Via Vrindavan,Bajna to New Bus Stand Mathura,12,mathura-gNgcLyJj,Mant
+mathura-hPjjVNKk,Bajna-Mathura Via Vrindavan,Bajna to New Bus Stand Mathura,13,mathura-ToMdvEkj,Dangoli Mod
+mathura-hPjjVNKk,Bajna-Mathura Via Vrindavan,Bajna to New Bus Stand Mathura,14,mathura-DByHthjl,Pani Gaon Chowk
+mathura-hPjjVNKk,Bajna-Mathura Via Vrindavan,Bajna to New Bus Stand Mathura,15,mathura-IykaOVJE,Dami Bus Stop
+mathura-hPjjVNKk,Bajna-Mathura Via Vrindavan,Bajna to New Bus Stand Mathura,16,mathura-HYfAQgjN,Vrindavan Bus Stand
+mathura-hPjjVNKk,Bajna-Mathura Via Vrindavan,Bajna to New Bus Stand Mathura,17,mathura-BKLkkfzU,Atalla Chungi
+mathura-hPjjVNKk,Bajna-Mathura Via Vrindavan,Bajna to New Bus Stand Mathura,18,mathura-YnURjAcK,Pagal Baba Mandir Or Mayawati Hospital
+mathura-hPjjVNKk,Bajna-Mathura Via Vrindavan,Bajna to New Bus Stand Mathura,19,mathura-rMmHMFCg,Samvid Gurukulam School Or Bhagal Bagichi
+mathura-hPjjVNKk,Bajna-Mathura Via Vrindavan,Bajna to New Bus Stand Mathura,20,mathura-fjFrzJrI,P M V Polytechnic
+mathura-hPjjVNKk,Bajna-Mathura Via Vrindavan,Bajna to New Bus Stand Mathura,21,mathura-WYxYLFZy,Birla Mandir
+mathura-hPjjVNKk,Bajna-Mathura Via Vrindavan,Bajna to New Bus Stand Mathura,22,mathura-ivEjjvuH,Masani Chauraha
+mathura-hPjjVNKk,Bajna-Mathura Via Vrindavan,Bajna to New Bus Stand Mathura,23,mathura-mNBuvCvt,Deeg Gate
+mathura-hPjjVNKk,Bajna-Mathura Via Vrindavan,Bajna to New Bus Stand Mathura,24,mathura-EqSdhHlT,Bhuteshwar
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,1,mathura-MmTSRXZC,Firozabad
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,2,mathura-GePfuSlG,Hajratpur
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,3,mathura-TtPDTVhc,Tundla
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,4,mathura-jGrwYqwR,Etmadpur
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,5,mathura-XiLdXWjS,Dharera
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,6,mathura-YwSsXSGy,Navalpur
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,7,mathura-yQYmWwnQ,Bhagpur Chauraha
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,8,mathura-IIaVEWpf,Kuberpur
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,9,mathura-luJbfGPH,Chelesar
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,10,mathura-NoXpQlgj,Agra Vanasthali Vidyalaya
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,11,mathura-xzDDJofU,Shahadra
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,12,mathura-nIJthzQT,Mandi Samiti
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,13,mathura-OKcWBlKW,Saiyad Chaurah
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,14,mathura-KdyRCRzm,Ram Bagh Chauraha
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,15,mathura-GdVxFxnz,Water Works Chauraha
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,16,mathura-VPSrlNDi,Jeoni Mandi Chauraha
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,17,mathura-fqrZkmVH,Belanganj
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,18,mathura-KgfHsuOJ,Hathi Ghat
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,19,mathura-meoXpHGn,Rani laxmi Bai Chauraha
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,20,mathura-kxeHYQHE,Shahjahan Garden
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,21,mathura-xsyNoISg,Agra Fort
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,22,mathura-PxMMhplr,Bijli Ghar Crossing
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,23,mathura-wgpndycu,Bijli Ghar
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,24,mathura-byMwRhma,Agra Fort Railway Station
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,25,mathura-dPpaqGTR,Hathi Ghat
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,26,mathura-fFQkBWKC,Belanganj
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,27,mathura-raRbaiRx,Jeoni Mandi Chauraha
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,28,mathura-jMLSnQzZ,Water Works Chauraha
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,29,mathura-QMowLzpD,Sultangunj Crossing
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,30,mathura-MMgMQTIW,Bhagwan Talkies
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,31,mathura-BDnbzLbW,ISBT Agra
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,32,mathura-pJEmOQBX,Sikandra Chauraha
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,33,mathura-fFARwgRz,Artoni
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,34,mathura-WzvjsdZN,Runakta
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,35,mathura-bxzSQmBJ,Arsena
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,36,mathura-aVsBGrMF,Raipura
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,37,mathura-lCLVQLws,Sahjahanpur
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,38,mathura-EitDLTlI,St. Peters Church
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,39,mathura-NeVMEHXG,Farah
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,40,mathura-QzzNDpzn,Usha Educational Institute
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,41,mathura-HngQsOMi,Shahpur Farah
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,42,mathura-UUEaHJSM,ABS Public School
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,43,mathura-npLZwHwW,Barari
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,44,mathura-YpXnGbmW,IOCL Refinery Mathura
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,45,mathura-opBmmPtp,Baad Indiane Gas Agency
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,46,mathura-TEnQwVIr,DIET Mathura or Mathura Refinery Nagar
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,47,mathura-SKQgyOHS,Township
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,48,mathura-TKXipqBH,ITI Mathura
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,49,mathura-GtwsshGr,Bharatpur Crossing Or Narholi
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,50,mathura-FTqNfYso,Himmatpura
+mathura-jvvaRTzE,Firozabad-Mathura,Firozabad to New Bus Stand Mathura,51,mathura-HDKzhzgp,State Bank Chauraha
+mathura-khnlcMMH,Bajna-Mathura Via Chhata,Bajna to New Bus Stand Mathura,1,mathura-QUdYTlDq,Bajna
+mathura-khnlcMMH,Bajna-Mathura Via Chhata,Bajna to New Bus Stand Mathura,2,mathura-IbQGdvCE,Arcadian Public School
+mathura-khnlcMMH,Bajna-Mathura Via Chhata,Bajna to New Bus Stand Mathura,3,mathura-BwVaJlJX,SRBS International School
+mathura-khnlcMMH,Bajna-Mathura Via Chhata,Bajna to New Bus Stand Mathura,4,mathura-ogIHQPnQ,Naujhil
+mathura-khnlcMMH,Bajna-Mathura Via Chhata,Bajna to New Bus Stand Mathura,5,mathura-xfTJuWLj,Shergarh
+mathura-khnlcMMH,Bajna-Mathura Via Chhata,Bajna to New Bus Stand Mathura,6,mathura-dXXvuzGH,Ranhera
+mathura-khnlcMMH,Bajna-Mathura Via Chhata,Bajna to New Bus Stand Mathura,7,mathura-RrKPoeds,Laadpur
+mathura-khnlcMMH,Bajna-Mathura Via Chhata,Bajna to New Bus Stand Mathura,8,mathura-ynUZDhsv,Chhata
+mathura-khnlcMMH,Bajna-Mathura Via Chhata,Bajna to New Bus Stand Mathura,9,mathura-xamESUXj,Chhata Railway Station
+mathura-khnlcMMH,Bajna-Mathura Via Chhata,Bajna to New Bus Stand Mathura,10,mathura-RSDaiYen,Nari Semri
+mathura-khnlcMMH,Bajna-Mathura Via Chhata,Bajna to New Bus Stand Mathura,11,mathura-PlBxKmCO,Akbarpur
+mathura-khnlcMMH,Bajna-Mathura Via Chhata,Bajna to New Bus Stand Mathura,12,mathura-HjeKwoCf,Chaumuhan
+mathura-khnlcMMH,Bajna-Mathura Via Chhata,Bajna to New Bus Stand Mathura,13,mathura-iPHEdewr,Jait
+mathura-khnlcMMH,Bajna-Mathura Via Chhata,Bajna to New Bus Stand Mathura,14,mathura-ulGZBLMr,Chhatikara
+mathura-khnlcMMH,Bajna-Mathura Via Chhata,Bajna to New Bus Stand Mathura,15,mathura-dJojdHmT,Maheshwari Hospital Or Gokul Restaurant
+mathura-khnlcMMH,Bajna-Mathura Via Chhata,Bajna to New Bus Stand Mathura,16,mathura-ReKRloYI,Govardhan Chauraha
+mathura-khnlcMMH,Bajna-Mathura Via Chhata,Bajna to New Bus Stand Mathura,17,mathura-weQnFGuv,Krishna Nagar
+mathura-khnlcMMH,Bajna-Mathura Via Chhata,Bajna to New Bus Stand Mathura,18,mathura-qzojRcCK,Bhuteshwar
+mathura-ohOpBwes,Mathura-Gomat,New Bus Stand Mathura to Gomat,1,mathura-OSSBQzim,New Bus Stand Mathura
+mathura-ohOpBwes,Mathura-Gomat,New Bus Stand Mathura to Gomat,2,mathura-yOROzDFx,Bhuteshwar
+mathura-ohOpBwes,Mathura-Gomat,New Bus Stand Mathura to Gomat,3,mathura-RYIKooqC,Krishna Nagar
+mathura-ohOpBwes,Mathura-Gomat,New Bus Stand Mathura to Gomat,4,mathura-TNDIvuSc,Govardhan Chauraha
+mathura-ohOpBwes,Mathura-Gomat,New Bus Stand Mathura to Gomat,5,mathura-tXuVdlkO,Maheshwari Hospital Or Gokul Restaurant
+mathura-ohOpBwes,Mathura-Gomat,New Bus Stand Mathura to Gomat,6,mathura-meJNNfeK,Chhatikara
+mathura-ohOpBwes,Mathura-Gomat,New Bus Stand Mathura to Gomat,7,mathura-YlttMyYD,Jait
+mathura-ohOpBwes,Mathura-Gomat,New Bus Stand Mathura to Gomat,8,mathura-rAwqadaT,Chaumuhan
+mathura-ohOpBwes,Mathura-Gomat,New Bus Stand Mathura to Gomat,9,mathura-JzPXhDYw,Akbarpur
+mathura-ohOpBwes,Mathura-Gomat,New Bus Stand Mathura to Gomat,10,mathura-dzYqywPy,Nari Semri
+mathura-ohOpBwes,Mathura-Gomat,New Bus Stand Mathura to Gomat,11,mathura-DUbLBROn,Chhata Railway Station
+mathura-ohOpBwes,Mathura-Gomat,New Bus Stand Mathura to Gomat,12,mathura-wDTvUslN,Chhata
+mathura-ohOpBwes,Mathura-Gomat,New Bus Stand Mathura to Gomat,13,mathura-gPujmgRF,Laadpur
+mathura-ohOpBwes,Mathura-Gomat,New Bus Stand Mathura to Gomat,14,mathura-XGLJyHbs,Ranhera
+mathura-ohOpBwes,Mathura-Gomat,New Bus Stand Mathura to Gomat,15,mathura-BkZqOTLx,Shergarh
+mathura-ohOpBwes,Mathura-Gomat,New Bus Stand Mathura to Gomat,16,mathura-oOAuoKQX,Naujhil
+mathura-ohOpBwes,Mathura-Gomat,New Bus Stand Mathura to Gomat,17,mathura-VOUpench,SRBS International School
+mathura-ohOpBwes,Mathura-Gomat,New Bus Stand Mathura to Gomat,18,mathura-uxUcRVDx,Arcadian Public School
+mathura-ohOpBwes,Mathura-Gomat,New Bus Stand Mathura to Gomat,19,mathura-eQuVaQkt,Bajna
+mathura-ohOpBwes,Mathura-Gomat,New Bus Stand Mathura to Gomat,20,mathura-ZzTWJqjA,Chinta Garhi
+mathura-ohOpBwes,Mathura-Gomat,New Bus Stand Mathura to Gomat,21,mathura-jdQPLnrK,Kolahar
+mathura-ohOpBwes,Mathura-Gomat,New Bus Stand Mathura to Gomat,22,mathura-MIJQnRNF,Shivala
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,1,mathura-uZPjBkxs,New Bus Stand Mathura
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,2,mathura-yOROzDFx,Bhuteshwar
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,3,mathura-FyGZgYNi,Govardhan Chauraha
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,4,mathura-hkAPqvvl,Bharatpur Crossing Or Narholi
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,5,mathura-rVALlmsh,ITI Mathura
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,6,mathura-qPDghEXu,Township
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,7,mathura-sXndndfb,DIET Mathura or Mathura Refinery Nagar
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,8,mathura-WgVKTRDm,Baad Indiane Gas Agency
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,9,mathura-ljRqkagx,IOCL Refinery Mathura
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,10,mathura-VOsulYtL,Barari
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,11,mathura-dDRzfyTe,ABS Public School
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,12,mathura-WWZxMUOT,Shahpur Farah
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,13,mathura-GlrxhmnE,Usha Educational Institute
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,14,mathura-TGVNfaka,Farah
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,15,mathura-ntpCyGyH,St. Peters Church
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,16,mathura-vcqnLLPg,Sahjahanpur
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,17,mathura-ncpmpKEy,Raipura
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,18,mathura-TFPsaStD,Arsena
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,19,mathura-TlTnUAcJ,Runakta
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,20,mathura-oLCeGZNs,Artoni
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,21,mathura-MFUeEgju,Sikandra Chauraha
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,22,mathura-RtbUOvlX,ISBT Agra
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,23,mathura-RIMoukmO,Bhagwan Talkies
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,24,mathura-agDyVFqV,Sultangunj Crossing
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,25,mathura-FqNRieww,Water Works Chauraha
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,26,mathura-VPSrlNDi,Jeoni Mandi Chauraha
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,27,mathura-fqrZkmVH,Belanganj
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,28,mathura-KgfHsuOJ,Hathi Ghat
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,29,mathura-meoXpHGn,Rani laxmi Bai Chauraha
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,30,mathura-kxeHYQHE,Shahjahan Garden
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,31,mathura-xsyNoISg,Agra Fort
+mathura-qscOcKyq,Mathura-Agra,New Bus Stand Mathura to Bijli Ghar,32,mathura-PxMMhplr,Bijli Ghar Crossing
+mathura-rcoDGzHK,Mathura-Bajna Via Chhata,New Bus Stand Mathura to Bajna,1,mathura-uZPjBkxs,New Bus Stand Mathura
+mathura-rcoDGzHK,Mathura-Bajna Via Chhata,New Bus Stand Mathura to Bajna,2,mathura-yOROzDFx,Bhuteshwar
+mathura-rcoDGzHK,Mathura-Bajna Via Chhata,New Bus Stand Mathura to Bajna,3,mathura-RYIKooqC,Krishna Nagar
+mathura-rcoDGzHK,Mathura-Bajna Via Chhata,New Bus Stand Mathura to Bajna,4,mathura-TNDIvuSc,Govardhan Chauraha
+mathura-rcoDGzHK,Mathura-Bajna Via Chhata,New Bus Stand Mathura to Bajna,5,mathura-tXuVdlkO,Maheshwari Hospital Or Gokul Restaurant
+mathura-rcoDGzHK,Mathura-Bajna Via Chhata,New Bus Stand Mathura to Bajna,6,mathura-meJNNfeK,Chhatikara
+mathura-rcoDGzHK,Mathura-Bajna Via Chhata,New Bus Stand Mathura to Bajna,7,mathura-YlttMyYD,Jait
+mathura-rcoDGzHK,Mathura-Bajna Via Chhata,New Bus Stand Mathura to Bajna,8,mathura-rAwqadaT,Chaumuhan
+mathura-rcoDGzHK,Mathura-Bajna Via Chhata,New Bus Stand Mathura to Bajna,9,mathura-JzPXhDYw,Akbarpur
+mathura-rcoDGzHK,Mathura-Bajna Via Chhata,New Bus Stand Mathura to Bajna,10,mathura-dzYqywPy,Nari Semri
+mathura-rcoDGzHK,Mathura-Bajna Via Chhata,New Bus Stand Mathura to Bajna,11,mathura-DUbLBROn,Chhata Railway Station
+mathura-rcoDGzHK,Mathura-Bajna Via Chhata,New Bus Stand Mathura to Bajna,12,mathura-wDTvUslN,Chhata
+mathura-rcoDGzHK,Mathura-Bajna Via Chhata,New Bus Stand Mathura to Bajna,13,mathura-gPujmgRF,Laadpur
+mathura-rcoDGzHK,Mathura-Bajna Via Chhata,New Bus Stand Mathura to Bajna,14,mathura-XGLJyHbs,Ranhera
+mathura-rcoDGzHK,Mathura-Bajna Via Chhata,New Bus Stand Mathura to Bajna,15,mathura-BkZqOTLx,Shergarh
+mathura-rcoDGzHK,Mathura-Bajna Via Chhata,New Bus Stand Mathura to Bajna,16,mathura-oOAuoKQX,Naujhil
+mathura-rcoDGzHK,Mathura-Bajna Via Chhata,New Bus Stand Mathura to Bajna,17,mathura-VOUpench,SRBS International School
+mathura-rcoDGzHK,Mathura-Bajna Via Chhata,New Bus Stand Mathura to Bajna,18,mathura-uxUcRVDx,Arcadian Public School
+mathura-sRzwozQj,Mathura-Kosi Via Chhata,New Bus Stand Mathura to Kosi,1,mathura-OSSBQzim,New Bus Stand Mathura
+mathura-sRzwozQj,Mathura-Kosi Via Chhata,New Bus Stand Mathura to Kosi,2,mathura-yOROzDFx,Bhuteshwar
+mathura-sRzwozQj,Mathura-Kosi Via Chhata,New Bus Stand Mathura to Kosi,3,mathura-RYIKooqC,Krishna Nagar
+mathura-sRzwozQj,Mathura-Kosi Via Chhata,New Bus Stand Mathura to Kosi,4,mathura-TNDIvuSc,Govardhan Chauraha
+mathura-sRzwozQj,Mathura-Kosi Via Chhata,New Bus Stand Mathura to Kosi,5,mathura-tXuVdlkO,Maheshwari Hospital Or Gokul Restaurant
+mathura-sRzwozQj,Mathura-Kosi Via Chhata,New Bus Stand Mathura to Kosi,6,mathura-meJNNfeK,Chhatikara
+mathura-sRzwozQj,Mathura-Kosi Via Chhata,New Bus Stand Mathura to Kosi,7,mathura-YlttMyYD,Jait
+mathura-sRzwozQj,Mathura-Kosi Via Chhata,New Bus Stand Mathura to Kosi,8,mathura-rAwqadaT,Chaumuhan
+mathura-sRzwozQj,Mathura-Kosi Via Chhata,New Bus Stand Mathura to Kosi,9,mathura-JzPXhDYw,Akbarpur
+mathura-sRzwozQj,Mathura-Kosi Via Chhata,New Bus Stand Mathura to Kosi,10,mathura-dzYqywPy,Nari Semri
+mathura-sRzwozQj,Mathura-Kosi Via Chhata,New Bus Stand Mathura to Kosi,11,mathura-DNXabCxf,Chhata
+mathura-sRzwozQj,Mathura-Kosi Via Chhata,New Bus Stand Mathura to Kosi,12,mathura-KnZEYtob,Dautana
+mathura-sRzwozQj,Mathura-Kosi Via Chhata,New Bus Stand Mathura to Kosi,13,mathura-BoTuyzGi,Kosi Bypass
+mathura-zrQZSswo,Kosi-Mathura Via Chhata,Kosi to New Bus Stand Mathura,1,mathura-rIudzNOO,Kosi
+mathura-zrQZSswo,Kosi-Mathura Via Chhata,Kosi to New Bus Stand Mathura,2,mathura-lfdiWlYW,Kosi Bypass
+mathura-zrQZSswo,Kosi-Mathura Via Chhata,Kosi to New Bus Stand Mathura,3,mathura-CsQVlKAv,Dautana
+mathura-zrQZSswo,Kosi-Mathura Via Chhata,Kosi to New Bus Stand Mathura,4,mathura-cZQoQUEA,Chhata
+mathura-zrQZSswo,Kosi-Mathura Via Chhata,Kosi to New Bus Stand Mathura,5,mathura-RSDaiYen,Nari Semri
+mathura-zrQZSswo,Kosi-Mathura Via Chhata,Kosi to New Bus Stand Mathura,6,mathura-PlBxKmCO,Akbarpur
+mathura-zrQZSswo,Kosi-Mathura Via Chhata,Kosi to New Bus Stand Mathura,7,mathura-HjeKwoCf,Chaumuhan
+mathura-zrQZSswo,Kosi-Mathura Via Chhata,Kosi to New Bus Stand Mathura,8,mathura-iPHEdewr,Jait
+mathura-zrQZSswo,Kosi-Mathura Via Chhata,Kosi to New Bus Stand Mathura,9,mathura-ulGZBLMr,Chhatikara
+mathura-zrQZSswo,Kosi-Mathura Via Chhata,Kosi to New Bus Stand Mathura,10,mathura-dJojdHmT,Maheshwari Hospital Or Gokul Restaurant
+mathura-zrQZSswo,Kosi-Mathura Via Chhata,Kosi to New Bus Stand Mathura,11,mathura-ReKRloYI,Govardhan Chauraha
+mathura-zrQZSswo,Kosi-Mathura Via Chhata,Kosi to New Bus Stand Mathura,12,mathura-weQnFGuv,Krishna Nagar
+mathura-zrQZSswo,Kosi-Mathura Via Chhata,Kosi to New Bus Stand Mathura,13,mathura-qzojRcCK,Bhuteshwar

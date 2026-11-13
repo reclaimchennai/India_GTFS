@@ -1,0 +1,535 @@
+route_id,route_short_name,route_long_name,stop_sequence,stop_id,stop_name
+belgaum-AeZXqAwl,6B Via Kuvempu Nagar,DSC to Kuvempu Nagar,1,belgaum-zlghrqRQ,DSC
+belgaum-AeZXqAwl,6B Via Kuvempu Nagar,DSC to Kuvempu Nagar,2,belgaum-wihjApFR,College Road
+belgaum-AeZXqAwl,6B Via Kuvempu Nagar,DSC to Kuvempu Nagar,3,belgaum-yzuFUImc,Rani Channamma Circle Or Milan
+belgaum-AeZXqAwl,6B Via Kuvempu Nagar,DSC to Kuvempu Nagar,4,belgaum-zOqBGAcF,Club Road
+belgaum-AeZXqAwl,6B Via Kuvempu Nagar,DSC to Kuvempu Nagar,5,belgaum-cAPBENie,Balekundari Garden
+belgaum-AeZXqAwl,6B Via Kuvempu Nagar,DSC to Kuvempu Nagar,6,belgaum-GIqzUlSr,Vishweshwaraya Nagar
+belgaum-AeZXqAwl,6B Via Kuvempu Nagar,DSC to Kuvempu Nagar,7,belgaum-vrsgrISa,Rail Nagara
+belgaum-AeZXqAwl,6B Via Kuvempu Nagar,DSC to Kuvempu Nagar,8,belgaum-PmpjchlH,Maharashtra Bank
+belgaum-AeZXqAwl,6B Via Kuvempu Nagar,DSC to Kuvempu Nagar,9,belgaum-UzMwtCXP,Maruti Mandir Sadashiv Nagar
+belgaum-AeZXqAwl,6B Via Kuvempu Nagar,DSC to Kuvempu Nagar,10,belgaum-EPFdoCCZ,Sadashiv Nagar Last Stop
+belgaum-AeZXqAwl,6B Via Kuvempu Nagar,DSC to Kuvempu Nagar,11,belgaum-dpYqdtfr,Jyoti Pan Shop
+belgaum-AeZXqAwl,6B Via Kuvempu Nagar,DSC to Kuvempu Nagar,12,belgaum-TvjGUkvR,Ambedkar Nagar 1 Stop
+belgaum-AeZXqAwl,6B Via Kuvempu Nagar,DSC to Kuvempu Nagar,13,belgaum-WBvRigvv,Ambedkar Nagar Main Stop
+belgaum-AeZXqAwl,6B Via Kuvempu Nagar,DSC to Kuvempu Nagar,14,belgaum-FPToOufe,Shiddeshwara Nagar
+belgaum-AeZXqAwl,6B Via Kuvempu Nagar,DSC to Kuvempu Nagar,15,belgaum-yLwQLHQJ,Water Tank
+belgaum-AeZXqAwl,6B Via Kuvempu Nagar,DSC to Kuvempu Nagar,16,belgaum-TxHjotYP,TV Center
+belgaum-AeZXqAwl,6B Via Kuvempu Nagar,DSC to Kuvempu Nagar,17,belgaum-JiuHxQIe,Hanuman Nagar Circle
+belgaum-AeZXqAwl,6B Via Kuvempu Nagar,DSC to Kuvempu Nagar,18,belgaum-jvqKxdsK,Hanuman Nagar
+belgaum-AeZXqAwl,6B Via Kuvempu Nagar,DSC to Kuvempu Nagar,19,belgaum-XJbLYEEh,Vidya Nagar
+belgaum-AeZXqAwl,6B Via Kuvempu Nagar,DSC to Kuvempu Nagar,20,belgaum-BIJEXkMH,Sahyadri Nagar 1 Stop
+belgaum-AeZXqAwl,6B Via Kuvempu Nagar,DSC to Kuvempu Nagar,21,belgaum-wPwCiiBk,Sahyadri Nagar 2 Stop
+belgaum-AeZXqAwl,6B Via Kuvempu Nagar,DSC to Kuvempu Nagar,22,belgaum-CqzJBBSa,Sahyadri Nagar 3 Stop
+belgaum-AeZXqAwl,6B Via Kuvempu Nagar,DSC to Kuvempu Nagar,23,belgaum-KchkOUvc,Sahyadri Nagar Last Stop
+belgaum-AeZXqAwl,6B Via Kuvempu Nagar,DSC to Kuvempu Nagar,24,belgaum-puYGbZCs,Sahyadri Nagar 1 Stop
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,1,belgaum-fIMxDTFX,Kuvempu Nagar
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,2,belgaum-BIJEXkMH,Sahyadri Nagar 1 Stop
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,3,belgaum-KchkOUvc,Sahyadri Nagar Last Stop
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,4,belgaum-CqzJBBSa,Sahyadri Nagar 3 Stop
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,5,belgaum-aCveurED,Sahyadri Nagar 2 Stop
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,6,belgaum-puYGbZCs,Sahyadri Nagar 1 Stop
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,7,belgaum-HwBtiBCK,Vidya Nagar
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,8,belgaum-yYWIPyJW,Sarathi Nagar
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,9,belgaum-KoHXUcjW,Police Colony Or KEB
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,10,belgaum-kJkuAnbQ,Vidya Nagar
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,11,belgaum-rhIldkyR,Hanuman Nagar
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,12,belgaum-oyBlCJof,Hanuman Nagar Circle
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,13,belgaum-eBQiUiAd,TV Center
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,14,belgaum-VYeGPNAx,Water Tank
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,15,belgaum-hHyQkIux,Shiddeshwara Nagar
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,16,belgaum-oYOsLSTP,Ambedkar Nagar Main Stop
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,17,belgaum-oTWaasix,Ambedkar Nagar 1 Stop
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,18,belgaum-eNTWAvhj,Jyoti Pan Shop
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,19,belgaum-EsNkFOZG,Sadashiv Nagar Last Stop
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,20,belgaum-CDOClsNZ,Maruti Mandir Sadashiv Nagar
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,21,belgaum-wCsklYFV,Maharashtra Bank
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,22,belgaum-HXhcCsRh,Rail Nagara
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,23,belgaum-cnDaqmBu,Vishweshwaraya Nagar
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,24,belgaum-OZXqQUhs,Balekundari Garden
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,25,belgaum-JXNsLRCB,Club Road
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,26,belgaum-dPWhOQro,Rani Channamma Circle Or Milan
+belgaum-AjnuZfGd,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,27,belgaum-AEzFDEUQ,College Road
+belgaum-ChIUSyaV,1B,Angol to CBT,1,belgaum-QlqUKcAT,Angol
+belgaum-ChIUSyaV,1B,Angol to CBT,2,belgaum-STrekDAm,Dada Medical
+belgaum-ChIUSyaV,1B,Angol to CBT,3,belgaum-grimISgE,Marathi School
+belgaum-ChIUSyaV,1B,Angol to CBT,4,belgaum-pycacpgt,Gadge Medical Stop
+belgaum-ChIUSyaV,1B,Angol to CBT,5,belgaum-TUjFsNfS,Hari Mandir
+belgaum-ChIUSyaV,1B,Angol to CBT,6,belgaum-CDrhXFbl,Angol Naka
+belgaum-ChIUSyaV,1B,Angol to CBT,7,belgaum-grFSaYCc,RPD Cross
+belgaum-ChIUSyaV,1B,Angol to CBT,8,belgaum-zGUOwPhU,Goaves
+belgaum-ChIUSyaV,1B,Angol to CBT,9,belgaum-kLEKbQYW,Dhanamma Temple
+belgaum-ChIUSyaV,1B,Angol to CBT,10,belgaum-sIiJTWFc,Tukaram Bank
+belgaum-ChIUSyaV,1B,Angol to CBT,11,belgaum-KKUtydDc,Shivaji Garden 1
+belgaum-ChIUSyaV,1B,Angol to CBT,12,belgaum-VGmylJIS,Kapileshwar Temple
+belgaum-ChIUSyaV,1B,Angol to CBT,13,belgaum-ETqZsCeC,Shani Mandir
+belgaum-ChIUSyaV,1B,Angol to CBT,14,belgaum-ixezRWGB,Ushatai Gogte School
+belgaum-ChIUSyaV,1B,Angol to CBT,15,belgaum-dLtZhThd,Deshpande Petrol Pump
+belgaum-ChIUSyaV,1B,Angol to CBT,16,belgaum-nleCaddR,Bharatesh College
+belgaum-GHkQILGP,8B,Vantamuri to CBT,1,belgaum-rpnQagVm,Vantamuri
+belgaum-GHkQILGP,8B,Vantamuri to CBT,2,belgaum-uENMJfhJ,Shree Nagar Vantamuri
+belgaum-GHkQILGP,8B,Vantamuri to CBT,3,belgaum-zAbptuAH,Shree Nagar Masjid
+belgaum-GHkQILGP,8B,Vantamuri to CBT,4,belgaum-NqTKMiPt,Shree Nagar Garden
+belgaum-GHkQILGP,8B,Vantamuri to CBT,5,belgaum-EwkLmERV,Ashok Nagar
+belgaum-GHkQILGP,8B,Vantamuri to CBT,6,belgaum-RuNXvMWg,Ashok Nagar 1
+belgaum-GHkQILGP,8B,Vantamuri to CBT,7,belgaum-XzdsqXjI,Cancer Hospital
+belgaum-GHkQILGP,8B,Vantamuri to CBT,8,belgaum-ZMZsZCXe,Kanakadas Circle
+belgaum-GHkQILGP,8B,Vantamuri to CBT,9,belgaum-gvzVVqfe,BHS Lakeview Hospital Or Azad Nagar
+belgaum-GHkQILGP,8B,Vantamuri to CBT,10,belgaum-kILsDLNe,Kotekere Killa
+belgaum-GvrmRTmf,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,1,belgaum-fIMxDTFX,Kuvempu Nagar
+belgaum-GvrmRTmf,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,2,belgaum-HwBtiBCK,Vidya Nagar
+belgaum-GvrmRTmf,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,3,belgaum-KoHXUcjW,Police Colony Or KEB
+belgaum-GvrmRTmf,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,4,belgaum-ZtMnOeGD,Sarathi Nagar
+belgaum-GvrmRTmf,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,5,belgaum-kJkuAnbQ,Vidya Nagar
+belgaum-GvrmRTmf,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,6,belgaum-fDXXJhNZ,Kumaraswami Layout Cross
+belgaum-GvrmRTmf,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,7,belgaum-rhIldkyR,Hanuman Nagar
+belgaum-GvrmRTmf,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,8,belgaum-oyBlCJof,Hanuman Nagar Circle
+belgaum-GvrmRTmf,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,9,belgaum-eBQiUiAd,TV Center
+belgaum-GvrmRTmf,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,10,belgaum-VYeGPNAx,Water Tank
+belgaum-GvrmRTmf,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,11,belgaum-hHyQkIux,Shiddeshwara Nagar
+belgaum-GvrmRTmf,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,12,belgaum-oYOsLSTP,Ambedkar Nagar Main Stop
+belgaum-GvrmRTmf,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,13,belgaum-oTWaasix,Ambedkar Nagar 1 Stop
+belgaum-GvrmRTmf,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,14,belgaum-eNTWAvhj,Jyoti Pan Shop
+belgaum-GvrmRTmf,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,15,belgaum-EsNkFOZG,Sadashiv Nagar Last Stop
+belgaum-GvrmRTmf,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,16,belgaum-CDOClsNZ,Maruti Mandir Sadashiv Nagar
+belgaum-GvrmRTmf,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,17,belgaum-wCsklYFV,Maharashtra Bank
+belgaum-GvrmRTmf,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,18,belgaum-HXhcCsRh,Rail Nagara
+belgaum-GvrmRTmf,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,19,belgaum-cnDaqmBu,Vishweshwaraya Nagar
+belgaum-GvrmRTmf,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,20,belgaum-OZXqQUhs,Balekundari Garden
+belgaum-GvrmRTmf,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,21,belgaum-JXNsLRCB,Club Road
+belgaum-GvrmRTmf,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,22,belgaum-yzuFUImc,Rani Channamma Circle Or Milan
+belgaum-GvrmRTmf,6B Via Kuvempu Nagar,Kuvempu Nagar to DSC,23,belgaum-AEzFDEUQ,College Road
+belgaum-IfIQNZyw,5B,CBT to B K Kangrali Main Stop,1,belgaum-mIBSwwFm,CBT
+belgaum-IfIQNZyw,5B,CBT to B K Kangrali Main Stop,2,belgaum-mxqKCsFO,Kotekere Killa
+belgaum-IfIQNZyw,5B,CBT to B K Kangrali Main Stop,3,belgaum-SFrCOYXi,RTO
+belgaum-IfIQNZyw,5B,CBT to B K Kangrali Main Stop,4,belgaum-Ouxadhky,Court Stop
+belgaum-IfIQNZyw,5B,CBT to B K Kangrali Main Stop,5,belgaum-jhCnAmEx,Rani Chennamma Circle
+belgaum-IfIQNZyw,5B,CBT to B K Kangrali Main Stop,6,belgaum-xsLUnpPx,Civil Hospital
+belgaum-IfIQNZyw,5B,CBT to B K Kangrali Main Stop,7,belgaum-QZlIkKlj,T B ward
+belgaum-IfIQNZyw,5B,CBT to B K Kangrali Main Stop,8,belgaum-VOsMUXgi,Ramdev
+belgaum-IfIQNZyw,5B,CBT to B K Kangrali Main Stop,9,belgaum-TcqCthlX,JNMC
+belgaum-IfIQNZyw,5B,CBT to B K Kangrali Main Stop,10,belgaum-YjJGJagv,KLE hospital
+belgaum-IfIQNZyw,5B,CBT to B K Kangrali Main Stop,11,belgaum-oyotqdJE,Vaibhav Nagar Cross
+belgaum-IfIQNZyw,5B,CBT to B K Kangrali Main Stop,12,belgaum-wdEpQqrj,Kata
+belgaum-IfIQNZyw,5B,CBT to B K Kangrali Main Stop,13,belgaum-lJRKUBao,Indal Factory
+belgaum-IfIQNZyw,5B,CBT to B K Kangrali Main Stop,14,belgaum-usJPkDDe,Yamanapur
+belgaum-IfIQNZyw,5B,CBT to B K Kangrali Main Stop,15,belgaum-kjtxMJts,Goundwad
+belgaum-IfIQNZyw,5B,CBT to B K Kangrali Main Stop,16,belgaum-jjeWBBLv,B K Kangrali 1 Stop
+belgaum-IfIQNZyw,5B,CBT to B K Kangrali Main Stop,17,belgaum-DyVBcGhS,B K Kangrali 2 Stop
+belgaum-IfIQNZyw,5B,CBT to B K Kangrali Main Stop,18,belgaum-vmVnzUtE,B K Kangrali 3 Stop
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,1,belgaum-mIBSwwFm,CBT
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,2,belgaum-mxqKCsFO,Kotekere Killa
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,3,belgaum-SFrCOYXi,RTO
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,4,belgaum-Ouxadhky,Court Stop
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,5,belgaum-iaGMfaUC,Rani Channamma Circle Or Rex
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,6,belgaum-AEzFDEUQ,College Road
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,7,belgaum-zlghrqRQ,DSC
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,8,belgaum-wihjApFR,College Road
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,9,belgaum-yzuFUImc,Rani Channamma Circle Or Milan
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,10,belgaum-zOqBGAcF,Club Road
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,11,belgaum-cAPBENie,Balekundari Garden
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,12,belgaum-GIqzUlSr,Vishweshwaraya Nagar
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,13,belgaum-vrsgrISa,Rail Nagara
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,14,belgaum-PmpjchlH,Maharashtra Bank
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,15,belgaum-UzMwtCXP,Maruti Mandir Sadashiv Nagar
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,16,belgaum-EPFdoCCZ,Sadashiv Nagar Last Stop
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,17,belgaum-dpYqdtfr,Jyoti Pan Shop
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,18,belgaum-TvjGUkvR,Ambedkar Nagar 1 Stop
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,19,belgaum-WBvRigvv,Ambedkar Nagar Main Stop
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,20,belgaum-FPToOufe,Shiddeshwara Nagar
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,21,belgaum-yLwQLHQJ,Water Tank
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,22,belgaum-TxHjotYP,TV Center
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,23,belgaum-JiuHxQIe,Hanuman Nagar Circle
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,24,belgaum-jvqKxdsK,Hanuman Nagar
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,25,belgaum-XJbLYEEh,Vidya Nagar
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,26,belgaum-KoHXUcjW,Police Colony Or KEB
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,27,belgaum-ZtMnOeGD,Sarathi Nagar
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,28,belgaum-kJkuAnbQ,Vidya Nagar
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,29,belgaum-BIJEXkMH,Sahyadri Nagar 1 Stop
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,30,belgaum-wPwCiiBk,Sahyadri Nagar 2 Stop
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,31,belgaum-CqzJBBSa,Sahyadri Nagar 3 Stop
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,32,belgaum-KchkOUvc,Sahyadri Nagar Last Stop
+belgaum-OCgTCZTO,6B Via Kuvempu Nagar,CBT to Kuvempu Nagar,33,belgaum-puYGbZCs,Sahyadri Nagar 1 Stop
+belgaum-QHDqVDSp,CBT-Kangrali KH,CBT to Kangrali KH Last Stop,1,belgaum-mIBSwwFm,CBT
+belgaum-QHDqVDSp,CBT-Kangrali KH,CBT to Kangrali KH Last Stop,2,belgaum-mxqKCsFO,Kotekere Killa
+belgaum-QHDqVDSp,CBT-Kangrali KH,CBT to Kangrali KH Last Stop,3,belgaum-SFrCOYXi,RTO
+belgaum-QHDqVDSp,CBT-Kangrali KH,CBT to Kangrali KH Last Stop,4,belgaum-Ouxadhky,Court Stop
+belgaum-QHDqVDSp,CBT-Kangrali KH,CBT to Kangrali KH Last Stop,5,belgaum-jhCnAmEx,Rani Chennamma Circle
+belgaum-QHDqVDSp,CBT-Kangrali KH,CBT to Kangrali KH Last Stop,6,belgaum-xsLUnpPx,Civil Hospital
+belgaum-QHDqVDSp,CBT-Kangrali KH,CBT to Kangrali KH Last Stop,7,belgaum-FyovBHMX,T B Ward
+belgaum-QHDqVDSp,CBT-Kangrali KH,CBT to Kangrali KH Last Stop,8,belgaum-POHDkkim,Sadashiv Nagar
+belgaum-QHDqVDSp,CBT-Kangrali KH,CBT to Kangrali KH Last Stop,9,belgaum-VeXifUMH,Nehru Nagar
+belgaum-QHDqVDSp,CBT-Kangrali KH,CBT to Kangrali KH Last Stop,10,belgaum-CYqPYzCQ,Azam Nagar 1 Stop
+belgaum-QHDqVDSp,CBT-Kangrali KH,CBT to Kangrali KH Last Stop,11,belgaum-QUxLBEaj,Azam Nagar Last Stop
+belgaum-QHDqVDSp,CBT-Kangrali KH,CBT to Kangrali KH Last Stop,12,belgaum-UUZMdwar,Sangameshwara Nagar
+belgaum-QHDqVDSp,CBT-Kangrali KH,CBT to Kangrali KH Last Stop,13,belgaum-ZjZgfqVd,Market Yard APMC
+belgaum-QHDqVDSp,CBT-Kangrali KH,CBT to Kangrali KH Last Stop,14,belgaum-uCYUDZUn,Kangrali KH 1
+belgaum-QSSIkctr,6B Via Kumaraswami Layout,Sahyadri Nagar Last Stop to DSC,1,belgaum-KchkOUvc,Sahyadri Nagar Last Stop
+belgaum-QSSIkctr,6B Via Kumaraswami Layout,Sahyadri Nagar Last Stop to DSC,2,belgaum-sqAwIaoZ,Sahyadri Nagar 3 Stop
+belgaum-QSSIkctr,6B Via Kumaraswami Layout,Sahyadri Nagar Last Stop to DSC,3,belgaum-aCveurED,Sahyadri Nagar 2 Stop
+belgaum-QSSIkctr,6B Via Kumaraswami Layout,Sahyadri Nagar Last Stop to DSC,4,belgaum-puYGbZCs,Sahyadri Nagar 1 Stop
+belgaum-QSSIkctr,6B Via Kumaraswami Layout,Sahyadri Nagar Last Stop to DSC,5,belgaum-FiPvBAKw,Kumaraswami Layout
+belgaum-QSSIkctr,6B Via Kumaraswami Layout,Sahyadri Nagar Last Stop to DSC,6,belgaum-rhIldkyR,Hanuman Nagar
+belgaum-QSSIkctr,6B Via Kumaraswami Layout,Sahyadri Nagar Last Stop to DSC,7,belgaum-oyBlCJof,Hanuman Nagar Circle
+belgaum-QSSIkctr,6B Via Kumaraswami Layout,Sahyadri Nagar Last Stop to DSC,8,belgaum-eBQiUiAd,TV Center
+belgaum-QSSIkctr,6B Via Kumaraswami Layout,Sahyadri Nagar Last Stop to DSC,9,belgaum-VYeGPNAx,Water Tank
+belgaum-QSSIkctr,6B Via Kumaraswami Layout,Sahyadri Nagar Last Stop to DSC,10,belgaum-hHyQkIux,Shiddeshwara Nagar
+belgaum-QSSIkctr,6B Via Kumaraswami Layout,Sahyadri Nagar Last Stop to DSC,11,belgaum-oYOsLSTP,Ambedkar Nagar Main Stop
+belgaum-QSSIkctr,6B Via Kumaraswami Layout,Sahyadri Nagar Last Stop to DSC,12,belgaum-oTWaasix,Ambedkar Nagar 1 Stop
+belgaum-QSSIkctr,6B Via Kumaraswami Layout,Sahyadri Nagar Last Stop to DSC,13,belgaum-eNTWAvhj,Jyoti Pan Shop
+belgaum-QSSIkctr,6B Via Kumaraswami Layout,Sahyadri Nagar Last Stop to DSC,14,belgaum-EsNkFOZG,Sadashiv Nagar Last Stop
+belgaum-QSSIkctr,6B Via Kumaraswami Layout,Sahyadri Nagar Last Stop to DSC,15,belgaum-CDOClsNZ,Maruti Mandir Sadashiv Nagar
+belgaum-QSSIkctr,6B Via Kumaraswami Layout,Sahyadri Nagar Last Stop to DSC,16,belgaum-wCsklYFV,Maharashtra Bank
+belgaum-QSSIkctr,6B Via Kumaraswami Layout,Sahyadri Nagar Last Stop to DSC,17,belgaum-HXhcCsRh,Rail Nagara
+belgaum-QSSIkctr,6B Via Kumaraswami Layout,Sahyadri Nagar Last Stop to DSC,18,belgaum-cnDaqmBu,Vishweshwaraya Nagar
+belgaum-QSSIkctr,6B Via Kumaraswami Layout,Sahyadri Nagar Last Stop to DSC,19,belgaum-OZXqQUhs,Balekundari Garden
+belgaum-QSSIkctr,6B Via Kumaraswami Layout,Sahyadri Nagar Last Stop to DSC,20,belgaum-JXNsLRCB,Club Road
+belgaum-QSSIkctr,6B Via Kumaraswami Layout,Sahyadri Nagar Last Stop to DSC,21,belgaum-dPWhOQro,Rani Channamma Circle Or Milan
+belgaum-QSSIkctr,6B Via Kumaraswami Layout,Sahyadri Nagar Last Stop to DSC,22,belgaum-AEzFDEUQ,College Road
+belgaum-QghkXBxP,7B,CBT to Vaibhav Nagar,1,belgaum-mIBSwwFm,CBT
+belgaum-QghkXBxP,7B,CBT to Vaibhav Nagar,2,belgaum-mxqKCsFO,Kotekere Killa
+belgaum-QghkXBxP,7B,CBT to Vaibhav Nagar,3,belgaum-SFrCOYXi,RTO
+belgaum-QghkXBxP,7B,CBT to Vaibhav Nagar,4,belgaum-Ouxadhky,Court Stop
+belgaum-QghkXBxP,7B,CBT to Vaibhav Nagar,5,belgaum-jhCnAmEx,Rani Chennamma Circle
+belgaum-QghkXBxP,7B,CBT to Vaibhav Nagar,6,belgaum-xsLUnpPx,Civil Hospital
+belgaum-QghkXBxP,7B,CBT to Vaibhav Nagar,7,belgaum-FyovBHMX,T B Ward
+belgaum-QghkXBxP,7B,CBT to Vaibhav Nagar,8,belgaum-POHDkkim,Sadashiv Nagar
+belgaum-QghkXBxP,7B,CBT to Vaibhav Nagar,9,belgaum-VeXifUMH,Nehru Nagar
+belgaum-QghkXBxP,7B,CBT to Vaibhav Nagar,10,belgaum-CYqPYzCQ,Azam Nagar 1 Stop
+belgaum-QghkXBxP,7B,CBT to Vaibhav Nagar,11,belgaum-QUxLBEaj,Azam Nagar Last Stop
+belgaum-QghkXBxP,7B,CBT to Vaibhav Nagar,12,belgaum-ygpLHmUA,Church Stop
+belgaum-QghkXBxP,7B,CBT to Vaibhav Nagar,13,belgaum-CsewSmrG,Basava Colony
+belgaum-QzRFYSnf,5A,Goundwad Last Stop to CBT,1,belgaum-dRfaYzXW,Goundwad Last Stop
+belgaum-QzRFYSnf,5A,Goundwad Last Stop to CBT,2,belgaum-dmPnyQLi,Goundwad
+belgaum-QzRFYSnf,5A,Goundwad Last Stop to CBT,3,belgaum-CIrGdFtr,Yamanapur
+belgaum-QzRFYSnf,5A,Goundwad Last Stop to CBT,4,belgaum-KWDFRVAf,Indal Factory
+belgaum-QzRFYSnf,5A,Goundwad Last Stop to CBT,5,belgaum-sgzHCHME,Kata
+belgaum-QzRFYSnf,5A,Goundwad Last Stop to CBT,6,belgaum-CgYrXDei,Vaibhav Nagar Cross
+belgaum-QzRFYSnf,5A,Goundwad Last Stop to CBT,7,belgaum-TQFfJekb,KLE Hospital
+belgaum-QzRFYSnf,5A,Goundwad Last Stop to CBT,8,belgaum-tpHpMqBj,JNMC
+belgaum-QzRFYSnf,5A,Goundwad Last Stop to CBT,9,belgaum-aiaWewUH,Ramdev
+belgaum-QzRFYSnf,5A,Goundwad Last Stop to CBT,10,belgaum-yqgtptvy,T B ward
+belgaum-QzRFYSnf,5A,Goundwad Last Stop to CBT,11,belgaum-OxbCGXXE,Civil Hospital
+belgaum-QzRFYSnf,5A,Goundwad Last Stop to CBT,12,belgaum-RqyUpBmp,Rani Chennamma Circle
+belgaum-QzRFYSnf,5A,Goundwad Last Stop to CBT,13,belgaum-UDBsYdVR,Court Stop
+belgaum-QzRFYSnf,5A,Goundwad Last Stop to CBT,14,belgaum-FXKGTxqv,RTO
+belgaum-QzRFYSnf,5A,Goundwad Last Stop to CBT,15,belgaum-shuIUjrs,Kotekere Killa
+belgaum-UDPoRvGf,7B,Vaibhav Nagar to CBT,1,belgaum-GEjbEkiL,Vaibhav Nagar
+belgaum-UDPoRvGf,7B,Vaibhav Nagar to CBT,2,belgaum-EosiRsxH,Basava Colony
+belgaum-UDPoRvGf,7B,Vaibhav Nagar to CBT,3,belgaum-pJsEpUci,Church Stop
+belgaum-UDPoRvGf,7B,Vaibhav Nagar to CBT,4,belgaum-necJONSt,Azam Nagar Last Stop
+belgaum-UDPoRvGf,7B,Vaibhav Nagar to CBT,5,belgaum-ZFFykJiG,Azam Nagar 1 Stop
+belgaum-UDPoRvGf,7B,Vaibhav Nagar to CBT,6,belgaum-wbPTarln,Nehru Nagar
+belgaum-UDPoRvGf,7B,Vaibhav Nagar to CBT,7,belgaum-PeiIleFJ,Sadashiv Nagar
+belgaum-UDPoRvGf,7B,Vaibhav Nagar to CBT,8,belgaum-SgZlEAiO,T B Ward
+belgaum-UDPoRvGf,7B,Vaibhav Nagar to CBT,9,belgaum-OxbCGXXE,Civil Hospital
+belgaum-UDPoRvGf,7B,Vaibhav Nagar to CBT,10,belgaum-RqyUpBmp,Rani Chennamma Circle
+belgaum-UDPoRvGf,7B,Vaibhav Nagar to CBT,11,belgaum-UDBsYdVR,Court Stop
+belgaum-UDPoRvGf,7B,Vaibhav Nagar to CBT,12,belgaum-FXKGTxqv,RTO
+belgaum-UDPoRvGf,7B,Vaibhav Nagar to CBT,13,belgaum-shuIUjrs,Kotekere Killa
+belgaum-VSTGyCrA,6B Via Kumaraswami Layout,CBT to DSC,1,belgaum-mIBSwwFm,CBT
+belgaum-VSTGyCrA,6B Via Kumaraswami Layout,CBT to DSC,2,belgaum-mxqKCsFO,Kotekere Killa
+belgaum-VSTGyCrA,6B Via Kumaraswami Layout,CBT to DSC,3,belgaum-SFrCOYXi,RTO
+belgaum-VSTGyCrA,6B Via Kumaraswami Layout,CBT to DSC,4,belgaum-Ouxadhky,Court Stop
+belgaum-VSTGyCrA,6B Via Kumaraswami Layout,CBT to DSC,5,belgaum-iaGMfaUC,Rani Channamma Circle Or Rex
+belgaum-VSTGyCrA,6B Via Kumaraswami Layout,CBT to DSC,6,belgaum-AEzFDEUQ,College Road
+belgaum-WsLiruma,6B Via Kumaraswami Layout,DSC to Sahyadri Nagar Last Stop,1,belgaum-zlghrqRQ,DSC
+belgaum-WsLiruma,6B Via Kumaraswami Layout,DSC to Sahyadri Nagar Last Stop,2,belgaum-wihjApFR,College Road
+belgaum-WsLiruma,6B Via Kumaraswami Layout,DSC to Sahyadri Nagar Last Stop,3,belgaum-yzuFUImc,Rani Channamma Circle Or Milan
+belgaum-WsLiruma,6B Via Kumaraswami Layout,DSC to Sahyadri Nagar Last Stop,4,belgaum-zOqBGAcF,Club Road
+belgaum-WsLiruma,6B Via Kumaraswami Layout,DSC to Sahyadri Nagar Last Stop,5,belgaum-cAPBENie,Balekundari Garden
+belgaum-WsLiruma,6B Via Kumaraswami Layout,DSC to Sahyadri Nagar Last Stop,6,belgaum-GIqzUlSr,Vishweshwaraya Nagar
+belgaum-WsLiruma,6B Via Kumaraswami Layout,DSC to Sahyadri Nagar Last Stop,7,belgaum-vrsgrISa,Rail Nagara
+belgaum-WsLiruma,6B Via Kumaraswami Layout,DSC to Sahyadri Nagar Last Stop,8,belgaum-PmpjchlH,Maharashtra Bank
+belgaum-WsLiruma,6B Via Kumaraswami Layout,DSC to Sahyadri Nagar Last Stop,9,belgaum-UzMwtCXP,Maruti Mandir Sadashiv Nagar
+belgaum-WsLiruma,6B Via Kumaraswami Layout,DSC to Sahyadri Nagar Last Stop,10,belgaum-EPFdoCCZ,Sadashiv Nagar Last Stop
+belgaum-WsLiruma,6B Via Kumaraswami Layout,DSC to Sahyadri Nagar Last Stop,11,belgaum-dpYqdtfr,Jyoti Pan Shop
+belgaum-WsLiruma,6B Via Kumaraswami Layout,DSC to Sahyadri Nagar Last Stop,12,belgaum-TvjGUkvR,Ambedkar Nagar 1 Stop
+belgaum-WsLiruma,6B Via Kumaraswami Layout,DSC to Sahyadri Nagar Last Stop,13,belgaum-WBvRigvv,Ambedkar Nagar Main Stop
+belgaum-WsLiruma,6B Via Kumaraswami Layout,DSC to Sahyadri Nagar Last Stop,14,belgaum-FPToOufe,Shiddeshwara Nagar
+belgaum-WsLiruma,6B Via Kumaraswami Layout,DSC to Sahyadri Nagar Last Stop,15,belgaum-yLwQLHQJ,Water Tank
+belgaum-WsLiruma,6B Via Kumaraswami Layout,DSC to Sahyadri Nagar Last Stop,16,belgaum-TxHjotYP,TV Center
+belgaum-WsLiruma,6B Via Kumaraswami Layout,DSC to Sahyadri Nagar Last Stop,17,belgaum-JiuHxQIe,Hanuman Nagar Circle
+belgaum-WsLiruma,6B Via Kumaraswami Layout,DSC to Sahyadri Nagar Last Stop,18,belgaum-jvqKxdsK,Hanuman Nagar
+belgaum-WsLiruma,6B Via Kumaraswami Layout,DSC to Sahyadri Nagar Last Stop,19,belgaum-FiPvBAKw,Kumaraswami Layout
+belgaum-WsLiruma,6B Via Kumaraswami Layout,DSC to Sahyadri Nagar Last Stop,20,belgaum-BIJEXkMH,Sahyadri Nagar 1 Stop
+belgaum-WsLiruma,6B Via Kumaraswami Layout,DSC to Sahyadri Nagar Last Stop,21,belgaum-wPwCiiBk,Sahyadri Nagar 2 Stop
+belgaum-WsLiruma,6B Via Kumaraswami Layout,DSC to Sahyadri Nagar Last Stop,22,belgaum-CqzJBBSa,Sahyadri Nagar 3 Stop
+belgaum-YLuwtbbn,5A,CBT to Goundwad Last Stop,1,belgaum-mIBSwwFm,CBT
+belgaum-YLuwtbbn,5A,CBT to Goundwad Last Stop,2,belgaum-mxqKCsFO,Kotekere Killa
+belgaum-YLuwtbbn,5A,CBT to Goundwad Last Stop,3,belgaum-SFrCOYXi,RTO
+belgaum-YLuwtbbn,5A,CBT to Goundwad Last Stop,4,belgaum-Ouxadhky,Court Stop
+belgaum-YLuwtbbn,5A,CBT to Goundwad Last Stop,5,belgaum-jhCnAmEx,Rani Chennamma Circle
+belgaum-YLuwtbbn,5A,CBT to Goundwad Last Stop,6,belgaum-xsLUnpPx,Civil Hospital
+belgaum-YLuwtbbn,5A,CBT to Goundwad Last Stop,7,belgaum-QZlIkKlj,T B ward
+belgaum-YLuwtbbn,5A,CBT to Goundwad Last Stop,8,belgaum-VOsMUXgi,Ramdev
+belgaum-YLuwtbbn,5A,CBT to Goundwad Last Stop,9,belgaum-TcqCthlX,JNMC
+belgaum-YLuwtbbn,5A,CBT to Goundwad Last Stop,10,belgaum-YjJGJagv,KLE hospital
+belgaum-YLuwtbbn,5A,CBT to Goundwad Last Stop,11,belgaum-oyotqdJE,Vaibhav Nagar Cross
+belgaum-YLuwtbbn,5A,CBT to Goundwad Last Stop,12,belgaum-wdEpQqrj,Kata
+belgaum-YLuwtbbn,5A,CBT to Goundwad Last Stop,13,belgaum-lJRKUBao,Indal Factory
+belgaum-YLuwtbbn,5A,CBT to Goundwad Last Stop,14,belgaum-usJPkDDe,Yamanapur
+belgaum-YLuwtbbn,5A,CBT to Goundwad Last Stop,15,belgaum-UNesMoZO,Goundwad
+belgaum-ZhrQFacX,28A,CBT to Honaga,1,belgaum-mIBSwwFm,CBT
+belgaum-ZhrQFacX,28A,CBT to Honaga,2,belgaum-mxqKCsFO,Kotekere Killa
+belgaum-ZhrQFacX,28A,CBT to Honaga,3,belgaum-SFrCOYXi,RTO
+belgaum-ZhrQFacX,28A,CBT to Honaga,4,belgaum-Ouxadhky,Court Stop
+belgaum-ZhrQFacX,28A,CBT to Honaga,5,belgaum-jhCnAmEx,Rani Chennamma Circle
+belgaum-ZhrQFacX,28A,CBT to Honaga,6,belgaum-xsLUnpPx,Civil Hospital
+belgaum-ZhrQFacX,28A,CBT to Honaga,7,belgaum-QZlIkKlj,T B ward
+belgaum-ZhrQFacX,28A,CBT to Honaga,8,belgaum-VOsMUXgi,Ramdev
+belgaum-ZhrQFacX,28A,CBT to Honaga,9,belgaum-TcqCthlX,JNMC
+belgaum-ZhrQFacX,28A,CBT to Honaga,10,belgaum-YjJGJagv,KLE hospital
+belgaum-ZhrQFacX,28A,CBT to Honaga,11,belgaum-oyotqdJE,Vaibhav Nagar Cross
+belgaum-ZhrQFacX,28A,CBT to Honaga,12,belgaum-wdEpQqrj,Kata
+belgaum-ZhrQFacX,28A,CBT to Honaga,13,belgaum-lJRKUBao,Indal Factory
+belgaum-ZhrQFacX,28A,CBT to Honaga,14,belgaum-OrWnkesy,Yamanapur
+belgaum-ZhrQFacX,28A,CBT to Honaga,15,belgaum-VxFHdRyj,Muttyanahatti
+belgaum-ZhrQFacX,28A,CBT to Honaga,16,belgaum-EUdXeiQu,Kakati
+belgaum-aYSzAPTN,Kangrali KH-CBT,Kangrali KH Last Stop to CBT,1,belgaum-yhLQJtnn,Kangrali KH Last Stop
+belgaum-aYSzAPTN,Kangrali KH-CBT,Kangrali KH Last Stop to CBT,2,belgaum-tUwfnxCh,Kangrali KH 1
+belgaum-aYSzAPTN,Kangrali KH-CBT,Kangrali KH Last Stop to CBT,3,belgaum-jPHIJWey,Market Yard APMC
+belgaum-aYSzAPTN,Kangrali KH-CBT,Kangrali KH Last Stop to CBT,4,belgaum-odvbEMYZ,Sangameshwara Nagar
+belgaum-aYSzAPTN,Kangrali KH-CBT,Kangrali KH Last Stop to CBT,5,belgaum-necJONSt,Azam Nagar Last Stop
+belgaum-aYSzAPTN,Kangrali KH-CBT,Kangrali KH Last Stop to CBT,6,belgaum-ZFFykJiG,Azam Nagar 1 Stop
+belgaum-aYSzAPTN,Kangrali KH-CBT,Kangrali KH Last Stop to CBT,7,belgaum-wbPTarln,Nehru Nagar
+belgaum-aYSzAPTN,Kangrali KH-CBT,Kangrali KH Last Stop to CBT,8,belgaum-PeiIleFJ,Sadashiv Nagar
+belgaum-aYSzAPTN,Kangrali KH-CBT,Kangrali KH Last Stop to CBT,9,belgaum-SgZlEAiO,T B Ward
+belgaum-aYSzAPTN,Kangrali KH-CBT,Kangrali KH Last Stop to CBT,10,belgaum-OxbCGXXE,Civil Hospital
+belgaum-aYSzAPTN,Kangrali KH-CBT,Kangrali KH Last Stop to CBT,11,belgaum-RqyUpBmp,Rani Chennamma Circle
+belgaum-aYSzAPTN,Kangrali KH-CBT,Kangrali KH Last Stop to CBT,12,belgaum-UDBsYdVR,Court Stop
+belgaum-aYSzAPTN,Kangrali KH-CBT,Kangrali KH Last Stop to CBT,13,belgaum-FXKGTxqv,RTO
+belgaum-aYSzAPTN,Kangrali KH-CBT,Kangrali KH Last Stop to CBT,14,belgaum-shuIUjrs,Kotekere Killa
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,1,belgaum-mIBSwwFm,CBT
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,2,belgaum-mxqKCsFO,Kotekere Killa
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,3,belgaum-SFrCOYXi,RTO
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,4,belgaum-Ouxadhky,Court Stop
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,5,belgaum-yzuFUImc,Rani Channamma Circle Or Milan
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,6,belgaum-zOqBGAcF,Club Road
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,7,belgaum-cAPBENie,Balekundari Garden
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,8,belgaum-GIqzUlSr,Vishweshwaraya Nagar
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,9,belgaum-vrsgrISa,Rail Nagara
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,10,belgaum-PmpjchlH,Maharashtra Bank
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,11,belgaum-UzMwtCXP,Maruti Mandir Sadashiv Nagar
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,12,belgaum-EPFdoCCZ,Sadashiv Nagar Last Stop
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,13,belgaum-dpYqdtfr,Jyoti Pan Shop
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,14,belgaum-TvjGUkvR,Ambedkar Nagar 1 Stop
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,15,belgaum-WBvRigvv,Ambedkar Nagar Main Stop
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,16,belgaum-FPToOufe,Shiddeshwara Nagar
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,17,belgaum-yLwQLHQJ,Water Tank
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,18,belgaum-TxHjotYP,TV Center
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,19,belgaum-JiuHxQIe,Hanuman Nagar Circle
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,20,belgaum-jvqKxdsK,Hanuman Nagar
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,21,belgaum-XJbLYEEh,Vidya Nagar
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,22,belgaum-KoHXUcjW,Police Colony Or KEB
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,23,belgaum-yYWIPyJW,Sarathi Nagar
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,24,belgaum-kJkuAnbQ,Vidya Nagar
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,25,belgaum-BIJEXkMH,Sahyadri Nagar 1 Stop
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,26,belgaum-wPwCiiBk,Sahyadri Nagar 2 Stop
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,27,belgaum-CqzJBBSa,Sahyadri Nagar 3 Stop
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,28,belgaum-KchkOUvc,Sahyadri Nagar Last Stop
+belgaum-bqzmwrsl,6A Via Kunempu Nagar,CBT to Kuvempu Nagar,29,belgaum-puYGbZCs,Sahyadri Nagar 1 Stop
+belgaum-hKqIAWbm,CBT-Hindalaga,CBT to Hindalaga,1,belgaum-mIBSwwFm,CBT
+belgaum-hKqIAWbm,CBT-Hindalaga,CBT to Hindalaga,2,belgaum-mxqKCsFO,Kotekere Killa
+belgaum-hKqIAWbm,CBT-Hindalaga,CBT to Hindalaga,3,belgaum-SFrCOYXi,RTO
+belgaum-hKqIAWbm,CBT-Hindalaga,CBT to Hindalaga,4,belgaum-Ouxadhky,Court Stop
+belgaum-hKqIAWbm,CBT-Hindalaga,CBT to Hindalaga,5,belgaum-iaGMfaUC,Rani Channamma Circle Or Rex
+belgaum-hKqIAWbm,CBT-Hindalaga,CBT to Hindalaga,6,belgaum-AEzFDEUQ,College Road
+belgaum-hKqIAWbm,CBT-Hindalaga,CBT to Hindalaga,7,belgaum-lZAzZkjQ,DSC
+belgaum-hKqIAWbm,CBT-Hindalaga,CBT to Hindalaga,8,belgaum-SnDVfixL,Gandhi Circle
+belgaum-hKqIAWbm,CBT-Hindalaga,CBT to Hindalaga,9,belgaum-bEfdFliS,Ganapathi
+belgaum-hKqIAWbm,CBT-Hindalaga,CBT to Hindalaga,10,belgaum-VGgeFfBW,Vinayak Nagar
+belgaum-hKqIAWbm,CBT-Hindalaga,CBT to Hindalaga,11,belgaum-IjMzzTdj,Vijaya Nagar 1
+belgaum-hKqIAWbm,CBT-Hindalaga,CBT to Hindalaga,12,belgaum-AcXWqsZZ,Vijaya Nagar 2
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,1,belgaum-mIBSwwFm,CBT
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,2,belgaum-mxqKCsFO,Kotekere Killa
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,3,belgaum-SFrCOYXi,RTO
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,4,belgaum-Ouxadhky,Court Stop
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,5,belgaum-iaGMfaUC,Rani Channamma Circle Or Rex
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,6,belgaum-AEzFDEUQ,College Road
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,7,belgaum-zlghrqRQ,DSC
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,8,belgaum-wihjApFR,College Road
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,9,belgaum-yzuFUImc,Rani Channamma Circle Or Milan
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,10,belgaum-zOqBGAcF,Club Road
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,11,belgaum-cAPBENie,Balekundari Garden
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,12,belgaum-GIqzUlSr,Vishweshwaraya Nagar
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,13,belgaum-vrsgrISa,Rail Nagara
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,14,belgaum-PmpjchlH,Maharashtra Bank
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,15,belgaum-UzMwtCXP,Maruti Mandir Sadashiv Nagar
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,16,belgaum-EPFdoCCZ,Sadashiv Nagar Last Stop
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,17,belgaum-dpYqdtfr,Jyoti Pan Shop
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,18,belgaum-TvjGUkvR,Ambedkar Nagar 1 Stop
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,19,belgaum-WBvRigvv,Ambedkar Nagar Main Stop
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,20,belgaum-FPToOufe,Shiddeshwara Nagar
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,21,belgaum-yLwQLHQJ,Water Tank
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,22,belgaum-TxHjotYP,TV Center
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,23,belgaum-JiuHxQIe,Hanuman Nagar Circle
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,24,belgaum-jvqKxdsK,Hanuman Nagar
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,25,belgaum-XJbLYEEh,Vidya Nagar
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,26,belgaum-BIJEXkMH,Sahyadri Nagar 1 Stop
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,27,belgaum-wPwCiiBk,Sahyadri Nagar 2 Stop
+belgaum-hVpVUVZZ,6B Via KEB,CBT to Sahyadri Nagar Last Stop,28,belgaum-CqzJBBSa,Sahyadri Nagar 3 Stop
+belgaum-hjagDyTg,4D,Parvathi Nagar to CBT,1,belgaum-opaduokb,Parvathi Nagar
+belgaum-hjagDyTg,4D,Parvathi Nagar to CBT,2,belgaum-PMkYpYOb,State Bank Colony
+belgaum-hjagDyTg,4D,Parvathi Nagar to CBT,3,belgaum-COUbxTUd,RC Nagar
+belgaum-hjagDyTg,4D,Parvathi Nagar to CBT,4,belgaum-HEZKykRF,HP Bus Stop
+belgaum-hjagDyTg,4D,Parvathi Nagar to CBT,5,belgaum-avvxuEYC,Railway 2nd Gate
+belgaum-hjagDyTg,4D,Parvathi Nagar to CBT,6,belgaum-bcbhawhG,Railway 1st Gate
+belgaum-hjagDyTg,4D,Parvathi Nagar to CBT,7,belgaum-rgTQVrra,Arun Talkies
+belgaum-hjagDyTg,4D,Parvathi Nagar to CBT,8,belgaum-JtyDiqRp,Railway Station
+belgaum-hjagDyTg,4D,Parvathi Nagar to CBT,9,belgaum-epQOauim,Fish Market
+belgaum-hjagDyTg,4D,Parvathi Nagar to CBT,10,belgaum-faAMMtvD,DSC
+belgaum-hjagDyTg,4D,Parvathi Nagar to CBT,11,belgaum-wihjApFR,College Road
+belgaum-hjagDyTg,4D,Parvathi Nagar to CBT,12,belgaum-FWBVoSGn,Rani Channamma Circle Or Rex
+belgaum-hjagDyTg,4D,Parvathi Nagar to CBT,13,belgaum-UDBsYdVR,Court Stop
+belgaum-hjagDyTg,4D,Parvathi Nagar to CBT,14,belgaum-FXKGTxqv,RTO
+belgaum-hjagDyTg,4D,Parvathi Nagar to CBT,15,belgaum-shuIUjrs,Kotekere Killa
+belgaum-jLCxSAcT,4D,CBT to Parvathi Nagar,1,belgaum-mIBSwwFm,CBT
+belgaum-jLCxSAcT,4D,CBT to Parvathi Nagar,2,belgaum-mxqKCsFO,Kotekere Killa
+belgaum-jLCxSAcT,4D,CBT to Parvathi Nagar,3,belgaum-SFrCOYXi,RTO
+belgaum-jLCxSAcT,4D,CBT to Parvathi Nagar,4,belgaum-Ouxadhky,Court Stop
+belgaum-jLCxSAcT,4D,CBT to Parvathi Nagar,5,belgaum-iaGMfaUC,Rani Channamma Circle Or Rex
+belgaum-jLCxSAcT,4D,CBT to Parvathi Nagar,6,belgaum-AEzFDEUQ,College Road
+belgaum-jLCxSAcT,4D,CBT to Parvathi Nagar,7,belgaum-zlghrqRQ,DSC
+belgaum-jLCxSAcT,4D,CBT to Parvathi Nagar,8,belgaum-pCUjUlHO,Fish Market
+belgaum-jLCxSAcT,4D,CBT to Parvathi Nagar,9,belgaum-QvdcskXn,Railway station
+belgaum-jLCxSAcT,4D,CBT to Parvathi Nagar,10,belgaum-XekwSnDW,Arun Talkies
+belgaum-jLCxSAcT,4D,CBT to Parvathi Nagar,11,belgaum-bNLVMdkW,Railway 1st Gate
+belgaum-jLCxSAcT,4D,CBT to Parvathi Nagar,12,belgaum-cmNjlUGw,Railway 2nd Gate
+belgaum-jLCxSAcT,4D,CBT to Parvathi Nagar,13,belgaum-OPdbdQOZ,HP Bus Stop
+belgaum-jLCxSAcT,4D,CBT to Parvathi Nagar,14,belgaum-TpQKRRFC,RC Nagar
+belgaum-jLCxSAcT,4D,CBT to Parvathi Nagar,15,belgaum-mHDXSLHQ,State Bank Colony
+belgaum-jyBsxrMA,Hindalaga-CBT,Hindalaga to CBT,1,belgaum-lfZoExUf,Hindalaga
+belgaum-jyBsxrMA,Hindalaga-CBT,Hindalaga to CBT,2,belgaum-xTszJKXx,Vijaya Nagar 2
+belgaum-jyBsxrMA,Hindalaga-CBT,Hindalaga to CBT,3,belgaum-QZzlNhWB,Vijaya Nagar 1
+belgaum-jyBsxrMA,Hindalaga-CBT,Hindalaga to CBT,4,belgaum-NHKdRURz,Vinayak Nagar
+belgaum-jyBsxrMA,Hindalaga-CBT,Hindalaga to CBT,5,belgaum-DBMScyIC,Ganapathi
+belgaum-jyBsxrMA,Hindalaga-CBT,Hindalaga to CBT,6,belgaum-ssXnsywV,Gandhi Circle
+belgaum-jyBsxrMA,Hindalaga-CBT,Hindalaga to CBT,7,belgaum-WiwgNTVe,DSC
+belgaum-jyBsxrMA,Hindalaga-CBT,Hindalaga to CBT,8,belgaum-wihjApFR,College Road
+belgaum-jyBsxrMA,Hindalaga-CBT,Hindalaga to CBT,9,belgaum-FWBVoSGn,Rani Channamma Circle Or Rex
+belgaum-jyBsxrMA,Hindalaga-CBT,Hindalaga to CBT,10,belgaum-UDBsYdVR,Court Stop
+belgaum-jyBsxrMA,Hindalaga-CBT,Hindalaga to CBT,11,belgaum-FXKGTxqv,RTO
+belgaum-jyBsxrMA,Hindalaga-CBT,Hindalaga to CBT,12,belgaum-shuIUjrs,Kotekere Killa
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,1,belgaum-KchkOUvc,Sahyadri Nagar Last Stop
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,2,belgaum-CqzJBBSa,Sahyadri Nagar 3 Stop
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,3,belgaum-wPwCiiBk,Sahyadri Nagar 2 Stop
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,4,belgaum-BIJEXkMH,Sahyadri Nagar 1 Stop
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,5,belgaum-HwBtiBCK,Vidya Nagar
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,6,belgaum-yYWIPyJW,Sarathi Nagar
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,7,belgaum-KoHXUcjW,Police Colony Or KEB
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,8,belgaum-kJkuAnbQ,Vidya Nagar
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,9,belgaum-rhIldkyR,Hanuman Nagar
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,10,belgaum-oyBlCJof,Hanuman Nagar Circle
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,11,belgaum-eBQiUiAd,TV Center
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,12,belgaum-VYeGPNAx,Water Tank
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,13,belgaum-hHyQkIux,Shiddeshwara Nagar
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,14,belgaum-oYOsLSTP,Ambedkar Nagar Main Stop
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,15,belgaum-oTWaasix,Ambedkar Nagar 1 Stop
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,16,belgaum-eNTWAvhj,Jyoti Pan Shop
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,17,belgaum-EsNkFOZG,Sadashiv Nagar Last Stop
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,18,belgaum-CDOClsNZ,Maruti Mandir Sadashiv Nagar
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,19,belgaum-wCsklYFV,Maharashtra Bank
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,20,belgaum-HXhcCsRh,Rail Nagara
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,21,belgaum-cnDaqmBu,Vishweshwaraya Nagar
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,22,belgaum-OZXqQUhs,Balekundari Garden
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,23,belgaum-JXNsLRCB,Club Road
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,24,belgaum-dPWhOQro,Rani Channamma Circle Or Milan
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,25,belgaum-AEzFDEUQ,College Road
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,26,belgaum-zlghrqRQ,DSC
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,27,belgaum-wihjApFR,College Road
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,28,belgaum-FWBVoSGn,Rani Channamma Circle Or Rex
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,29,belgaum-UDBsYdVR,Court Stop
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,30,belgaum-FXKGTxqv,RTO
+belgaum-kObVgXmf,6B Via KEB,Sahyadri Nagar Last Stop to CBT,31,belgaum-shuIUjrs,Kotekere Killa
+belgaum-mtmKOpLS,8B,CBT to Vantamuri,1,belgaum-mIBSwwFm,CBT
+belgaum-mtmKOpLS,8B,CBT to Vantamuri,2,belgaum-SwJVhTgW,Kotekere Killa
+belgaum-mtmKOpLS,8B,CBT to Vantamuri,3,belgaum-YxCvqQYB,BHS Lakeview Hospital Or Azad Nagar
+belgaum-mtmKOpLS,8B,CBT to Vantamuri,4,belgaum-rfXqDbNH,Kanakadas Circle
+belgaum-mtmKOpLS,8B,CBT to Vantamuri,5,belgaum-GwjwuCOU,Cancer Hospital
+belgaum-mtmKOpLS,8B,CBT to Vantamuri,6,belgaum-AowUarYZ,Ashok Nagar 1
+belgaum-mtmKOpLS,8B,CBT to Vantamuri,7,belgaum-JsRUvMuW,Ashok Nagar
+belgaum-mtmKOpLS,8B,CBT to Vantamuri,8,belgaum-BuLmHtPp,Shree Nagar Garden
+belgaum-mtmKOpLS,8B,CBT to Vantamuri,9,belgaum-YXvCjwyX,Shree Nagar Masjid
+belgaum-mtmKOpLS,8B,CBT to Vantamuri,10,belgaum-IUvjOVyV,Shree Nagar Vantamuri
+belgaum-nLLpGPrK,28A,Honaga to CBT,1,belgaum-eQgAIrcA,Honaga
+belgaum-nLLpGPrK,28A,Honaga to CBT,2,belgaum-zCLsYCOt,Kakati
+belgaum-nLLpGPrK,28A,Honaga to CBT,3,belgaum-nVTrleyU,Muttyanahatti
+belgaum-nLLpGPrK,28A,Honaga to CBT,4,belgaum-SZkjoQVo,Yamanapur
+belgaum-nLLpGPrK,28A,Honaga to CBT,5,belgaum-KWDFRVAf,Indal Factory
+belgaum-nLLpGPrK,28A,Honaga to CBT,6,belgaum-sgzHCHME,Kata
+belgaum-nLLpGPrK,28A,Honaga to CBT,7,belgaum-CgYrXDei,Vaibhav Nagar Cross
+belgaum-nLLpGPrK,28A,Honaga to CBT,8,belgaum-TQFfJekb,KLE Hospital
+belgaum-nLLpGPrK,28A,Honaga to CBT,9,belgaum-tpHpMqBj,JNMC
+belgaum-nLLpGPrK,28A,Honaga to CBT,10,belgaum-aiaWewUH,Ramdev
+belgaum-nLLpGPrK,28A,Honaga to CBT,11,belgaum-yqgtptvy,T B ward
+belgaum-nLLpGPrK,28A,Honaga to CBT,12,belgaum-OxbCGXXE,Civil Hospital
+belgaum-nLLpGPrK,28A,Honaga to CBT,13,belgaum-RqyUpBmp,Rani Chennamma Circle
+belgaum-nLLpGPrK,28A,Honaga to CBT,14,belgaum-UDBsYdVR,Court Stop
+belgaum-nLLpGPrK,28A,Honaga to CBT,15,belgaum-FXKGTxqv,RTO
+belgaum-nLLpGPrK,28A,Honaga to CBT,16,belgaum-shuIUjrs,Kotekere Killa
+belgaum-sYqWbFzx,6B Via Kumaraswami Layout,DSC to CBT,1,belgaum-faAMMtvD,DSC
+belgaum-sYqWbFzx,6B Via Kumaraswami Layout,DSC to CBT,2,belgaum-wihjApFR,College Road
+belgaum-sYqWbFzx,6B Via Kumaraswami Layout,DSC to CBT,3,belgaum-FWBVoSGn,Rani Channamma Circle Or Rex
+belgaum-sYqWbFzx,6B Via Kumaraswami Layout,DSC to CBT,4,belgaum-UDBsYdVR,Court Stop
+belgaum-sYqWbFzx,6B Via Kumaraswami Layout,DSC to CBT,5,belgaum-FXKGTxqv,RTO
+belgaum-sYqWbFzx,6B Via Kumaraswami Layout,DSC to CBT,6,belgaum-shuIUjrs,Kotekere Killa
+belgaum-tQfpEeBg,6A Via Kunempu Nagar,Kuvempu Nagar to CBT,1,belgaum-fIMxDTFX,Kuvempu Nagar
+belgaum-tQfpEeBg,6A Via Kunempu Nagar,Kuvempu Nagar to CBT,2,belgaum-HwBtiBCK,Vidya Nagar
+belgaum-tQfpEeBg,6A Via Kunempu Nagar,Kuvempu Nagar to CBT,3,belgaum-KoHXUcjW,Police Colony Or KEB
+belgaum-tQfpEeBg,6A Via Kunempu Nagar,Kuvempu Nagar to CBT,4,belgaum-ZtMnOeGD,Sarathi Nagar
+belgaum-tQfpEeBg,6A Via Kunempu Nagar,Kuvempu Nagar to CBT,5,belgaum-kJkuAnbQ,Vidya Nagar
+belgaum-tQfpEeBg,6A Via Kunempu Nagar,Kuvempu Nagar to CBT,6,belgaum-fDXXJhNZ,Kumaraswami Layout Cross
+belgaum-tQfpEeBg,6A Via Kunempu Nagar,Kuvempu Nagar to CBT,7,belgaum-rhIldkyR,Hanuman Nagar
+belgaum-tQfpEeBg,6A Via Kunempu Nagar,Kuvempu Nagar to CBT,8,belgaum-oyBlCJof,Hanuman Nagar Circle
+belgaum-tQfpEeBg,6A Via Kunempu Nagar,Kuvempu Nagar to CBT,9,belgaum-eBQiUiAd,TV Center
+belgaum-tQfpEeBg,6A Via Kunempu Nagar,Kuvempu Nagar to CBT,10,belgaum-VYeGPNAx,Water Tank
+belgaum-tQfpEeBg,6A Via Kunempu Nagar,Kuvempu Nagar to CBT,11,belgaum-hHyQkIux,Shiddeshwara Nagar
+belgaum-tQfpEeBg,6A Via Kunempu Nagar,Kuvempu Nagar to CBT,12,belgaum-oYOsLSTP,Ambedkar Nagar Main Stop
+belgaum-tQfpEeBg,6A Via Kunempu Nagar,Kuvempu Nagar to CBT,13,belgaum-oTWaasix,Ambedkar Nagar 1 Stop
+belgaum-tQfpEeBg,6A Via Kunempu Nagar,Kuvempu Nagar to CBT,14,belgaum-eNTWAvhj,Jyoti Pan Shop
+belgaum-tQfpEeBg,6A Via Kunempu Nagar,Kuvempu Nagar to CBT,15,belgaum-EsNkFOZG,Sadashiv Nagar Last Stop
+belgaum-tQfpEeBg,6A Via Kunempu Nagar,Kuvempu Nagar to CBT,16,belgaum-CDOClsNZ,Maruti Mandir Sadashiv Nagar
+belgaum-tQfpEeBg,6A Via Kunempu Nagar,Kuvempu Nagar to CBT,17,belgaum-wCsklYFV,Maharashtra Bank
+belgaum-tQfpEeBg,6A Via Kunempu Nagar,Kuvempu Nagar to CBT,18,belgaum-HXhcCsRh,Rail Nagara
+belgaum-tQfpEeBg,6A Via Kunempu Nagar,Kuvempu Nagar to CBT,19,belgaum-cnDaqmBu,Vishweshwaraya Nagar
+belgaum-tQfpEeBg,6A Via Kunempu Nagar,Kuvempu Nagar to CBT,20,belgaum-OZXqQUhs,Balekundari Garden
+belgaum-tQfpEeBg,6A Via Kunempu Nagar,Kuvempu Nagar to CBT,21,belgaum-JXNsLRCB,Club Road
+belgaum-tQfpEeBg,6A Via Kunempu Nagar,Kuvempu Nagar to CBT,22,belgaum-dPWhOQro,Rani Channamma Circle Or Milan
+belgaum-tQfpEeBg,6A Via Kunempu Nagar,Kuvempu Nagar to CBT,23,belgaum-UDBsYdVR,Court Stop
+belgaum-tQfpEeBg,6A Via Kunempu Nagar,Kuvempu Nagar to CBT,24,belgaum-FXKGTxqv,RTO
+belgaum-tQfpEeBg,6A Via Kunempu Nagar,Kuvempu Nagar to CBT,25,belgaum-shuIUjrs,Kotekere Killa
+belgaum-tuMFAiJa,5B,B K Kangrali Main Stop to CBT,1,belgaum-TVESkCtw,B K Kangrali Main Stop
+belgaum-tuMFAiJa,5B,B K Kangrali Main Stop to CBT,2,belgaum-EKQSGAJK,B K Kangrali 3 Stop
+belgaum-tuMFAiJa,5B,B K Kangrali Main Stop to CBT,3,belgaum-QSvZtaOL,B K Kangrali 2 Stop
+belgaum-tuMFAiJa,5B,B K Kangrali Main Stop to CBT,4,belgaum-MHgahAcH,B K Kangrali 1 Stop
+belgaum-tuMFAiJa,5B,B K Kangrali Main Stop to CBT,5,belgaum-tmIKjOtm,Goundwad
+belgaum-tuMFAiJa,5B,B K Kangrali Main Stop to CBT,6,belgaum-CIrGdFtr,Yamanapur
+belgaum-tuMFAiJa,5B,B K Kangrali Main Stop to CBT,7,belgaum-KWDFRVAf,Indal Factory
+belgaum-tuMFAiJa,5B,B K Kangrali Main Stop to CBT,8,belgaum-sgzHCHME,Kata
+belgaum-tuMFAiJa,5B,B K Kangrali Main Stop to CBT,9,belgaum-CgYrXDei,Vaibhav Nagar Cross
+belgaum-tuMFAiJa,5B,B K Kangrali Main Stop to CBT,10,belgaum-TQFfJekb,KLE Hospital
+belgaum-tuMFAiJa,5B,B K Kangrali Main Stop to CBT,11,belgaum-tpHpMqBj,JNMC
+belgaum-tuMFAiJa,5B,B K Kangrali Main Stop to CBT,12,belgaum-aiaWewUH,Ramdev
+belgaum-tuMFAiJa,5B,B K Kangrali Main Stop to CBT,13,belgaum-yqgtptvy,T B ward
+belgaum-tuMFAiJa,5B,B K Kangrali Main Stop to CBT,14,belgaum-OxbCGXXE,Civil Hospital
+belgaum-tuMFAiJa,5B,B K Kangrali Main Stop to CBT,15,belgaum-RqyUpBmp,Rani Chennamma Circle
+belgaum-tuMFAiJa,5B,B K Kangrali Main Stop to CBT,16,belgaum-UDBsYdVR,Court Stop
+belgaum-tuMFAiJa,5B,B K Kangrali Main Stop to CBT,17,belgaum-FXKGTxqv,RTO
+belgaum-tuMFAiJa,5B,B K Kangrali Main Stop to CBT,18,belgaum-shuIUjrs,Kotekere Killa
+belgaum-xJlbuXDX,1B,CBT to Angol,1,belgaum-mIBSwwFm,CBT
+belgaum-xJlbuXDX,1B,CBT to Angol,2,belgaum-wSVsqfST,Bharatesh College
+belgaum-xJlbuXDX,1B,CBT to Angol,3,belgaum-ZKVvxxxS,Deshpande Petrol Pump
+belgaum-xJlbuXDX,1B,CBT to Angol,4,belgaum-jngZsDXa,Ushatai Gogte School
+belgaum-xJlbuXDX,1B,CBT to Angol,5,belgaum-ALuHcaHt,Shani Mandir
+belgaum-xJlbuXDX,1B,CBT to Angol,6,belgaum-rwhKgsnP,Kapileshwar Temple
+belgaum-xJlbuXDX,1B,CBT to Angol,7,belgaum-YvOUxVJD,Shivaji Garden 1
+belgaum-xJlbuXDX,1B,CBT to Angol,8,belgaum-tucisgLs,Shivaji Garden 2
+belgaum-xJlbuXDX,1B,CBT to Angol,9,belgaum-ihiUqcee,Dhanamma Temple
+belgaum-xJlbuXDX,1B,CBT to Angol,10,belgaum-zdDfIbui,Goaves
+belgaum-xJlbuXDX,1B,CBT to Angol,11,belgaum-PokJBtmf,RPD Cross
+belgaum-xJlbuXDX,1B,CBT to Angol,12,belgaum-YIcwwOnU,Angol Naka
+belgaum-xJlbuXDX,1B,CBT to Angol,13,belgaum-EjnQeNjC,Hari Mandir
+belgaum-xJlbuXDX,1B,CBT to Angol,14,belgaum-PirnIMNA,Gadge Medical Stop
+belgaum-xJlbuXDX,1B,CBT to Angol,15,belgaum-ZLbAsbkY,Marathi School
+belgaum-xJlbuXDX,1B,CBT to Angol,16,belgaum-PHhSJvJt,Dada Medical

@@ -1,0 +1,534 @@
+route_id,route_short_name,route_long_name,stop_sequence,stop_id,stop_name
+kozhikode-0BEIgnAN,Kozhikode-Ernakulam,Kozhikode Bus Stand to Thalappara,1,kozhikode-jpEdIpZZ,Kozhikode Bus Stand
+kozhikode-0BEIgnAN,Kozhikode-Ernakulam,Kozhikode Bus Stand to Thalappara,2,kozhikode-lLoJbPyn,Aster MIMS Hospital
+kozhikode-0BEIgnAN,Kozhikode-Ernakulam,Kozhikode Bus Stand to Thalappara,3,kozhikode-hqXoYHUm,Mankavu
+kozhikode-0BEIgnAN,Kozhikode-Ernakulam,Kozhikode Bus Stand to Thalappara,4,kozhikode-krVSDMDM,Meenchanda Bypass
+kozhikode-0BEIgnAN,Kozhikode-Ernakulam,Kozhikode Bus Stand to Thalappara,5,kozhikode-vfDSFLBH,Cheruvannur Koyas
+kozhikode-0BEIgnAN,Kozhikode-Ernakulam,Kozhikode Bus Stand to Thalappara,6,kozhikode-XYZwPXfw,Ramanattukara Bus Stand
+kozhikode-0BEIgnAN,Kozhikode-Ernakulam,Kozhikode Bus Stand to Thalappara,7,kozhikode-fhSyeTcq,Kakkanchery
+kozhikode-0BEIgnAN,Kozhikode-Ernakulam,Kozhikode Bus Stand to Thalappara,8,kozhikode-SETnYXwI,Calicut University
+kozhikode-0BEIgnAN,Kozhikode-Ernakulam,Kozhikode Bus Stand to Thalappara,9,kozhikode-elCaFbou,Mele Chelari
+kozhikode-0BEIgnAN,Kozhikode-Ernakulam,Kozhikode Bus Stand to Thalappara,10,kozhikode-lGzFmfqJ,Padikkal
+kozhikode-0BEIgnAN,Kozhikode-Ernakulam,Kozhikode Bus Stand to Thalappara,11,kozhikode-phkNCizs,Thalappara
+kozhikode-0IJQZVZo,Kozhikode-Ernakulam,Kozhikode Bus Stand to Ramanattukara Bus Stand,1,kozhikode-CHUdYLLB,Kozhikode Bus Stand
+kozhikode-0IJQZVZo,Kozhikode-Ernakulam,Kozhikode Bus Stand to Ramanattukara Bus Stand,2,kozhikode-JHQFnMgk,Kozhikode Mofusil Bus Stand
+kozhikode-0IJQZVZo,Kozhikode-Ernakulam,Kozhikode Bus Stand to Ramanattukara Bus Stand,3,kozhikode-ANRgGHkw,Meenchanda Bypass
+kozhikode-0IJQZVZo,Kozhikode-Ernakulam,Kozhikode Bus Stand to Ramanattukara Bus Stand,4,kozhikode-kRnElpEr,Koyas
+kozhikode-0IJQZVZo,Kozhikode-Ernakulam,Kozhikode Bus Stand to Ramanattukara Bus Stand,5,kozhikode-khujYmet,Chungam Feroke
+kozhikode-0IJQZVZo,Kozhikode-Ernakulam,Kozhikode Bus Stand to Ramanattukara Bus Stand,6,kozhikode-yaMNdAVm,Ramanattukara Bus Stand
+kozhikode-0cDaakcE,Kozhikode-Bangalore,Kozhikode Bus Stand to Satelite Bus Stand Bangalore,1,kozhikode-CHUdYLLB,Kozhikode Bus Stand
+kozhikode-0cDaakcE,Kozhikode-Bangalore,Kozhikode Bus Stand to Satelite Bus Stand Bangalore,2,kozhikode-kRRWnvJR,Kozhikode Civil Station
+kozhikode-0cDaakcE,Kozhikode-Bangalore,Kozhikode Bus Stand to Satelite Bus Stand Bangalore,3,kozhikode-QoQtEVSf,Kunnamangalam
+kozhikode-0cDaakcE,Kozhikode-Bangalore,Kozhikode Bus Stand to Satelite Bus Stand Bangalore,4,kozhikode-GeJvTzJm,Thamarassery Bus Stand
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,1,kozhikode-mOnMxACt,Kozhikode Palayam Bus Stand
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,2,kozhikode-OqHWWZVt,Kozhikode Mofusil Bus Stand
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,3,kozhikode-yJsrZdZW,Arayidathupalam
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,4,kozhikode-evarMXpQ,Parayanchery
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,5,kozhikode-INEsOFok,Kottooli
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,6,kozhikode-lDaZtcOc,Pattery
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,7,kozhikode-YdJbqEoc,Pottammal
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,8,kozhikode-iHfOYWRx,Thondayad
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,9,kozhikode-WnATnagU,Kavu Nagar Stop
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,10,kozhikode-UhACQRPr,Presentation HSS
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,11,kozhikode-QLdpaPMd,Chevayur
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,12,kozhikode-OJPwmUKB,Kovoor
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,13,kozhikode-xdWOCrJF,Medical College Kozhikode
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,14,kozhikode-HJAxHpsJ,Rahmaniya School
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,15,kozhikode-fbWWNQbe,East Devagiri
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,16,kozhikode-oJSmnowf,Velliparambu Varambu
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,17,kozhikode-BAJIRSjT,Velliparambu 5th Mile
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,18,kozhikode-ssyumYBB,Media One
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,19,kozhikode-CuCebmov,Velliparambu 6th Mile
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,20,kozhikode-QgmwGhhP,Velliparambu 6 Or 2
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,21,kozhikode-EcAszuZO,Service Station
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,22,kozhikode-VTWDzKpM,Kuttikkattoor 1
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,23,kozhikode-HNYAPkpN,Kuttikattur
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,24,kozhikode-thMAitrI,Anakkuzhikkara
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,25,kozhikode-etjUksxG,Parayil
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,26,kozhikode-jjrVkacD,Para Bus Stop
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,27,kozhikode-rSyxZRCW,Poovattuparambu
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,28,kozhikode-BKpCeNMK,Cinema Hall
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,29,kozhikode-BzsfOZpC,Kalleri
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,30,kozhikode-sTtAptxR,PHC Peruvayal
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,31,kozhikode-QXGuALQI,Peruvayal
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,32,kozhikode-fkwRuFfi,Narendra Nagar
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,33,kozhikode-yRJpFesZ,Ayyappan Kavu
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,34,kozhikode-iKhEQeck,Cherooppa Bank
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,35,kozhikode-DkDAHxBF,Cherooppa
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,36,kozhikode-mPajFJBi,Theghilkadav
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,37,kozhikode-CFQAYUFA,Kariyad
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,38,kozhikode-zoCbpZTn,Kolakottu Thazham
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,39,kozhikode-igGENlez,Kalppally
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,40,kozhikode-gdxcATTE,Mahalara
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,41,kozhikode-xXFHdaOA,Parammal
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,42,kozhikode-PiuzZndm,Diamond
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,43,kozhikode-jhBqWKle,Deeda Theatre Mavoor
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,44,kozhikode-pkInTxrP,Mavoor Police Station
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,45,kozhikode-GfcviuVm,Mavoor Bus Stand
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,46,kozhikode-ELmiDsJh,Companyppadi
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,47,kozhikode-FbSxObzF,Elamaram Palam
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,48,kozhikode-PTbbKPHb,Thathoor Poyil
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,49,kozhikode-YoCYlweB,Thathoor
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,50,kozhikode-FtCSLACx,Pipeline Road Junction
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,51,kozhikode-hcoWYvnS,Phed
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,52,kozhikode-eVrPcDPi,Phed 1
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,53,kozhikode-DpjzQQsz,Koolimad
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,54,kozhikode-IOvMLqzu,Edavazikkadavu
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,55,kozhikode-wDtvjrOO,Chullikkaparambu Cybo
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,56,kozhikode-FhEXOTFh,Chullikkaparamba
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,57,kozhikode-FpzCYksF,Palathingal
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,58,kozhikode-upuuXdHw,Peruvalayil
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,59,kozhikode-amDQkIQu,Thenagaparambu
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,60,kozhikode-sRaeIJvG,Parappil
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,61,kozhikode-OaOUtRKL,Ambalappady
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,62,kozhikode-wbgyQsuP,Polukunnu Junction
+kozhikode-0zHnlDkS,Kozhikkode-Vazhikkadav,Kozhikode Palayam Bus Stand to Pannicode,63,kozhikode-gIVyHmOV,Pannicode
+kozhikode-EQDkypjd,Kozhikkod-Ernakulam,Kozhikode Bus Stand to Ernakulam Bus Stand,1,kozhikode-BGAZjDCc,Kozhikode Bus Stand
+kozhikode-EQDkypjd,Kozhikkod-Ernakulam,Kozhikode Bus Stand to Ernakulam Bus Stand,2,kozhikode-JHQFnMgk,Kozhikode Mofusil Bus Stand
+kozhikode-EQDkypjd,Kozhikkod-Ernakulam,Kozhikode Bus Stand to Ernakulam Bus Stand,3,kozhikode-orkdnfmo,Baby Memorial Hospital
+kozhikode-EQDkypjd,Kozhikkod-Ernakulam,Kozhikode Bus Stand to Ernakulam Bus Stand,4,kozhikode-inVXQKGB,Mims Hospital
+kozhikode-EQDkypjd,Kozhikkod-Ernakulam,Kozhikode Bus Stand to Ernakulam Bus Stand,5,kozhikode-GAnCiuWE,Mankavu Junction
+kozhikode-EQDkypjd,Kozhikkod-Ernakulam,Kozhikode Bus Stand to Ernakulam Bus Stand,6,kozhikode-xACYxPeL,Cheruvannur Koyas
+kozhikode-EQDkypjd,Kozhikkod-Ernakulam,Kozhikode Bus Stand to Ernakulam Bus Stand,7,kozhikode-KyzZExLI,Ramanattukara
+kozhikode-EQDkypjd,Kozhikkod-Ernakulam,Kozhikode Bus Stand to Ernakulam Bus Stand,8,kozhikode-TgKdlyIs,Kozhikkod University
+kozhikode-EQDkypjd,Kozhikkod-Ernakulam,Kozhikode Bus Stand to Ernakulam Bus Stand,9,kozhikode-NIWGVWIn,Tazhe Chelari
+kozhikode-EQDkypjd,Kozhikkod-Ernakulam,Kozhikode Bus Stand to Ernakulam Bus Stand,10,kozhikode-rmaVoDae,Kootumuchi
+kozhikode-EQDkypjd,Kozhikkod-Ernakulam,Kozhikode Bus Stand to Ernakulam Bus Stand,11,kozhikode-qbQOxHZk,Chettipadi
+kozhikode-EQDkypjd,Kozhikkod-Ernakulam,Kozhikode Bus Stand to Ernakulam Bus Stand,12,kozhikode-ScnVEphd,Parappanangadi Bus Stand
+kozhikode-HQUvkaTU,Kozhikkode-Aluva,Kozhikode Bus Stand to Tazhe Chelari,1,kozhikode-jpEdIpZZ,Kozhikode Bus Stand
+kozhikode-HQUvkaTU,Kozhikkode-Aluva,Kozhikode Bus Stand to Tazhe Chelari,2,kozhikode-KpgxMhVz,Meechanda Bypass
+kozhikode-HQUvkaTU,Kozhikkode-Aluva,Kozhikode Bus Stand to Tazhe Chelari,3,kozhikode-TgIGVGxl,Koyas
+kozhikode-HQUvkaTU,Kozhikkode-Aluva,Kozhikode Bus Stand to Tazhe Chelari,4,kozhikode-PCoSxoXq,Ramanattukara
+kozhikode-HQUvkaTU,Kozhikkode-Aluva,Kozhikode Bus Stand to Tazhe Chelari,5,kozhikode-TgKdlyIs,Kozhikkod University
+kozhikode-HQUvkaTU,Kozhikkode-Aluva,Kozhikode Bus Stand to Tazhe Chelari,6,kozhikode-NIWGVWIn,Tazhe Chelari
+kozhikode-IiQIIKpl,Kozhikode-Kaliyikkavila,Kozhikode to Thalappara,1,kozhikode-JTsKzoQu,Kozhikode
+kozhikode-IiQIIKpl,Kozhikode-Kaliyikkavila,Kozhikode to Thalappara,2,kozhikode-EUINzSth,Aster Mims Hospital
+kozhikode-IiQIIKpl,Kozhikode-Kaliyikkavila,Kozhikode to Thalappara,3,kozhikode-NkhFJvND,Mankavu
+kozhikode-IiQIIKpl,Kozhikode-Kaliyikkavila,Kozhikode to Thalappara,4,kozhikode-OIIYkJFB,Meenchanda Bypass
+kozhikode-IiQIIKpl,Kozhikode-Kaliyikkavila,Kozhikode to Thalappara,5,kozhikode-JCmVhHnz,Cheruvannur Koyas
+kozhikode-IiQIIKpl,Kozhikode-Kaliyikkavila,Kozhikode to Thalappara,6,kozhikode-XYZwPXfw,Ramanattukara Bus Stand
+kozhikode-IiQIIKpl,Kozhikode-Kaliyikkavila,Kozhikode to Thalappara,7,kozhikode-fhSyeTcq,Kakkanchery
+kozhikode-IiQIIKpl,Kozhikode-Kaliyikkavila,Kozhikode to Thalappara,8,kozhikode-SETnYXwI,Calicut University
+kozhikode-IiQIIKpl,Kozhikode-Kaliyikkavila,Kozhikode to Thalappara,9,kozhikode-lGzFmfqJ,Padikkal
+kozhikode-IiQIIKpl,Kozhikode-Kaliyikkavila,Kozhikode to Thalappara,10,kozhikode-phkNCizs,Thalappara
+kozhikode-MCWaTncs,Kozhikode-Bangalore,Kozhikode Bus Stand to Satelite Bus Stand Bangalore,1,kozhikode-jpEdIpZZ,Kozhikode Bus Stand
+kozhikode-MCWaTncs,Kozhikode-Bangalore,Kozhikode Bus Stand to Satelite Bus Stand Bangalore,2,kozhikode-RJiQRMlN,Malaparamba
+kozhikode-MCWaTncs,Kozhikode-Bangalore,Kozhikode Bus Stand to Satelite Bus Stand Bangalore,3,kozhikode-npKsYwbU,NGO Quarters
+kozhikode-MCWaTncs,Kozhikode-Bangalore,Kozhikode Bus Stand to Satelite Bus Stand Bangalore,4,kozhikode-NAUdPBdx,Moozhikkal
+kozhikode-MCWaTncs,Kozhikode-Bangalore,Kozhikode Bus Stand to Satelite Bus Stand Bangalore,5,kozhikode-qXHMcsxH,Markaz
+kozhikode-MCWaTncs,Kozhikode-Bangalore,Kozhikode Bus Stand to Satelite Bus Stand Bangalore,6,kozhikode-SGHtYeJo,Kunnamangalam
+kozhikode-MCWaTncs,Kozhikode-Bangalore,Kozhikode Bus Stand to Satelite Bus Stand Bangalore,7,kozhikode-emkXOBha,Padanilam
+kozhikode-MCWaTncs,Kozhikode-Bangalore,Kozhikode Bus Stand to Satelite Bus Stand Bangalore,8,kozhikode-HRiJiFkt,Koduvally
+kozhikode-MCWaTncs,Kozhikode-Bangalore,Kozhikode Bus Stand to Satelite Bus Stand Bangalore,9,kozhikode-eaVDZDJS,Thamarassery New Bus Stand
+kozhikode-MCWaTncs,Kozhikode-Bangalore,Kozhikode Bus Stand to Satelite Bus Stand Bangalore,10,kozhikode-zyTpwwsn,Thamarassery New Bus Stand
+kozhikode-MCZbbHmv,Kozhikkode-Wims Hospital,Kozhikode Bus Stand to Thamarassery Old Bus Stand,1,kozhikode-BGAZjDCc,Kozhikode Bus Stand
+kozhikode-MCZbbHmv,Kozhikkode-Wims Hospital,Kozhikode Bus Stand to Thamarassery Old Bus Stand,2,kozhikode-vMzKccZT,Medical College Kozhikode
+kozhikode-MCZbbHmv,Kozhikkode-Wims Hospital,Kozhikode Bus Stand to Thamarassery Old Bus Stand,3,kozhikode-xfBfMSRy,Karanthur
+kozhikode-MCZbbHmv,Kozhikkode-Wims Hospital,Kozhikode Bus Stand to Thamarassery Old Bus Stand,4,kozhikode-rUWaIXAK,Markaz
+kozhikode-MCZbbHmv,Kozhikkode-Wims Hospital,Kozhikode Bus Stand to Thamarassery Old Bus Stand,5,kozhikode-gcMnfmbg,Kunnamangalam Old Bus Stand
+kozhikode-MCZbbHmv,Kozhikkode-Wims Hospital,Kozhikode Bus Stand to Thamarassery Old Bus Stand,6,kozhikode-emkXOBha,Padanilam
+kozhikode-MCZbbHmv,Kozhikkode-Wims Hospital,Kozhikode Bus Stand to Thamarassery Old Bus Stand,7,kozhikode-SLbrNexM,Koduvally
+kozhikode-MCZbbHmv,Kozhikkode-Wims Hospital,Kozhikode Bus Stand to Thamarassery Old Bus Stand,8,kozhikode-xPFcwwXX,Parappan Poyil Junction
+kozhikode-MCZbbHmv,Kozhikkode-Wims Hospital,Kozhikode Bus Stand to Thamarassery Old Bus Stand,9,kozhikode-VkBwMoLA,Thamarassery
+kozhikode-MCZbbHmv,Kozhikkode-Wims Hospital,Kozhikode Bus Stand to Thamarassery Old Bus Stand,10,kozhikode-wkLrreTD,Thamarassery New Bus Stand
+kozhikode-MCZbbHmv,Kozhikkode-Wims Hospital,Kozhikode Bus Stand to Thamarassery Old Bus Stand,11,kozhikode-ifRoRoED,Thamarassery Old Bus Stand
+kozhikode-NBguNxQR,Kozhikkode-Kanhangad Depot,Kozhikode Bus Stand to Koyilandy Civil,1,kozhikode-XxHuSxnA,Kozhikode Bus Stand
+kozhikode-NBguNxQR,Kozhikkode-Kanhangad Depot,Kozhikode Bus Stand to Koyilandy Civil,2,kozhikode-zxsUHPeX,Nadakkavu
+kozhikode-NBguNxQR,Kozhikkode-Kanhangad Depot,Kozhikode Bus Stand to Koyilandy Civil,3,kozhikode-oxDfnfGJ,West Hill Chungam
+kozhikode-NBguNxQR,Kozhikkode-Kanhangad Depot,Kozhikode Bus Stand to Koyilandy Civil,4,kozhikode-MoAsZssF,Pavangad Depot Junction
+kozhikode-NBguNxQR,Kozhikkode-Kanhangad Depot,Kozhikode Bus Stand to Koyilandy Civil,5,kozhikode-mTwQwziu,Vengali
+kozhikode-NBguNxQR,Kozhikkode-Kanhangad Depot,Kozhikode Bus Stand to Koyilandy Civil,6,kozhikode-lRyKVrYE,Elathur
+kozhikode-NBguNxQR,Kozhikkode-Kanhangad Depot,Kozhikode Bus Stand to Koyilandy Civil,7,kozhikode-pKQxRLIF,Pookkad
+kozhikode-NBguNxQR,Kozhikkode-Kanhangad Depot,Kozhikode Bus Stand to Koyilandy Civil,8,kozhikode-DGxmkzrw,Koyilandy Highway Stand
+kozhikode-NBguNxQR,Kozhikkode-Kanhangad Depot,Kozhikode Bus Stand to Koyilandy Civil,9,kozhikode-EXMPPMxr,Koyilandy Civil
+kozhikode-RvOVzXMh,Kozhikode-Bangalore,Kozhikode Bus Stand to Satelite Bus Stand Bangalore,1,kozhikode-jpEdIpZZ,Kozhikode Bus Stand
+kozhikode-RvOVzXMh,Kozhikode-Bangalore,Kozhikode Bus Stand to Satelite Bus Stand Bangalore,2,kozhikode-kRRWnvJR,Kozhikode Civil Station
+kozhikode-RvOVzXMh,Kozhikode-Bangalore,Kozhikode Bus Stand to Satelite Bus Stand Bangalore,3,kozhikode-SGHtYeJo,Kunnamangalam
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,1,kozhikode-jpEdIpZZ,Kozhikode Bus Stand
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,2,kozhikode-XRmQQPxo,Kottooli
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,3,kozhikode-rimvcvIv,Chevayoor
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,4,kozhikode-aqVyyDMh,Medical College Kozhikode
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,5,kozhikode-yEatwjkw,Mundikkal Thazham
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,6,kozhikode-xfBfMSRy,Karanthur
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,7,kozhikode-rUWaIXAK,Markaz
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,8,kozhikode-blgPtJlg,Iim Kunnamagalam
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,9,kozhikode-gcMnfmbg,Kunnamangalam Old Bus Stand
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,10,kozhikode-ytmlZgok,Mele Pathimangalam
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,11,kozhikode-OEYCotXW,Pathimangalam
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,12,kozhikode-IYgwrHHi,Thazhe Pathimangalam
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,13,kozhikode-AlIVFsDp,Thazhe Padanilam
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,14,kozhikode-emkXOBha,Padanilam
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,15,kozhikode-pkVEaBIw,Vennakkad
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,16,kozhikode-NYXaNnmn,Madrasa Bazar
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,17,kozhikode-oeMNBmCV,South Koduvally
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,18,kozhikode-XrczrkNO,Homoeo Dispensary Koduvally
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,19,kozhikode-CGJcemzL,Old Rt Office
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,20,kozhikode-PMslkzQO,Thazhe Koduvally
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,21,kozhikode-SLbrNexM,Koduvally
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,22,kozhikode-iKRzFGUz,Palakkutty
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,23,kozhikode-lIRjDUPz,Mele Palakkutty
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,24,kozhikode-YlFZjmEw,Nalankandy
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,25,kozhikode-FDvngxtO,Mannil Kadavu
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,26,kozhikode-XnXjTccX,Vavad 16th Mile
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,27,kozhikode-SnhWdCcR,Vavad
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,28,kozhikode-nIXtWBQE,Alinchuvadu
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,29,kozhikode-xPFcwwXX,Parappan Poyil Junction
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,30,kozhikode-SQtudGDL,Thazhe Parappanpoyil
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,31,kozhikode-OkhouqBq,18th Mile Thamarassery
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,32,kozhikode-lugeIBdN,Thamarassery Bus Stand
+kozhikode-SrafHzcY,Mch Kozhikode-Adivaram,Kozhikode Bus Stand to Adivaram,33,kozhikode-bzUAgnCd,Thamarassery Taluk Hospital
+kozhikode-TCCapMxo,Kozhikkode-Mananthavady,Kozhikode Bus Stand to Thamarassery Bus Stand,1,kozhikode-BdLUiomp,Kozhikode Bus Stand
+kozhikode-TCCapMxo,Kozhikkode-Mananthavady,Kozhikode Bus Stand to Thamarassery Bus Stand,2,kozhikode-eHxoZheX,Eranjipalam Junction
+kozhikode-TCCapMxo,Kozhikkode-Mananthavady,Kozhikode Bus Stand to Thamarassery Bus Stand,3,kozhikode-kRRWnvJR,Kozhikode Civil Station
+kozhikode-TCCapMxo,Kozhikkode-Mananthavady,Kozhikode Bus Stand to Thamarassery Bus Stand,4,kozhikode-zmiPSGBk,Ngo Quarters
+kozhikode-TCCapMxo,Kozhikkode-Mananthavady,Kozhikode Bus Stand to Thamarassery Bus Stand,5,kozhikode-DrhJudKi,Kunnamangalam
+kozhikode-TCCapMxo,Kozhikkode-Mananthavady,Kozhikode Bus Stand to Thamarassery Bus Stand,6,kozhikode-BuYHNOUc,Koduvally
+kozhikode-TCCapMxo,Kozhikkode-Mananthavady,Kozhikode Bus Stand to Thamarassery Bus Stand,7,kozhikode-GeJvTzJm,Thamarassery Bus Stand
+kozhikode-TJkczjGA,Perumanna-Medical College,Perummana Bus Stand to Medical College Kozhikode,1,kozhikode-vmikWWKo,Perummana Bus Stand
+kozhikode-TJkczjGA,Perumanna-Medical College,Perummana Bus Stand to Medical College Kozhikode,2,kozhikode-eJippRQO,Manakkadavu
+kozhikode-TJkczjGA,Perumanna-Medical College,Perummana Bus Stand to Medical College Kozhikode,3,kozhikode-SFRzJsvT,Pantheerankavu Junction
+kozhikode-TJkczjGA,Perumanna-Medical College,Perummana Bus Stand to Medical College Kozhikode,4,kozhikode-sMleCiIx,Koodathumpara Kshethram
+kozhikode-TJkczjGA,Perumanna-Medical College,Perummana Bus Stand to Medical College Kozhikode,5,kozhikode-thRlaEnP,Hilite Mall
+kozhikode-TJkczjGA,Perumanna-Medical College,Perummana Bus Stand to Medical College Kozhikode,6,kozhikode-UYkjplRQ,Mooriyad
+kozhikode-TJkczjGA,Perumanna-Medical College,Perummana Bus Stand to Medical College Kozhikode,7,kozhikode-iNuYDwcF,Mananchira City
+kozhikode-TJkczjGA,Perumanna-Medical College,Perummana Bus Stand to Medical College Kozhikode,8,kozhikode-vWowfPKO,Kottuly
+kozhikode-TJkczjGA,Perumanna-Medical College,Perummana Bus Stand to Medical College Kozhikode,9,kozhikode-IHTwIysa,Chevayoor
+kozhikode-TSTmElTo,Medical College-Perumanna,Medical College Kozhikode to Perummana Bus Stand,1,kozhikode-iaCzozIF,Medical College Kozhikode
+kozhikode-TSTmElTo,Medical College-Perumanna,Medical College Kozhikode to Perummana Bus Stand,2,kozhikode-PkTrLRgW,Chevayoor
+kozhikode-TSTmElTo,Medical College-Perumanna,Medical College Kozhikode to Perummana Bus Stand,3,kozhikode-GTbAJPBV,Kottuly
+kozhikode-TSTmElTo,Medical College-Perumanna,Medical College Kozhikode to Perummana Bus Stand,4,kozhikode-OhxjvxXy,Mananchira City
+kozhikode-TSTmElTo,Medical College-Perumanna,Medical College Kozhikode to Perummana Bus Stand,5,kozhikode-JTpnODoy,Mooriyad
+kozhikode-TSTmElTo,Medical College-Perumanna,Medical College Kozhikode to Perummana Bus Stand,6,kozhikode-TeeFoizp,Hilite Mall
+kozhikode-TSTmElTo,Medical College-Perumanna,Medical College Kozhikode to Perummana Bus Stand,7,kozhikode-fbmCubmc,Kunnathu Palam
+kozhikode-TSTmElTo,Medical College-Perumanna,Medical College Kozhikode to Perummana Bus Stand,8,kozhikode-wRbmyLhe,Pantheerankavu Junction
+kozhikode-TSTmElTo,Medical College-Perumanna,Medical College Kozhikode to Perummana Bus Stand,9,kozhikode-oRXXenVY,Manakkadavu
+kozhikode-YWGpfzOM,Kozhikkode-Kollam,Kozhikode Bus Stand to Parappanangadi Bus Stand,1,kozhikode-BGAZjDCc,Kozhikode Bus Stand
+kozhikode-YWGpfzOM,Kozhikkode-Kollam,Kozhikode Bus Stand to Parappanangadi Bus Stand,2,kozhikode-OIIYkJFB,Meenchanda Bypass
+kozhikode-YWGpfzOM,Kozhikkode-Kollam,Kozhikode Bus Stand to Parappanangadi Bus Stand,3,kozhikode-xACYxPeL,Cheruvannur Koyas
+kozhikode-YWGpfzOM,Kozhikkode-Kollam,Kozhikode Bus Stand to Parappanangadi Bus Stand,4,kozhikode-LRMrWOaX,Chungam Feroke
+kozhikode-YWGpfzOM,Kozhikkode-Kollam,Kozhikode Bus Stand to Parappanangadi Bus Stand,5,kozhikode-TgKdlyIs,Kozhikkod University
+kozhikode-YWGpfzOM,Kozhikkode-Kollam,Kozhikode Bus Stand to Parappanangadi Bus Stand,6,kozhikode-qbQOxHZk,Chettipadi
+kozhikode-YWGpfzOM,Kozhikkode-Kollam,Kozhikode Bus Stand to Parappanangadi Bus Stand,7,kozhikode-ScnVEphd,Parappanangadi Bus Stand
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,1,kozhikode-mOnMxACt,Kozhikode Palayam Bus Stand
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,2,kozhikode-qUfjQFWo,Kozhikode Mofusil Bus Stand
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,3,kozhikode-yJsrZdZW,Arayidathupalam
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,4,kozhikode-kKhswTYW,Parayanchery
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,5,kozhikode-INEsOFok,Kottooli
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,6,kozhikode-lDaZtcOc,Pattery
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,7,kozhikode-EnUVgKgi,Pottammal
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,8,kozhikode-iHfOYWRx,Thondayad
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,9,kozhikode-WnATnagU,Kavu Nagar Stop
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,10,kozhikode-uPzFvxqZ,Presentation HSS
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,11,kozhikode-QLdpaPMd,Chevayur
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,12,kozhikode-OJPwmUKB,Kovoor
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,13,kozhikode-yOIPTiEV,Medical College
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,14,kozhikode-HJAxHpsJ,Rahmaniya School
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,15,kozhikode-fbWWNQbe,East Devagiri
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,16,kozhikode-oJSmnowf,Velliparambu Varambu
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,17,kozhikode-IFnBarAu,Velliparambu
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,18,kozhikode-ssyumYBB,Media One
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,19,kozhikode-CuCebmov,Velliparambu 6th Mile
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,20,kozhikode-QgmwGhhP,Velliparambu 6 Or 2
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,21,kozhikode-EcAszuZO,Service Station
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,22,kozhikode-lXNvDtSl,Awh
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,23,kozhikode-KxProxQf,Kuttikattur
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,24,kozhikode-sUPDZlfz,Anakuzhikkara
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,25,kozhikode-xYDxeyCW,Parayil
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,26,kozhikode-zhEAfnZU,Para Bus Stop
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,27,kozhikode-rSyxZRCW,Poovattuparambu
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,28,kozhikode-UuSiSDho,Cinema Hall
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,29,kozhikode-wJeOmBjF,Kallery
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,30,kozhikode-pkrMVCnu,Peruvayal
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,31,kozhikode-tQKPWiwZ,Kattayatt Ambalam
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,32,kozhikode-IIJJhfwV,Kodasserithazham
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,33,kozhikode-RTfoBvWa,Palli Thazham
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,34,kozhikode-YPfDRRGu,Ambalamukku
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,35,kozhikode-AIMPxQSI,Kayalam
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,36,kozhikode-gjwhrORf,Thazhvaram
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,37,kozhikode-mEPIqOKb,Oorkkadav
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,38,kozhikode-JbcmeLOr,Pallivalavu
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,39,kozhikode-mtpkdgJw,Kunnu
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,40,kozhikode-mGKeIeWU,Korappadam
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,41,kozhikode-tIbVrrJL,Mundumuzhi
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,42,kozhikode-UwJEyEMY,Kalpalli
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,43,kozhikode-OOOUAMem,Olppam Kadavu
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,44,kozhikode-VnMWZbYC,Iqraa Hospital Vazhakkad
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,45,kozhikode-WUoisuVt,Vazhakkad
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,46,kozhikode-XxjnwVZq,Cheeni Bazar
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,47,kozhikode-aVNuuQhT,Cheruvayur Road Vazhakakd
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,48,kozhikode-wyaWzTyP,Valilla Puzha
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,49,kozhikode-WTXuUZmA,Karunyabhavan Or Vaalillapuzha
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,50,kozhikode-MzsDFnHM,Panikkarapuraya
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,51,kozhikode-eoKVYyGc,Edavannappara
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,52,kozhikode-STRnkHzz,Kolambalam
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,53,kozhikode-rHtOlxMb,Sryambyappadi
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,54,kozhikode-FJOoPojv,Irumbanthodi
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,55,kozhikode-XQYnBGWF,Ponnad Hospital Junction
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,56,kozhikode-JDPZcIrN,Ponnad
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,57,kozhikode-LSpNAyHO,Kacherithadam
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,58,kozhikode-BAsjMfPE,Omanur
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,59,kozhikode-iBHrIulD,Pallippuraya
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,60,kozhikode-EseuOVZw,Parathakkad
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,61,kozhikode-BmFdyRfp,Parathakkad Colony
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,62,kozhikode-VPHQkjGu,Vettukkad
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,63,kozhikode-gdGqBTbw,Mundakkulam
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,64,kozhikode-ZYhIAnib,Moochikkal
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,65,kozhikode-xEADgxvK,Muthuvalloor
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,66,kozhikode-dNlxXKGd,Neerad Post Office
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,67,kozhikode-CqqUcCWo,Vattapparamb
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,68,kozhikode-yStHppTn,Mundapalam
+kozhikode-ZVfcReHR,Kozhikkode-Malappuram,Kozhikode Palayam Bus Stand to Kondotty Bus Stand,69,kozhikode-OiHSmbYQ,Kondotty Bus Stand
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,1,kozhikode-jpEdIpZZ,Kozhikode Bus Stand
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,2,kozhikode-gInNqDgy,Mananchira Bem School
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,3,kozhikode-cohmjXyD,Tti Mananchira
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,4,kozhikode-WRvwFPvs,Mananchira Kozhikode
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,5,kozhikode-MQOeVdgk,Model School Kozhikode
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,6,kozhikode-IZzQiOtc,Kozhikode YMCA
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,7,kozhikode-DgXsfThe,Malabar Christian College
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,8,kozhikode-BRHDcsRo,English Palli
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,9,kozhikode-xYyAQtYw,East Nadakkave
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,10,kozhikode-SiRnoFMj,Eranhippalam
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,11,kozhikode-KjGFEfwe,Civil Station Eranhipaalam
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,12,kozhikode-kRRWnvJR,Kozhikode Civil Station
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,13,kozhikode-vPrVQIFl,Parammal IQRA Hospital
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,14,kozhikode-RJiQRMlN,Malaparamba
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,15,kozhikode-fbvctLWj,Malaparamba Housing Colony
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,16,kozhikode-WpskPXfc,Desodharani Vayanasala
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,17,kozhikode-itmZbtEH,Paroppadi Church
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,18,kozhikode-DoDaVhbt,Paroppadi
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,19,kozhikode-npKsYwbU,NGO Quarters
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,20,kozhikode-qJSmIlsd,Vellimadukunnu
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,21,kozhikode-uvIagCyB,Madhyamam Stop
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,22,kozhikode-cpCUxjYL,Moozhikkal
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,23,kozhikode-wGTkhVwn,6 and 3 East Moozhikkal
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,24,kozhikode-LqXpDsRy,Pallithazham
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,25,kozhikode-EBOCJCHk,Bharathan Bazar
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,26,kozhikode-RBhHYbYG,Chelavoor
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,27,kozhikode-ZKMswCtb,Poovathin Chuvattil
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,28,kozhikode-yjbriDLb,Panicker Stop
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,29,kozhikode-oaaQEcuk,Karanthur
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,30,kozhikode-WeZyhhbg,Ovungara
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,31,kozhikode-qXHMcsxH,Markaz
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,32,kozhikode-xVEoganU,Kunnamangalam
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,33,kozhikode-DrhJudKi,Kunnamangalam
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,34,kozhikode-cfKeXVnk,Sindhu Theatre
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,35,kozhikode-OiNyaetn,Pantheerpadam
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,36,kozhikode-ebGwndGk,Muriyanal
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,37,kozhikode-MiFIVwLc,Choolamvayal
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,38,kozhikode-ytmlZgok,Mele Pathimangalam
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,39,kozhikode-GvSUkACQ,11th Mile
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,40,kozhikode-IYgwrHHi,Thazhe Pathimangalam
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,41,kozhikode-QXQNkbkb,Thazhe Padanilam
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,42,kozhikode-emkXOBha,Padanilam
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,43,kozhikode-AsEYyQpZ,Kummangottu
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,44,kozhikode-pkVEaBIw,Vennakkad
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,45,kozhikode-NYXaNnmn,Madrasa Bazar
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,46,kozhikode-ZtBMjqJp,South Koduvally
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,47,kozhikode-XrczrkNO,Homoeo Dispensary Koduvally
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,48,kozhikode-UCeFMIZh,Modern Bazar Koduvally
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,49,kozhikode-CGJcemzL,Old Rt Office
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,50,kozhikode-PMslkzQO,Thazhe Koduvally
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,51,kozhikode-SLbrNexM,Koduvally
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,52,kozhikode-VRRwbtzj,Koduvally Petrol Pump
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,53,kozhikode-iKRzFGUz,Palakkutty
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,54,kozhikode-lIRjDUPz,Mele Palakkutty
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,55,kozhikode-NBzkQSed,Nellamkandy
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,56,kozhikode-FDvngxtO,Mannil Kadavu
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,57,kozhikode-JJCXcoiA,Vavad 16th Mile
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,58,kozhikode-mRJDmBqg,Erumoth
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,59,kozhikode-SnhWdCcR,Vavad
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,60,kozhikode-nIXtWBQE,Alinchuvadu
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,61,kozhikode-xPFcwwXX,Parappan Poyil Junction
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,62,kozhikode-SQtudGDL,Thazhe Parappanpoyil
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,63,kozhikode-cdOvrNRA,Odakkunnu
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,64,kozhikode-OkhouqBq,18th Mile Thamarassery
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,65,kozhikode-VkBwMoLA,Thamarassery
+kozhikode-aMDTjBUL,Kozhikode-Thalayad,Kozhikode Bus Stand to Thalayad Bus Stand,66,kozhikode-tuwfXjya,Thamarassery Taluk Hospital
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,1,kozhikode-XcJtbNvj,Oorkkadavau
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,2,kozhikode-utmCHmsH,Thazhvaram
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,3,kozhikode-JuivrFrr,Kayalam
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,4,kozhikode-HtaAEZNP,Alinchuvadu
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,5,kozhikode-MrysNRkB,Ambalamukku
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,6,kozhikode-tWxJHOFg,Palli Thazham
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,7,kozhikode-AoCwoGct,Kayalam Lp School
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,8,kozhikode-rVhXVKmi,Kuranholath Palam
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,9,kozhikode-DNpdLSLH,Parammal
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,10,kozhikode-zqvgGdll,Kottayi Thazham
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,11,kozhikode-nfnYxOpG,Palathumkuzhi
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,12,kozhikode-vmikWWKo,Perummana Bus Stand
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,13,kozhikode-EOdqoswu,Perumanna Town
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,14,kozhikode-RFrwjpVR,Perumanna Yatheem Khana
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,15,kozhikode-gsHjpmZR,AUP School Puthoormadam
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,16,kozhikode-cJCIGwry,Puthoormadam
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,17,kozhikode-CuNTsOpy,Ambiloly 19
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,18,kozhikode-RTICAEXP,Mundupalam
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,19,kozhikode-UZbyyTqG,Payyadithazham Periya
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,20,kozhikode-mqrvUUwk,Payyadithazham
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,21,kozhikode-IUhiTIpi,Navodaya
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,22,kozhikode-UWbRGdrf,Punathil Bazar
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,23,kozhikode-JhTXyueD,Payyadimeethal
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,24,kozhikode-ZInnpTYm,Palazhi Pavupoyil
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,25,kozhikode-EPGPZPhB,Palazhi Or Athani
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,26,kozhikode-lZqsiSwz,Katta Company
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,27,kozhikode-YXlRIgjt,Palazhi Pala
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,28,kozhikode-AQdHjpGY,Palazhi Junction
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,29,kozhikode-OfgtpkfY,Land Mark World Stop
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,30,kozhikode-dSSLJrQM,Koodathum Para
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,31,kozhikode-hCDTBPbF,Thiruthimmal Thazham
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,32,kozhikode-PuoKNsRB,Pantheerankavu Junction
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,33,kozhikode-SikzdtQm,Athani
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,34,kozhikode-KyuMEMsq,Virippadam
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,35,kozhikode-EBfhmNYl,Panamaram
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,36,kozhikode-nYmdBeFP,Kodal Nadakkavu
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,37,kozhikode-aVaaQOQP,Vayal Kara
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,38,kozhikode-BcuSfvjH,Arappuzha
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,39,kozhikode-bCIjrKRs,Kadavu Resort
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,40,kozhikode-ugxGCHtJ,Azhinhilam Junction
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,41,kozhikode-SbWtPowt,Thaliyil Kshethram
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,42,kozhikode-MJZvJBgT,Parammal
+kozhikode-bYniYdTe,Oorkadavu-Ramanattukara,Oorkkadavau to Ramanattukara Bus Stand,43,kozhikode-LVCKHxCi,Sevamandir Post Basic School
+kozhikode-eRYwifIk,Kozhikkode-Mananthavady,Kozhikode Bus Stand to Mananthavady Bus Stand,1,kozhikode-BGAZjDCc,Kozhikode Bus Stand
+kozhikode-eRYwifIk,Kozhikkode-Mananthavady,Kozhikode Bus Stand to Mananthavady Bus Stand,2,kozhikode-MICabflv,Kozhikode Mofusil Bus Stand
+kozhikode-eRYwifIk,Kozhikkode-Mananthavady,Kozhikode Bus Stand to Mananthavady Bus Stand,3,kozhikode-KHTTherR,Nadakkavu
+kozhikode-eRYwifIk,Kozhikkode-Mananthavady,Kozhikode Bus Stand to Mananthavady Bus Stand,4,kozhikode-eXuWiDwI,West Hill Chungam
+kozhikode-eRYwifIk,Kozhikkode-Mananthavady,Kozhikode Bus Stand to Mananthavady Bus Stand,5,kozhikode-TIsxWUKO,Kandamkulagara
+kozhikode-eRYwifIk,Kozhikkode-Mananthavady,Kozhikode Bus Stand to Mananthavady Bus Stand,6,kozhikode-AbHMZbMu,Purakkattiri
+kozhikode-eRYwifIk,Kozhikkode-Mananthavady,Kozhikode Bus Stand to Mananthavady Bus Stand,7,kozhikode-rTMgvJsU,Andikkod
+kozhikode-eRYwifIk,Kozhikkode-Mananthavady,Kozhikode Bus Stand to Mananthavady Bus Stand,8,kozhikode-pPjnHycq,Athani
+kozhikode-eRYwifIk,Kozhikkode-Mananthavady,Kozhikode Bus Stand to Mananthavady Bus Stand,9,kozhikode-GdxOBJTG,Atholi
+kozhikode-eRYwifIk,Kozhikkode-Mananthavady,Kozhikode Bus Stand to Mananthavady Bus Stand,10,kozhikode-gsqTJeyC,Kodassery
+kozhikode-eRYwifIk,Kozhikkode-Mananthavady,Kozhikode Bus Stand to Mananthavady Bus Stand,11,kozhikode-UwjJdBga,Koomully Vayanasala
+kozhikode-eRYwifIk,Kozhikkode-Mananthavady,Kozhikode Bus Stand to Mananthavady Bus Stand,12,kozhikode-CFIzylvB,Modakkallur
+kozhikode-eRYwifIk,Kozhikkode-Mananthavady,Kozhikode Bus Stand to Mananthavady Bus Stand,13,kozhikode-nXrPdjUF,Ulliyeri Bus Stand
+kozhikode-eRYwifIk,Kozhikkode-Mananthavady,Kozhikode Bus Stand to Mananthavady Bus Stand,14,kozhikode-uUXJmMOR,Theruvath Kadavu
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,1,kozhikode-XYZwPXfw,Ramanattukara Bus Stand
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,2,kozhikode-kDSeiajx,Sevamandir Post Basic School
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,3,kozhikode-zuSUfyWQ,Parammal
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,4,kozhikode-lbqvDnsA,Thaliyil Kshethram
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,5,kozhikode-amLMKcoo,Azhinhilam Junction
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,6,kozhikode-ThbYFKem,Kadavu Resort
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,7,kozhikode-LpKeryFP,Arappuzha
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,8,kozhikode-PzNOxmcT,Vayal Kara
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,9,kozhikode-KvTMKIUW,Kodal Nadakkavu
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,10,kozhikode-ttNIANRn,Panamaram
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,11,kozhikode-KFtdqIIJ,Virippadam
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,12,kozhikode-zCQXwppU,Athani
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,13,kozhikode-SFRzJsvT,Pantheerankavu Junction
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,14,kozhikode-JdmPfRvg,Thiruthimmal Thazham
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,15,kozhikode-xtNVpKWh,Koodathum Para
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,16,kozhikode-zWAcBCoG,Kattukulagara
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,17,kozhikode-MsNrlDoQ,Pottammal
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,18,kozhikode-kRHUmTdD,Pattery
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,19,kozhikode-cOAJucQY,Kottoli
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,20,kozhikode-diEoslpX,Parayanchery
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,21,kozhikode-tQiZlaDe,Arayidath Palam
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,22,kozhikode-zZWsaqBs,Kozhikode Mofusil Bus Stand
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,23,kozhikode-EnToqxRg,Kozhikode
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,24,kozhikode-gInNqDgy,Mananchira Bem School
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,25,kozhikode-woQFWEhf,Muthalakkulam
+kozhikode-gtCQRIbh,Ramanattukara-Railway Station,Ramanattukara Bus Stand to Kozhikode Railway Station,26,kozhikode-TUXsKuGE,Mcc Bank
+kozhikode-hWLXuHXg,Thamarassery-Velimanna Mukkam,Thamarassery New Bus Stand to Mukkam Bus Stand,1,kozhikode-wkLrreTD,Thamarassery New Bus Stand
+kozhikode-hWLXuHXg,Thamarassery-Velimanna Mukkam,Thamarassery New Bus Stand to Mukkam Bus Stand,2,kozhikode-Tbmabdvm,Velimanna
+kozhikode-hWLXuHXg,Thamarassery-Velimanna Mukkam,Thamarassery New Bus Stand to Mukkam Bus Stand,3,kozhikode-DvdoCGdI,Oamssery Bus Stand
+kozhikode-hWLXuHXg,Thamarassery-Velimanna Mukkam,Thamarassery New Bus Stand to Mukkam Bus Stand,4,kozhikode-kgRYbpQH,Poolapoyil
+kozhikode-hWLXuHXg,Thamarassery-Velimanna Mukkam,Thamarassery New Bus Stand to Mukkam Bus Stand,5,kozhikode-DMOevOpB,Agastiamuzhi Mini Civil Station
+kozhikode-jciiugBK,Kozhikkodu-Vaikom,Kozhikode to Thalappara,1,kozhikode-EnToqxRg,Kozhikode
+kozhikode-jciiugBK,Kozhikkodu-Vaikom,Kozhikode to Thalappara,2,kozhikode-EUINzSth,Aster Mims Hospital
+kozhikode-jciiugBK,Kozhikkodu-Vaikom,Kozhikode to Thalappara,3,kozhikode-zSmhXFMX,Mankavu Junction
+kozhikode-jciiugBK,Kozhikkodu-Vaikom,Kozhikode to Thalappara,4,kozhikode-KpgxMhVz,Meechanda Bypass
+kozhikode-jciiugBK,Kozhikkodu-Vaikom,Kozhikode to Thalappara,5,kozhikode-vfDSFLBH,Cheruvannur Koyas
+kozhikode-jciiugBK,Kozhikkodu-Vaikom,Kozhikode to Thalappara,6,kozhikode-XYZwPXfw,Ramanattukara Bus Stand
+kozhikode-jciiugBK,Kozhikkodu-Vaikom,Kozhikode to Thalappara,7,kozhikode-fhSyeTcq,Kakkanchery
+kozhikode-jciiugBK,Kozhikkodu-Vaikom,Kozhikode to Thalappara,8,kozhikode-vLgPwtmI,Kozhikkod University
+kozhikode-jciiugBK,Kozhikkodu-Vaikom,Kozhikode to Thalappara,9,kozhikode-lGzFmfqJ,Padikkal
+kozhikode-jciiugBK,Kozhikkodu-Vaikom,Kozhikode to Thalappara,10,kozhikode-iQHQPXfi,Thalappara
+kozhikode-jrZCpjUc,Kozhikode-Bangalore,Kozhikode Bus Stand to Satelite Bus Stand Bangalore,1,kozhikode-jpEdIpZZ,Kozhikode Bus Stand
+kozhikode-jrZCpjUc,Kozhikode-Bangalore,Kozhikode Bus Stand to Satelite Bus Stand Bangalore,2,kozhikode-kRRWnvJR,Kozhikode Civil Station
+kozhikode-jrZCpjUc,Kozhikode-Bangalore,Kozhikode Bus Stand to Satelite Bus Stand Bangalore,3,kozhikode-DrhJudKi,Kunnamangalam
+kozhikode-jrZCpjUc,Kozhikode-Bangalore,Kozhikode Bus Stand to Satelite Bus Stand Bangalore,4,kozhikode-GeJvTzJm,Thamarassery Bus Stand
+kozhikode-kGwSgTFL,Kozhikkode-Pampa,Kozhikode Bus Stand to Parappanangadi Bus Stand,1,kozhikode-BGAZjDCc,Kozhikode Bus Stand
+kozhikode-kGwSgTFL,Kozhikkode-Pampa,Kozhikode Bus Stand to Parappanangadi Bus Stand,2,kozhikode-qUfjQFWo,Kozhikode Mofusil Bus Stand
+kozhikode-kGwSgTFL,Kozhikkode-Pampa,Kozhikode Bus Stand to Parappanangadi Bus Stand,3,kozhikode-SVSyqdrp,Mims Hospital
+kozhikode-kGwSgTFL,Kozhikkode-Pampa,Kozhikode Bus Stand to Parappanangadi Bus Stand,4,kozhikode-vfDSFLBH,Cheruvannur Koyas
+kozhikode-kGwSgTFL,Kozhikkode-Pampa,Kozhikode Bus Stand to Parappanangadi Bus Stand,5,kozhikode-SsVtWWDT,Feroke Bus Stand
+kozhikode-kGwSgTFL,Kozhikkode-Pampa,Kozhikode Bus Stand to Parappanangadi Bus Stand,6,kozhikode-RDPwrNdz,Chaliyam
+kozhikode-kGwSgTFL,Kozhikkode-Pampa,Kozhikode Bus Stand to Parappanangadi Bus Stand,7,kozhikode-NjNmMYsB,Kadalundi Kadav
+kozhikode-kGwSgTFL,Kozhikkode-Pampa,Kozhikode Bus Stand to Parappanangadi Bus Stand,8,kozhikode-JxXUvJhD,Aanangadi
+kozhikode-kGwSgTFL,Kozhikkode-Pampa,Kozhikode Bus Stand to Parappanangadi Bus Stand,9,kozhikode-TpvhQNcV,Vallikunnu Ariyalloor Junction
+kozhikode-kGwSgTFL,Kozhikkode-Pampa,Kozhikode Bus Stand to Parappanangadi Bus Stand,10,kozhikode-eLdYvNqQ,Parappanangadi Bus Stand
+kozhikode-rhDvfFio,Kozhikkod-Piravom,Kozhikode Bus Stand to Thalappara,1,kozhikode-BGAZjDCc,Kozhikode Bus Stand
+kozhikode-rhDvfFio,Kozhikkod-Piravom,Kozhikode Bus Stand to Thalappara,2,kozhikode-EUINzSth,Aster Mims Hospital
+kozhikode-rhDvfFio,Kozhikkod-Piravom,Kozhikode Bus Stand to Thalappara,3,kozhikode-hqXoYHUm,Mankavu
+kozhikode-rhDvfFio,Kozhikkod-Piravom,Kozhikode Bus Stand to Thalappara,4,kozhikode-OIIYkJFB,Meenchanda Bypass
+kozhikode-rhDvfFio,Kozhikkod-Piravom,Kozhikode Bus Stand to Thalappara,5,kozhikode-vfDSFLBH,Cheruvannur Koyas
+kozhikode-rhDvfFio,Kozhikkod-Piravom,Kozhikode Bus Stand to Thalappara,6,kozhikode-naLNEYhE,Ramanattukara Bus Stand
+kozhikode-rhDvfFio,Kozhikkod-Piravom,Kozhikode Bus Stand to Thalappara,7,kozhikode-fhSyeTcq,Kakkanchery
+kozhikode-rhDvfFio,Kozhikkod-Piravom,Kozhikode Bus Stand to Thalappara,8,kozhikode-SETnYXwI,Calicut University
+kozhikode-rhDvfFio,Kozhikkod-Piravom,Kozhikode Bus Stand to Thalappara,9,kozhikode-wJXflswI,Mele Chelari
+kozhikode-rhDvfFio,Kozhikkod-Piravom,Kozhikode Bus Stand to Thalappara,10,kozhikode-vXUoxXYs,Padikkal
+kozhikode-rhDvfFio,Kozhikkod-Piravom,Kozhikode Bus Stand to Thalappara,11,kozhikode-iQHQPXfi,Thalappara
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,1,kozhikode-CHUdYLLB,Kozhikode Bus Stand
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,2,kozhikode-cohmjXyD,Tti Mananchira
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,3,kozhikode-TbrMQtGs,Mananchira Kozhikode
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,4,kozhikode-IZzQiOtc,Kozhikode YMCA
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,5,kozhikode-nwEJJSSA,Malabar Christian College
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,6,kozhikode-uMZLxoYL,East Nadakkave
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,7,kozhikode-SiRnoFMj,Eranhippalam
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,8,kozhikode-AQMdYIks,Thazhe Civil Station Kozhikode
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,9,kozhikode-kRRWnvJR,Kozhikode Civil Station
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,10,kozhikode-obmcZMdU,Parammal IQRA Hospital
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,11,kozhikode-iEPEHbUo,Malaparamba
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,12,kozhikode-DxZuAUOL,Malaparamba Housing Colony
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,13,kozhikode-WpskPXfc,Desodharani Vayanasala
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,14,kozhikode-DqjfDryZ,Paroppadi Church
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,15,kozhikode-DoDaVhbt,Paroppadi
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,16,kozhikode-rytTLPCr,Ngo Quarters
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,17,kozhikode-qJSmIlsd,Vellimadukunnu
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,18,kozhikode-uvIagCyB,Madhyamam Stop
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,19,kozhikode-cpCUxjYL,Moozhikkal
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,20,kozhikode-StddqMmq,6 Or 3 East Moozhikkal
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,21,kozhikode-LqXpDsRy,Pallithazham
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,22,kozhikode-BWCjQDFG,Bharathan Bazar
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,23,kozhikode-NGbXMosn,Chelavoor
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,24,kozhikode-uEkyIirR,Poovathin Chuvattil
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,25,kozhikode-yjbriDLb,Panicker Stop
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,26,kozhikode-oaaQEcuk,Karanthur
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,27,kozhikode-hAdwzTju,Ovungara
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,28,kozhikode-rUWaIXAK,Markaz
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,29,kozhikode-xVEoganU,Kunnamangalam
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,30,kozhikode-DrhJudKi,Kunnamangalam
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,31,kozhikode-cfKeXVnk,Sindhu Theatre
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,32,kozhikode-vZtvdRHp,Pantheerpadam
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,33,kozhikode-ebGwndGk,Muriyanal
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,34,kozhikode-MiFIVwLc,Choolamvayal
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,35,kozhikode-ytmlZgok,Mele Pathimangalam
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,36,kozhikode-GvSUkACQ,11th Mile
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,37,kozhikode-IYgwrHHi,Thazhe Pathimangalam
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,38,kozhikode-AlIVFsDp,Thazhe Padanilam
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,39,kozhikode-emkXOBha,Padanilam
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,40,kozhikode-AsEYyQpZ,Kummangottu
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,41,kozhikode-pkVEaBIw,Vennakkad
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,42,kozhikode-NYXaNnmn,Madrasa Bazar
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,43,kozhikode-oeMNBmCV,South Koduvally
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,44,kozhikode-XrczrkNO,Homoeo Dispensary Koduvally
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,45,kozhikode-UCeFMIZh,Modern Bazar Koduvally
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,46,kozhikode-CGJcemzL,Old Rt Office
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,47,kozhikode-PMslkzQO,Thazhe Koduvally
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,48,kozhikode-URZHqjDC,Koduvally
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,49,kozhikode-VRRwbtzj,Koduvally Petrol Pump
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,50,kozhikode-iKRzFGUz,Palakkutty
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,51,kozhikode-lIRjDUPz,Mele Palakkutty
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,52,kozhikode-spXVWvDv,Nellamkandy
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,53,kozhikode-FDvngxtO,Mannil Kadavu
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,54,kozhikode-JJCXcoiA,Vavad 16th Mile
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,55,kozhikode-mRJDmBqg,Erumoth
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,56,kozhikode-SnhWdCcR,Vavad
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,57,kozhikode-nIXtWBQE,Alinchuvadu
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,58,kozhikode-krpxPBse,Parappanpoyil
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,59,kozhikode-SQtudGDL,Thazhe Parappanpoyil
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,60,kozhikode-cdOvrNRA,Odakkunnu
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,61,kozhikode-OkhouqBq,18th Mile Thamarassery
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,62,kozhikode-GeJvTzJm,Thamarassery Bus Stand
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,63,kozhikode-tuwfXjya,Thamarassery Taluk Hospital
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,64,kozhikode-pzbQsasD,Thamarassery Taluk Hospital
+kozhikode-wtEiQzGb,Kozhikode-Kurottupara,Kozhikode Bus Stand to Koorottupara,65,kozhikode-WSyIOOCx,Thamarassery Bus Stand

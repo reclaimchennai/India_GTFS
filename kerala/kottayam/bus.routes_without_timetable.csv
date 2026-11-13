@@ -1,0 +1,537 @@
+route_id,route_short_name,route_long_name,stop_sequence,stop_id,stop_name
+kottayam-0BwlIniJ,Kottayam-Bengaluru,Kottayam Bus Stand to Satelite Bus Stand Bangalore,1,kottayam-gUqNZkDO,Kottayam Bus Stand
+kottayam-0BwlIniJ,Kottayam-Bengaluru,Kottayam Bus Stand to Satelite Bus Stand Bangalore,2,kottayam-UaXJqTQB,Ettumanoor Bus Stand
+kottayam-0DIUfVpP,Kottayam-Muvattupuzha,Kottayam Bus Stand to Kuriyam,1,kottayam-gUqNZkDO,Kottayam Bus Stand
+kottayam-0DIUfVpP,Kottayam-Muvattupuzha,Kottayam Bus Stand to Kuriyam,2,kottayam-PlTpEVCN,Baker Junction
+kottayam-0DIUfVpP,Kottayam-Muvattupuzha,Kottayam Bus Stand to Kuriyam,3,kottayam-cQrvMRpt,Nagampadom Bus Stand
+kottayam-0DIUfVpP,Kottayam-Muvattupuzha,Kottayam Bus Stand to Kuriyam,4,kottayam-yaNRovIG,Sh Mount Choottuveli
+kottayam-0DIUfVpP,Kottayam-Muvattupuzha,Kottayam Bus Stand to Kuriyam,5,kottayam-MrGwSjQl,Chavittuvari
+kottayam-0DIUfVpP,Kottayam-Muvattupuzha,Kottayam Bus Stand to Kuriyam,6,kottayam-mMCzxsfh,Kumaranalloor
+kottayam-0DIUfVpP,Kottayam-Muvattupuzha,Kottayam Bus Stand to Kuriyam,7,kottayam-yYqZTfCJ,Samkranthi
+kottayam-0DIUfVpP,Kottayam-Muvattupuzha,Kottayam Bus Stand to Kuriyam,8,kottayam-ZmiEbYTP,Adichira
+kottayam-0DIUfVpP,Kottayam-Muvattupuzha,Kottayam Bus Stand to Kuriyam,9,kottayam-LnYsatAi,Carithas
+kottayam-0DIUfVpP,Kottayam-Muvattupuzha,Kottayam Bus Stand to Kuriyam,10,kottayam-iTioEfxx,101 Kavala
+kottayam-0DIUfVpP,Kottayam-Muvattupuzha,Kottayam Bus Stand to Kuriyam,11,kottayam-tJAHFynq,Ettumanoor Bus Stand
+kottayam-0DIUfVpP,Kottayam-Muvattupuzha,Kottayam Bus Stand to Kuriyam,12,kottayam-NiQEPvAY,Ettumanoor Temple
+kottayam-0DIUfVpP,Kottayam-Muvattupuzha,Kottayam Bus Stand to Kuriyam,13,kottayam-KcyQqjez,Thavalakuzhi
+kottayam-0DIUfVpP,Kottayam-Muvattupuzha,Kottayam Bus Stand to Kuriyam,14,kottayam-BIiTNXdw,Pattithanam
+kottayam-0DIUfVpP,Kottayam-Muvattupuzha,Kottayam Bus Stand to Kuriyam,15,kottayam-aIQLTnQr,Pattithanam Church Rethnagiri
+kottayam-0DIUfVpP,Kottayam-Muvattupuzha,Kottayam Bus Stand to Kuriyam,16,kottayam-UqcNkNhG,Vempally South
+kottayam-0DIUfVpP,Kottayam-Muvattupuzha,Kottayam Bus Stand to Kuriyam,17,kottayam-ZOnrcitj,Vempally Junction
+kottayam-0DIUfVpP,Kottayam-Muvattupuzha,Kottayam Bus Stand to Kuriyam,18,kottayam-FoYKlJmd,Kuriyam
+kottayam-0IZUFwLe,Kottayam-Alappuzha,Kottayam Bus Stand to SB College Changanassery,1,kottayam-gUqNZkDO,Kottayam Bus Stand
+kottayam-0IZUFwLe,Kottayam-Alappuzha,Kottayam Bus Stand to SB College Changanassery,2,kottayam-QiCpqhXy,Manippuzha
+kottayam-0IZUFwLe,Kottayam-Alappuzha,Kottayam Bus Stand to SB College Changanassery,3,kottayam-rpCaaYqc,Nattakam Government College
+kottayam-0IZUFwLe,Kottayam-Alappuzha,Kottayam Bus Stand to SB College Changanassery,4,kottayam-SYOLOsZH,Mariyappally
+kottayam-0IZUFwLe,Kottayam-Alappuzha,Kottayam Bus Stand to SB College Changanassery,5,kottayam-wYJosbGZ,Pallom Power House
+kottayam-0IZUFwLe,Kottayam-Alappuzha,Kottayam Bus Stand to SB College Changanassery,6,kottayam-oZJrvOyk,Borma Kavala
+kottayam-0IZUFwLe,Kottayam-Alappuzha,Kottayam Bus Stand to SB College Changanassery,7,kottayam-ruNKvXtG,Pallom Post Office
+kottayam-0IZUFwLe,Kottayam-Alappuzha,Kottayam Bus Stand to SB College Changanassery,8,kottayam-icbnBNZI,Kurichy Out Post
+kottayam-0IZUFwLe,Kottayam-Alappuzha,Kottayam Bus Stand to SB College Changanassery,9,kottayam-TwUvDStt,Mathumoola
+kottayam-0IZUFwLe,Kottayam-Alappuzha,Kottayam Bus Stand to SB College Changanassery,10,kottayam-cCFBzMbE,SB College Changanassery
+kottayam-0JdulzEk,Kottayam-Nedumkandam,Kottayam Bus Stand to Kothala 12Th Mile,1,kottayam-gUqNZkDO,Kottayam Bus Stand
+kottayam-0JdulzEk,Kottayam-Nedumkandam,Kottayam Bus Stand to Kothala 12Th Mile,2,kottayam-JgAKenUL,Sashtri Road
+kottayam-0JdulzEk,Kottayam-Nedumkandam,Kottayam Bus Stand to Kothala 12Th Mile,3,kottayam-lQYDdbDI,Muncipal Park
+kottayam-0JdulzEk,Kottayam-Nedumkandam,Kottayam Bus Stand to Kothala 12Th Mile,4,kottayam-eKOkprOV,Logos Junction
+kottayam-0JdulzEk,Kottayam-Nedumkandam,Kottayam Bus Stand to Kothala 12Th Mile,5,kottayam-tGXPCdwf,Collectorate
+kottayam-0JdulzEk,Kottayam-Nedumkandam,Kottayam Bus Stand to Kothala 12Th Mile,6,kottayam-jAfSwBci,Kanjikkuzhi
+kottayam-0JdulzEk,Kottayam-Nedumkandam,Kottayam Bus Stand to Kothala 12Th Mile,7,kottayam-IFLXtpdB,Kalathipady
+kottayam-0JdulzEk,Kottayam-Nedumkandam,Kottayam Bus Stand to Kothala 12Th Mile,8,kottayam-iIsMgkuj,Vadavathoor
+kottayam-0JdulzEk,Kottayam-Nedumkandam,Kottayam Bus Stand to Kothala 12Th Mile,9,kottayam-hFIXaOUA,Vadavathoor Milma
+kottayam-0JdulzEk,Kottayam-Nedumkandam,Kottayam Bus Stand to Kothala 12Th Mile,10,kottayam-JKQLveVp,Madhavanpadi
+kottayam-0JdulzEk,Kottayam-Nedumkandam,Kottayam Bus Stand to Kothala 12Th Mile,11,kottayam-FrwSLVrH,Manarkadu
+kottayam-0JdulzEk,Kottayam-Nedumkandam,Kottayam Bus Stand to Kothala 12Th Mile,12,kottayam-GTGBokwK,Velloor
+kottayam-0JdulzEk,Kottayam-Nedumkandam,Kottayam Bus Stand to Kothala 12Th Mile,13,kottayam-oAYQbdGY,9Th Mile
+kottayam-0JdulzEk,Kottayam-Nedumkandam,Kottayam Bus Stand to Kothala 12Th Mile,14,kottayam-PbbshVsm,Vattamalappadi
+kottayam-0JdulzEk,Kottayam-Nedumkandam,Kottayam Bus Stand to Kothala 12Th Mile,15,kottayam-uapXlVyK,Pambady Kalachantha
+kottayam-0JdulzEk,Kottayam-Nedumkandam,Kottayam Bus Stand to Kothala 12Th Mile,16,kottayam-NsPkmYCH,Alampally
+kottayam-0JdulzEk,Kottayam-Nedumkandam,Kottayam Bus Stand to Kothala 12Th Mile,17,kottayam-wYDvopPL,Chennampally
+kottayam-0JdulzEk,Kottayam-Nedumkandam,Kottayam Bus Stand to Kothala 12Th Mile,18,kottayam-dikGymGo,Kothala 12Th Mile
+kottayam-0MollgUd,Kottayam-Palakkad,Kottayam Bus Stand to Kuryam,1,kottayam-OsgMniAT,Kottayam Bus Stand
+kottayam-0MollgUd,Kottayam-Palakkad,Kottayam Bus Stand to Kuryam,2,kottayam-gUqNZkDO,Kottayam Bus Stand
+kottayam-0MollgUd,Kottayam-Palakkad,Kottayam Bus Stand to Kuryam,3,kottayam-lencMYob,Nagampadam
+kottayam-0MollgUd,Kottayam-Palakkad,Kottayam Bus Stand to Kuryam,4,kottayam-jDQYemXt,Choottuveli
+kottayam-0MollgUd,Kottayam-Palakkad,Kottayam Bus Stand to Kuryam,5,kottayam-AzjPHIVH,Chavittuvari
+kottayam-0MollgUd,Kottayam-Palakkad,Kottayam Bus Stand to Kuryam,6,kottayam-aTTBOdhY,Rethnagiri Church
+kottayam-0MollgUd,Kottayam-Palakkad,Kottayam Bus Stand to Kuryam,7,kottayam-JBGjYoko,Kuryam
+kottayam-0NciVNRF,Kottayam-Panathur,Kottayam Bus Stand to Panathoor Bus Stand Chemberi,1,kottayam-gUqNZkDO,Kottayam Bus Stand
+kottayam-0NciVNRF,Kottayam-Panathur,Kottayam Bus Stand to Panathoor Bus Stand Chemberi,2,kottayam-UaXJqTQB,Ettumanoor Bus Stand
+kottayam-0NlBvpjR,Puthanangady - alappuzha,Puthanangadi to Muhamma Bus Stand,1,kottayam-slYJIcdu,Puthanangadi
+kottayam-0NlBvpjR,Puthanangady - alappuzha,Puthanangadi to Muhamma Bus Stand,2,kottayam-MJnIRoII,Thuruthan Kavala
+kottayam-0NlBvpjR,Puthanangady - alappuzha,Puthanangadi to Muhamma Bus Stand,3,kottayam-yAViYpEQ,Samskritha School
+kottayam-0NlBvpjR,Puthanangady - alappuzha,Puthanangadi to Muhamma Bus Stand,4,kottayam-aXLeHUjr,Kayippuram
+kottayam-0NlBvpjR,Puthanangady - alappuzha,Puthanangadi to Muhamma Bus Stand,5,kottayam-qMANliPY,K G Kavala
+kottayam-0NlBvpjR,Puthanangady - alappuzha,Puthanangadi to Muhamma Bus Stand,6,kottayam-budKNvhU,SN Kavala
+kottayam-0NlBvpjR,Puthanangady - alappuzha,Puthanangadi to Muhamma Bus Stand,7,kottayam-aIUmzPuh,Aryakkara
+kottayam-0NlBvpjR,Puthanangady - alappuzha,Puthanangadi to Muhamma Bus Stand,8,kottayam-TiTLSiVL,Muhamma Panchayath
+kottayam-0NlBvpjR,Puthanangady - alappuzha,Puthanangadi to Muhamma Bus Stand,9,kottayam-jdFxsvTq,CMS School
+kottayam-0NlBvpjR,Puthanangady - alappuzha,Puthanangadi to Muhamma Bus Stand,10,kottayam-ECRfVNdQ,Muhamma Bus Stand
+kottayam-0RxVhRBQ,Kottayam-Kayamkulam,Kottayam Bus Stand to NSS College Perunna,1,kottayam-gUqNZkDO,Kottayam Bus Stand
+kottayam-0RxVhRBQ,Kottayam-Kayamkulam,Kottayam Bus Stand to NSS College Perunna,2,kottayam-phFlfFSq,Kodimatha Bridge
+kottayam-0RxVhRBQ,Kottayam-Kayamkulam,Kottayam Bus Stand to NSS College Perunna,3,kottayam-QiCpqhXy,Manippuzha
+kottayam-0RxVhRBQ,Kottayam-Kayamkulam,Kottayam Bus Stand to NSS College Perunna,4,kottayam-warACQVA,Cement Junction
+kottayam-0RxVhRBQ,Kottayam-Kayamkulam,Kottayam Bus Stand to NSS College Perunna,5,kottayam-rpCaaYqc,Nattakam Government College
+kottayam-0RxVhRBQ,Kottayam-Kayamkulam,Kottayam Bus Stand to NSS College Perunna,6,kottayam-wYJosbGZ,Pallom Power House
+kottayam-0RxVhRBQ,Kottayam-Kayamkulam,Kottayam Bus Stand to NSS College Perunna,7,kottayam-oZJrvOyk,Borma Kavala
+kottayam-0RxVhRBQ,Kottayam-Kayamkulam,Kottayam Bus Stand to NSS College Perunna,8,kottayam-ruNKvXtG,Pallom Post Office
+kottayam-0RxVhRBQ,Kottayam-Kayamkulam,Kottayam Bus Stand to NSS College Perunna,9,kottayam-ExWpTKup,Chingavanam
+kottayam-0RxVhRBQ,Kottayam-Kayamkulam,Kottayam Bus Stand to NSS College Perunna,10,kottayam-iQmoNrih,Mandiram Junction
+kottayam-0RxVhRBQ,Kottayam-Kayamkulam,Kottayam Bus Stand to NSS College Perunna,11,kottayam-eJJpuoBb,Kurichy Mandiram
+kottayam-0RxVhRBQ,Kottayam-Kayamkulam,Kottayam Bus Stand to NSS College Perunna,12,kottayam-ZVXSMdyl,Mission Pally
+kottayam-0RxVhRBQ,Kottayam-Kayamkulam,Kottayam Bus Stand to NSS College Perunna,13,kottayam-UPhIKbMk,Thuruthy Punnamood Junction
+kottayam-0RxVhRBQ,Kottayam-Kayamkulam,Kottayam Bus Stand to NSS College Perunna,14,kottayam-GRllGcZJ,Palathra Bypass Junction
+kottayam-0RxVhRBQ,Kottayam-Kayamkulam,Kottayam Bus Stand to NSS College Perunna,15,kottayam-TwUvDStt,Mathumoola
+kottayam-0RxVhRBQ,Kottayam-Kayamkulam,Kottayam Bus Stand to NSS College Perunna,16,kottayam-cCFBzMbE,SB College Changanassery
+kottayam-0RxVhRBQ,Kottayam-Kayamkulam,Kottayam Bus Stand to NSS College Perunna,17,kottayam-ixSlLzwu,Changanassery Bus Stand
+kottayam-0RxVhRBQ,Kottayam-Kayamkulam,Kottayam Bus Stand to NSS College Perunna,18,kottayam-Calwgofk,Perunna Bus Stand
+kottayam-0RxVhRBQ,Kottayam-Kayamkulam,Kottayam Bus Stand to NSS College Perunna,19,kottayam-vPIJlVIi,NSS College Perunna
+kottayam-0WwseXvl,Kottayam-Vyttila,Kottayam Bus Stand to Pazhayamadam,1,kottayam-gUqNZkDO,Kottayam Bus Stand
+kottayam-0WwseXvl,Kottayam-Vyttila,Kottayam Bus Stand to Pazhayamadam,2,kottayam-HrMNLosg,Baker Junction
+kottayam-0WwseXvl,Kottayam-Vyttila,Kottayam Bus Stand to Pazhayamadam,3,kottayam-lencMYob,Nagampadam
+kottayam-0WwseXvl,Kottayam-Vyttila,Kottayam Bus Stand to Pazhayamadam,4,kottayam-VYKTeciK,Chembarathimoodu
+kottayam-0WwseXvl,Kottayam-Vyttila,Kottayam Bus Stand to Pazhayamadam,5,kottayam-yaNRovIG,Sh Mount Choottuveli
+kottayam-0WwseXvl,Kottayam-Vyttila,Kottayam Bus Stand to Pazhayamadam,6,kottayam-IzDNZoHQ,SH Mount Madom Junction
+kottayam-0WwseXvl,Kottayam-Vyttila,Kottayam Bus Stand to Pazhayamadam,7,kottayam-CIuobYTc,Chavittuvari
+kottayam-0WwseXvl,Kottayam-Vyttila,Kottayam Bus Stand to Pazhayamadam,8,kottayam-mMCzxsfh,Kumaranalloor
+kottayam-0WwseXvl,Kottayam-Vyttila,Kottayam Bus Stand to Pazhayamadam,9,kottayam-omvlQiYD,Sankranthi
+kottayam-0WwseXvl,Kottayam-Vyttila,Kottayam Bus Stand to Pazhayamadam,10,kottayam-lVVmCrtD,Gandhi Nagar
+kottayam-0WwseXvl,Kottayam-Vyttila,Kottayam Bus Stand to Pazhayamadam,11,kottayam-ZmiEbYTP,Adichira
+kottayam-0WwseXvl,Kottayam-Vyttila,Kottayam Bus Stand to Pazhayamadam,12,kottayam-alblsWpL,Thellakam
+kottayam-0WwseXvl,Kottayam-Vyttila,Kottayam Bus Stand to Pazhayamadam,13,kottayam-CsFSaUBW,Chaithanya
+kottayam-0WwseXvl,Kottayam-Vyttila,Kottayam Bus Stand to Pazhayamadam,14,kottayam-EnripgoS,Carithas Hospital
+kottayam-0WwseXvl,Kottayam-Vyttila,Kottayam Bus Stand to Pazhayamadam,15,kottayam-WfGcpdwD,Parolikkal Junction
+kottayam-0WwseXvl,Kottayam-Vyttila,Kottayam Bus Stand to Pazhayamadam,16,kottayam-GzpZsGxA,Ettumanoor Temple
+kottayam-0WwseXvl,Kottayam-Vyttila,Kottayam Bus Stand to Pazhayamadam,17,kottayam-KcyQqjez,Thavalakuzhi
+kottayam-0WwseXvl,Kottayam-Vyttila,Kottayam Bus Stand to Pazhayamadam,18,kottayam-HTWLyFtQ,Kanakkary Ambalapadi
+kottayam-0WwseXvl,Kottayam-Vyttila,Kottayam Bus Stand to Pazhayamadam,19,kottayam-GYtEMToU,Kanakkary
+kottayam-0WwseXvl,Kottayam-Vyttila,Kottayam Bus Stand to Pazhayamadam,20,kottayam-ZlQaBuwm,Nambiyakulam
+kottayam-0WwseXvl,Kottayam-Vyttila,Kottayam Bus Stand to Pazhayamadam,21,kottayam-PleRFkrl,Kothanalloor Bus Stop
+kottayam-0WwseXvl,Kottayam-Vyttila,Kottayam Bus Stand to Pazhayamadam,22,kottayam-klstKIQU,Thoovanisa Kavala
+kottayam-0WwseXvl,Kottayam-Vyttila,Kottayam Bus Stand to Pazhayamadam,23,kottayam-qMTfRUkZ,Manjoor Junction
+kottayam-0WwseXvl,Kottayam-Vyttila,Kottayam Bus Stand to Pazhayamadam,24,kottayam-BfRykEXW,Kuruppanthara
+kottayam-0WwseXvl,Kottayam-Vyttila,Kottayam Bus Stand to Pazhayamadam,25,kottayam-NJoXEgTI,Pazhayamadam
+kottayam-0kOptFzu,Kottayam mc-Kollam,Kottayam Medical College to NSS College Perunna,1,kottayam-YdtJYcjN,Kottayam Medical College
+kottayam-0kOptFzu,Kottayam mc-Kollam,Kottayam Medical College to NSS College Perunna,2,kottayam-mJRuRwDW,Government Dental College
+kottayam-0kOptFzu,Kottayam mc-Kollam,Kottayam Medical College to NSS College Perunna,3,kottayam-ZuGjhwDS,Gandhi Nagar
+kottayam-0kOptFzu,Kottayam mc-Kollam,Kottayam Medical College to NSS College Perunna,4,kottayam-yhIBMUcA,Samcrathi
+kottayam-0kOptFzu,Kottayam mc-Kollam,Kottayam Medical College to NSS College Perunna,5,kottayam-IZYFleXk,Nagampadom Bus Stand
+kottayam-0kOptFzu,Kottayam mc-Kollam,Kottayam Medical College to NSS College Perunna,6,kottayam-KokbWUFL,Baker Junction
+kottayam-0kOptFzu,Kottayam mc-Kollam,Kottayam Medical College to NSS College Perunna,7,kottayam-gUqNZkDO,Kottayam Bus Stand
+kottayam-0kOptFzu,Kottayam mc-Kollam,Kottayam Medical College to NSS College Perunna,8,kottayam-phFlfFSq,Kodimatha Bridge
+kottayam-0kOptFzu,Kottayam mc-Kollam,Kottayam Medical College to NSS College Perunna,9,kottayam-QiCpqhXy,Manippuzha
+kottayam-0kOptFzu,Kottayam mc-Kollam,Kottayam Medical College to NSS College Perunna,10,kottayam-warACQVA,Cement Junction
+kottayam-0kOptFzu,Kottayam mc-Kollam,Kottayam Medical College to NSS College Perunna,11,kottayam-eAfuXVcY,Nattakam Government College
+kottayam-0kOptFzu,Kottayam mc-Kollam,Kottayam Medical College to NSS College Perunna,12,kottayam-wYJosbGZ,Pallom Power House
+kottayam-0kOptFzu,Kottayam mc-Kollam,Kottayam Medical College to NSS College Perunna,13,kottayam-oZJrvOyk,Borma Kavala
+kottayam-0kOptFzu,Kottayam mc-Kollam,Kottayam Medical College to NSS College Perunna,14,kottayam-ruNKvXtG,Pallom Post Office
+kottayam-0kOptFzu,Kottayam mc-Kollam,Kottayam Medical College to NSS College Perunna,15,kottayam-UAUIvBZo,Chingavanam
+kottayam-0kOptFzu,Kottayam mc-Kollam,Kottayam Medical College to NSS College Perunna,16,kottayam-iQmoNrih,Mandiram Junction
+kottayam-0kOptFzu,Kottayam mc-Kollam,Kottayam Medical College to NSS College Perunna,17,kottayam-icbnBNZI,Kurichy Out Post
+kottayam-0kOptFzu,Kottayam mc-Kollam,Kottayam Medical College to NSS College Perunna,18,kottayam-XKNYtpvq,Mission Pally
+kottayam-0kOptFzu,Kottayam mc-Kollam,Kottayam Medical College to NSS College Perunna,19,kottayam-UPhIKbMk,Thuruthy Punnamood Junction
+kottayam-0kOptFzu,Kottayam mc-Kollam,Kottayam Medical College to NSS College Perunna,20,kottayam-GRllGcZJ,Palathra Bypass Junction
+kottayam-0kOptFzu,Kottayam mc-Kollam,Kottayam Medical College to NSS College Perunna,21,kottayam-TwUvDStt,Mathumoola
+kottayam-0kOptFzu,Kottayam mc-Kollam,Kottayam Medical College to NSS College Perunna,22,kottayam-cCFBzMbE,SB College Changanassery
+kottayam-0kOptFzu,Kottayam mc-Kollam,Kottayam Medical College to NSS College Perunna,23,kottayam-QPIMPwTz,Changanassery
+kottayam-0kOptFzu,Kottayam mc-Kollam,Kottayam Medical College to NSS College Perunna,24,kottayam-Calwgofk,Perunna Bus Stand
+kottayam-0kOptFzu,Kottayam mc-Kollam,Kottayam Medical College to NSS College Perunna,25,kottayam-vPIJlVIi,NSS College Perunna
+kottayam-CQUwLqlS,Kottayam-Kollam,Kottayam Bus Stand to NSS College Perunna,1,kottayam-gUqNZkDO,Kottayam Bus Stand
+kottayam-CQUwLqlS,Kottayam-Kollam,Kottayam Bus Stand to NSS College Perunna,2,kottayam-phFlfFSq,Kodimatha Bridge
+kottayam-CQUwLqlS,Kottayam-Kollam,Kottayam Bus Stand to NSS College Perunna,3,kottayam-QiCpqhXy,Manippuzha
+kottayam-CQUwLqlS,Kottayam-Kollam,Kottayam Bus Stand to NSS College Perunna,4,kottayam-warACQVA,Cement Junction
+kottayam-CQUwLqlS,Kottayam-Kollam,Kottayam Bus Stand to NSS College Perunna,5,kottayam-eAfuXVcY,Nattakam Government College
+kottayam-CQUwLqlS,Kottayam-Kollam,Kottayam Bus Stand to NSS College Perunna,6,kottayam-wYJosbGZ,Pallom Power House
+kottayam-CQUwLqlS,Kottayam-Kollam,Kottayam Bus Stand to NSS College Perunna,7,kottayam-oZJrvOyk,Borma Kavala
+kottayam-CQUwLqlS,Kottayam-Kollam,Kottayam Bus Stand to NSS College Perunna,8,kottayam-ruNKvXtG,Pallom Post Office
+kottayam-CQUwLqlS,Kottayam-Kollam,Kottayam Bus Stand to NSS College Perunna,9,kottayam-UAUIvBZo,Chingavanam
+kottayam-CQUwLqlS,Kottayam-Kollam,Kottayam Bus Stand to NSS College Perunna,10,kottayam-iQmoNrih,Mandiram Junction
+kottayam-CQUwLqlS,Kottayam-Kollam,Kottayam Bus Stand to NSS College Perunna,11,kottayam-icbnBNZI,Kurichy Out Post
+kottayam-CQUwLqlS,Kottayam-Kollam,Kottayam Bus Stand to NSS College Perunna,12,kottayam-ZVXSMdyl,Mission Pally
+kottayam-CQUwLqlS,Kottayam-Kollam,Kottayam Bus Stand to NSS College Perunna,13,kottayam-UPhIKbMk,Thuruthy Punnamood Junction
+kottayam-CQUwLqlS,Kottayam-Kollam,Kottayam Bus Stand to NSS College Perunna,14,kottayam-YteKfyCu,Palathra Bypass Junction
+kottayam-CQUwLqlS,Kottayam-Kollam,Kottayam Bus Stand to NSS College Perunna,15,kottayam-TwUvDStt,Mathumoola
+kottayam-CQUwLqlS,Kottayam-Kollam,Kottayam Bus Stand to NSS College Perunna,16,kottayam-cCFBzMbE,SB College Changanassery
+kottayam-CQUwLqlS,Kottayam-Kollam,Kottayam Bus Stand to NSS College Perunna,17,kottayam-ixSlLzwu,Changanassery Bus Stand
+kottayam-CQUwLqlS,Kottayam-Kollam,Kottayam Bus Stand to NSS College Perunna,18,kottayam-Calwgofk,Perunna Bus Stand
+kottayam-CQUwLqlS,Kottayam-Kollam,Kottayam Bus Stand to NSS College Perunna,19,kottayam-vPIJlVIi,NSS College Perunna
+kottayam-FFTkLILg,Ettumanoor-Pamba,Ettumanoor Bus Stand to Karukachal,1,kottayam-RCCrTpwp,Ettumanoor Bus Stand
+kottayam-FFTkLILg,Ettumanoor-Pamba,Ettumanoor Bus Stand to Karukachal,2,kottayam-ECrNaojm,101 Kavala
+kottayam-FFTkLILg,Ettumanoor-Pamba,Ettumanoor Bus Stand to Karukachal,3,kottayam-veHjYLeD,Carithas Hospital
+kottayam-FFTkLILg,Ettumanoor-Pamba,Ettumanoor Bus Stand to Karukachal,4,kottayam-bJGKmTYq,Adichira
+kottayam-FFTkLILg,Ettumanoor-Pamba,Ettumanoor Bus Stand to Karukachal,5,kottayam-CrTYHJQc,Samkranthi
+kottayam-FFTkLILg,Ettumanoor-Pamba,Ettumanoor Bus Stand to Karukachal,6,kottayam-nxByALUe,Kumaranalloor
+kottayam-FFTkLILg,Ettumanoor-Pamba,Ettumanoor Bus Stand to Karukachal,7,kottayam-RyfmMbrS,Chavittuvary
+kottayam-FFTkLILg,Ettumanoor-Pamba,Ettumanoor Bus Stand to Karukachal,8,kottayam-SBMZJJhz,Choottuveli
+kottayam-FFTkLILg,Ettumanoor-Pamba,Ettumanoor Bus Stand to Karukachal,9,kottayam-IZYFleXk,Nagampadom Bus Stand
+kottayam-FFTkLILg,Ettumanoor-Pamba,Ettumanoor Bus Stand to Karukachal,10,kottayam-QhBicLAo,Kottayam Bus Stand
+kottayam-FFTkLILg,Ettumanoor-Pamba,Ettumanoor Bus Stand to Karukachal,11,kottayam-JrsOUcmA,Shasthri Road Or Muncipal Park
+kottayam-FFTkLILg,Ettumanoor-Pamba,Ettumanoor Bus Stand to Karukachal,12,kottayam-eKOkprOV,Logos Junction
+kottayam-FFTkLILg,Ettumanoor-Pamba,Ettumanoor Bus Stand to Karukachal,13,kottayam-tGXPCdwf,Collectorate
+kottayam-FFTkLILg,Ettumanoor-Pamba,Ettumanoor Bus Stand to Karukachal,14,kottayam-jAfSwBci,Kanjikkuzhi
+kottayam-FFTkLILg,Ettumanoor-Pamba,Ettumanoor Bus Stand to Karukachal,15,kottayam-VbSFrMUn,Kalathipadi Junction
+kottayam-FFTkLILg,Ettumanoor-Pamba,Ettumanoor Bus Stand to Karukachal,16,kottayam-iIsMgkuj,Vadavathoor
+kottayam-FFTkLILg,Ettumanoor-Pamba,Ettumanoor Bus Stand to Karukachal,17,kottayam-TolMNfyc,Poomattam
+kottayam-FFTkLILg,Ettumanoor-Pamba,Ettumanoor Bus Stand to Karukachal,18,kottayam-fYazEhSg,Rubber Board
+kottayam-FFTkLILg,Ettumanoor-Pamba,Ettumanoor Bus Stand to Karukachal,19,kottayam-dtHJcGFU,Puthuppally
+kottayam-FFTkLILg,Ettumanoor-Pamba,Ettumanoor Bus Stand to Karukachal,20,kottayam-yZKtMbeh,Thottakkadu
+kottayam-FFTkLILg,Ettumanoor-Pamba,Ettumanoor Bus Stand to Karukachal,21,kottayam-EAPDluLK,Karukachal
+kottayam-HdEIxtEH,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,1,kottayam-rUFAJutB,Kottayam Bus Stand
+kottayam-HdEIxtEH,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,2,kottayam-eKOkprOV,Logos Junction
+kottayam-HdEIxtEH,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,3,kottayam-rIbpJaLv,Collectrate
+kottayam-HdEIxtEH,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,4,kottayam-JbrtvzfY,Kanjikuzhi
+kottayam-HdEIxtEH,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,5,kottayam-bZPDPhCu,Kalathipady
+kottayam-HdEIxtEH,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,6,kottayam-aPhtHbsV,Vadavathoor
+kottayam-HdEIxtEH,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,7,kottayam-FrwSLVrH,Manarkadu
+kottayam-HdEIxtEH,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,8,kottayam-VugWiDSu,Illivalavu
+kottayam-HdEIxtEH,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,9,kottayam-FYQdgelq,Angadivayal
+kottayam-HdEIxtEH,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,10,kottayam-ggWxpItA,Velloor
+kottayam-HdEIxtEH,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,11,kottayam-aPnZbBfX,8Th Mile
+kottayam-HdEIxtEH,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,12,kottayam-AsAQyXpt,Nedumkuzhy
+kottayam-HdEIxtEH,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,13,kottayam-kSWAHaZk,Vattamalappadi
+kottayam-HdEIxtEH,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,14,kottayam-uapXlVyK,Pambady Kalachantha
+kottayam-HdEIxtEH,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,15,kottayam-zEBsUkXH,Pampady Bus Stand
+kottayam-HdEIxtEH,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,16,kottayam-IhDksImY,Alampally
+kottayam-HdEIxtEH,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,17,kottayam-wYDvopPL,Chennampally
+kottayam-HdEIxtEH,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,18,kottayam-FmjXNElz,Kothala 12Th Mile
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,1,kottayam-gUqNZkDO,Kottayam Bus Stand
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,2,kottayam-fRrYdfjB,Pallippurathukavu
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,3,kottayam-phFlfFSq,Kodimatha Bridge
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,4,kottayam-QznJInEP,Kodimatha
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,5,kottayam-SQZvTRYG,Malayala Manorama
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,6,kottayam-QiCpqhXy,Manippuzha
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,7,kottayam-warACQVA,Cement Junction
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,8,kottayam-csnowTtC,Mulankuzha
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,9,kottayam-vGBLvApe,Nattakam Government College
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,10,kottayam-SYOLOsZH,Mariyappally
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,11,kottayam-bSIlKaVA,Nattakom Panchayath
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,12,kottayam-wYJosbGZ,Pallom Power House
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,13,kottayam-AvdVWWLv,Pallom SBI
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,14,kottayam-IPpCqvME,Borma Kavala
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,15,kottayam-qKPrnpDt,Pallom Karimbumkala
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,16,kottayam-ruNKvXtG,Pallom Post Office
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,17,kottayam-LSpAMgRQ,Mavilangu
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,18,kottayam-suzCTitI,Aashan Padi
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,19,kottayam-kIQIjCVc,Gomathi Kavala
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,20,kottayam-ExWpTKup,Chingavanam
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,21,kottayam-GBSxpxDP,Seminarypady
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,22,kottayam-MSpdclEf,Puthenpalam
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,23,kottayam-iQmoNrih,Mandiram Junction
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,24,kottayam-ZaqdOErO,Kurichy Out Post
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,25,kottayam-vLlgbTLe,Kalayipadi
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,26,kottayam-csMWrBnj,Anchal Kutty
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,27,kottayam-QmilKaSV,Mission Pally
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,28,kottayam-FliEiiWO,Thuruthy Punnamood Junction
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,29,kottayam-rDHiQJGw,Thuruthy Pally
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,30,kottayam-XaDDxkXH,Cana Junction
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,31,kottayam-UimbZDmC,Kannamperoor Chira
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,32,kottayam-GRllGcZJ,Palathra Bypass Junction
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,33,kottayam-WZtauAbf,Mathumulla
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,34,kottayam-WfjoCuQE,Vezhakkattu Chira
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,35,kottayam-lYFrAIeo,Vattapally Bank Changanassery
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,36,kottayam-cCFBzMbE,SB College Changanassery
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,37,kottayam-XDGMqpJo,Changanassery Bus Stand
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,38,kottayam-zjbjOdiF,Perunna Bus Stand
+kottayam-LXbMFkMq,Kottayam-Kallumkal,Kottayam Bus Stand to NSS College Perunna,39,kottayam-LDwrFCLI,NSS College Perunna
+kottayam-PrqAuKLy,Changanasserry-Velamkanni,Changanassery Bus Stand to Velankanni,1,kottayam-ixSlLzwu,Changanassery Bus Stand
+kottayam-PrqAuKLy,Changanasserry-Velamkanni,Changanassery Bus Stand to Velankanni,2,kottayam-yJMnYmjO,Chingavanam
+kottayam-PrqAuKLy,Changanasserry-Velamkanni,Changanassery Bus Stand to Velankanni,3,kottayam-QhBicLAo,Kottayam Bus Stand
+kottayam-PrqAuKLy,Changanasserry-Velamkanni,Changanassery Bus Stand to Velankanni,4,kottayam-HrMNLosg,Baker Junction
+kottayam-PrqAuKLy,Changanasserry-Velamkanni,Changanassery Bus Stand to Velankanni,5,kottayam-lencMYob,Nagampadam
+kottayam-PrqAuKLy,Changanasserry-Velamkanni,Changanassery Bus Stand to Velankanni,6,kottayam-mMCzxsfh,Kumaranalloor
+kottayam-PrqAuKLy,Changanasserry-Velamkanni,Changanassery Bus Stand to Velankanni,7,kottayam-LnYsatAi,Carithas
+kottayam-PrqAuKLy,Changanasserry-Velamkanni,Changanassery Bus Stand to Velankanni,8,kottayam-UaXJqTQB,Ettumanoor Bus Stand
+kottayam-PrqAuKLy,Changanasserry-Velamkanni,Changanassery Bus Stand to Velankanni,9,kottayam-NiQEPvAY,Ettumanoor Temple
+kottayam-PrqAuKLy,Changanasserry-Velamkanni,Changanassery Bus Stand to Velankanni,10,kottayam-ZOnrcitj,Vempally Junction
+kottayam-WSlKUdrU,Changanasserry-Velamkanni,Changanassery Bus Stand to Velankanni,1,kottayam-ixSlLzwu,Changanassery Bus Stand
+kottayam-WSlKUdrU,Changanasserry-Velamkanni,Changanassery Bus Stand to Velankanni,2,kottayam-mhbPzXDL,Chingavanam
+kottayam-WSlKUdrU,Changanasserry-Velamkanni,Changanassery Bus Stand to Velankanni,3,kottayam-gUqNZkDO,Kottayam Bus Stand
+kottayam-WSlKUdrU,Changanasserry-Velamkanni,Changanassery Bus Stand to Velankanni,4,kottayam-XEcUXoKp,Baker Junction
+kottayam-WSlKUdrU,Changanasserry-Velamkanni,Changanassery Bus Stand to Velankanni,5,kottayam-lencMYob,Nagampadam
+kottayam-WSlKUdrU,Changanasserry-Velamkanni,Changanassery Bus Stand to Velankanni,6,kottayam-mMCzxsfh,Kumaranalloor
+kottayam-WSlKUdrU,Changanasserry-Velamkanni,Changanassery Bus Stand to Velankanni,7,kottayam-NFdOczxj,Carithas Hospital
+kottayam-WSlKUdrU,Changanasserry-Velamkanni,Changanassery Bus Stand to Velankanni,8,kottayam-tJAHFynq,Ettumanoor Bus Stand
+kottayam-WSlKUdrU,Changanasserry-Velamkanni,Changanassery Bus Stand to Velankanni,9,kottayam-NiQEPvAY,Ettumanoor Temple
+kottayam-WSlKUdrU,Changanasserry-Velamkanni,Changanassery Bus Stand to Velankanni,10,kottayam-ZOnrcitj,Vempally Junction
+kottayam-bWYWFxil,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,1,kottayam-rUFAJutB,Kottayam Bus Stand
+kottayam-bWYWFxil,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,2,kottayam-eKOkprOV,Logos Junction
+kottayam-bWYWFxil,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,3,kottayam-rIbpJaLv,Collectrate
+kottayam-bWYWFxil,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,4,kottayam-JbrtvzfY,Kanjikuzhi
+kottayam-bWYWFxil,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,5,kottayam-bZPDPhCu,Kalathipady
+kottayam-bWYWFxil,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,6,kottayam-aPhtHbsV,Vadavathoor
+kottayam-bWYWFxil,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,7,kottayam-FrwSLVrH,Manarkadu
+kottayam-bWYWFxil,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,8,kottayam-VugWiDSu,Illivalavu
+kottayam-bWYWFxil,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,9,kottayam-FYQdgelq,Angadivayal
+kottayam-bWYWFxil,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,10,kottayam-ggWxpItA,Velloor
+kottayam-bWYWFxil,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,11,kottayam-SsNnASFs,8Th Mile
+kottayam-bWYWFxil,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,12,kottayam-AsAQyXpt,Nedumkuzhy
+kottayam-bWYWFxil,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,13,kottayam-kSWAHaZk,Vattamalappadi
+kottayam-bWYWFxil,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,14,kottayam-uapXlVyK,Pambady Kalachantha
+kottayam-bWYWFxil,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,15,kottayam-zEBsUkXH,Pampady Bus Stand
+kottayam-bWYWFxil,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,16,kottayam-IhDksImY,Alampally
+kottayam-bWYWFxil,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,17,kottayam-wYDvopPL,Chennampally
+kottayam-bWYWFxil,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,18,kottayam-dikGymGo,Kothala 12Th Mile
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,1,kottayam-gUqNZkDO,Kottayam Bus Stand
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,2,kottayam-XeLWikxD,Pallippurathukavu
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,3,kottayam-xeoEtBFV,Kodimatha Bridge
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,4,kottayam-vTrqsWpT,Kodimatha
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,5,kottayam-SQZvTRYG,Malayala Manorama
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,6,kottayam-QiCpqhXy,Manippuzha
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,7,kottayam-warACQVA,Cement Junction
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,8,kottayam-gRGUuvzS,Mulakkuzhi
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,9,kottayam-eAfuXVcY,Nattakam Government College
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,10,kottayam-SYOLOsZH,Mariyappally
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,11,kottayam-vfNXMkdO,Nattakom Panchayath
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,12,kottayam-wYJosbGZ,Pallom Power House
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,13,kottayam-AvdVWWLv,Pallom SBI
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,14,kottayam-oZJrvOyk,Borma Kavala
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,15,kottayam-qKPrnpDt,Pallom Karimbumkala
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,16,kottayam-ruNKvXtG,Pallom Post Office
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,17,kottayam-LSpAMgRQ,Mavilangu
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,18,kottayam-MVniszXu,Aashan Padi
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,19,kottayam-kIQIjCVc,Gomathi Kavala
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,20,kottayam-ExWpTKup,Chingavanam
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,21,kottayam-GBSxpxDP,Seminarypady
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,22,kottayam-MSpdclEf,Puthenpalam
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,23,kottayam-iQmoNrih,Mandiram Junction
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,24,kottayam-TFDUCGaH,Kurichy Out Post
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,25,kottayam-vLlgbTLe,Kalayipadi
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,26,kottayam-csMWrBnj,Anchal Kutty
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,27,kottayam-FsMIvgnx,Mission Palli
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,28,kottayam-UPhIKbMk,Thuruthy Punnamood Junction
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,29,kottayam-rDHiQJGw,Thuruthy Pally
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,30,kottayam-rkFPMBCU,Cana Junction
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,31,kottayam-UimbZDmC,Kannamperoor Chira
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,32,kottayam-GRllGcZJ,Palathra Bypass Junction
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,33,kottayam-sKewgKja,Mathumoola
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,34,kottayam-WfjoCuQE,Vezhakkattu Chira
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,35,kottayam-tCVeGdJN,SB College Changanassery
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,36,kottayam-qiAYBCez,Changanassery Bus Stand
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,37,kottayam-dcwMQDft,Perunna Bus Stand
+kottayam-cRMPSzTb,Kottayam-Thiruvalla,Kottayam Bus Stand to Thiruvalla Bus Stand,38,kottayam-vPIJlVIi,NSS College Perunna
+kottayam-fJfRgjfr,Kottayam-Vaikom,Kottayam Bus Stand to Vaikom Bus Stand,1,kottayam-gUqNZkDO,Kottayam Bus Stand
+kottayam-fJfRgjfr,Kottayam-Vaikom,Kottayam Bus Stand to Vaikom Bus Stand,2,kottayam-XEcUXoKp,Baker Junction
+kottayam-fJfRgjfr,Kottayam-Vaikom,Kottayam Bus Stand to Vaikom Bus Stand,3,kottayam-lencMYob,Nagampadam
+kottayam-fJfRgjfr,Kottayam-Vaikom,Kottayam Bus Stand to Vaikom Bus Stand,4,kottayam-yaNRovIG,Sh Mount Choottuveli
+kottayam-fJfRgjfr,Kottayam-Vaikom,Kottayam Bus Stand to Vaikom Bus Stand,5,kottayam-CIuobYTc,Chavittuvari
+kottayam-fJfRgjfr,Kottayam-Vaikom,Kottayam Bus Stand to Vaikom Bus Stand,6,kottayam-mMCzxsfh,Kumaranalloor
+kottayam-fJfRgjfr,Kottayam-Vaikom,Kottayam Bus Stand to Vaikom Bus Stand,7,kottayam-pMpoBGNF,Samkranthi
+kottayam-fJfRgjfr,Kottayam-Vaikom,Kottayam Bus Stand to Vaikom Bus Stand,8,kottayam-ZmiEbYTP,Adichira
+kottayam-fJfRgjfr,Kottayam-Vaikom,Kottayam Bus Stand to Vaikom Bus Stand,9,kottayam-LnYsatAi,Carithas
+kottayam-fJfRgjfr,Kottayam-Vaikom,Kottayam Bus Stand to Vaikom Bus Stand,10,kottayam-iTioEfxx,101 Kavala
+kottayam-fJfRgjfr,Kottayam-Vaikom,Kottayam Bus Stand to Vaikom Bus Stand,11,kottayam-yalyMGbN,Ettumanoor Ambalam
+kottayam-fJfRgjfr,Kottayam-Vaikom,Kottayam Bus Stand to Vaikom Bus Stand,12,kottayam-KcyQqjez,Thavalakuzhi
+kottayam-fJfRgjfr,Kottayam-Vaikom,Kottayam Bus Stand to Vaikom Bus Stand,13,kottayam-BIiTNXdw,Pattithanam
+kottayam-fJfRgjfr,Kottayam-Vaikom,Kottayam Bus Stand to Vaikom Bus Stand,14,kottayam-PMDvpEIZ,Kanakkary Hospital
+kottayam-fJfRgjfr,Kottayam-Vaikom,Kottayam Bus Stand to Vaikom Bus Stand,15,kottayam-KPSAVNSy,Kanakkary Ambalam
+kottayam-fJfRgjfr,Kottayam-Vaikom,Kottayam Bus Stand to Vaikom Bus Stand,16,kottayam-ZlQaBuwm,Nambiyakulam
+kottayam-fJfRgjfr,Kottayam-Vaikom,Kottayam Bus Stand to Vaikom Bus Stand,17,kottayam-BsuDKUfI,Kalathoor Kavala
+kottayam-fJfRgjfr,Kottayam-Vaikom,Kottayam Bus Stand to Vaikom Bus Stand,18,kottayam-ItPFVJHP,Kothanalloor Pallipady
+kottayam-fJfRgjfr,Kottayam-Vaikom,Kottayam Bus Stand to Vaikom Bus Stand,19,kottayam-ecfsmkHB,Thuvanisa Junction
+kottayam-fJfRgjfr,Kottayam-Vaikom,Kottayam Bus Stand to Vaikom Bus Stand,20,kottayam-QIRyeEhv,Manjoor
+kottayam-fJfRgjfr,Kottayam-Vaikom,Kottayam Bus Stand to Vaikom Bus Stand,21,kottayam-NJoXEgTI,Pazhayamadam
+kottayam-fJfRgjfr,Kottayam-Vaikom,Kottayam Bus Stand to Vaikom Bus Stand,22,kottayam-xXmoFBPj,Aaram Mile
+kottayam-fTlGsmgH,Changanassery-Cumbummettu,Changanassery Bus Stand to Mylady,1,kottayam-YTarohQQ,Changanassery Bus Stand
+kottayam-fTlGsmgH,Changanassery-Cumbummettu,Changanassery Bus Stand to Mylady,2,kottayam-URepOOit,Changanassery Municipal Bus Stand
+kottayam-fTlGsmgH,Changanassery-Cumbummettu,Changanassery Bus Stand to Mylady,3,kottayam-HHnawEdj,Changanasseri Railway Station
+kottayam-fTlGsmgH,Changanassery-Cumbummettu,Changanassery Bus Stand to Mylady,4,kottayam-rToVvWct,Kurishumoodu
+kottayam-fTlGsmgH,Changanassery-Cumbummettu,Changanassery Bus Stand to Mylady,5,kottayam-xkiAJpcM,Thengana
+kottayam-fTlGsmgH,Changanassery-Cumbummettu,Changanassery Bus Stand to Mylady,6,kottayam-qoanlFYR,Nadakkapadam
+kottayam-fTlGsmgH,Changanassery-Cumbummettu,Changanassery Bus Stand to Mylady,7,kottayam-xJzLAwch,Mamoodu
+kottayam-fTlGsmgH,Changanassery-Cumbummettu,Changanassery Bus Stand to Mylady,8,kottayam-ujLgJFtW,Kochuroad
+kottayam-fTlGsmgH,Changanassery-Cumbummettu,Changanassery Bus Stand to Mylady,9,kottayam-uJszqUpF,Koothrapalli
+kottayam-fTlGsmgH,Changanassery-Cumbummettu,Changanassery Bus Stand to Mylady,10,kottayam-DiSjJcEg,Nss Junction
+kottayam-fTlGsmgH,Changanassery-Cumbummettu,Changanassery Bus Stand to Mylady,11,kottayam-kkirsXAK,Karukachal
+kottayam-fTlGsmgH,Changanassery-Cumbummettu,Changanassery Bus Stand to Mylady,12,kottayam-JJERIVKP,Maanthuruthy
+kottayam-fTlGsmgH,Changanassery-Cumbummettu,Changanassery Bus Stand to Mylady,13,kottayam-ldbvoOjj,12Th Mile
+kottayam-fTlGsmgH,Changanassery-Cumbummettu,Changanassery Bus Stand to Mylady,14,kottayam-IEEIXkAn,Mylady
+kottayam-hIBTaWDX,Changanasserry-Kannur,Changanassery Bus Stand to Ettumanoor,1,kottayam-oMMqxmsW,Changanassery Bus Stand
+kottayam-hIBTaWDX,Changanasserry-Kannur,Changanassery Bus Stand to Ettumanoor,2,kottayam-yJMnYmjO,Chingavanam
+kottayam-hIBTaWDX,Changanasserry-Kannur,Changanassery Bus Stand to Ettumanoor,3,kottayam-gUqNZkDO,Kottayam Bus Stand
+kottayam-hIBTaWDX,Changanasserry-Kannur,Changanassery Bus Stand to Ettumanoor,4,kottayam-gAKXEZxB,Ettumanoor
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,1,kottayam-JcKasDXT,Ettumanoor Temple
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,2,kottayam-viczhVKa,Ettumanoor Bus Stand
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,3,kottayam-owNoTNLa,101 Kavala
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,4,kottayam-xdiekXxL,Carithas Hospital
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,5,kottayam-XFJLVcDk,Adichira
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,6,kottayam-BxNnpkcC,Samkranthi
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,7,kottayam-nxByALUe,Kumaranalloor
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,8,kottayam-BTnqRBMP,Chavittuvary
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,9,kottayam-BrLwgrMI,Sh Mount Choottuveli
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,10,kottayam-vfVPhdqw,Nagampadom Bus Stand
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,11,kottayam-BwbQRvVb,Baker Junction
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,12,kottayam-FHKoDWig,Kottayam Bus Stand
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,13,kottayam-zvcZjGjR,Star Junction
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,14,kottayam-mEGCTeWv,Sashtri Road
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,15,kottayam-eKOkprOV,Logos Junction
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,16,kottayam-woLCNNCO,Kottayam Collectorate
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,17,kottayam-pkqhTJVl,Plantation Corporation Junction
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,18,kottayam-ueCInDmh,Kanjikuzhi
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,19,kottayam-AdhHsQIF,Manganam Kurissu
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,20,kottayam-nQGCBLTu,Thuruthel Palam
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,21,kottayam-HskSWbqz,Macroni
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,22,kottayam-IMJVYYJb,Manganam Menasseril
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,23,kottayam-WUEbMSqi,Manganam School
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,24,kottayam-xLciVIyF,Paloorpady
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,25,kottayam-YYAfJCwm,Manganam
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,26,kottayam-QUdKIWAp,Manganam Mandhiram
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,27,kottayam-HlAqGCDa,Mandiram Kalink
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,28,kottayam-kDlqLIfA,Puthuppally Rubber Board
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,29,kottayam-ryrOoKus,Puthuppally Government High Secondary School
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,30,kottayam-VHvWZfGF,Puthuppally Bus Stand
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,31,kottayam-yiLnFGvI,Puthuppally Nilakkal Palli
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,32,kottayam-nKYAGitI,Chalunkal Padi
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,33,kottayam-NbGDygzn,Ericadu School
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,34,kottayam-WdPkRYIo,Vattathu Kavala
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,35,kottayam-eGmvwjeV,Erikadu Sndp
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,36,kottayam-TDZcgxIn,Kaithel Palam
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,37,kottayam-ZPBuwsCs,Ancheripalli
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,38,kottayam-jawDOIoK,Pariyaram
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,39,kottayam-pNrtHelR,Narimattam Kavala
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,40,kottayam-UpTnzskm,Chakkalapadi
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,41,kottayam-LOODvDoo,Oolakkal
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,42,kottayam-uEyeXlVu,Thottakkadu Hospital
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,43,kottayam-OlHNAQLP,Thottakkad Junction
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,44,kottayam-PNduEhXS,Thottkkad School
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,45,kottayam-rMgNtxlS,Parappa
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,46,kottayam-jUDbfvFH,Kuriyannoorpadi Shap Padi
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,47,kottayam-NkzMExXf,Chelamattom
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,48,kottayam-OfPPKVTK,Champakkara Ashramampadi
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,49,kottayam-KMjUrhqa,Mangudippadi
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,50,kottayam-tZayhpfN,Thommachery
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,51,kottayam-yOKCUzKH,Subhash Padi
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,52,kottayam-mtcUBsyI,Champakkara Cvn Kalari Thirummu Kavala
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,53,kottayam-SeNckeTQ,Champakkara Thyparambu
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,54,kottayam-wquRvPJD,Chapakkara Kurissupalli
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,55,kottayam-mKOHeybO,Nethelloor
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,56,kottayam-smSbRRtN,Aniyarapadi
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,57,kottayam-PsgBAZqM,Karukachal Bus Stand
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,58,kottayam-SSaOgQZp,Manikulam
+kottayam-lDZJFFRB,Ettumanoor-Pamba,Ettumanoor Temple to Pamba Bus Station,59,kottayam-iqvOWUqg,Madathumpady
+kottayam-oQNKaMxE,Kottayam-Perinthalmanna,Kottayam Bus Stand to Vempally Junction,1,kottayam-gUqNZkDO,Kottayam Bus Stand
+kottayam-oQNKaMxE,Kottayam-Perinthalmanna,Kottayam Bus Stand to Vempally Junction,2,kottayam-XEcUXoKp,Baker Junction
+kottayam-oQNKaMxE,Kottayam-Perinthalmanna,Kottayam Bus Stand to Vempally Junction,3,kottayam-IzDNZoHQ,SH Mount Madom Junction
+kottayam-oQNKaMxE,Kottayam-Perinthalmanna,Kottayam Bus Stand to Vempally Junction,4,kottayam-mMCzxsfh,Kumaranalloor
+kottayam-oQNKaMxE,Kottayam-Perinthalmanna,Kottayam Bus Stand to Vempally Junction,5,kottayam-LnYsatAi,Carithas
+kottayam-oQNKaMxE,Kottayam-Perinthalmanna,Kottayam Bus Stand to Vempally Junction,6,kottayam-tJAHFynq,Ettumanoor Bus Stand
+kottayam-oQNKaMxE,Kottayam-Perinthalmanna,Kottayam Bus Stand to Vempally Junction,7,kottayam-CsRTJGvr,Ettumanoor Temple
+kottayam-oQNKaMxE,Kottayam-Perinthalmanna,Kottayam Bus Stand to Vempally Junction,8,kottayam-ZOnrcitj,Vempally Junction
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,1,kottayam-KTTcnLUQ,Star Junction
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,2,kottayam-LAmxjiIX,Pulimood Junction
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,3,kottayam-JgAKenUL,Sashtri Road
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,4,kottayam-lQYDdbDI,Muncipal Park
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,5,kottayam-RqExVnud,Logos Junction
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,6,kottayam-tGXPCdwf,Collectorate
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,7,kottayam-bxlbJGaz,Plantation Corporation Junction
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,8,kottayam-JbrtvzfY,Kanjikuzhi
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,9,kottayam-JJdXadWD,Thomachan Pady
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,10,kottayam-AFeLOpJn,Thankappan Madam
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,11,kottayam-IFLXtpdB,Kalathipady
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,12,kottayam-bjzEtrfK,Thannikapadi
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,13,kottayam-NzmOvECT,Vadavathoor Kurishu
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,14,kottayam-iIsMgkuj,Vadavathoor
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,15,kottayam-hFIXaOUA,Vadavathoor Milma
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,16,kottayam-VWSWmhbT,Madhavanpadi
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,17,kottayam-gTJjaiiU,Irattunada
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,18,kottayam-FrwSLVrH,Manarkadu
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,19,kottayam-SrqeAsuP,Erumapetty
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,20,kottayam-KnfqIWdE,6th Mile
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,21,kottayam-VugWiDSu,Illivalavu
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,22,kottayam-FYQdgelq,Angadivayal
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,23,kottayam-vLLdnpnR,Velloor
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,24,kottayam-ombMugZi,8Th Mile
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,25,kottayam-AsAQyXpt,Nedumkuzhy
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,26,kottayam-oAYQbdGY,9Th Mile
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,27,kottayam-PbbshVsm,Vattamalappadi
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,28,kottayam-uapXlVyK,Pambady Kalachantha
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,29,kottayam-FItIeuiW,Pampady
+kottayam-pESUYOwe,Kottayam-Pamba,Star Junction to Manthuruthy,30,kottayam-iRSgEHMJ,Manthuruthy
+kottayam-uCNrIKCd,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,1,kottayam-gUqNZkDO,Kottayam Bus Stand
+kottayam-uCNrIKCd,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,2,kottayam-eKOkprOV,Logos Junction
+kottayam-uCNrIKCd,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,3,kottayam-rIbpJaLv,Collectrate
+kottayam-uCNrIKCd,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,4,kottayam-JbrtvzfY,Kanjikuzhi
+kottayam-uCNrIKCd,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,5,kottayam-oacmbwyp,Kalathipady
+kottayam-uCNrIKCd,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,6,kottayam-aPhtHbsV,Vadavathoor
+kottayam-uCNrIKCd,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,7,kottayam-FrwSLVrH,Manarkadu
+kottayam-uCNrIKCd,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,8,kottayam-VugWiDSu,Illivalavu
+kottayam-uCNrIKCd,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,9,kottayam-FYQdgelq,Angadivayal
+kottayam-uCNrIKCd,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,10,kottayam-vLLdnpnR,Velloor
+kottayam-uCNrIKCd,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,11,kottayam-AsAQyXpt,Nedumkuzhy
+kottayam-uCNrIKCd,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,12,kottayam-PbbshVsm,Vattamalappadi
+kottayam-uCNrIKCd,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,13,kottayam-uapXlVyK,Pambady Kalachantha
+kottayam-uCNrIKCd,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,14,kottayam-zEBsUkXH,Pampady Bus Stand
+kottayam-uCNrIKCd,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,15,kottayam-IhDksImY,Alampally
+kottayam-uCNrIKCd,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,16,kottayam-wYDvopPL,Chennampally
+kottayam-uCNrIKCd,Kottayam-Pamba,Kottayam Bus Stand to Pamba Bus Station,17,kottayam-RzCgWRHt,Kothala 12Th Mile
+kottayam-vomTGFnA,Kottayam-Coimbatore,Kottayam Bus Stand to Gandhipuram Coimbatore Bus Stand,1,kottayam-gUqNZkDO,Kottayam Bus Stand
+kottayam-vomTGFnA,Kottayam-Coimbatore,Kottayam Bus Stand to Gandhipuram Coimbatore Bus Stand,2,kottayam-XEcUXoKp,Baker Junction
+kottayam-vomTGFnA,Kottayam-Coimbatore,Kottayam Bus Stand to Gandhipuram Coimbatore Bus Stand,3,kottayam-dwjStxUx,Nagampadom
+kottayam-vomTGFnA,Kottayam-Coimbatore,Kottayam Bus Stand to Gandhipuram Coimbatore Bus Stand,4,kottayam-yaNRovIG,Sh Mount Choottuveli
+kottayam-vomTGFnA,Kottayam-Coimbatore,Kottayam Bus Stand to Gandhipuram Coimbatore Bus Stand,5,kottayam-AzjPHIVH,Chavittuvari
+kottayam-vomTGFnA,Kottayam-Coimbatore,Kottayam Bus Stand to Gandhipuram Coimbatore Bus Stand,6,kottayam-mMCzxsfh,Kumaranalloor
+kottayam-vomTGFnA,Kottayam-Coimbatore,Kottayam Bus Stand to Gandhipuram Coimbatore Bus Stand,7,kottayam-pMpoBGNF,Samkranthi
+kottayam-vomTGFnA,Kottayam-Coimbatore,Kottayam Bus Stand to Gandhipuram Coimbatore Bus Stand,8,kottayam-ZmiEbYTP,Adichira
+kottayam-vomTGFnA,Kottayam-Coimbatore,Kottayam Bus Stand to Gandhipuram Coimbatore Bus Stand,9,kottayam-lsWksdcR,101 Kavala
+kottayam-vomTGFnA,Kottayam-Coimbatore,Kottayam Bus Stand to Gandhipuram Coimbatore Bus Stand,10,kottayam-MxFVecEf,101 Kavala
+kottayam-vomTGFnA,Kottayam-Coimbatore,Kottayam Bus Stand to Gandhipuram Coimbatore Bus Stand,11,kottayam-aSbdXIEg,Ettumanoor Temple
+kottayam-vomTGFnA,Kottayam-Coimbatore,Kottayam Bus Stand to Gandhipuram Coimbatore Bus Stand,12,kottayam-GjUMKsKR,Thavalakkuzhy
+kottayam-vomTGFnA,Kottayam-Coimbatore,Kottayam Bus Stand to Gandhipuram Coimbatore Bus Stand,13,kottayam-ZSJUAihm,Pattithanam
+kottayam-vomTGFnA,Kottayam-Coimbatore,Kottayam Bus Stand to Gandhipuram Coimbatore Bus Stand,14,kottayam-aTTBOdhY,Rethnagiri Church
+kottayam-vomTGFnA,Kottayam-Coimbatore,Kottayam Bus Stand to Gandhipuram Coimbatore Bus Stand,15,kottayam-prBjiMGE,Pattithanam Ration Kada
+kottayam-vomTGFnA,Kottayam-Coimbatore,Kottayam Bus Stand to Gandhipuram Coimbatore Bus Stand,16,kottayam-UqcNkNhG,Vempally South
+kottayam-vomTGFnA,Kottayam-Coimbatore,Kottayam Bus Stand to Gandhipuram Coimbatore Bus Stand,17,kottayam-zZYKycKl,Vempally Junction
+kottayam-vomTGFnA,Kottayam-Coimbatore,Kottayam Bus Stand to Gandhipuram Coimbatore Bus Stand,18,kottayam-OobSLZQG,Kuryam
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,1,kottayam-YdtJYcjN,Kottayam Medical College
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,2,kottayam-HUGxzoPe,Kasthoorba
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,3,kottayam-NRsRYxiX,Panampalam
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,4,kottayam-XMSRRoRw,Kudamaloor Angady
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,5,kottayam-huRuMXVx,Kodayampady
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,6,kottayam-poVWNzZx,Thiruvatta Temple
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,7,kottayam-aFgrswtj,Varissery
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,8,kottayam-VuOjXwQg,Chungam
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,9,kottayam-zZPaKUkQ,Chungam Old Seminary
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,10,kottayam-PSSzPXcq,Chalukunnu
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,11,kottayam-GLhCRrGm,Cms College
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,12,kottayam-LIdrmLMf,Baker Junction
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,13,kottayam-FnsVyKXu,Kottayam Nagampadam Private Bus Stand
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,14,kottayam-BHkQXBDx,Collectorate
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,15,kottayam-UIQnIrAH,Manorama Junction
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,16,kottayam-aBJFEliD,Central Junction
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,17,kottayam-rUFAJutB,Kottayam Bus Stand
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,18,kottayam-fRrYdfjB,Pallippurathukavu
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,19,kottayam-MdmHwkgc,Kodimatha Bridge
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,20,kottayam-QznJInEP,Kodimatha
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,21,kottayam-SQZvTRYG,Malayala Manorama
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,22,kottayam-HUxQNLqa,Manippuzha
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,23,kottayam-VgGePMSy,Cement Junction
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,24,kottayam-csnowTtC,Mulankuzha
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,25,kottayam-rpCaaYqc,Nattakam Government College
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,26,kottayam-tfVNjUtd,Mariyappally
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,27,kottayam-raBVOydT,Nattakom Panchayath
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,28,kottayam-IlBazBqc,Pallom Power House
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,29,kottayam-AvdVWWLv,Pallom SBI
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,30,kottayam-QGqYuhMj,Bhorma Kavala
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,31,kottayam-qKPrnpDt,Pallom Karimbumkala
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,32,kottayam-DeXbxdFZ,Pallom Post Office
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,33,kottayam-LSpAMgRQ,Mavilangu
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,34,kottayam-suzCTitI,Aashan Padi
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,35,kottayam-kIQIjCVc,Gomathi Kavala
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,36,kottayam-ExWpTKup,Chingavanam
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,37,kottayam-GBSxpxDP,Seminarypady
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,38,kottayam-MSpdclEf,Puthenpalam
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,39,kottayam-iQmoNrih,Mandiram Junction
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,40,kottayam-icbnBNZI,Kurichy Out Post
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,41,kottayam-vLlgbTLe,Kalayipadi
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,42,kottayam-csMWrBnj,Anchal Kutty
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,43,kottayam-XKNYtpvq,Mission Pally
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,44,kottayam-UPhIKbMk,Thuruthy Punnamood Junction
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,45,kottayam-rDHiQJGw,Thuruthy Pally
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,46,kottayam-XaDDxkXH,Cana Junction
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,47,kottayam-UimbZDmC,Kannamperoor Chira
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,48,kottayam-GRllGcZJ,Palathra Bypass Junction
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,49,kottayam-WZtauAbf,Mathumulla
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,50,kottayam-WfjoCuQE,Vezhakkattu Chira
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,51,kottayam-lYFrAIeo,Vattapally Bank Changanassery
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,52,kottayam-tCVeGdJN,SB College Changanassery
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,53,kottayam-qiAYBCez,Changanassery Bus Stand
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,54,kottayam-zjbjOdiF,Perunna Bus Stand
+kottayam-wCEgJkBG,Kottayam Mch-Kottarakkara,Kottayam Medical College to NSS College Perunna,55,kottayam-LDwrFCLI,NSS College Perunna

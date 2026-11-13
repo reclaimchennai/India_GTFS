@@ -1,0 +1,585 @@
+route_id,route_short_name,route_long_name,stop_sequence,stop_id,stop_name
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,1,indore-UzMaUqFG,Toll Naka
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,2,indore-LXjSKVxH,Indian Oil Petrol Pump BRTS
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,3,indore-LvBHxFZY,Mangliya
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,4,indore-TzdqAUmZ,Hanuman Mandir
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,5,indore-gcRVKxHj,Ruchi Soya
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,6,indore-EdqKjzVL,Talawali Chanda Panchayat BRTS
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,7,indore-80,Panchwati BRTS
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,8,indore-RyjQmJTD,Tata Tower And Godown
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,9,indore-lzzbQOJB,Sanghi
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,10,indore-95,Lasudia BRTS
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,11,indore-UsFsUnAm,Agrawal Toll Kanta BRTS
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,12,indore-ggwEZrwh,Laxmi Petrol Pump BRTS
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,13,indore-tHXIHphz,Dewas Naka
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,14,indore-seGMeyKe,Nai Sadak
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,15,indore-SdpfpPep,Scheme Number 78 BRTS
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,16,indore-zlTldquW,Shalimar Township BRTS
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,17,indore-122,Jain Nursary
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,18,indore-iKvPFVUO,Satya Sai Square BRTS
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,19,indore-vSIxwyHp,Vijay Nagar Zonal
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,20,indore-169,Sayaji Petrol Pump
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,21,indore-sTQfHrzC,Meghadut Garden
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,22,indore-mgnMekUS,Fortune Landmark Hotel
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,23,indore-161,Bapat Square
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,24,indore-XISKAyiN,Hira Nagar
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,25,indore-DYjmOoSd,Sukliya
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,26,indore-eKfhJaEW,Royal Bangla
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,27,indore-QnVvepWy,M R 10
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,28,indore-KwcuQSqs,Veena Nagar
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,29,indore-WcrBJivD,Gouri Nagar Chauraha
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,30,indore-MYwccuXW,Electronic Complex
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,31,indore-FuLgaPlJ,Kankeshwari Devi Mandir Dham
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,32,indore-106,Pardeshipura
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,33,indore-NjmGYqRy,Subhash Nagar
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,34,indore-veiCrZuO,Mukti Dham
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,35,indore-XGUngxpe,Visranti Chauraha
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,36,indore-179,Malwa Mill
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,37,indore-YAenYncD,Rajkumar Bridge Under Pass
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,38,indore-mizcqbLZ,Nehru Park Railway Station
+indore-HPIxVcHJ,M-17,Toll Naka to Indore Railway Station,39,indore-OcINCChr,Shastri Bridge
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,1,indore-dxVhNfAr,Mhow Naka
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,2,indore-IfnndLvg,Chhatripura Police Station
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,3,indore-iEwduneM,Dargha Chouraha Kagdipura
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,4,indore-NVUIZEQI,Machchi Bajar
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,5,indore-97,Rajwada Circle
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,6,indore-iwmDtmaw,Shree Krishna Talkies
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,7,indore-142,Kothari Market
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,8,indore-meirvJZD,Gandhi Hall Or Palika Plaza
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,9,indore-9,Regal Square
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,10,indore-ByLQFiRp,Indore Railway Station
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,11,indore-BlkQrKBY,Chhoti Gwaltoli
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,12,indore-FtoFYGrQ,Madhumilan Chauraha
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,13,indore-WTgptEww,Dhakkanwala Kuan
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,14,indore-PiIkuHYw,Geeta Bhawan Square
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,15,indore-FmdVRtWw,Indra Prasth Chouraha
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,16,indore-BkcEtChd,Janjeerwala Square
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,17,indore-oRbgrwLv,Shalby Hospital
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,18,indore-dtLsIKTp,Chanakya Complex
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,19,indore-TCCjdqEA,Malwa Mill
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,20,indore-rlqGQjFg,Bakery Gali
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,21,indore-SZCHeFbG,Patnipura
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,22,indore-jclAbWRK,M I G Police Station Or Atal Dwar
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,23,indore-goZrzKJW,L I G Square
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,24,indore-QFLLDoyT,Renaissance College
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,25,indore-uhlNdxbG,Khajrana Ringroad
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,26,indore-VAowlsLl,Malviya Nagar Or Robot Square
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,27,indore-GxTMczmu,Mahak Vatika
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,28,indore-HiKWegmD,Sai Kripa Dham Chouraha
+indore-JvQZxXea,M-36,Mhow Naka to Best Price Shopping Complex,29,indore-cxeWUXgA,Chitragupt Chouraha
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,1,indore-165,Nipania Bus Stop
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,2,indore-ZsVzBpah,Royal Bungalow
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,3,indore-auupOAcS,Summer Park
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,4,indore-ylXIpARV,DB City
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,5,indore-hFjCfCFg,BCM
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,6,indore-MtqZwdbh,Tulsi Nagar
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,7,indore-YIitwMKG,Sun City
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,8,indore-NQkJXahY,Mahalaxmi Nagar
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,9,indore-CFIcjCbI,Bombay Hospital
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,10,indore-nljnxyAw,Satya Sai Square
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,11,indore-vSIxwyHp,Vijay Nagar Zonal
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,12,indore-169,Sayaji Petrol Pump
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,13,indore-CJfZvZIL,Girdhar Mahal
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,14,indore-ZcsaqiVt,Bhamori
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,15,indore-RkDFuHXn,Anup Talkies
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,16,indore-vQYqpnrO,Patnipura
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,17,indore-aObczrXC,Bakery Gali
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,18,indore-179,Malwa Mill
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,19,indore-FqpxZTfx,Rani Sati Garden
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,20,indore-YFJGsJOT,G.S.I.T.S. Square
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,21,indore-47,Lantern Chowk
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,22,indore-5,High Court
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,23,indore-CnKawyih,Regal Square
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,24,indore-crhTJEUF,Gandhi Hall Or Palika Plaza
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,25,indore-13,Kothari Market Or MTH
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,26,indore-XeLATRaD,River Side Or Krishnapura Pull
+indore-KjsRlbuq,M-25,Nipania Bus Stop to Rajwada Circle,27,indore-rCtndyTh,Krishn Pura Or Sanjay Setu
+indore-RCIFdUUO,M-6,Rajwada Circle to Chameli Devi,1,indore-BBdrVLdi,Rajwada Circle
+indore-RCIFdUUO,M-6,Rajwada Circle to Chameli Devi,2,indore-SdYnXdyE,Gurananak Chouraha
+indore-RCIFdUUO,M-6,Rajwada Circle to Chameli Devi,3,indore-sdzURCJh,Pandrinath
+indore-RCIFdUUO,M-6,Rajwada Circle to Chameli Devi,4,indore-aCxnlSQA,Collector Office
+indore-RCIFdUUO,M-6,Rajwada Circle to Chameli Devi,5,indore-oncnAxVl,Juni Indore
+indore-RCIFdUUO,M-6,Rajwada Circle to Chameli Devi,6,indore-162,Sindhi Colony
+indore-RCIFdUUO,M-6,Rajwada Circle to Chameli Devi,7,indore-139,Tower Chouraha
+indore-RCIFdUUO,M-6,Rajwada Circle to Chameli Devi,8,indore-gqYozkVS,Tantya Bheel Chouraha Police Station
+indore-RCIFdUUO,M-6,Rajwada Circle to Chameli Devi,9,indore-MEqtDmre,D.A.V.V. Campus
+indore-RCIFdUUO,M-6,Rajwada Circle to Chameli Devi,10,indore-DwSkXNcC,IT Park
+indore-RCIFdUUO,M-6,Rajwada Circle to Chameli Devi,11,indore-pdkKTplJ,I.E.T. College
+indore-RCIFdUUO,M-6,Rajwada Circle to Chameli Devi,12,indore-KZPZgWND,Maharaja Ranjit Singh College
+indore-RCIFdUUO,M-6,Rajwada Circle to Chameli Devi,13,indore-66,Radha Swami
+indore-RCIFdUUO,M-6,Rajwada Circle to Chameli Devi,14,indore-XVNmUDDG,Ashram
+indore-RCIFdUUO,M-6,Rajwada Circle to Chameli Devi,15,indore-zVAnanOX,Power House
+indore-RCIFdUUO,M-6,Rajwada Circle to Chameli Devi,16,indore-43,Machli Farm House
+indore-RCIFdUUO,M-6,Rajwada Circle to Chameli Devi,17,indore-vKmdXvbr,Pushpkunj Hospital
+indore-RCIFdUUO,M-6,Rajwada Circle to Chameli Devi,18,indore-GgzWQjmF,Kasturba Gram
+indore-RCIFdUUO,M-6,Rajwada Circle to Chameli Devi,19,indore-HKDOlUfe,Tejaji  Nagar
+indore-RCIFdUUO,M-6,Rajwada Circle to Chameli Devi,20,indore-BsnFdMSP,Lotus Garden
+indore-RCIFdUUO,M-6,Rajwada Circle to Chameli Devi,21,indore-haHensdW,Marod Fata
+indore-RCIFdUUO,M-6,Rajwada Circle to Chameli Devi,22,indore-vugDmuek,MPPT
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,1,indore-LhvaZCph,Silver Springs
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,2,indore-MypHKSfY,Nayta Mundla By Pass
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,3,indore-EuxyeQRr,Nayta Mundla
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,4,indore-jqywYBed,Rto Office
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,5,indore-zZvCSfSK,Shubh City
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,6,indore-vSGYZilM,Tejaji Chowk
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,7,indore-WXSkciMF,Palda Naka
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,8,indore-VRUdrwgQ,Teen Imli
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,9,indore-ZsEdIxhn,Pawanpuri Colony Or S R Pump
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,10,indore-QCyQObDj,Krishnapuri Colony Or Allahabad Bank
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,11,indore-JXgpYxkX,Musakhedi Ring Road
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,12,indore-BezLYgJw,Pink City
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,13,indore-vbfHEWjO,Shanti Nagar
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,14,indore-ynwssTIH,Piplyahana Square
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,15,indore-ytrgeJjo,Gram Pipliyahana
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,16,indore-CeNMwIWa,Krishi College
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,17,indore-btboqNxj,Roberts Nursing Home
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,18,indore-159,White Church
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,19,indore-VWjyWwAV,M Y Chauraha
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,20,indore-vdYpMkSp,M Y Hospital Gate
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,21,indore-prCNCcsM,Dawa Bazaar
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,22,indore-PFGeYBlT,Madhumilan Chauraha
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,23,indore-rimbVPGG,Chhoti Gwaltoli
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,24,indore-172,Indore Railway Station
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,25,indore-crhTJEUF,Gandhi Hall Or Palika Plaza
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,26,indore-13,Kothari Market Or MTH
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,27,indore-XeLATRaD,River Side Or Krishnapura Pull
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,28,indore-rCtndyTh,Krishn Pura Or Sanjay Setu
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,29,indore-97,Rajwada Circle
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,30,indore-AtLAxbNg,Nagar Nigam
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,31,indore-gwOIgamW,Ram Bagh
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,32,indore-jUFDQznn,Imli Bazar
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,33,indore-WSCQcbaK,Sadar Bazar
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,34,indore-YVzsBeyj,Sadar Bazar Water Tank
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,35,indore-vxDomUSs,Haj House
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,36,indore-jqJFgDaN,Mari Mata Square
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,37,indore-WsGGbRfA,Kumar Khadi
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,38,indore-rdJwSjFu,Vrindavan Colony
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,39,indore-LLocvfXH,Banganga
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,40,indore-QyouflmU,Kushwah Nagar
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,41,indore-ZqcdRHrV,Kharcha
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,42,indore-EeiNKWqM,Sukhliya
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,43,indore-vxHPyBlc,Ganesh Dham
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,44,indore-KfXxOiEh,Modern Square
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,45,indore-GUpcivyT,Moni Baba Ashram
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,46,indore-ZvkiHDbK,Narval
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,47,indore-xSAEnbVS,Deepmala Dhaba
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,48,indore-lqJtOvkz,Indo German
+indore-TwybRbAz,C-4(M-34),Silver Springs to Aurobindo,49,indore-BHKJMQeQ,Lavkush Chouraha
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,1,indore-lMcDvAXV,Shiv Chowk Rangwasa
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,2,indore-kUafuaKk,Grampanchayat Rangwasa
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,3,indore-lnYbZcba,Umiya Girls College
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,4,indore-zISIIXHc,Goverment College Rau
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,5,indore-SMZOGsPV,Nakhrali Dhani
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,6,indore-dMvaQQdW,Rau Rangwasa Chourah
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,7,indore-dGijmXUg,Gurukul Colony
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,8,indore-rWwVZdyD,Nai Duniya
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,9,indore-rZhktDSG,St Norbert School
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,10,indore-ZCaseOrL,Surya Mandir
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,11,indore-efcZgHtc,Parmanu Nagar
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,12,indore-cQHwSIzj,Cat Square
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,13,indore-tTRfnqrM,Reti Mandi Square
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,14,indore-BZBMEukt,Datta Nagar
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,15,indore-SjRIWnKh,Rajendra Nagar
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,16,indore-LbKTkaAR,Dhanwantri Nagar
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,17,indore-opZpMGwN,Navneet Garden Crossing
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,18,indore-ccfHWIav,Indraprastha Garden
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,19,indore-vPnipPIL,Vaishali Nagar
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,20,indore-tofzOASu,Chanakyapuri Or Kesar Bagh Bridge
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,21,indore-RcINVvyc,Annapurna Nagar
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,22,indore-beelEKiP,Annapurna Temple
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,23,indore-PFbthSDC,Dashera Maidan Or Bank Colony
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,24,indore-cebsAdtw,Usha Nagar Or Dashera Maidan
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,25,indore-vRGMmLyl,Mhow Naka Annapurna Road
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,26,indore-76,Lal Bagh
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,27,indore-104,G.D.C. College
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,28,indore-55,Collector Office
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,29,indore-sdzURCJh,Pandrinath
+indore-ZCIQBPRv,M-20,Shiv Chowk Rangwasa to Rajwada Circle,30,indore-FoggEPHR,Gurananak Chouraha
+indore-arQmQrcn,M-6,Chameli Devi to Rajwada Circle,1,indore-wgeJSRMU,Chameli Devi
+indore-arQmQrcn,M-6,Chameli Devi to Rajwada Circle,2,indore-roBWDXov,MPPT
+indore-arQmQrcn,M-6,Chameli Devi to Rajwada Circle,3,indore-MGXIMxNQ,Marod Fata
+indore-arQmQrcn,M-6,Chameli Devi to Rajwada Circle,4,indore-XkcteemW,Lotus Garden
+indore-arQmQrcn,M-6,Chameli Devi to Rajwada Circle,5,indore-CLAYQrLH,Tejaji  Nagar
+indore-arQmQrcn,M-6,Chameli Devi to Rajwada Circle,6,indore-jBpcXXOV,Kasturba Gram
+indore-arQmQrcn,M-6,Chameli Devi to Rajwada Circle,7,indore-qSLoZmkK,Pushpkunj Hospital
+indore-arQmQrcn,M-6,Chameli Devi to Rajwada Circle,8,indore-umywZpHA,Machli Farm House
+indore-arQmQrcn,M-6,Chameli Devi to Rajwada Circle,9,indore-GxBqpKJw,Power House
+indore-arQmQrcn,M-6,Chameli Devi to Rajwada Circle,10,indore-maRlyobm,Ashram
+indore-arQmQrcn,M-6,Chameli Devi to Rajwada Circle,11,indore-JCvWFfbf,Radha Swami
+indore-arQmQrcn,M-6,Chameli Devi to Rajwada Circle,12,indore-uIWmlHCn,Maharaja Ranjit Singh College
+indore-arQmQrcn,M-6,Chameli Devi to Rajwada Circle,13,indore-pdkKTplJ,I.E.T. College
+indore-arQmQrcn,M-6,Chameli Devi to Rajwada Circle,14,indore-lhihmGhP,IT Park
+indore-arQmQrcn,M-6,Chameli Devi to Rajwada Circle,15,indore-130,D.A.V.V. Campus
+indore-arQmQrcn,M-6,Chameli Devi to Rajwada Circle,16,indore-DlgJnbPm,Tantya Bheel Chouraha Police Station
+indore-arQmQrcn,M-6,Chameli Devi to Rajwada Circle,17,indore-yykXPJum,Tower Chouraha
+indore-arQmQrcn,M-6,Chameli Devi to Rajwada Circle,18,indore-aIgwRaaP,Sindhi Colony
+indore-arQmQrcn,M-6,Chameli Devi to Rajwada Circle,19,indore-sMFFLcce,Palsikar Square
+indore-arQmQrcn,M-6,Chameli Devi to Rajwada Circle,20,indore-55,Collector Office
+indore-arQmQrcn,M-6,Chameli Devi to Rajwada Circle,21,indore-128,Harsiddhi
+indore-arQmQrcn,M-6,Chameli Devi to Rajwada Circle,22,indore-FoggEPHR,Gurananak Chouraha
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,1,indore-FJQKNMcG,Kalaria
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,2,indore-VvqMelOt,Netralaya
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,3,indore-BPBHFSax,Navda Panth
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,4,indore-VCdYonpp,Himmatgarh
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,5,indore-wPqakqUV,Jawahar Tekri
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,6,indore-fIEnLGGq,Vidhyanjali School
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,7,indore-EAOJbxSF,Abhinandan Pump
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,8,indore-YVgpeLqQ,Bank
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,9,indore-VgcQpwoK,Noorani Nagar
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,10,indore-50,Sirpur
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,11,indore-ClJlJGEy,Chandan Nagar
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,12,indore-46,Jila Hospital
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,13,indore-TKNqvnOZ,Timber Market
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,14,indore-ApKfZPWx,Gangwal Bus Stand
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,15,indore-xTzKoOjk,Raj Mohalla Chowk
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,16,indore-148,Malgunj
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,17,indore-18,Narsingh Bazar
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,18,indore-71,Pipli Bazar
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,19,indore-44,Gurudwara
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,20,indore-85,Sanjay Setu
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,21,indore-64,Saify Square
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,22,indore-oMBZHiWO,Patel Bridge
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,23,indore-BlkQrKBY,Chhoti Gwaltoli
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,24,indore-bjtQfKNQ,Madhumilan Chauraha
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,25,indore-160,M Y Hospital Chouraha
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,26,indore-unmYUJKj,White Church Or Shivaji Park
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,27,indore-192,Azad Nagar
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,28,indore-UZnZSTEC,Kali Puliya
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,29,indore-88,Narmada Project
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,30,indore-141,Musakhedi Sabji Mandi
+indore-dOKBRsbD,C2-(16),Kalaria to Musakhedi Sawariya Mandir,31,indore-YFyVyKOs,Musakhedi Ring Road
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,1,indore-IlFNNVqb,Medicaps College
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,2,indore-inWkVWqM,Hardias Eye Hospital
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,3,indore-67,Rau Bypass
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,4,indore-SbvEDckU,Mamaji Ka Dhaba
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,5,indore-QCFnhJCU,Rau Bus Stop
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,6,indore-mfqzrgSn,Jivan Jyoti
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,7,indore-LJbEOAre,Shramik Colony
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,8,indore-LGexlTHA,Akashwani
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,9,indore-aHkFbknV,Silicon City Gate
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,10,indore-73,IPS Academy BRTS
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,11,indore-49,Rajendra Nagar BRTS
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,12,indore-hmQguygn,Bijalpur
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,13,indore-VNlITMzE,Chameli Devi School
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,14,indore-zyytSYnX,Kaila Mata Mandir
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,15,indore-JWlTWoBP,Kaisarbagh Bridge
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,16,indore-ZWloWWxX,Choithram Mandi
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,17,indore-rrzfoqgp,Choithram Hospital
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,18,indore-kVaurqkA,Saifee Nagar
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,19,indore-dmqLzjjl,Manik Baag Bridge
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,20,indore-SMUVMnqC,Prem Nagar
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,21,indore-GZTwaJYN,Palsikar Colony
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,22,indore-55,Collector Office
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,23,indore-128,Harsiddhi
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,24,indore-FoggEPHR,Gurananak Chouraha
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,25,indore-97,Rajwada Circle
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,26,indore-NqHamXDG,Nagar Nigam
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,27,indore-modWXVTP,Chiman Bagh
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,28,indore-ryhaLAAP,D.R.P. Line
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,29,indore-20,Bhandari Mill Agniban
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,30,indore-UVkOeJAJ,Pardesipura Police Station
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,31,indore-sZKAdQmp,Visranti Chauraha
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,32,indore-136,Subhash Nagar
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,33,indore-hlhdDAkT,Pardeshipura
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,34,indore-151,Electronic Complex
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,35,indore-189,Gouri Nagar Chauraha
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,36,indore-clkrfMBW,Veena Nagar
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,37,indore-144,M R 10
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,38,indore-YlAPSwzH,M R-10 Road Bridge
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,39,indore-hrfIwZJu,M R-10 Toll Plaza
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,40,indore-aOzaYtrr,Kakad
+indore-dxabNpdB,M-35,Medicaps College to Aurobindo,41,indore-BHKJMQeQ,Lavkush Chouraha
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,1,indore-BBdrVLdi,Rajwada Circle
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,2,indore-SdYnXdyE,Gurananak Chouraha
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,3,indore-sdzURCJh,Pandrinath
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,4,indore-dyCGSkio,Collector Office
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,5,indore-hwFzrLaA,G.D.C. College
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,6,indore-KNsZmXGQ,Lal Bagh
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,7,indore-191,Mhow Naka Annapurna Road
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,8,indore-152,Usha Nagar Or Dashera Maidan
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,9,indore-92,Dashera Maidan Or Bank Colony
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,10,indore-91,Annapurna Temple
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,11,indore-147,Annapurna Nagar
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,12,indore-VXePurbC,Chanakyapuri Or Kesar Bagh Bridge
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,13,indore-gEKdrWUF,Vaishali Nagar
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,14,indore-173,Indraprastha Garden
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,15,indore-uzDBHZYH,Navneet Garden Crossing
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,16,indore-YOPBpPWx,Dhanwantri Nagar
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,17,indore-48,Rajendra Nagar
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,18,indore-LguGWNRT,Datta Nagar
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,19,indore-zbTZAKzW,Reti Mandi Square
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,20,indore-rBkPZUOb,Cat Square
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,21,indore-CnfPMuOL,Parmanu Nagar
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,22,indore-CHsjqIzV,Surya Mandir
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,23,indore-vligcjBA,St Norbert School
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,24,indore-dIYnQKzm,Nai Duniya
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,25,indore-WrqtcDtj,Gurukul Colony
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,26,indore-QynPxcuv,Rau Rangwasa Chourah
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,27,indore-RjDYnOPG,Nakhrali Dhani
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,28,indore-YYpnzBje,Goverment College Rau
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,29,indore-FQUeiCGv,Umiya Girls College
+indore-fgLLwWJE,M-20,Rajwada Circle to Shiv Chowk Rangwasa,30,indore-FVCFOReu,Grampanchayat Rangwasa
+indore-fykFRFie,M-19,Iit Gate No 2 to Tantya Bheel Chouraha Police Station,1,indore-dXNOsQwL,Iit Gate No 2
+indore-fykFRFie,M-19,Iit Gate No 2 to Tantya Bheel Chouraha Police Station,2,indore-fKzZulaO,IIT Simrol
+indore-fykFRFie,M-19,Iit Gate No 2 to Tantya Bheel Chouraha Police Station,3,indore-wNSHMWcj,Simrol
+indore-fykFRFie,M-19,Iit Gate No 2 to Tantya Bheel Chouraha Police Station,4,indore-kvKelyLW,Shell City
+indore-fykFRFie,M-19,Iit Gate No 2 to Tantya Bheel Chouraha Police Station,5,indore-gnJAddeJ,Kanad
+indore-fykFRFie,M-19,Iit Gate No 2 to Tantya Bheel Chouraha Police Station,6,indore-kYpmKrdF,9 Mile
+indore-fykFRFie,M-19,Iit Gate No 2 to Tantya Bheel Chouraha Police Station,7,indore-CuGCQlZk,Swami Vivekanand College
+indore-fykFRFie,M-19,Iit Gate No 2 to Tantya Bheel Chouraha Police Station,8,indore-yvFLgQdY,Sapera Colony
+indore-fykFRFie,M-19,Iit Gate No 2 to Tantya Bheel Chouraha Police Station,9,indore-NLdUPGJK,Umri Kheda
+indore-fykFRFie,M-19,Iit Gate No 2 to Tantya Bheel Chouraha Police Station,10,indore-wgeJSRMU,Chameli Devi
+indore-fykFRFie,M-19,Iit Gate No 2 to Tantya Bheel Chouraha Police Station,11,indore-roBWDXov,MPPT
+indore-fykFRFie,M-19,Iit Gate No 2 to Tantya Bheel Chouraha Police Station,12,indore-MGXIMxNQ,Marod Fata
+indore-fykFRFie,M-19,Iit Gate No 2 to Tantya Bheel Chouraha Police Station,13,indore-XkcteemW,Lotus Garden
+indore-fykFRFie,M-19,Iit Gate No 2 to Tantya Bheel Chouraha Police Station,14,indore-CLAYQrLH,Tejaji  Nagar
+indore-fykFRFie,M-19,Iit Gate No 2 to Tantya Bheel Chouraha Police Station,15,indore-jBpcXXOV,Kasturba Gram
+indore-fykFRFie,M-19,Iit Gate No 2 to Tantya Bheel Chouraha Police Station,16,indore-qSLoZmkK,Pushpkunj Hospital
+indore-fykFRFie,M-19,Iit Gate No 2 to Tantya Bheel Chouraha Police Station,17,indore-umywZpHA,Machli Farm House
+indore-fykFRFie,M-19,Iit Gate No 2 to Tantya Bheel Chouraha Police Station,18,indore-GxBqpKJw,Power House
+indore-fykFRFie,M-19,Iit Gate No 2 to Tantya Bheel Chouraha Police Station,19,indore-maRlyobm,Ashram
+indore-fykFRFie,M-19,Iit Gate No 2 to Tantya Bheel Chouraha Police Station,20,indore-JCvWFfbf,Radha Swami
+indore-fykFRFie,M-19,Iit Gate No 2 to Tantya Bheel Chouraha Police Station,21,indore-uIWmlHCn,Maharaja Ranjit Singh College
+indore-fykFRFie,M-19,Iit Gate No 2 to Tantya Bheel Chouraha Police Station,22,indore-pdkKTplJ,I.E.T. College
+indore-fykFRFie,M-19,Iit Gate No 2 to Tantya Bheel Chouraha Police Station,23,indore-lhihmGhP,IT Park
+indore-fykFRFie,M-19,Iit Gate No 2 to Tantya Bheel Chouraha Police Station,24,indore-130,D.A.V.V. Campus
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,1,indore-aiaINORM,Musakhedi Sawariya Mandir
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,2,indore-134,Musakhedi Ring Road
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,3,indore-141,Musakhedi Sabji Mandi
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,4,indore-xlAcKBrn,Narmada Project
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,5,indore-75,Kali Puliya
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,6,indore-AMByoNoB,Azad Nagar
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,7,indore-RmbgPXUo,White Church Or Shivaji Park
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,8,indore-79,M Y Hospital Chouraha
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,9,indore-PFGeYBlT,Madhumilan Chauraha
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,10,indore-BlkQrKBY,Chhoti Gwaltoli
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,11,indore-uNnWtaga,Patel Bridge
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,12,indore-MsascKpO,Saify Square
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,13,indore-CFQGhDhv,Sanjay Setu
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,14,indore-glPczUff,Gurudwara
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,15,indore-qNWPWZmD,Pipli Bazar
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,16,indore-tpWYrMOB,Narsingh Bazar
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,17,indore-kgoUltCa,Malgunj
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,18,indore-khPlmrsc,Raj Mohalla Chowk
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,19,indore-ApKfZPWx,Gangwal Bus Stand
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,20,indore-153,Timber Market
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,21,indore-bZqayRUV,Jila Hospital
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,22,indore-126,Chandan Nagar
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,23,indore-qOYzXscw,Sirpur
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,24,indore-blOhuAos,Noorani Nagar
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,25,indore-PSxxZJlh,Bank
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,26,indore-XcVqgfFB,Abhinandan Pump
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,27,indore-DzOwQAIO,Vidhyanjali School
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,28,indore-RoxXQQhb,Jawahar Tekri
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,29,indore-DePKzudA,Himmatgarh
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,30,indore-YSzBMZGW,Navda Panth
+indore-ihPcChCu,C2-(16),Musakhedi Sawariya Mandir to Kalaria,31,indore-WCuCLhJB,Netralaya
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,1,indore-UWKqsmLp,Best Price Shopping Complex
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,2,indore-cxeWUXgA,Chitragupt Chouraha
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,3,indore-HiKWegmD,Sai Kripa Dham Chouraha
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,4,indore-cMCANasY,Mahak Vatika
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,5,indore-iMxXikFK,Malviya Nagar
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,6,indore-RWomMKqr,Khajrana Ringroad
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,7,indore-YvDkMRgS,Renaissance College
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,8,indore-hTPaQxaG,L I G Square
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,9,indore-puMEjLsY,M I G Police Station Or Atal Dwar
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,10,indore-vQYqpnrO,Patnipura
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,11,indore-aObczrXC,Bakery Gali
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,12,indore-oFPPncNj,Malwa Mill
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,13,indore-yjalnbmL,Chanakya Complex
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,14,indore-ZjVsyEKp,Shalby Hospital
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,15,indore-tiLVucoB,Janjeerwala Square
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,16,indore-JwDWjKKm,Indraprasth Choutaha
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,17,indore-jmjLjAHK,Geeta Bhawan Square
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,18,indore-QQZeopds,Dhakkanwala Kuan
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,19,indore-PFGeYBlT,Madhumilan Chauraha
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,20,indore-NBZHPqwb,Patel Circle
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,21,indore-172,Indore Railway Station
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,22,indore-crhTJEUF,Gandhi Hall Or Palika Plaza
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,23,indore-13,Kothari Market Or MTH
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,24,indore-XeLATRaD,River Side Or Krishnapura Pull
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,25,indore-rCtndyTh,Krishn Pura Or Sanjay Setu
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,26,indore-97,Rajwada Circle
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,27,indore-NVUIZEQI,Machchi Bajar
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,28,indore-iEwduneM,Dargha Chouraha Kagdipura
+indore-qCOTncwB,M-36,Best Price Shopping Complex to Mhow Naka,29,indore-YnFNidlM,Chhatripura Police Station
+indore-qjyViDKR,M-19,Tantya Bheel Chouraha Police Station to Iit Gate No 2,1,indore-gqYozkVS,Tantya Bheel Chouraha Police Station
+indore-qjyViDKR,M-19,Tantya Bheel Chouraha Police Station to Iit Gate No 2,2,indore-MEqtDmre,D.A.V.V. Campus
+indore-qjyViDKR,M-19,Tantya Bheel Chouraha Police Station to Iit Gate No 2,3,indore-DwSkXNcC,IT Park
+indore-qjyViDKR,M-19,Tantya Bheel Chouraha Police Station to Iit Gate No 2,4,indore-CdbEgvDa,I.E.T. College
+indore-qjyViDKR,M-19,Tantya Bheel Chouraha Police Station to Iit Gate No 2,5,indore-KZPZgWND,Maharaja Ranjit Singh College
+indore-qjyViDKR,M-19,Tantya Bheel Chouraha Police Station to Iit Gate No 2,6,indore-66,Radha Swami
+indore-qjyViDKR,M-19,Tantya Bheel Chouraha Police Station to Iit Gate No 2,7,indore-XVNmUDDG,Ashram
+indore-qjyViDKR,M-19,Tantya Bheel Chouraha Police Station to Iit Gate No 2,8,indore-zVAnanOX,Power House
+indore-qjyViDKR,M-19,Tantya Bheel Chouraha Police Station to Iit Gate No 2,9,indore-43,Machli Farm House
+indore-qjyViDKR,M-19,Tantya Bheel Chouraha Police Station to Iit Gate No 2,10,indore-vKmdXvbr,Pushpkunj Hospital
+indore-qjyViDKR,M-19,Tantya Bheel Chouraha Police Station to Iit Gate No 2,11,indore-GgzWQjmF,Kasturba Gram
+indore-qjyViDKR,M-19,Tantya Bheel Chouraha Police Station to Iit Gate No 2,12,indore-HKDOlUfe,Tejaji  Nagar
+indore-qjyViDKR,M-19,Tantya Bheel Chouraha Police Station to Iit Gate No 2,13,indore-BsnFdMSP,Lotus Garden
+indore-qjyViDKR,M-19,Tantya Bheel Chouraha Police Station to Iit Gate No 2,14,indore-haHensdW,Marod Fata
+indore-qjyViDKR,M-19,Tantya Bheel Chouraha Police Station to Iit Gate No 2,15,indore-vugDmuek,MPPT
+indore-qjyViDKR,M-19,Tantya Bheel Chouraha Police Station to Iit Gate No 2,16,indore-MEqPNlyZ,Chameli Devi
+indore-qjyViDKR,M-19,Tantya Bheel Chouraha Police Station to Iit Gate No 2,17,indore-QVjBJURw,Umri Kheda
+indore-qjyViDKR,M-19,Tantya Bheel Chouraha Police Station to Iit Gate No 2,18,indore-MUYmeNdX,Sapera Colony
+indore-qjyViDKR,M-19,Tantya Bheel Chouraha Police Station to Iit Gate No 2,19,indore-qIxHREwJ,Swami Vivekanand College
+indore-qjyViDKR,M-19,Tantya Bheel Chouraha Police Station to Iit Gate No 2,20,indore-BsqUZwpF,9 Mile
+indore-qjyViDKR,M-19,Tantya Bheel Chouraha Police Station to Iit Gate No 2,21,indore-HrmhMYZn,Kanad
+indore-qjyViDKR,M-19,Tantya Bheel Chouraha Police Station to Iit Gate No 2,22,indore-gyGuKMxZ,Shell City
+indore-qjyViDKR,M-19,Tantya Bheel Chouraha Police Station to Iit Gate No 2,23,indore-FoeuHISz,Simrol
+indore-qjyViDKR,M-19,Tantya Bheel Chouraha Police Station to Iit Gate No 2,24,indore-LRaPAKst,IIT Simrol
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,1,indore-172,Indore Railway Station
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,2,indore-BqXZeKiF,Shastri Bridge
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,3,indore-AiPmgMLk,Nehru Park Railway Station
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,4,indore-GOYAhGEu,Rajkumar Bridge Under Pass
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,5,indore-oVAhASGU,Malwa Mill
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,6,indore-sZKAdQmp,Visranti Chauraha
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,7,indore-RnagXBSO,Mukti Dham
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,8,indore-FeVHkdMK,Subhash Nagar
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,9,indore-hlhdDAkT,Pardeshipura
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,10,indore-tqnQMIEE,Kankeshwari Devi Mandir Dham
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,11,indore-151,Electronic Complex
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,12,indore-189,Gouri Nagar Chauraha
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,13,indore-clkrfMBW,Veena Nagar
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,14,indore-WfOagiaq,M R 10
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,15,indore-oveRyeUu,Royal Bangla
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,16,indore-120,Sukliya
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,17,indore-125,Hira Nagar
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,18,indore-gvlhBjOF,Bapat Square
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,19,indore-qKJBfmdU,Fortune Hotel
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,20,indore-rHGCgeho,Meghadut Garden
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,21,indore-ssbRiQXb,Sayaji Petrol Pump
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,22,indore-39,Vijay Nagar Police Chowki
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,23,indore-mPFrYMEg,Satya Sai Square
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,24,indore-hUZhKBRk,Jain Nursary
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,25,indore-ZfrJyDEz,Shalimar Township BRTS
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,26,indore-HWieKIuw,Scheme Number 78
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,27,indore-pkRLXCCk,Nai Sadak
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,28,indore-bDgYOIqQ,Dewas Naka
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,29,indore-mpZuQJTT,Laxmi Petrol Pump BRTS
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,30,indore-pyyxWUtU,Agrawal Toll Kanta BRTS
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,31,indore-QLevoDQz,Lasudia BRTS
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,32,indore-XjzDkeoz,Sanghi
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,33,indore-PJXAETzl,Tata Tower And Godown
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,34,indore-pyHfnIkm,Panchwati BRTS
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,35,indore-NmwxjaYX,Talawali Chanda Panchayat BRTS
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,36,indore-MfbAkEpt,Ruchi Soya
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,37,indore-czLeusqw,Hanuman Mandir
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,38,indore-xjDoTHsZ,Mangliya BRTS
+indore-sRdlJSkh,M-17,Indore Railway Station to Toll Naka,39,indore-wfctLWKD,Indian Oil Petrol Pump BRTS
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,1,indore-yVlYhXhQ,Aurobindo
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,2,indore-pjJwQAqj,Lavkush Chouraha
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,3,indore-UtPyfMZM,Kakad
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,4,indore-eHsHAfLr,M R-10 Toll Plaza
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,5,indore-IrNTnDEy,M R-10 Road Bridge
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,6,indore-QnVvepWy,M R 10
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,7,indore-KwcuQSqs,Veena Nagar
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,8,indore-WcrBJivD,Gouri Nagar Chauraha
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,9,indore-MYwccuXW,Electronic Complex
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,10,indore-106,Pardeshipura
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,11,indore-VLbIEDIJ,Subhash Nagar
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,12,indore-bbPmIhNK,Naka Bhatta
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,13,indore-hnqpZtMm,Pardesipura Police Station
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,14,indore-RsHukgEo,Bhandari Mill Agniban
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,15,indore-ryhaLAAP,D.R.P. Line
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,16,indore-eAQDbHFj,Chiman Bagh
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,17,indore-86,Nagar Nigam
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,18,indore-97,Rajwada Circle
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,19,indore-SdYnXdyE,Gurananak Chouraha
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,20,indore-sdzURCJh,Pandrinath
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,21,indore-aCxnlSQA,Collector Office
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,22,indore-38,Palsikar Colony
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,23,indore-ViWgKCtm,Prem Nagar
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,24,indore-dMWpefUm,Manik Baag Bridge
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,25,indore-tyxlawhl,Saifee Nagar
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,26,indore-107,Choithram Hospital
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,27,indore-PrIQYpWJ,Choithram Mandi
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,28,indore-LWymezNt,Kaisarbagh Bridge
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,29,indore-EDOCYmVC,Kaila Mata Mandir
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,30,indore-KwqAHWtA,Chameli Devi School
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,31,indore-36,Bijalpur
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,32,indore-KhilmmvS,Rajendra Nagar BRTS
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,33,indore-sBgAbBvS,IPS Academy BRTS
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,34,indore-fEzAvzIY,Silicon City Gate
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,35,indore-ialdFNqc,Akashwani
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,36,indore-qvDAauSD,Shramik Colony
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,37,indore-iXETGZqj,Jivan Jyoti
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,38,indore-72,Rau Bus Stop
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,39,indore-aDQwsrJI,Mamaji Ka Dhaba
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,40,indore-ltxxrHRw,Rau Bypass
+indore-udMWgyqx,M-35,Aurobindo to Medicaps College,41,indore-NmsnBXYQ,Hardias Eye Hospital
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,1,indore-yVlYhXhQ,Aurobindo
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,2,indore-pjJwQAqj,Lavkush Chouraha
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,3,indore-upMHKDuS,Indo German
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,4,indore-ahwllHkn,Deepmala Dhaba
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,5,indore-vNkUTTUg,Narval
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,6,indore-DbuCyhIV,Moni Baba Ashram
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,7,indore-BBaghXfJ,Modern Square
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,8,indore-KtEYZRVs,Ganesh Dham
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,9,indore-bCBxNUpT,Sukhliya
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,10,indore-RwMMYwwx,Kharcha
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,11,indore-njfmhRVy,Kushwah Nagar
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,12,indore-EhjEcDNy,Banganga
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,13,indore-HmaNPlFR,Vrindavan Colony
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,14,indore-lsuiuhBa,Kumar Khadi
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,15,indore-nCArtLjY,Mari Mata Square
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,16,indore-vxDomUSs,Haj House
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,17,indore-YVzsBeyj,Sadar Bazar Water Tank
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,18,indore-WSCQcbaK,Sadar Bazar
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,19,indore-30,Imli Bazar
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,20,indore-183,Ram Bagh
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,21,indore-beQgdpoi,Nagar Nigam
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,22,indore-97,Rajwada Circle
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,23,indore-iwmDtmaw,Shree Krishna Talkies
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,24,indore-142,Kothari Market
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,25,indore-meirvJZD,Gandhi Hall Or Palika Plaza
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,26,indore-9,Regal Square
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,27,indore-ByLQFiRp,Indore Railway Station
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,28,indore-waNcfuGQ,Chhoti Gwaltoli
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,29,indore-FtoFYGrQ,Madhumilan Chauraha
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,30,indore-174,Dawa Bazaar
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,31,indore-ZrQudDxI,M Y Hospital Gate
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,32,indore-160,M Y Hospital Chouraha
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,33,indore-aTTyCoPC,White Church Chauraha
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,34,indore-kSZvcdQB,Roberts Nursing Home
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,35,indore-LTaGvEhN,Krishi College
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,36,indore-LnhXyljB,Gram Pipliyahana
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,37,indore-VytmfMiT,Piplyahana Square
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,38,indore-RBMADSGb,Shanti Nagar
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,39,indore-jxbmQrRH,Pink City
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,40,indore-DkcHEPms,Musakhedi Ring Road
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,41,indore-zTlGBJCZ,Krishnapuri Colony Or Allahabad Bank
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,42,indore-SdukfQSk,Pawanpuri Colony Or S R Pump
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,43,indore-LswwRRvM,Teen Imli
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,44,indore-116,Palda Naka
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,45,indore-AgBrcwaP,Tejaji Chowk
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,46,indore-pwRkXGtb,Shubh City
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,47,indore-XYgZpixb,Rto Office
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,48,indore-LSIecHUF,Nayta Mundla
+indore-wvPxScew,C-4(M-34),Aurobindo to Silver Springs,49,indore-VMSgZwup,Nayta Mundla By Pass
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,1,indore-97,Rajwada Circle
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,2,indore-iwmDtmaw,Shree Krishna Talkies
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,3,indore-142,Kothari Market
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,4,indore-14,MTH
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,5,indore-meirvJZD,Gandhi Hall Or Palika Plaza
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,6,indore-45,Regal Square
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,7,indore-NerzPIXw,High Court
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,8,indore-rGzpzaaJ,Lantern Chowk
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,9,indore-YWvtjaky,G.S.I.T.S. Square
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,10,indore-BxqVXBqj,Rani Sati Garden
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,11,indore-TCCjdqEA,Malwa Mill
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,12,indore-rlqGQjFg,Bakery Gali
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,13,indore-ASEleEgj,Patnipura
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,14,indore-lEDiUkhU,Anup Talkies
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,15,indore-101,Bhamori
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,16,indore-JvnPiUin,Girdhar Mahal
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,17,indore-ssbRiQXb,Sayaji Petrol Pump
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,18,indore-39,Vijay Nagar Police Chowki
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,19,indore-wPWkUYAx,Satya Sai Square
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,20,indore-CFIcjCbI,Bombay Hospital
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,21,indore-ZLCIOWrw,Mahalaxmi Nagar
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,22,indore-nhzqaGqP,Sun City
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,23,indore-AxsOXPUq,Tulsi Nagar
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,24,indore-hShgfQWv,BCM
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,25,indore-ylXIpARV,DB City
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,26,indore-rqWlYYFr,Summer Park
+indore-xMYncTZE,M-25,Rajwada Circle to Nipania Bus Stop,27,indore-LIrCiHpY,Royal Bungalow

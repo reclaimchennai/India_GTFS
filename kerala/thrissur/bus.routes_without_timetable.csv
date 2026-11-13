@@ -1,0 +1,650 @@
+route_id,route_short_name,route_long_name,stop_sequence,stop_id,stop_name
+thrissur-0AJGTaZl,Guruvayur-mannady,Guruvayoor Bus Stand to Mannady Temple,1,thrissur-OUNKekWt,Guruvayoor Bus Stand
+thrissur-0AJGTaZl,Guruvayur-mannady,Guruvayoor Bus Stand to Mannady Temple,2,thrissur-VERqTott,Guruvayoor West Nada
+thrissur-0AJGTaZl,Guruvayur-mannady,Guruvayoor Bus Stand to Mannady Temple,3,thrissur-HQrNCPQD,Muthuvattur
+thrissur-0AJGTaZl,Guruvayur-mannady,Guruvayoor Bus Stand to Mannady Temple,4,thrissur-RIdiBCBD,Chavakkad Court
+thrissur-0AJGTaZl,Guruvayur-mannady,Guruvayoor Bus Stand to Mannady Temple,5,thrissur-nsEecHNQ,Chavakkad Private Bus Stand
+thrissur-0AJGTaZl,Guruvayur-mannady,Guruvayoor Bus Stand to Mannady Temple,6,thrissur-XrNhzFIM,Chettuva
+thrissur-0AJGTaZl,Guruvayur-mannady,Guruvayoor Bus Stand to Mannady Temple,7,thrissur-UcUcVwzK,Chettuva Mes
+thrissur-0AJGTaZl,Guruvayur-mannady,Guruvayoor Bus Stand to Mannady Temple,8,thrissur-RCcMeWON,Ethai
+thrissur-0AJGTaZl,Guruvayur-mannady,Guruvayoor Bus Stand to Mannady Temple,9,thrissur-CfMEPqVQ,Pokkulangara
+thrissur-0AJGTaZl,Guruvayur-mannady,Guruvayoor Bus Stand to Mannady Temple,10,thrissur-lnMSKpCm,Ezham Kallu
+thrissur-0AJGTaZl,Guruvayur-mannady,Guruvayoor Bus Stand to Mannady Temple,11,thrissur-UwgSqWcJ,Vadanappally
+thrissur-0AJGTaZl,Guruvayur-mannady,Guruvayoor Bus Stand to Mannady Temple,12,thrissur-sPeZKFKb,Thalikkulam
+thrissur-0AJGTaZl,Guruvayur-mannady,Guruvayoor Bus Stand to Mannady Temple,13,thrissur-ZsrlnxzL,Thriprayar Bus Stand
+thrissur-0AJGTaZl,Guruvayur-mannady,Guruvayoor Bus Stand to Mannady Temple,14,thrissur-iZlIjvOE,Thriprayar South
+thrissur-0AJGTaZl,Guruvayur-mannady,Guruvayoor Bus Stand to Mannady Temple,15,thrissur-YoShDqlM,Edamuttam
+thrissur-0AJGTaZl,Guruvayur-mannady,Guruvayoor Bus Stand to Mannady Temple,16,thrissur-NgBPPFwa,Chentrapinni
+thrissur-0AJGTaZl,Guruvayur-mannady,Guruvayoor Bus Stand to Mannady Temple,17,thrissur-fbrEXofa,Moonupeedika
+thrissur-0FdxrFXS,Thrissur-Kottayam,Thrissur Bus Stand to Apollo Tyres Perambra,1,thrissur-pUEvXzth,Thrissur Bus Stand
+thrissur-0FdxrFXS,Thrissur-Kottayam,Thrissur Bus Stand to Apollo Tyres Perambra,2,thrissur-rOvVlRSW,Sakthan Stand
+thrissur-0FdxrFXS,Thrissur-Kottayam,Thrissur Bus Stand to Apollo Tyres Perambra,3,thrissur-gWkUaCfE,Kuriachira Centre
+thrissur-0FdxrFXS,Thrissur-Kottayam,Thrissur Bus Stand to Apollo Tyres Perambra,4,thrissur-UhISxTJY,Cheerachi
+thrissur-0FdxrFXS,Thrissur-Kottayam,Thrissur Bus Stand to Apollo Tyres Perambra,5,thrissur-OHlldmeF,Ollur Junction
+thrissur-0FdxrFXS,Thrissur-Kottayam,Thrissur Bus Stand to Apollo Tyres Perambra,6,thrissur-MblbIpvc,Thaloor
+thrissur-0FdxrFXS,Thrissur-Kottayam,Thrissur Bus Stand to Apollo Tyres Perambra,7,thrissur-NgorTxJc,Thalore Bypass Junction
+thrissur-0FdxrFXS,Thrissur-Kottayam,Thrissur Bus Stand to Apollo Tyres Perambra,8,thrissur-shiiWlAc,Paliyekkara
+thrissur-0FdxrFXS,Thrissur-Kottayam,Thrissur Bus Stand to Apollo Tyres Perambra,9,thrissur-QGKDyveZ,Amballur Junction
+thrissur-0FdxrFXS,Thrissur-Kottayam,Thrissur Bus Stand to Apollo Tyres Perambra,10,thrissur-khqDUUse,Puthukkad Bus Stand
+thrissur-0FdxrFXS,Thrissur-Kottayam,Thrissur Bus Stand to Apollo Tyres Perambra,11,thrissur-BQBcuwRV,Puthukkad
+thrissur-0FdxrFXS,Thrissur-Kottayam,Thrissur Bus Stand to Apollo Tyres Perambra,12,thrissur-wSvqAjXR,Puthukkad Police Station
+thrissur-0FdxrFXS,Thrissur-Kottayam,Thrissur Bus Stand to Apollo Tyres Perambra,13,thrissur-ZohUivrS,Nandikkara
+thrissur-0FdxrFXS,Thrissur-Kottayam,Thrissur Bus Stand to Apollo Tyres Perambra,14,thrissur-TPjkMiru,Nellayi Junction
+thrissur-0FdxrFXS,Thrissur-Kottayam,Thrissur Bus Stand to Apollo Tyres Perambra,15,thrissur-HhhEHDRo,Kulathoor Kodakara
+thrissur-0FdxrFXS,Thrissur-Kottayam,Thrissur Bus Stand to Apollo Tyres Perambra,16,thrissur-KvOJyxGR,Kodakara
+thrissur-0FdxrFXS,Thrissur-Kottayam,Thrissur Bus Stand to Apollo Tyres Perambra,17,thrissur-mvvWlOIq,Perambra Church
+thrissur-0FdxrFXS,Thrissur-Kottayam,Thrissur Bus Stand to Apollo Tyres Perambra,18,thrissur-vyQknmOb,Perambra Pally
+thrissur-0FdxrFXS,Thrissur-Kottayam,Thrissur Bus Stand to Apollo Tyres Perambra,19,thrissur-jQHniQim,Apollo Tyres Perambra
+thrissur-0VReGYtR,Thrissur-Alappuzha,Thrissur Bus Stand to Apollo Tyres Perambra,1,thrissur-IvNRZOtG,Thrissur Bus Stand
+thrissur-0VReGYtR,Thrissur-Alappuzha,Thrissur Bus Stand to Apollo Tyres Perambra,2,thrissur-rIccBGQU,Sakthan Stand
+thrissur-0VReGYtR,Thrissur-Alappuzha,Thrissur Bus Stand to Apollo Tyres Perambra,3,thrissur-oBdzuuZL,Kuriachira Centre
+thrissur-0VReGYtR,Thrissur-Alappuzha,Thrissur Bus Stand to Apollo Tyres Perambra,4,thrissur-UhISxTJY,Cheerachi
+thrissur-0VReGYtR,Thrissur-Alappuzha,Thrissur Bus Stand to Apollo Tyres Perambra,5,thrissur-ISXWFGSV,Ollur Junction
+thrissur-0VReGYtR,Thrissur-Alappuzha,Thrissur Bus Stand to Apollo Tyres Perambra,6,thrissur-IREwigTU,Thaloor
+thrissur-0VReGYtR,Thrissur-Alappuzha,Thrissur Bus Stand to Apollo Tyres Perambra,7,thrissur-znVWiZlJ,Thalore Bypass Junction
+thrissur-0VReGYtR,Thrissur-Alappuzha,Thrissur Bus Stand to Apollo Tyres Perambra,8,thrissur-shiiWlAc,Paliyekkara
+thrissur-0VReGYtR,Thrissur-Alappuzha,Thrissur Bus Stand to Apollo Tyres Perambra,9,thrissur-EdbmgiDe,Amballur
+thrissur-0VReGYtR,Thrissur-Alappuzha,Thrissur Bus Stand to Apollo Tyres Perambra,10,thrissur-khqDUUse,Puthukkad Bus Stand
+thrissur-0VReGYtR,Thrissur-Alappuzha,Thrissur Bus Stand to Apollo Tyres Perambra,11,thrissur-EoKdJvhW,Puthukkad Junction
+thrissur-0VReGYtR,Thrissur-Alappuzha,Thrissur Bus Stand to Apollo Tyres Perambra,12,thrissur-wSvqAjXR,Puthukkad Police Station
+thrissur-0VReGYtR,Thrissur-Alappuzha,Thrissur Bus Stand to Apollo Tyres Perambra,13,thrissur-uOMndqXy,Nandikkara
+thrissur-0VReGYtR,Thrissur-Alappuzha,Thrissur Bus Stand to Apollo Tyres Perambra,14,thrissur-cYPfOTfq,Nellayi Junction
+thrissur-0VReGYtR,Thrissur-Alappuzha,Thrissur Bus Stand to Apollo Tyres Perambra,15,thrissur-HhhEHDRo,Kulathoor Kodakara
+thrissur-0VReGYtR,Thrissur-Alappuzha,Thrissur Bus Stand to Apollo Tyres Perambra,16,thrissur-KvOJyxGR,Kodakara
+thrissur-0VReGYtR,Thrissur-Alappuzha,Thrissur Bus Stand to Apollo Tyres Perambra,17,thrissur-BACIbRct,Kodakara Police Station
+thrissur-0VReGYtR,Thrissur-Alappuzha,Thrissur Bus Stand to Apollo Tyres Perambra,18,thrissur-mvvWlOIq,Perambra Church
+thrissur-0VReGYtR,Thrissur-Alappuzha,Thrissur Bus Stand to Apollo Tyres Perambra,19,thrissur-jQHniQim,Apollo Tyres Perambra
+thrissur-0juyqlhU,Thrissur-Vyttila,Thrissur Bus Stand to Vyttila Mobility Hub,1,thrissur-rhcNltcr,Thrissur Bus Stand
+thrissur-0juyqlhU,Thrissur-Vyttila,Thrissur Bus Stand to Vyttila Mobility Hub,2,thrissur-rIccBGQU,Sakthan Stand
+thrissur-0juyqlhU,Thrissur-Vyttila,Thrissur Bus Stand to Vyttila Mobility Hub,3,thrissur-gWkUaCfE,Kuriachira Centre
+thrissur-0juyqlhU,Thrissur-Vyttila,Thrissur Bus Stand to Vyttila Mobility Hub,4,thrissur-UhISxTJY,Cheerachi
+thrissur-0juyqlhU,Thrissur-Vyttila,Thrissur Bus Stand to Vyttila Mobility Hub,5,thrissur-ISXWFGSV,Ollur Junction
+thrissur-0juyqlhU,Thrissur-Vyttila,Thrissur Bus Stand to Vyttila Mobility Hub,6,thrissur-IREwigTU,Thaloor
+thrissur-0juyqlhU,Thrissur-Vyttila,Thrissur Bus Stand to Vyttila Mobility Hub,7,thrissur-NgorTxJc,Thalore Bypass Junction
+thrissur-0juyqlhU,Thrissur-Vyttila,Thrissur Bus Stand to Vyttila Mobility Hub,8,thrissur-shiiWlAc,Paliyekkara
+thrissur-0juyqlhU,Thrissur-Vyttila,Thrissur Bus Stand to Vyttila Mobility Hub,9,thrissur-QGKDyveZ,Amballur Junction
+thrissur-0juyqlhU,Thrissur-Vyttila,Thrissur Bus Stand to Vyttila Mobility Hub,10,thrissur-khqDUUse,Puthukkad Bus Stand
+thrissur-0juyqlhU,Thrissur-Vyttila,Thrissur Bus Stand to Vyttila Mobility Hub,11,thrissur-BQBcuwRV,Puthukkad
+thrissur-0juyqlhU,Thrissur-Vyttila,Thrissur Bus Stand to Vyttila Mobility Hub,12,thrissur-iIDanNnu,Puthukkad Police Station
+thrissur-0juyqlhU,Thrissur-Vyttila,Thrissur Bus Stand to Vyttila Mobility Hub,13,thrissur-ShuaQUxC,Nandikkara
+thrissur-0juyqlhU,Thrissur-Vyttila,Thrissur Bus Stand to Vyttila Mobility Hub,14,thrissur-cYPfOTfq,Nellayi Junction
+thrissur-0juyqlhU,Thrissur-Vyttila,Thrissur Bus Stand to Vyttila Mobility Hub,15,thrissur-HhhEHDRo,Kulathoor Kodakara
+thrissur-0juyqlhU,Thrissur-Vyttila,Thrissur Bus Stand to Vyttila Mobility Hub,16,thrissur-KvOJyxGR,Kodakara
+thrissur-0juyqlhU,Thrissur-Vyttila,Thrissur Bus Stand to Vyttila Mobility Hub,17,thrissur-BACIbRct,Kodakara Police Station
+thrissur-0juyqlhU,Thrissur-Vyttila,Thrissur Bus Stand to Vyttila Mobility Hub,18,thrissur-ZvKQvNvt,Perambra Church
+thrissur-0juyqlhU,Thrissur-Vyttila,Thrissur Bus Stand to Vyttila Mobility Hub,19,thrissur-jQHniQim,Apollo Tyres Perambra
+thrissur-0juyqlhU,Thrissur-Vyttila,Thrissur Bus Stand to Vyttila Mobility Hub,20,thrissur-orWoCTRc,Panampilly College Junction
+thrissur-0kfginmH,Thrissur-Bengaluru,Thrissur Bus Stand to Satelite Bus Stand Bangalore,1,thrissur-pUEvXzth,Thrissur Bus Stand
+thrissur-0kfginmH,Thrissur-Bengaluru,Thrissur Bus Stand to Satelite Bus Stand Bangalore,2,thrissur-hpjelzKy,Pattikkad
+thrissur-0qPwIgMq,Thrissur-Kozhikode,Thrissur Bus Stand to Perumbilavu,1,thrissur-rhcNltcr,Thrissur Bus Stand
+thrissur-0qPwIgMq,Thrissur-Kozhikode,Thrissur Bus Stand to Perumbilavu,2,thrissur-JUQZZvdF,Sankara Iyyer Road
+thrissur-0qPwIgMq,Thrissur-Kozhikode,Thrissur Bus Stand to Perumbilavu,3,thrissur-TJJbNYri,Ayyanthole Palli Stop
+thrissur-0qPwIgMq,Thrissur-Kozhikode,Thrissur Bus Stand to Perumbilavu,4,thrissur-VEDpdnZx,Amala Hospital
+thrissur-0qPwIgMq,Thrissur-Kozhikode,Thrissur Bus Stand to Perumbilavu,5,thrissur-qhwXIaJI,Kaiparambu
+thrissur-0qPwIgMq,Thrissur-Kozhikode,Thrissur Bus Stand to Perumbilavu,6,thrissur-CWkPtqOA,Kechery
+thrissur-0qPwIgMq,Thrissur-Kozhikode,Thrissur Bus Stand to Perumbilavu,7,thrissur-MdWSWRkN,Choondal
+thrissur-0qPwIgMq,Thrissur-Kozhikode,Thrissur Bus Stand to Perumbilavu,8,thrissur-BTXoVosa,Kunnamkulam New Municipal Bus Stand
+thrissur-0qPwIgMq,Thrissur-Kozhikode,Thrissur Bus Stand to Perumbilavu,9,thrissur-cpiTWnTC,Akkikavu
+thrissur-0qPwIgMq,Thrissur-Kozhikode,Thrissur Bus Stand to Perumbilavu,10,thrissur-IicoQbSz,Perumbilavu
+thrissur-0xiFUQQm,Thrissur-Cherthala,Thrissur Bus Stand to Ollur Junction,1,thrissur-pUEvXzth,Thrissur Bus Stand
+thrissur-0xiFUQQm,Thrissur-Cherthala,Thrissur Bus Stand to Ollur Junction,2,thrissur-rOvVlRSW,Sakthan Stand
+thrissur-0xiFUQQm,Thrissur-Cherthala,Thrissur Bus Stand to Ollur Junction,3,thrissur-ISXWFGSV,Ollur Junction
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,1,thrissur-opdbKiVY,Guruvayoor Bus Stand
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,2,thrissur-JJuBLdQm,Kottapadi
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,3,thrissur-otjvCljS,Kunnamkulam
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,4,thrissur-cQHqaYbV,Kanippayyur
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,5,thrissur-FPuhgNHB,Unity Hospital
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,6,thrissur-MdWSWRkN,Choondal
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,7,thrissur-CWkPtqOA,Kechery
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,8,thrissur-nQiOrQZL,Kaiparamb
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,9,thrissur-nIKOYAjG,Mundur Pump
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,10,thrissur-gcTwMULr,Peramangalam
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,11,thrissur-QoLPTJED,Amala Hospital
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,12,thrissur-UcLsMPqG,Ayyanthole Road
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,13,thrissur-ltTZPmFm,Amala Hospital
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,14,thrissur-SfILaZqb,West Fort
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,15,thrissur-rhcNltcr,Thrissur Bus Stand
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,16,thrissur-nvEAADNa,Sakthan Stand
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,17,thrissur-laiOHtcB,Kuriachira Centre
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,18,thrissur-UhISxTJY,Cheerachi
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,19,thrissur-yBooFVJm,Ollur
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,20,thrissur-TTlDdTde,Thaloor
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,21,thrissur-NgorTxJc,Thalore Bypass Junction
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,22,thrissur-SrKlyHKP,Paliyekkara
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,23,thrissur-FnytzoMm,Amballur Junction
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,24,thrissur-khqDUUse,Puthukkad Bus Stand
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,25,thrissur-EoKdJvhW,Puthukkad Junction
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,26,thrissur-BHatTzIy,Puthukkad Police Station
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,27,thrissur-ZohUivrS,Nandikkara
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,28,thrissur-TPjkMiru,Nellayi Junction
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,29,thrissur-JrbDbyji,Kulathoor Kodakara
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,30,thrissur-KvOJyxGR,Kodakara
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,31,thrissur-BACIbRct,Kodakara Police Station
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,32,thrissur-mvvWlOIq,Perambra Church
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,33,thrissur-ZRyFopRj,Apollo Tyres Perambra
+thrissur-HzpiNGfW,Guruvayoor-Thiruvananthapuram,Guruvayoor Bus Stand to Panampilly College Junction,34,thrissur-DPPqxGuX,Panampilly College Junction
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,1,thrissur-vLrCBRMX,Guruvayoor Bus Stand
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,2,thrissur-VERqTott,Guruvayoor West Nada
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,3,thrissur-OYVxoELt,Muthuvattur
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,4,thrissur-VoipDJmY,Mammiyoor Junction
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,5,thrissur-HMfLlkRf,Little Flower College Guruvayur
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,6,thrissur-KJodmIZP,Kootapadi
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,7,thrissur-SnlVYOyh,Arthat
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,8,thrissur-BTXoVosa,Kunnamkulam New Municipal Bus Stand
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,9,thrissur-pBNFuaBV,Kunnamkulam Bus Stand
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,10,thrissur-VjEwUZkt,Choondal
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,11,thrissur-VEMinMjM,Kechery
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,12,thrissur-qhwXIaJI,Kaiparambu
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,13,thrissur-zBpZAmgV,Peramangalam
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,14,thrissur-QoLPTJED,Amala Hospital
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,15,thrissur-ruvXXaaI,Ayyanthole Road
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,16,thrissur-gCbbipwe,Punkunnam
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,17,thrissur-crizUjcZ,Sankara Iyyer Road
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,18,thrissur-pUEvXzth,Thrissur Bus Stand
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,19,thrissur-gtmDwTeL,Sakthan Stand
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,20,thrissur-oBdzuuZL,Kuriachira Centre
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,21,thrissur-ISXWFGSV,Ollur Junction
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,22,thrissur-IREwigTU,Thaloor
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,23,thrissur-znVWiZlJ,Thalore Bypass Junction
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,24,thrissur-EdbmgiDe,Amballur
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,25,thrissur-khqDUUse,Puthukkad Bus Stand
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,26,thrissur-EoKdJvhW,Puthukkad Junction
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,27,thrissur-ZohUivrS,Nandikkara
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,28,thrissur-cYPfOTfq,Nellayi Junction
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,29,thrissur-KvOJyxGR,Kodakara
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,30,thrissur-mvvWlOIq,Perambra Church
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,31,thrissur-jQHniQim,Apollo Tyres Perambra
+thrissur-IwFDIRLP,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,32,thrissur-orWoCTRc,Panampilly College Junction
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,1,thrissur-juZnVkXP,Guruvayoor Bus Stand
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,2,thrissur-VERqTott,Guruvayoor West Nada
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,3,thrissur-OYVxoELt,Muthuvattur
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,4,thrissur-VoipDJmY,Mammiyoor Junction
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,5,thrissur-HMfLlkRf,Little Flower College Guruvayur
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,6,thrissur-JJuBLdQm,Kottapadi
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,7,thrissur-SnlVYOyh,Arthat
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,8,thrissur-BTXoVosa,Kunnamkulam New Municipal Bus Stand
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,9,thrissur-SFvzwZDh,Kunnamkulam Bus Stand
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,10,thrissur-VjEwUZkt,Choondal
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,11,thrissur-NWnjyXdh,Kechery
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,12,thrissur-qhwXIaJI,Kaiparambu
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,13,thrissur-XqaQUsSB,Peramangalam
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,14,thrissur-QoLPTJED,Amala Hospital
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,15,thrissur-ruvXXaaI,Ayyanthole Road
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,16,thrissur-gCbbipwe,Punkunnam
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,17,thrissur-crizUjcZ,Sankara Iyyer Road
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,18,thrissur-pUEvXzth,Thrissur Bus Stand
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,19,thrissur-AaMtnCMR,Sakthan Private Bus Stand
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,20,thrissur-gWkUaCfE,Kuriachira Centre
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,21,thrissur-OHlldmeF,Ollur Junction
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,22,thrissur-IREwigTU,Thaloor
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,23,thrissur-QGKDyveZ,Amballur Junction
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,24,thrissur-khqDUUse,Puthukkad Bus Stand
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,25,thrissur-BQBcuwRV,Puthukkad
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,26,thrissur-ShuaQUxC,Nandikkara
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,27,thrissur-TPjkMiru,Nellayi Junction
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,28,thrissur-tDkAVyzy,Kodakara
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,29,thrissur-ZvKQvNvt,Perambra Church
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,30,thrissur-jQHniQim,Apollo Tyres Perambra
+thrissur-MyxZKmNu,Guruvayoor-Pamba,Guruvayoor Bus Stand to Panampilly College Junction,31,thrissur-orWoCTRc,Panampilly College Junction
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,1,thrissur-JrrgOMut,Old Medical College
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,2,thrissur-IRBCTNlv,Medical College
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,3,thrissur-ydDeTLDu,Medical College Temple
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,4,thrissur-eoLokfAD,Kanthi Nagar Bus Stop
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,5,thrissur-qgcsrFOY,Palli Stop Velappaya
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,6,thrissur-KbSFOfpJ,China Bazaar
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,7,thrissur-FQNLHaEW,Marar Road
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,8,thrissur-ZyczoUOM,Kanal Palam Velappaya
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,9,thrissur-nxVhNgfR,Velappaya Road
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,10,thrissur-FTSImfPq,Mulankunnathukavu Bus Stop
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,11,thrissur-ufPSPTbH,Konchery Road
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,12,thrissur-aALwHfor,Tirur Palli Stop
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,13,thrissur-GopXFIGJ,Thiroor Temple
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,14,thrissur-thcnOIjg,Karama Bus Stop
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,15,thrissur-wuvGdupi,Doctors Padi
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,16,thrissur-ZEDUmhjO,Kolazhi
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,17,thrissur-yRZghUAr,Poovani
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,18,thrissur-dpLkNPqk,Padukkad
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,19,thrissur-MSbHWGZI,Viyyur Power House
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,20,thrissur-yCIIFYoY,Power House Viyur
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,21,thrissur-eJAPPjcW,Viyyur Temple
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,22,thrissur-yjNpRBgR,Viyyur Company Pady
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,23,thrissur-vtsgGOoY,Viyur Paalam
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,24,thrissur-MmWdcUaR,Daya
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,25,thrissur-bZJwxGpw,Peringavu
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,26,thrissur-vtIFskqn,Aswini Junction
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,27,thrissur-SEnDkgOn,Thrissur North Private Bus Stand
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,28,thrissur-grHyjjtr,Thrissur North Private Bus Stand
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,29,thrissur-hKDKkUMH,Paramekkavu Temple
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,30,thrissur-piZyyTay,Municipal Bus Stand
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,31,thrissur-nvEAADNa,Sakthan Stand
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,32,thrissur-XNflGLZm,Sakthan Private Bus Stand
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,33,thrissur-bAprcYPg,Thrissur Mundupalam
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,34,thrissur-ieJsTUTc,Kuriachira Gosaikunnu
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,35,thrissur-oBdzuuZL,Kuriachira Centre
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,36,thrissur-MFSpOHZs,Kuriachira Canal
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,37,thrissur-mfPhSxpd,Chiyyaram
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,38,thrissur-RwUHmFIy,Vakayil Vazhi
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,39,thrissur-UqQNDilm,Cheerachi
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,40,thrissur-ymzdxMcH,Ollur Ancheri Vazhi
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,41,thrissur-cPIIuiAV,Ollur Company Padi
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,42,thrissur-ZgiDeFTa,Ollur Palli
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,43,thrissur-IwkZWihH,Ollur Madam
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,44,thrissur-ISXWFGSV,Ollur Junction
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,45,thrissur-zPdghGwg,Ollur Estate Padi
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,46,thrissur-rxyheHLE,Ollur ESI
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,47,thrissur-AjPnaWqp,P R Padi
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,48,thrissur-dEbMgUKt,Mathrubhumi Thalore
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,49,thrissur-IREwigTU,Thaloor
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,50,thrissur-OMYzMutR,Thalore Bypass Junction
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,51,thrissur-NWonUgDB,Paliyekkara
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,52,thrissur-MMTSvdjF,Manali
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,53,thrissur-EHFXzZPZ,Amballur
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,54,thrissur-QjfQVtTr,Kalloor Vazhi
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,55,thrissur-hbwnECHf,Alagappa Nool Company
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,56,thrissur-wfIgIAyZ,Vendore ESI
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,57,thrissur-hycWnekQ,Vendore Centre
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,58,thrissur-bFQmZUVJ,Vendore Chungam
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,59,thrissur-bODWBbeY,Mannampetta Centre
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,60,thrissur-ZvaucdMJ,Mannampetta Palli
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,61,thrissur-fdoYHuaO,Karuvapady
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,62,thrissur-ZVvVxguS,Kalakallu
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,63,thrissur-zicCuOOA,Pallikunnu Pulinchode
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,64,thrissur-LpgzorCI,Varakkara Temple
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,65,thrissur-EqollsaK,Pallikunnu Church
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,66,thrissur-OGqPJTDu,Varandarappilly Petrol Pump
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,67,thrissur-KLXOWOBn,Varandarappilly Old Post Office
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,68,thrissur-XnidDgUw,Varandarappilly Centre
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,69,thrissur-SpRGhuzv,Thazhathe Kappela
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,70,thrissur-SOsWrFiP,Varandarappilly Polce Station
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,71,thrissur-LQypxsfP,Pound Junction
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,72,thrissur-OsxATdmU,Fa Velupadam
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,73,thrissur-iqtyqsII,Velupadam Madam
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,74,thrissur-hKEWGlAO,Kallayi Vazhi
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,75,thrissur-ZPJUyDAZ,Velupadam Church
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,76,thrissur-nxwCUgdd,Pulikkanni Centre
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,77,thrissur-FyKIeKXm,Malabar Nagar
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,78,thrissur-ZiKmjmFE,Nadempadam
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,79,thrissur-SRURETxz,Palappilly Post Office
+thrissur-NwmmBYvt,Medical College-Palappilly,Old Medical College to Palappilly Centre,80,thrissur-OxACmrLl,Palappilly Bungalow
+thrissur-OAInwRuS,Thrissur-Thiruvananthapuram,Thrissur Bus Stand to Puthukkad Bus Stand,1,thrissur-pUEvXzth,Thrissur Bus Stand
+thrissur-OAInwRuS,Thrissur-Thiruvananthapuram,Thrissur Bus Stand to Puthukkad Bus Stand,2,thrissur-YaIlqwLs,Sakthan Private Bus Stand
+thrissur-OAInwRuS,Thrissur-Thiruvananthapuram,Thrissur Bus Stand to Puthukkad Bus Stand,3,thrissur-yBooFVJm,Ollur
+thrissur-OAInwRuS,Thrissur-Thiruvananthapuram,Thrissur Bus Stand to Puthukkad Bus Stand,4,thrissur-khqDUUse,Puthukkad Bus Stand
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,1,thrissur-axWdSmle,Palappilly Centre
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,2,thrissur-vLXkHFWK,Palappilly Bungalow
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,3,thrissur-tvLmDroZ,Palappilly Post Office
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,4,thrissur-uwTgTXfH,Nadempadam
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,5,thrissur-PBGoWSXP,Malabar Nagar
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,6,thrissur-QcDJZAzS,Pulikkanni Centre
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,7,thrissur-NOKxAwcg,Velupadam Church
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,8,thrissur-UcwcGDqz,Kallayi Vazhi
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,9,thrissur-gVznqpiH,Velupadam Madam
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,10,thrissur-ZuNPmbwG,Fa Velupadam
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,11,thrissur-EraEaiyv,Pound Junction
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,12,thrissur-YkzDyvwk,Varandarappilly Polce Station
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,13,thrissur-DiSVgnmb,Thazhathe Kappela
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,14,thrissur-ktZUeToZ,Varandarappilly Centre
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,15,thrissur-thWqGLfr,Varandarappilly Old Post Office
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,16,thrissur-PWAMRvSa,Varandarappilly Petrol Pump
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,17,thrissur-rFAiKPLf,Pallikunnu Church
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,18,thrissur-HaJqZNsV,Varakkara Temple
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,19,thrissur-dMkQCluh,Pallikunnu Pulinchode
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,20,thrissur-fUBPHPsA,Kalakallu
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,21,thrissur-xXbShkKL,Karuvapady
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,22,thrissur-XdIdYgKe,Mannampetta Palli
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,23,thrissur-XApaXXks,Mannampetta Centre
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,24,thrissur-SzToPzks,Vendore Chungam
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,25,thrissur-FQpfanYV,Vendore Centre
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,26,thrissur-GpgkiArL,Vendore ESI
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,27,thrissur-DVHBtAbh,Alagappa Nool Company
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,28,thrissur-QjfQVtTr,Kalloor Vazhi
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,29,thrissur-vyYeIRVa,Amballur
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,30,thrissur-wXPtAYbQ,Manali
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,31,thrissur-ljTSeWWP,Paliyekkara
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,32,thrissur-BaPHcoQH,Thalore Bypass Junction
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,33,thrissur-eORibuwh,Thaloor
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,34,thrissur-uXqhbcbh,Mathrubhumi Thalore
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,35,thrissur-KtEBFNUJ,P R Padi
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,36,thrissur-fHSnKmBP,Ollur ESI
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,37,thrissur-InswNiou,Ollur Estate Padi
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,38,thrissur-yBooFVJm,Ollur
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,39,thrissur-lSygEXFb,Ollur Madam
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,40,thrissur-poXxjpNu,Ollur Palli
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,41,thrissur-boHGuszg,Ollur Company Padi
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,42,thrissur-xJSsLsXP,Ollur Ancheri Vazhi
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,43,thrissur-AUNxtvlN,Cheerachi
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,44,thrissur-gTNYCcvv,Vakayil Vazhi
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,45,thrissur-jjCsATUq,Chiyyaram
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,46,thrissur-PNCQcKyb,Kuriachira Canal
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,47,thrissur-BqUaCktY,Kuriachira Centre
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,48,thrissur-neyHsQVN,Kuriachira Gosaikunnu
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,49,thrissur-IalBspOe,Thrissur Mundupalam
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,50,thrissur-nvEAADNa,Sakthan Stand
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,51,thrissur-pUEvXzth,Thrissur Bus Stand
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,52,thrissur-mtiWqxtH,Kuruppam Road Stop
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,53,thrissur-XzVjdrIj,Bini Bus Stop
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,54,thrissur-reHagQde,Thrissur North Private Bus Stand
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,55,thrissur-rLjUmUrM,Aswini Junction
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,56,thrissur-EhcBWbtz,Peringavu
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,57,thrissur-DwGamreU,Daya
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,58,thrissur-PbNnBkZL,Viyur Paalam
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,59,thrissur-jHwLBwEw,Viyyur Company Pady
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,60,thrissur-RmjmMgLR,Viyyur Temple
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,61,thrissur-nFrRJUqK,Viyyur Power House
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,62,thrissur-MSbHWGZI,Viyyur Power House
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,63,thrissur-QlJFvTAc,Padukkadu
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,64,thrissur-WqPyboKH,Poovani
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,65,thrissur-giAPCKzq,Kolazhi
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,66,thrissur-WJAdOlOG,Doctors Padi
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,67,thrissur-NgxeyBIG,Karama Bus Stop
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,68,thrissur-lkddEuSo,Thiroor Temple
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,69,thrissur-vlsZieAp,Tirur Palli Stop
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,70,thrissur-lrTEMyKQ,Konchi Road
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,71,thrissur-skDldPzo,Mulankunnathukavu Bus Stop
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,72,thrissur-brcHKyMC,Velappaya Road
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,73,thrissur-foGLgFKi,Rajagopal
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,74,thrissur-fXTRQBRX,Keltron Athani
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,75,thrissur-DGlKPDjf,Athani
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,76,thrissur-OFLsQYYj,Athani Poomala Road
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,77,thrissur-EelfUGpp,Athani Bypass Junction
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,78,thrissur-bwoOKveI,Minalur
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,79,thrissur-pnCEdIJi,Kuranchery
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,80,thrissur-TVZEzsQT,Paralikadu
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,81,thrissur-kNaWTbFe,Paralikadu Junction
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,82,thrissur-MmPdoHhT,Paatham Kallu
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,83,thrissur-HCewvloG,Karuthakkad
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,84,thrissur-cUoEOfTe,Wadakkanchery Railway Station
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,85,thrissur-pPPNgXzX,Wadakkanchery Private Bus Stand
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,86,thrissur-mLmrqYom,Wadakkanchery Police Station
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,87,thrissur-nyzNuZYA,Vadakkanchery Devine
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,88,thrissur-etIFQKcf,Ottupara Stand
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,89,thrissur-HpcAzVan,Kunnamkulam Road Ottupara
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,90,thrissur-UHHnXrqR,Bye Pass Junction Ottupara
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,91,thrissur-uZrLtXVG,Kumaranellur
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,92,thrissur-MRiYOdRB,Marakkampany
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,93,thrissur-OKSfNuOX,Ration Kada Bus Stop
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,94,thrissur-ASYBDLBh,Onnamkallu
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,95,thrissur-ddxzkZul,Kanjirakode Thottupalam
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,96,thrissur-xuEPYbvc,Kanjirakode Centre
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,97,thrissur-yKVxbTKD,Kundannur Chungam
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,98,thrissur-PbpSmroo,Thrikkana Pathiyaram
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,99,thrissur-gwNzNeJe,Chittanda Centre
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,100,thrissur-DGIaPOzZ,Chittanda School
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,101,thrissur-IOwnzwVg,Poongode Kory Stop
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,102,thrissur-yZKUoWrK,Poongode Kanal
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,103,thrissur-FbGXxQaN,Poongode
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,104,thrissur-wxDqExuK,Nilampathi Varavur
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,105,thrissur-BQLdGKUg,Pulinchode
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,106,thrissur-OmUcdJmF,Varavoor Valavu
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,107,thrissur-vdEdrBbH,Varavur Panchayat
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,108,thrissur-MtKHVzAS,Palakkal Road
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,109,thrissur-EHJSMnYX,Varavur School
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,110,thrissur-MJjBhLxt,Vettani Bus Stop
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,111,thrissur-SyCldSzz,Mele Thalassery
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,112,thrissur-zvUZKeuJ,Thalassery Muslim Palli
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,113,thrissur-WhhsZQty,Thalassery
+thrissur-WopaTFJq,Palappilly-Kondayoor,Palappilly Centre to Kondayur Temple,114,thrissur-ydtHQOIH,Desamangalam Koottupatha
+thrissur-XyAVpnZx,Thrissur-Kaliyikkavila,Thrissur Bus Stand to Kodakara,1,thrissur-HTlRgrht,Thrissur Bus Stand
+thrissur-XyAVpnZx,Thrissur-Kaliyikkavila,Thrissur Bus Stand to Kodakara,2,thrissur-msyWAZHG,Sakthan Stand
+thrissur-XyAVpnZx,Thrissur-Kaliyikkavila,Thrissur Bus Stand to Kodakara,3,thrissur-ISXWFGSV,Ollur Junction
+thrissur-XyAVpnZx,Thrissur-Kaliyikkavila,Thrissur Bus Stand to Kodakara,4,thrissur-EdbmgiDe,Amballur
+thrissur-XyAVpnZx,Thrissur-Kaliyikkavila,Thrissur Bus Stand to Kodakara,5,thrissur-khqDUUse,Puthukkad Bus Stand
+thrissur-XyAVpnZx,Thrissur-Kaliyikkavila,Thrissur Bus Stand to Kodakara,6,thrissur-KvOJyxGR,Kodakara
+thrissur-YQePXvWP,Thirussur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,1,thrissur-rhcNltcr,Thrissur Bus Stand
+thrissur-YQePXvWP,Thirussur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,2,thrissur-nvEAADNa,Sakthan Stand
+thrissur-YQePXvWP,Thirussur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,3,thrissur-WkwmOOYs,Kuriachira Centre
+thrissur-YQePXvWP,Thirussur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,4,thrissur-UhISxTJY,Cheerachi
+thrissur-YQePXvWP,Thirussur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,5,thrissur-yBooFVJm,Ollur
+thrissur-YQePXvWP,Thirussur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,6,thrissur-TTlDdTde,Thaloor
+thrissur-YQePXvWP,Thirussur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,7,thrissur-OMYzMutR,Thalore Bypass Junction
+thrissur-YQePXvWP,Thirussur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,8,thrissur-SrKlyHKP,Paliyekkara
+thrissur-YQePXvWP,Thirussur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,9,thrissur-FnytzoMm,Amballur Junction
+thrissur-YQePXvWP,Thirussur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,10,thrissur-khqDUUse,Puthukkad Bus Stand
+thrissur-YQePXvWP,Thirussur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,11,thrissur-AWYXTnOm,Puthukkad
+thrissur-YQePXvWP,Thirussur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,12,thrissur-kgBbqKXM,Puthukkad Police Station
+thrissur-YQePXvWP,Thirussur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,13,thrissur-ZohUivrS,Nandikkara
+thrissur-YQePXvWP,Thirussur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,14,thrissur-TPjkMiru,Nellayi Junction
+thrissur-YQePXvWP,Thirussur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,15,thrissur-HhhEHDRo,Kulathoor Kodakara
+thrissur-YQePXvWP,Thirussur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,16,thrissur-OdcDPiSL,Kodakara
+thrissur-YQePXvWP,Thirussur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,17,thrissur-iFPVhlAR,Kodakara Police Station
+thrissur-YQePXvWP,Thirussur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,18,thrissur-HxoCNXYg,Perambra Church
+thrissur-YQePXvWP,Thirussur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,19,thrissur-ZRyFopRj,Apollo Tyres Perambra
+thrissur-YQePXvWP,Thirussur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,20,thrissur-DPPqxGuX,Panampilly College Junction
+thrissur-bSICnKXB,Thrissur-Kattakada,Thrissur Bus Stand to Apollo Tyres Perambra,1,thrissur-rhcNltcr,Thrissur Bus Stand
+thrissur-bSICnKXB,Thrissur-Kattakada,Thrissur Bus Stand to Apollo Tyres Perambra,2,thrissur-oBdzuuZL,Kuriachira Centre
+thrissur-bSICnKXB,Thrissur-Kattakada,Thrissur Bus Stand to Apollo Tyres Perambra,3,thrissur-UhISxTJY,Cheerachi
+thrissur-bSICnKXB,Thrissur-Kattakada,Thrissur Bus Stand to Apollo Tyres Perambra,4,thrissur-ISXWFGSV,Ollur Junction
+thrissur-bSICnKXB,Thrissur-Kattakada,Thrissur Bus Stand to Apollo Tyres Perambra,5,thrissur-IREwigTU,Thaloor
+thrissur-bSICnKXB,Thrissur-Kattakada,Thrissur Bus Stand to Apollo Tyres Perambra,6,thrissur-znVWiZlJ,Thalore Bypass Junction
+thrissur-bSICnKXB,Thrissur-Kattakada,Thrissur Bus Stand to Apollo Tyres Perambra,7,thrissur-NWonUgDB,Paliyekkara
+thrissur-bSICnKXB,Thrissur-Kattakada,Thrissur Bus Stand to Apollo Tyres Perambra,8,thrissur-QGKDyveZ,Amballur Junction
+thrissur-bSICnKXB,Thrissur-Kattakada,Thrissur Bus Stand to Apollo Tyres Perambra,9,thrissur-khqDUUse,Puthukkad Bus Stand
+thrissur-bSICnKXB,Thrissur-Kattakada,Thrissur Bus Stand to Apollo Tyres Perambra,10,thrissur-EoKdJvhW,Puthukkad Junction
+thrissur-bSICnKXB,Thrissur-Kattakada,Thrissur Bus Stand to Apollo Tyres Perambra,11,thrissur-wSvqAjXR,Puthukkad Police Station
+thrissur-bSICnKXB,Thrissur-Kattakada,Thrissur Bus Stand to Apollo Tyres Perambra,12,thrissur-uOMndqXy,Nandikkara
+thrissur-bSICnKXB,Thrissur-Kattakada,Thrissur Bus Stand to Apollo Tyres Perambra,13,thrissur-cYPfOTfq,Nellayi Junction
+thrissur-bSICnKXB,Thrissur-Kattakada,Thrissur Bus Stand to Apollo Tyres Perambra,14,thrissur-HhhEHDRo,Kulathoor Kodakara
+thrissur-bSICnKXB,Thrissur-Kattakada,Thrissur Bus Stand to Apollo Tyres Perambra,15,thrissur-tDxytLXB,Kodakara
+thrissur-bSICnKXB,Thrissur-Kattakada,Thrissur Bus Stand to Apollo Tyres Perambra,16,thrissur-BACIbRct,Kodakara Police Station
+thrissur-bSICnKXB,Thrissur-Kattakada,Thrissur Bus Stand to Apollo Tyres Perambra,17,thrissur-mvvWlOIq,Perambra Church
+thrissur-bSICnKXB,Thrissur-Kattakada,Thrissur Bus Stand to Apollo Tyres Perambra,18,thrissur-jQHniQim,Apollo Tyres Perambra
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,1,thrissur-JIdeecdY,Puthukkad Bus Stand
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,2,thrissur-NkuaCpwU,Amballur Junction
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,3,thrissur-QjfQVtTr,Kalloor Vazhi
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,4,thrissur-hbwnECHf,Alagappa Nool Company
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,5,thrissur-wfIgIAyZ,Vendore ESI
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,6,thrissur-hycWnekQ,Vendore Centre
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,7,thrissur-bFQmZUVJ,Vendore Chungam
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,8,thrissur-bODWBbeY,Mannampetta Centre
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,9,thrissur-ZvaucdMJ,Mannampetta Palli
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,10,thrissur-fdoYHuaO,Karuvapady
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,11,thrissur-ZVvVxguS,Kalakallu
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,12,thrissur-zicCuOOA,Pallikunnu Pulinchode
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,13,thrissur-LpgzorCI,Varakkara Temple
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,14,thrissur-EqollsaK,Pallikunnu Church
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,15,thrissur-OGqPJTDu,Varandarappilly Petrol Pump
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,16,thrissur-KLXOWOBn,Varandarappilly Old Post Office
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,17,thrissur-XnidDgUw,Varandarappilly Centre
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,18,thrissur-SpRGhuzv,Thazhathe Kappela
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,19,thrissur-SOsWrFiP,Varandarappilly Polce Station
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,20,thrissur-LQypxsfP,Pound Junction
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,21,thrissur-OsxATdmU,Fa Velupadam
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,22,thrissur-iqtyqsII,Velupadam Madam
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,23,thrissur-hKEWGlAO,Kallayi Vazhi
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,24,thrissur-ZPJUyDAZ,Velupadam Church
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,25,thrissur-nxwCUgdd,Pulikkanni Centre
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,26,thrissur-FyKIeKXm,Malabar Nagar
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,27,thrissur-ZiKmjmFE,Nadempadam
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,28,thrissur-SRURETxz,Palappilly Post Office
+thrissur-cELlmAsW,Puthukkad-Palappilly,Puthukkad Bus Stand to Palappilly Centre,29,thrissur-OxACmrLl,Palappilly Bungalow
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,1,thrissur-OdWpICZx,Guruvayoor Bus Stand
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,2,thrissur-QzGuUUtJ,Kottapady
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,3,thrissur-BTXoVosa,Kunnamkulam New Municipal Bus Stand
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,4,thrissur-CuavgzGM,Choondal
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,5,thrissur-KLjPwVMe,Peraman
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,6,thrissur-nQiOrQZL,Kaiparamb
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,7,thrissur-TJJbNYri,Ayyanthole Palli Stop
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,8,thrissur-rhcNltcr,Thrissur Bus Stand
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,9,thrissur-nvEAADNa,Sakthan Stand
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,10,thrissur-WkwmOOYs,Kuriachira Centre
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,11,thrissur-UhISxTJY,Cheerachi
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,12,thrissur-FxkuuYCv,Ollur Junction
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,13,thrissur-IREwigTU,Thaloor
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,14,thrissur-OjVgjQyi,Thalore Bypass Junction
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,15,thrissur-SrKlyHKP,Paliyekkara
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,16,thrissur-EdbmgiDe,Amballur
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,17,thrissur-khqDUUse,Puthukkad Bus Stand
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,18,thrissur-EoKdJvhW,Puthukkad Junction
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,19,thrissur-iIDanNnu,Puthukkad Police Station
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,20,thrissur-ZohUivrS,Nandikkara
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,21,thrissur-TPjkMiru,Nellayi Junction
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,22,thrissur-JrbDbyji,Kulathoor Kodakara
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,23,thrissur-KvOJyxGR,Kodakara
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,24,thrissur-BACIbRct,Kodakara Police Station
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,25,thrissur-mvvWlOIq,Perambra Church
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,26,thrissur-ZRyFopRj,Apollo Tyres Perambra
+thrissur-cEZEWzYW,Guruvayoor-Neyyattinkara,Guruvayoor Bus Stand to Panampilly College Junction,27,thrissur-orWoCTRc,Panampilly College Junction
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,1,thrissur-SEnDkgOn,Thrissur North Private Bus Stand
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,2,thrissur-hKDKkUMH,Paramekkavu Temple
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,3,thrissur-piZyyTay,Municipal Bus Stand
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,4,thrissur-nvEAADNa,Sakthan Stand
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,5,thrissur-bAprcYPg,Thrissur Mundupalam
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,6,thrissur-ieJsTUTc,Kuriachira Gosaikunnu
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,7,thrissur-gWkUaCfE,Kuriachira Centre
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,8,thrissur-MFSpOHZs,Kuriachira Canal
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,9,thrissur-mfPhSxpd,Chiyyaram
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,10,thrissur-RwUHmFIy,Vakayil Vazhi
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,11,thrissur-UhISxTJY,Cheerachi
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,12,thrissur-ymzdxMcH,Ollur Ancheri Vazhi
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,13,thrissur-cPIIuiAV,Ollur Company Padi
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,14,thrissur-ZgiDeFTa,Ollur Palli
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,15,thrissur-IwkZWihH,Ollur Madam
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,16,thrissur-ISXWFGSV,Ollur Junction
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,17,thrissur-zPdghGwg,Ollur Estate Padi
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,18,thrissur-rxyheHLE,Ollur ESI
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,19,thrissur-AjPnaWqp,P R Padi
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,20,thrissur-dEbMgUKt,Mathrubhumi Thalore
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,21,thrissur-IREwigTU,Thaloor
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,22,thrissur-NgorTxJc,Thalore Bypass Junction
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,23,thrissur-NWonUgDB,Paliyekkara
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,24,thrissur-MMTSvdjF,Manali
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,25,thrissur-QGKDyveZ,Amballur Junction
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,26,thrissur-khqDUUse,Puthukkad Bus Stand
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,27,thrissur-baRiJzJU,Puthukkad
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,28,thrissur-TWaEWjme,Thazhathangady Pudukkad
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,29,thrissur-XpkMvJSO,Mary Matha School Pudukkad
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,30,thrissur-mXIOZKLm,Kannampathur
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,31,thrissur-hrkIzptY,Maravanchery Brandy Company
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,32,thrissur-lEMamFIB,Maravanchery Premier
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,33,thrissur-whWNhbnX,Maravanchery
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,34,thrissur-UBzBbOiT,Snehapuram
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,35,thrissur-RqEwMhGV,Colony School Randamkallu
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,36,thrissur-HHzMhxhb,Randamkallu
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,37,thrissur-cNoFLgAA,Village Office Chengalur
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,38,thrissur-YwQidrPe,Shanthi Nagar Chengalur
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,39,thrissur-PNRZcjLu,Chengalur Estate
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,40,thrissur-xrRllGHN,Erode Vazhi
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,41,thrissur-wAfTvDDK,Chengalur School
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,42,thrissur-CBUWzQOh,Chengalur Palli
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,43,thrissur-zbOAWfPJ,Suryagramam
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,44,thrissur-gzEaOlxX,Last Kapela Chengalur
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,45,thrissur-moyaLkPw,Edathoott Temple
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,46,thrissur-yIDNjlnP,Attapilly Vazhi
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,47,thrissur-YvMgDCSk,Nilampathi
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,48,thrissur-KmwLlEuP,Village Office
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,49,thrissur-CDcScIQP,Nandhipulam Centre
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,50,thrissur-FEQdTgfJ,Nandhipulam Pump Kairali Nagar
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,51,thrissur-kYxXeUfd,Madapillikavu Ambalam Palam
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,52,thrissur-vgiBYwMd,Bhandaaram Modi Nagar
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,53,thrissur-oJMMyBOp,Pulinchodu
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,54,thrissur-kXpOQloL,Ration Kada
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,55,thrissur-INEOtzrN,Mupliyam Centre
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,56,thrissur-Hsiqmarr,Chakkappan Padi
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,57,thrissur-vRqbjoyn,Uppuzhi Hospital
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,58,thrissur-revvaPfy,Neelandan Padi
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,59,thrissur-SMhFhQEo,Uppuzhi Junction
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,60,thrissur-CWFGuqJD,Kombaam Padi
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,61,thrissur-dstnUORX,Joseph Padi
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,62,thrissur-MkbLOJWM,Injakundu Telephone Exchange
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,63,thrissur-crqltCWD,Nadippara
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,64,thrissur-aQvHVtOF,Nadippara Irakkam
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,65,thrissur-BrbaBtrt,Kundikavala Irakkam
+thrissur-cMEbwyMn,Thrissur-Injakundu,Thrissur North Private Bus Stand to Injakundu,66,thrissur-IBQTbyUL,Kundikavala
+thrissur-cyezmDQX,Trissur-Vizhinjam,Thrissur Bus Stand to Apollo Tyres Perambra,1,thrissur-IvNRZOtG,Thrissur Bus Stand
+thrissur-cyezmDQX,Trissur-Vizhinjam,Thrissur Bus Stand to Apollo Tyres Perambra,2,thrissur-rIccBGQU,Sakthan Stand
+thrissur-cyezmDQX,Trissur-Vizhinjam,Thrissur Bus Stand to Apollo Tyres Perambra,3,thrissur-gWkUaCfE,Kuriachira Centre
+thrissur-cyezmDQX,Trissur-Vizhinjam,Thrissur Bus Stand to Apollo Tyres Perambra,4,thrissur-UhISxTJY,Cheerachi
+thrissur-cyezmDQX,Trissur-Vizhinjam,Thrissur Bus Stand to Apollo Tyres Perambra,5,thrissur-OHlldmeF,Ollur Junction
+thrissur-cyezmDQX,Trissur-Vizhinjam,Thrissur Bus Stand to Apollo Tyres Perambra,6,thrissur-IREwigTU,Thaloor
+thrissur-cyezmDQX,Trissur-Vizhinjam,Thrissur Bus Stand to Apollo Tyres Perambra,7,thrissur-NgorTxJc,Thalore Bypass Junction
+thrissur-cyezmDQX,Trissur-Vizhinjam,Thrissur Bus Stand to Apollo Tyres Perambra,8,thrissur-shiiWlAc,Paliyekkara
+thrissur-cyezmDQX,Trissur-Vizhinjam,Thrissur Bus Stand to Apollo Tyres Perambra,9,thrissur-QGKDyveZ,Amballur Junction
+thrissur-cyezmDQX,Trissur-Vizhinjam,Thrissur Bus Stand to Apollo Tyres Perambra,10,thrissur-khqDUUse,Puthukkad Bus Stand
+thrissur-cyezmDQX,Trissur-Vizhinjam,Thrissur Bus Stand to Apollo Tyres Perambra,11,thrissur-BQBcuwRV,Puthukkad
+thrissur-cyezmDQX,Trissur-Vizhinjam,Thrissur Bus Stand to Apollo Tyres Perambra,12,thrissur-iIDanNnu,Puthukkad Police Station
+thrissur-cyezmDQX,Trissur-Vizhinjam,Thrissur Bus Stand to Apollo Tyres Perambra,13,thrissur-ShuaQUxC,Nandikkara
+thrissur-cyezmDQX,Trissur-Vizhinjam,Thrissur Bus Stand to Apollo Tyres Perambra,14,thrissur-cYPfOTfq,Nellayi Junction
+thrissur-cyezmDQX,Trissur-Vizhinjam,Thrissur Bus Stand to Apollo Tyres Perambra,15,thrissur-gemjMCFL,Kulathoor Kodakara
+thrissur-cyezmDQX,Trissur-Vizhinjam,Thrissur Bus Stand to Apollo Tyres Perambra,16,thrissur-KvOJyxGR,Kodakara
+thrissur-cyezmDQX,Trissur-Vizhinjam,Thrissur Bus Stand to Apollo Tyres Perambra,17,thrissur-BACIbRct,Kodakara Police Station
+thrissur-cyezmDQX,Trissur-Vizhinjam,Thrissur Bus Stand to Apollo Tyres Perambra,18,thrissur-ZvKQvNvt,Perambra Church
+thrissur-cyezmDQX,Trissur-Vizhinjam,Thrissur Bus Stand to Apollo Tyres Perambra,19,thrissur-jQHniQim,Apollo Tyres Perambra
+thrissur-fVRcXGtD,Thrissur-Kovindhapuram,Thrissur Bus Stand to Neelipara,1,thrissur-rhcNltcr,Thrissur Bus Stand
+thrissur-fVRcXGtD,Thrissur-Kovindhapuram,Thrissur Bus Stand to Neelipara,2,thrissur-qTvyWULE,Mission Hospital
+thrissur-fVRcXGtD,Thrissur-Kovindhapuram,Thrissur Bus Stand to Neelipara,3,thrissur-BmCtpSrw,Kalathode
+thrissur-fVRcXGtD,Thrissur-Kovindhapuram,Thrissur Bus Stand to Neelipara,4,thrissur-LGhrmlXH,Mannuthy
+thrissur-fVRcXGtD,Thrissur-Kovindhapuram,Thrissur Bus Stand to Neelipara,5,thrissur-NHKlGbQF,Thottapady Mannuthy
+thrissur-fVRcXGtD,Thrissur-Kovindhapuram,Thrissur Bus Stand to Neelipara,6,thrissur-LhFVsvMN,Mudikode
+thrissur-fVRcXGtD,Thrissur-Kovindhapuram,Thrissur Bus Stand to Neelipara,7,thrissur-grfwgYWX,Pattikad
+thrissur-fVRcXGtD,Thrissur-Kovindhapuram,Thrissur Bus Stand to Neelipara,8,thrissur-XSIxcLXh,Chuvannamanna
+thrissur-fVRcXGtD,Thrissur-Kovindhapuram,Thrissur Bus Stand to Neelipara,9,thrissur-uHZySUqG,Vazhukumpara
+thrissur-fVRcXGtD,Thrissur-Kovindhapuram,Thrissur Bus Stand to Neelipara,10,thrissur-lbQnduYn,Irumpupalam
+thrissur-fVRcXGtD,Thrissur-Kovindhapuram,Thrissur Bus Stand to Neelipara,11,thrissur-JlUgzDXG,Vaniyampara
+thrissur-fVRcXGtD,Thrissur-Kovindhapuram,Thrissur Bus Stand to Neelipara,12,thrissur-tksQecLh,Neelipara
+thrissur-nqgaBAvo,Thrissur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,1,thrissur-pUEvXzth,Thrissur Bus Stand
+thrissur-nqgaBAvo,Thrissur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,2,thrissur-AaMtnCMR,Sakthan Private Bus Stand
+thrissur-nqgaBAvo,Thrissur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,3,thrissur-gWkUaCfE,Kuriachira Centre
+thrissur-nqgaBAvo,Thrissur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,4,thrissur-UhISxTJY,Cheerachi
+thrissur-nqgaBAvo,Thrissur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,5,thrissur-OHlldmeF,Ollur Junction
+thrissur-nqgaBAvo,Thrissur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,6,thrissur-IREwigTU,Thaloor
+thrissur-nqgaBAvo,Thrissur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,7,thrissur-NgorTxJc,Thalore Bypass Junction
+thrissur-nqgaBAvo,Thrissur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,8,thrissur-shiiWlAc,Paliyekkara
+thrissur-nqgaBAvo,Thrissur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,9,thrissur-QGKDyveZ,Amballur Junction
+thrissur-nqgaBAvo,Thrissur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,10,thrissur-khqDUUse,Puthukkad Bus Stand
+thrissur-nqgaBAvo,Thrissur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,11,thrissur-BQBcuwRV,Puthukkad
+thrissur-nqgaBAvo,Thrissur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,12,thrissur-ZohUivrS,Nandikkara
+thrissur-nqgaBAvo,Thrissur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,13,thrissur-TPjkMiru,Nellayi Junction
+thrissur-nqgaBAvo,Thrissur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,14,thrissur-gemjMCFL,Kulathoor Kodakara
+thrissur-nqgaBAvo,Thrissur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,15,thrissur-KvOJyxGR,Kodakara
+thrissur-nqgaBAvo,Thrissur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,16,thrissur-mvvWlOIq,Perambra Church
+thrissur-nqgaBAvo,Thrissur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,17,thrissur-jQHniQim,Apollo Tyres Perambra
+thrissur-nqgaBAvo,Thrissur-Vellarada,Thrissur Bus Stand to Panampilly College Junction,18,thrissur-orWoCTRc,Panampilly College Junction
+thrissur-oebdGwto,Thrissur-Vellarada,Thrissur Bus Stand to Apollo Tyres Perambra,1,thrissur-pUEvXzth,Thrissur Bus Stand
+thrissur-oebdGwto,Thrissur-Vellarada,Thrissur Bus Stand to Apollo Tyres Perambra,2,thrissur-rIccBGQU,Sakthan Stand
+thrissur-oebdGwto,Thrissur-Vellarada,Thrissur Bus Stand to Apollo Tyres Perambra,3,thrissur-OHlldmeF,Ollur Junction
+thrissur-oebdGwto,Thrissur-Vellarada,Thrissur Bus Stand to Apollo Tyres Perambra,4,thrissur-IREwigTU,Thaloor
+thrissur-oebdGwto,Thrissur-Vellarada,Thrissur Bus Stand to Apollo Tyres Perambra,5,thrissur-akUmCHFg,Thalore Bypass Junction
+thrissur-oebdGwto,Thrissur-Vellarada,Thrissur Bus Stand to Apollo Tyres Perambra,6,thrissur-shiiWlAc,Paliyekkara
+thrissur-oebdGwto,Thrissur-Vellarada,Thrissur Bus Stand to Apollo Tyres Perambra,7,thrissur-QGKDyveZ,Amballur Junction
+thrissur-oebdGwto,Thrissur-Vellarada,Thrissur Bus Stand to Apollo Tyres Perambra,8,thrissur-JIdeecdY,Puthukkad Bus Stand
+thrissur-oebdGwto,Thrissur-Vellarada,Thrissur Bus Stand to Apollo Tyres Perambra,9,thrissur-EoKdJvhW,Puthukkad Junction
+thrissur-oebdGwto,Thrissur-Vellarada,Thrissur Bus Stand to Apollo Tyres Perambra,10,thrissur-iIDanNnu,Puthukkad Police Station
+thrissur-oebdGwto,Thrissur-Vellarada,Thrissur Bus Stand to Apollo Tyres Perambra,11,thrissur-ZohUivrS,Nandikkara
+thrissur-oebdGwto,Thrissur-Vellarada,Thrissur Bus Stand to Apollo Tyres Perambra,12,thrissur-tDxytLXB,Kodakara
+thrissur-oebdGwto,Thrissur-Vellarada,Thrissur Bus Stand to Apollo Tyres Perambra,13,thrissur-BACIbRct,Kodakara Police Station
+thrissur-oebdGwto,Thrissur-Vellarada,Thrissur Bus Stand to Apollo Tyres Perambra,14,thrissur-mvvWlOIq,Perambra Church
+thrissur-oebdGwto,Thrissur-Vellarada,Thrissur Bus Stand to Apollo Tyres Perambra,15,thrissur-ledTcuRd,Apollo Tyres Perambra
+thrissur-qPVuYOIL,Thrissur-Trivandrum,Thrissur Bus Stand to Puthukkad Bus Stand,1,thrissur-rhcNltcr,Thrissur Bus Stand
+thrissur-qPVuYOIL,Thrissur-Trivandrum,Thrissur Bus Stand to Puthukkad Bus Stand,2,thrissur-khqDUUse,Puthukkad Bus Stand
+thrissur-zEfJgXbL,Thrissur-Alappuzha,Thrissur Bus Stand to Panampilly College Junction,1,thrissur-rhcNltcr,Thrissur Bus Stand
+thrissur-zEfJgXbL,Thrissur-Alappuzha,Thrissur Bus Stand to Panampilly College Junction,2,thrissur-nvEAADNa,Sakthan Stand
+thrissur-zEfJgXbL,Thrissur-Alappuzha,Thrissur Bus Stand to Panampilly College Junction,3,thrissur-QyETLPIV,Kuriachira Centre
+thrissur-zEfJgXbL,Thrissur-Alappuzha,Thrissur Bus Stand to Panampilly College Junction,4,thrissur-UhISxTJY,Cheerachi
+thrissur-zEfJgXbL,Thrissur-Alappuzha,Thrissur Bus Stand to Panampilly College Junction,5,thrissur-OHlldmeF,Ollur Junction
+thrissur-zEfJgXbL,Thrissur-Alappuzha,Thrissur Bus Stand to Panampilly College Junction,6,thrissur-MJxAwXel,Thaloor
+thrissur-zEfJgXbL,Thrissur-Alappuzha,Thrissur Bus Stand to Panampilly College Junction,7,thrissur-DypZHNtr,Thalore Bypass Junction
+thrissur-zEfJgXbL,Thrissur-Alappuzha,Thrissur Bus Stand to Panampilly College Junction,8,thrissur-SrKlyHKP,Paliyekkara
+thrissur-zEfJgXbL,Thrissur-Alappuzha,Thrissur Bus Stand to Panampilly College Junction,9,thrissur-EdbmgiDe,Amballur
+thrissur-zEfJgXbL,Thrissur-Alappuzha,Thrissur Bus Stand to Panampilly College Junction,10,thrissur-EoKdJvhW,Puthukkad Junction
+thrissur-zEfJgXbL,Thrissur-Alappuzha,Thrissur Bus Stand to Panampilly College Junction,11,thrissur-iIDanNnu,Puthukkad Police Station
+thrissur-zEfJgXbL,Thrissur-Alappuzha,Thrissur Bus Stand to Panampilly College Junction,12,thrissur-ZohUivrS,Nandikkara
+thrissur-zEfJgXbL,Thrissur-Alappuzha,Thrissur Bus Stand to Panampilly College Junction,13,thrissur-EZAHDdNG,Nellayi Junction
+thrissur-zEfJgXbL,Thrissur-Alappuzha,Thrissur Bus Stand to Panampilly College Junction,14,thrissur-HhhEHDRo,Kulathoor Kodakara
+thrissur-zEfJgXbL,Thrissur-Alappuzha,Thrissur Bus Stand to Panampilly College Junction,15,thrissur-BACIbRct,Kodakara Police Station
+thrissur-zEfJgXbL,Thrissur-Alappuzha,Thrissur Bus Stand to Panampilly College Junction,16,thrissur-mvvWlOIq,Perambra Church
+thrissur-zEfJgXbL,Thrissur-Alappuzha,Thrissur Bus Stand to Panampilly College Junction,17,thrissur-ZRyFopRj,Apollo Tyres Perambra
+thrissur-zEfJgXbL,Thrissur-Alappuzha,Thrissur Bus Stand to Panampilly College Junction,18,thrissur-orWoCTRc,Panampilly College Junction
+thrissur-zHcAuQfc,Guruvayoor-Vithura,Guruvayoor Bus Stand to Kodakara,1,thrissur-VtbhqCdA,Guruvayoor Bus Stand
+thrissur-zHcAuQfc,Guruvayoor-Vithura,Guruvayoor Bus Stand to Kodakara,2,thrissur-VERqTott,Guruvayoor West Nada
+thrissur-zHcAuQfc,Guruvayoor-Vithura,Guruvayoor Bus Stand to Kodakara,3,thrissur-HMfLlkRf,Little Flower College Guruvayur
+thrissur-zHcAuQfc,Guruvayoor-Vithura,Guruvayoor Bus Stand to Kodakara,4,thrissur-pBNFuaBV,Kunnamkulam Bus Stand
+thrissur-zHcAuQfc,Guruvayoor-Vithura,Guruvayoor Bus Stand to Kodakara,5,thrissur-VjEwUZkt,Choondal
+thrissur-zHcAuQfc,Guruvayoor-Vithura,Guruvayoor Bus Stand to Kodakara,6,thrissur-VEMinMjM,Kechery
+thrissur-zHcAuQfc,Guruvayoor-Vithura,Guruvayoor Bus Stand to Kodakara,7,thrissur-QoLPTJED,Amala Hospital
+thrissur-zHcAuQfc,Guruvayoor-Vithura,Guruvayoor Bus Stand to Kodakara,8,thrissur-gCbbipwe,Punkunnam
+thrissur-zHcAuQfc,Guruvayoor-Vithura,Guruvayoor Bus Stand to Kodakara,9,thrissur-SfILaZqb,West Fort
+thrissur-zHcAuQfc,Guruvayoor-Vithura,Guruvayoor Bus Stand to Kodakara,10,thrissur-pUEvXzth,Thrissur Bus Stand
+thrissur-zHcAuQfc,Guruvayoor-Vithura,Guruvayoor Bus Stand to Kodakara,11,thrissur-nvEAADNa,Sakthan Stand
+thrissur-zHcAuQfc,Guruvayoor-Vithura,Guruvayoor Bus Stand to Kodakara,12,thrissur-ISXWFGSV,Ollur Junction
+thrissur-zHcAuQfc,Guruvayoor-Vithura,Guruvayoor Bus Stand to Kodakara,13,thrissur-BQBcuwRV,Puthukkad
+thrissur-zHcAuQfc,Guruvayoor-Vithura,Guruvayoor Bus Stand to Kodakara,14,thrissur-KvOJyxGR,Kodakara

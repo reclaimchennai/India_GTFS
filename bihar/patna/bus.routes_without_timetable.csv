@@ -1,0 +1,830 @@
+route_id,route_short_name,route_long_name,stop_sequence,stop_id,stop_name
+patna-AuFsIrds,ISBT-Koshachaouk - test,I S B T to Kashi Chak,1,patna-kMkpVULc,I S B T
+patna-AuFsIrds,ISBT-Koshachaouk - test,I S B T to Kashi Chak,2,patna-eHjAIiHS,Bakhtiyarpur
+patna-AuFsIrds,ISBT-Koshachaouk - test,I S B T to Kashi Chak,3,patna-tjWbLisg,Harnaut
+patna-AuFsIrds,ISBT-Koshachaouk - test,I S B T to Kashi Chak,4,patna-gwaPcAwe,Bihar Sharif
+patna-AuFsIrds,ISBT-Koshachaouk - test,I S B T to Kashi Chak,5,patna-tjqnoVIa,Giriyak
+patna-AuFsIrds,ISBT-Koshachaouk - test,I S B T to Kashi Chak,6,patna-uyzNvmGa,Chhachubigha
+patna-AuFsIrds,ISBT-Koshachaouk - test,I S B T to Kashi Chak,7,patna-GssXdQHO,Katri
+patna-AuFsIrds,ISBT-Koshachaouk - test,I S B T to Kashi Chak,8,patna-QVeILFJo,Shahpur
+patna-AuFsIrds,ISBT-Koshachaouk - test,I S B T to Kashi Chak,9,patna-FcoSDpQF,Chandinuma
+patna-BwCXkpfN,Sheikhpura-ISBT,Sheikhpura to I S B T,1,patna-MYusVUYn,Sheikhpura
+patna-BwCXkpfN,Sheikhpura-ISBT,Sheikhpura to I S B T,2,patna-rLzQwbSN,Barbigha
+patna-BwCXkpfN,Sheikhpura-ISBT,Sheikhpura to I S B T,3,patna-adQNIzMR,Benarmore
+patna-BwCXkpfN,Sheikhpura-ISBT,Sheikhpura to I S B T,4,patna-jVLEhrwZ,Bind
+patna-BwCXkpfN,Sheikhpura-ISBT,Sheikhpura to I S B T,5,patna-NRabgqWb,Saksohra
+patna-BwCXkpfN,Sheikhpura-ISBT,Sheikhpura to I S B T,6,patna-xQlafvrJ,Harnaut
+patna-BwCXkpfN,Sheikhpura-ISBT,Sheikhpura to I S B T,7,patna-BPqAgOtJ,Bakhtiyarpur
+patna-CCwInNiR,200,Patna Airport to Kargil Chowk,1,patna-ztqVOKFb,Patna Airport
+patna-CCwInNiR,200,Patna Airport to Kargil Chowk,2,patna-FRLiFyhE,Patna Junction
+patna-CCwInNiR,200,Patna Airport to Kargil Chowk,3,patna-ZZwceDKV,Rajendra Nagar Terminal
+patna-CCwInNiR,200,Patna Airport to Kargil Chowk,4,patna-DaXUAfQL,Zero Mile
+patna-CCwInNiR,200,Patna Airport to Kargil Chowk,5,patna-dnNChhYp,ISBT
+patna-CyMvKowO,300,ISBT to AIIMS,1,patna-dnNChhYp,ISBT
+patna-CyMvKowO,300,ISBT to AIIMS,2,patna-xKOMKdoF,Zero Mile
+patna-CyMvKowO,300,ISBT to AIIMS,3,patna-lEeuCMAp,Dhanki More
+patna-CyMvKowO,300,ISBT to AIIMS,4,patna-ysPxEqJs,NMCH Bus Stop
+patna-CyMvKowO,300,ISBT to AIIMS,5,patna-ZZwceDKV,Rajendra Nagar Terminal
+patna-CyMvKowO,300,ISBT to AIIMS,6,patna-EBboAeuz,Patna Junction
+patna-CyMvKowO,300,ISBT to AIIMS,7,patna-SDWbiTFr,Old Secretaria
+patna-CyMvKowO,300,ISBT to AIIMS,8,patna-YuAhACRx,Chitkohra Mode Bus Stop
+patna-CyMvKowO,300,ISBT to AIIMS,9,patna-QLLuSoTT,Anisabad Bus Stand
+patna-CyMvKowO,300,ISBT to AIIMS,10,patna-nzTZVIYO,Phulwari Sharif Thana
+patna-DHdFRJjt,Isbt-Kauakole,I S B T to Kauakole,1,patna-kMkpVULc,I S B T
+patna-DHdFRJjt,Isbt-Kauakole,I S B T to Kauakole,2,patna-eHjAIiHS,Bakhtiyarpur
+patna-DHdFRJjt,Isbt-Kauakole,I S B T to Kauakole,3,patna-tjWbLisg,Harnaut
+patna-DHdFRJjt,Isbt-Kauakole,I S B T to Kauakole,4,patna-fyzjWmLi,Bihar Shariff
+patna-DHdFRJjt,Isbt-Kauakole,I S B T to Kauakole,5,patna-jIYBclOo,Pawapuri
+patna-DHdFRJjt,Isbt-Kauakole,I S B T to Kauakole,6,patna-AwWkxvlo,Giriyak
+patna-DHdFRJjt,Isbt-Kauakole,I S B T to Kauakole,7,patna-tjojzxAB,Kharantmore
+patna-DHdFRJjt,Isbt-Kauakole,I S B T to Kauakole,8,patna-xgnxTJDE,Warisaliganj
+patna-DHdFRJjt,Isbt-Kauakole,I S B T to Kauakole,9,patna-kOGMkVix,Pakribarawan
+patna-DHdFRJjt,Isbt-Kauakole,I S B T to Kauakole,10,patna-ILmmEEOH,Gulni
+patna-DHdFRJjt,Isbt-Kauakole,I S B T to Kauakole,11,patna-vWLYNvim,Badraji
+patna-EKuTiVQk,Isbt-Sasbahana,I S B T to Sasbahana,1,patna-kMkpVULc,I S B T
+patna-EKuTiVQk,Isbt-Sasbahana,I S B T to Sasbahana,2,patna-eHjAIiHS,Bakhtiyarpur
+patna-EKuTiVQk,Isbt-Sasbahana,I S B T to Sasbahana,3,patna-tjWbLisg,Harnaut
+patna-EKuTiVQk,Isbt-Sasbahana,I S B T to Sasbahana,4,patna-fyzjWmLi,Bihar Shariff
+patna-EKuTiVQk,Isbt-Sasbahana,I S B T to Sasbahana,5,patna-jIYBclOo,Pawapuri
+patna-EKuTiVQk,Isbt-Sasbahana,I S B T to Sasbahana,6,patna-AwWkxvlo,Giriyak
+patna-EKuTiVQk,Isbt-Sasbahana,I S B T to Sasbahana,7,patna-tjojzxAB,Kharantmore
+patna-EKuTiVQk,Isbt-Sasbahana,I S B T to Sasbahana,8,patna-xgnxTJDE,Warisaliganj
+patna-EKuTiVQk,Isbt-Sasbahana,I S B T to Sasbahana,9,patna-kOGMkVix,Pakribarawan
+patna-GKrOadCU,Bhagalpur-Pithoura,Bhagalpur to Pithoura,1,patna-DTOdtVCY,Bhagalpur
+patna-GKrOadCU,Bhagalpur-Pithoura,Bhagalpur to Pithoura,2,patna-kvCmZSjn,Naugachia
+patna-GKrOadCU,Bhagalpur-Pithoura,Bhagalpur to Pithoura,3,patna-skwfZgPd,Kursela
+patna-GKrOadCU,Bhagalpur-Pithoura,Bhagalpur to Pithoura,4,patna-eMPSoIrT,Gerabari
+patna-GKrOadCU,Bhagalpur-Pithoura,Bhagalpur to Pithoura,5,patna-wetfJWOE,Purnia
+patna-GKrOadCU,Bhagalpur-Pithoura,Bhagalpur to Pithoura,6,patna-VmjFCtYf,Jageli
+patna-GKrOadCU,Bhagalpur-Pithoura,Bhagalpur to Pithoura,7,patna-VhcUoTWO,Basaitha
+patna-GKrOadCU,Bhagalpur-Pithoura,Bhagalpur to Pithoura,8,patna-PqgUXLWm,Dakbangla
+patna-GKrOadCU,Bhagalpur-Pithoura,Bhagalpur to Pithoura,9,patna-KLqDaCdM,Shaifganj
+patna-GKrOadCU,Bhagalpur-Pithoura,Bhagalpur to Pithoura,10,patna-cHUhlYGl,Mirdul
+patna-GxXUibwf,Patna-Bihar Shariff,I S B T to Bihar Sharif,1,patna-kMkpVULc,I S B T
+patna-GxXUibwf,Patna-Bihar Shariff,I S B T to Bihar Sharif,2,patna-eHjAIiHS,Bakhtiyarpur
+patna-GxXUibwf,Patna-Bihar Shariff,I S B T to Bihar Sharif,3,patna-tjWbLisg,Harnaut
+patna-HLAvFmKo,Gaya-Patna,Gaya to I S B T,1,patna-FJjvSbfA,Gaya
+patna-HLAvFmKo,Gaya-Patna,Gaya to I S B T,2,patna-ubGSFDYz,Khizar Sarai
+patna-HLAvFmKo,Gaya-Patna,Gaya to I S B T,3,patna-kmhhqlER,Kurwa
+patna-HLAvFmKo,Gaya-Patna,Gaya to I S B T,4,patna-xezEAjGl,Nai Bazar
+patna-HLAvFmKo,Gaya-Patna,Gaya to I S B T,5,patna-IqaHmctt,Hulasganj
+patna-HLAvFmKo,Gaya-Patna,Gaya to I S B T,6,patna-NBvXFpPr,Islampur
+patna-HLAvFmKo,Gaya-Patna,Gaya to I S B T,7,patna-DLtfTlPW,Ekangarsarai
+patna-HLAvFmKo,Gaya-Patna,Gaya to I S B T,8,patna-lkZuAZdH,Hilsa
+patna-HLAvFmKo,Gaya-Patna,Gaya to I S B T,9,patna-NcMMxIYP,Daniawan
+patna-HLAvFmKo,Gaya-Patna,Gaya to I S B T,10,patna-ObJwjBqG,Fatuha
+patna-HLHehAXR,Sarbadahi-Patna,Sarbahdi to I S B T,1,patna-SwTXiroK,Sarbahdi
+patna-HLHehAXR,Sarbadahi-Patna,Sarbahdi to I S B T,2,patna-bbsaSXcC,Itaura
+patna-HLHehAXR,Sarbadahi-Patna,Sarbahdi to I S B T,3,patna-cqPzlxwP,Ramchandrapur
+patna-HLHehAXR,Sarbadahi-Patna,Sarbahdi to I S B T,4,patna-KiamULlA,Chandi
+patna-HLHehAXR,Sarbadahi-Patna,Sarbahdi to I S B T,5,patna-ixGfXpgt,Nagarnausa
+patna-HLHehAXR,Sarbadahi-Patna,Sarbahdi to I S B T,6,patna-NcMMxIYP,Daniawan
+patna-HLHehAXR,Sarbadahi-Patna,Sarbahdi to I S B T,7,patna-ObJwjBqG,Fatuha
+patna-HSFreHuX,Bihar Shariff-Warisaliganj,Bihar Shariff to Warisaliganj,1,patna-oscIIQjZ,Bihar Shariff
+patna-HSFreHuX,Bihar Shariff-Warisaliganj,Bihar Shariff to Warisaliganj,2,patna-dDiioAMS,Asthawan
+patna-HSFreHuX,Bihar Shariff-Warisaliganj,Bihar Shariff to Warisaliganj,3,patna-KuuhZciS,Sare
+patna-HSFreHuX,Bihar Shariff-Warisaliganj,Bihar Shariff to Warisaliganj,4,patna-UQcYxeUg,Noanwan
+patna-HSFreHuX,Bihar Shariff-Warisaliganj,Bihar Shariff to Warisaliganj,5,patna-nMGJiGzp,Katri
+patna-HrFpzdsx,Patna-Jahanabad,I S B T to Jahanabad,1,patna-kMkpVULc,I S B T
+patna-HrFpzdsx,Patna-Jahanabad,I S B T to Jahanabad,2,patna-kIcRuInR,Gauri Chak
+patna-HrFpzdsx,Patna-Jahanabad,I S B T to Jahanabad,3,patna-MDyRnAuQ,Beldari Chak
+patna-HrFpzdsx,Patna-Jahanabad,I S B T to Jahanabad,4,patna-luZThfRM,Bir
+patna-HrFpzdsx,Patna-Jahanabad,I S B T to Jahanabad,5,patna-xqwvKHcS,Paveri
+patna-HrFpzdsx,Patna-Jahanabad,I S B T to Jahanabad,6,patna-snoVXmxT,Dhanarua
+patna-HrFpzdsx,Patna-Jahanabad,I S B T to Jahanabad,7,patna-eubAKFqU,Shai
+patna-HrFpzdsx,Patna-Jahanabad,I S B T to Jahanabad,8,patna-TuTUCTDi,Kolhachauk
+patna-HrFpzdsx,Patna-Jahanabad,I S B T to Jahanabad,9,patna-mYCZyPPY,Masauhri
+patna-HrFpzdsx,Patna-Jahanabad,I S B T to Jahanabad,10,patna-ynAgyVjq,Nadaul
+patna-HxiEwdvJ,666,Handi Saheb to Kargil Chowk,1,patna-jPqYkQfL,Handi Saheb
+patna-HxiEwdvJ,666,Handi Saheb to Kargil Chowk,2,patna-oKxNLjfg,Gola Road Bus Stop
+patna-HxiEwdvJ,666,Handi Saheb to Kargil Chowk,3,patna-RTEDfCxk,Takiyapar Bus Stop
+patna-HxiEwdvJ,666,Handi Saheb to Kargil Chowk,4,patna-vnkPfulo,Danapur Block Bus Stop
+patna-HxiEwdvJ,666,Handi Saheb to Kargil Chowk,5,patna-RZMTJObz,B S College
+patna-HxiEwdvJ,666,Handi Saheb to Kargil Chowk,6,patna-YcshJCbO,Nasariganj
+patna-HxiEwdvJ,666,Handi Saheb to Kargil Chowk,7,patna-IAukzzEi,Bata Factory Bus Stop
+patna-HxiEwdvJ,666,Handi Saheb to Kargil Chowk,8,patna-XVkSBpdp,Digha Thana
+patna-HxiEwdvJ,666,Handi Saheb to Kargil Chowk,9,patna-yFIonLZM,Digha
+patna-HxiEwdvJ,666,Handi Saheb to Kargil Chowk,10,patna-IDUkPDhD,Alpana Cinema Digha Ghat
+patna-HxiEwdvJ,666,Handi Saheb to Kargil Chowk,11,patna-RmRxWgcJ,Fci Godown
+patna-HxiEwdvJ,666,Handi Saheb to Kargil Chowk,12,patna-AVMlIENG,Jama Masjid Or State Bank Colony Digha Ghat
+patna-HxiEwdvJ,666,Handi Saheb to Kargil Chowk,13,patna-gVpnFUtu,ST Xavier College Training Centre
+patna-HxiEwdvJ,666,Handi Saheb to Kargil Chowk,14,patna-YspRCQnR,St Michaels High School
+patna-HxiEwdvJ,666,Handi Saheb to Kargil Chowk,15,patna-kpKNkGiw,Kurji More Bus Stop
+patna-HxiEwdvJ,666,Handi Saheb to Kargil Chowk,16,patna-nXTEalFT,Kurji Holy Family Bus Stop
+patna-HxiEwdvJ,666,Handi Saheb to Kargil Chowk,17,patna-REuIkIaA,Sdaquat Ashram Bus Stop
+patna-HxiEwdvJ,666,Handi Saheb to Kargil Chowk,18,patna-rDQvuBtM,Lct Ghat
+patna-HxiEwdvJ,666,Handi Saheb to Kargil Chowk,19,patna-wPYOukfo,Mainpura Bus Stop
+patna-HxiEwdvJ,666,Handi Saheb to Kargil Chowk,20,patna-OEMevhOC,Rajapur Pul Bus Stop
+patna-HxiEwdvJ,666,Handi Saheb to Kargil Chowk,21,patna-YqgmZTCu,Bans Ghat
+patna-HxiEwdvJ,666,Handi Saheb to Kargil Chowk,22,patna-WkAEejki,Police Line
+patna-HxiEwdvJ,666,Handi Saheb to Kargil Chowk,23,patna-OdRdHWFe,Gol Ghar
+patna-HxiEwdvJ,666,Handi Saheb to Kargil Chowk,24,patna-SPIXGANo,Magadh Mahila College Or Children Park
+patna-IklolShp,ISBT-Sheikhpura,I S B T to Sheikhpura,1,patna-kMkpVULc,I S B T
+patna-IklolShp,ISBT-Sheikhpura,I S B T to Sheikhpura,2,patna-eHjAIiHS,Bakhtiyarpur
+patna-IklolShp,ISBT-Sheikhpura,I S B T to Sheikhpura,3,patna-tjWbLisg,Harnaut
+patna-IklolShp,ISBT-Sheikhpura,I S B T to Sheikhpura,4,patna-tOYnOtTN,Saksohra
+patna-IklolShp,ISBT-Sheikhpura,I S B T to Sheikhpura,5,patna-WrOoBFOv,Bind
+patna-IklolShp,ISBT-Sheikhpura,I S B T to Sheikhpura,6,patna-tHtJFkqg,Benarmore
+patna-IklolShp,ISBT-Sheikhpura,I S B T to Sheikhpura,7,patna-JzObKBbf,Barbigha
+patna-IrMxcPTJ,Latkana-ISBT,Latkana to I S B T,1,patna-hYFfDJUX,Latkana
+patna-IrMxcPTJ,Latkana-ISBT,Latkana to I S B T,2,patna-NUmdHJgd,Khakhara
+patna-IrMxcPTJ,Latkana-ISBT,Latkana to I S B T,3,patna-snTrBvxE,Shahpur
+patna-IrMxcPTJ,Latkana-ISBT,Latkana to I S B T,4,patna-nMGJiGzp,Katri
+patna-IrMxcPTJ,Latkana-ISBT,Latkana to I S B T,5,patna-fJpfXMow,Giriyak
+patna-IrMxcPTJ,Latkana-ISBT,Latkana to I S B T,6,patna-mmAxZMKA,Bihar Sharif
+patna-IrMxcPTJ,Latkana-ISBT,Latkana to I S B T,7,patna-xQlafvrJ,Harnaut
+patna-JIjFTeAX,Patna-Kadar Bigha,Patna to Kadar Bigha,1,patna-rWVjdiga,Patna
+patna-JIjFTeAX,Patna-Kadar Bigha,Patna to Kadar Bigha,2,patna-jGrYTUhb,Naubatpur
+patna-JIjFTeAX,Patna-Kadar Bigha,Patna to Kadar Bigha,3,patna-QeIIHfNm,Bikarm
+patna-JIjFTeAX,Patna-Kadar Bigha,Patna to Kadar Bigha,4,patna-SJQSiDLF,Dulhin Bazar
+patna-JIjFTeAX,Patna-Kadar Bigha,Patna to Kadar Bigha,5,patna-DJGzwMJU,Paliganj
+patna-JIjFTeAX,Patna-Kadar Bigha,Patna to Kadar Bigha,6,patna-ejfnyLdU,Pakharpur
+patna-KZVnYEem,Koshachaouk-ISBT,Kashi Chak to I S B T,1,patna-vyQheQWV,Kashi Chak
+patna-KZVnYEem,Koshachaouk-ISBT,Kashi Chak to I S B T,2,patna-EZGhmVdh,Chandinuma
+patna-KZVnYEem,Koshachaouk-ISBT,Kashi Chak to I S B T,3,patna-snTrBvxE,Shahpur
+patna-KZVnYEem,Koshachaouk-ISBT,Kashi Chak to I S B T,4,patna-nMGJiGzp,Katri
+patna-KZVnYEem,Koshachaouk-ISBT,Kashi Chak to I S B T,5,patna-GrPtjYGa,Chhachubigha
+patna-KZVnYEem,Koshachaouk-ISBT,Kashi Chak to I S B T,6,patna-fJpfXMow,Giriyak
+patna-KZVnYEem,Koshachaouk-ISBT,Kashi Chak to I S B T,7,patna-mmAxZMKA,Bihar Sharif
+patna-KZVnYEem,Koshachaouk-ISBT,Kashi Chak to I S B T,8,patna-xQlafvrJ,Harnaut
+patna-KZVnYEem,Koshachaouk-ISBT,Kashi Chak to I S B T,9,patna-BPqAgOtJ,Bakhtiyarpur
+patna-KZlBTtfh,666,Kargil Chowk to Handi Saheb,1,patna-jttkHXVx,Kargil Chowk
+patna-KZlBTtfh,666,Kargil Chowk to Handi Saheb,2,patna-qTeqfyAe,Magadh Mahila College Or Children Park
+patna-KZlBTtfh,666,Kargil Chowk to Handi Saheb,3,patna-IkogAVmj,Gol Ghar
+patna-KZlBTtfh,666,Kargil Chowk to Handi Saheb,4,patna-ODiCeYDH,Police Line
+patna-KZlBTtfh,666,Kargil Chowk to Handi Saheb,5,patna-YghkmAJm,Bans Ghat
+patna-KZlBTtfh,666,Kargil Chowk to Handi Saheb,6,patna-YOimRpzk,Rajapur Pul Bus Stop
+patna-KZlBTtfh,666,Kargil Chowk to Handi Saheb,7,patna-XEpQqyxw,Mainpura Bus Stop
+patna-KZlBTtfh,666,Kargil Chowk to Handi Saheb,8,patna-uzquBoTY,Lct Ghat
+patna-KZlBTtfh,666,Kargil Chowk to Handi Saheb,9,patna-FGOjAGAH,Sdaquat Ashram Bus Stop
+patna-KZlBTtfh,666,Kargil Chowk to Handi Saheb,10,patna-qaVEcbto,Kurji Holy Family Bus Stop
+patna-KZlBTtfh,666,Kargil Chowk to Handi Saheb,11,patna-dvwVngnV,Kurji More Bus Stop
+patna-KZlBTtfh,666,Kargil Chowk to Handi Saheb,12,patna-TrTHdhgB,St Michaels High School
+patna-KZlBTtfh,666,Kargil Chowk to Handi Saheb,13,patna-YNHjYdUE,ST Xavier College Training Centre
+patna-KZlBTtfh,666,Kargil Chowk to Handi Saheb,14,patna-YLyNPXjZ,Jama Masjid Or State Bank Colony Digha Ghat
+patna-KZlBTtfh,666,Kargil Chowk to Handi Saheb,15,patna-RkSdmniR,Fci Godown
+patna-KZlBTtfh,666,Kargil Chowk to Handi Saheb,16,patna-wAkjPJPP,Alpana Cinema Digha Ghat
+patna-KZlBTtfh,666,Kargil Chowk to Handi Saheb,17,patna-PDRgWcTb,Digha
+patna-KZlBTtfh,666,Kargil Chowk to Handi Saheb,18,patna-yqtEiWaO,Digha Thana
+patna-KZlBTtfh,666,Kargil Chowk to Handi Saheb,19,patna-hPBSTkma,Bata Factory Bus Stop
+patna-KZlBTtfh,666,Kargil Chowk to Handi Saheb,20,patna-ovqhyBib,Nasariganj
+patna-KZlBTtfh,666,Kargil Chowk to Handi Saheb,21,patna-bsUHCijv,B S College
+patna-KZlBTtfh,666,Kargil Chowk to Handi Saheb,22,patna-lBEPxVVi,Danapur Block Bus Stop
+patna-KZlBTtfh,666,Kargil Chowk to Handi Saheb,23,patna-oezDeZDI,Takiyapar Bus Stop
+patna-KZlBTtfh,666,Kargil Chowk to Handi Saheb,24,patna-pIUeqZOU,Gola Road Bus Stop
+patna-MyZJuDUi,Sasbahana-Isbt,Sasbahana to I S B T,1,patna-jaREZeFo,Sasbahana
+patna-MyZJuDUi,Sasbahana-Isbt,Sasbahana to I S B T,2,patna-ZnQpcLjy,Pakribarwan
+patna-MyZJuDUi,Sasbahana-Isbt,Sasbahana to I S B T,3,patna-xgnxTJDE,Warisaliganj
+patna-MyZJuDUi,Sasbahana-Isbt,Sasbahana to I S B T,4,patna-xtKTxXWG,Kharantmore
+patna-MyZJuDUi,Sasbahana-Isbt,Sasbahana to I S B T,5,patna-uYTxLdmU,Giriyak
+patna-MyZJuDUi,Sasbahana-Isbt,Sasbahana to I S B T,6,patna-xmAJPdIt,Pawapuri
+patna-MyZJuDUi,Sasbahana-Isbt,Sasbahana to I S B T,7,patna-oscIIQjZ,Bihar Shariff
+patna-MyZJuDUi,Sasbahana-Isbt,Sasbahana to I S B T,8,patna-xQlafvrJ,Harnaut
+patna-MyZJuDUi,Sasbahana-Isbt,Sasbahana to I S B T,9,patna-BPqAgOtJ,Bakhtiyarpur
+patna-NaAtBOel,Patna-Chapra,Gandhi Maidan Bankipur Bus Stand to Chhapra,1,patna-UCsIpezl,Gandhi Maidan Bankipur Bus Stand
+patna-NaAtBOel,Patna-Chapra,Gandhi Maidan Bankipur Bus Stand to Chhapra,2,patna-jLazUOhy,Hajipur Bus Stand
+patna-NaAtBOel,Patna-Chapra,Gandhi Maidan Bankipur Bus Stand to Chhapra,3,patna-yPlTxUBU,Sitalpur
+patna-NaAtBOel,Patna-Chapra,Gandhi Maidan Bankipur Bus Stand to Chhapra,4,patna-XQgGyYZe,Garkha
+patna-NbRYAIoT,Sarmera-ISBT,Sarmera to I S B T,1,patna-rwcZFDuq,Sarmera
+patna-NbRYAIoT,Sarmera-ISBT,Sarmera to I S B T,2,patna-PKzhMBkI,Bind
+patna-NbRYAIoT,Sarmera-ISBT,Sarmera to I S B T,3,patna-NRabgqWb,Saksohra
+patna-NbRYAIoT,Sarmera-ISBT,Sarmera to I S B T,4,patna-tjWbLisg,Harnaut
+patna-NbRYAIoT,Sarmera-ISBT,Sarmera to I S B T,5,patna-BPqAgOtJ,Bakhtiyarpur
+patna-OWXYpYwJ,400,ISBT to Kargil Chowk,1,patna-dnNChhYp,ISBT
+patna-OWXYpYwJ,400,ISBT to Kargil Chowk,2,patna-PlMNCuPY,Zero Mile
+patna-OWXYpYwJ,400,ISBT to Kargil Chowk,3,patna-lEeuCMAp,Dhanki More
+patna-OWXYpYwJ,400,ISBT to Kargil Chowk,4,patna-ZZwceDKV,Rajendra Nagar Terminal
+patna-OWXYpYwJ,400,ISBT to Kargil Chowk,5,patna-EBboAeuz,Patna Junction
+patna-OcpkaeRd,Paliganj-Patna,Paliganj to Patna,1,patna-INsbCrag,Paliganj
+patna-OcpkaeRd,Paliganj-Patna,Paliganj to Patna,2,patna-CyznnAZX,Dulhin Bazar
+patna-OcpkaeRd,Paliganj-Patna,Paliganj to Patna,3,patna-eUQIbbFJ,Bikarm
+patna-OcpkaeRd,Paliganj-Patna,Paliganj to Patna,4,patna-hmWiWxHT,Naubatpur
+patna-OcpkaeRd,Paliganj-Patna,Paliganj to Patna,5,patna-bedpJWcA,Danapur
+patna-OcpkaeRd,Paliganj-Patna,Paliganj to Patna,6,patna-iczFYyPw,Phulwari Sharif Block
+patna-OcpkaeRd,Paliganj-Patna,Paliganj to Patna,7,patna-eumKDqlt,Anisabad Bus Stand
+patna-OeGoiMXx,Gungti-ISBT,Gungti to I S B T,1,patna-cJJZIRkF,Gungti
+patna-OeGoiMXx,Gungti-ISBT,Gungti to I S B T,2,patna-wyDfabAa,Aliganj
+patna-OeGoiMXx,Gungti-ISBT,Gungti to I S B T,3,patna-QoEQseyt,Chandradeep
+patna-OeGoiMXx,Gungti-ISBT,Gungti to I S B T,4,patna-RoDCdiaf,Arha
+patna-OeGoiMXx,Gungti-ISBT,Gungti to I S B T,5,patna-KrpRITOp,Pakribarawan
+patna-OeGoiMXx,Gungti-ISBT,Gungti to I S B T,6,patna-xgnxTJDE,Warisaliganj
+patna-OeGoiMXx,Gungti-ISBT,Gungti to I S B T,7,patna-YyJTBAFw,Nepuramore
+patna-OeGoiMXx,Gungti-ISBT,Gungti to I S B T,8,patna-ghbyDwGK,Katri Sarai
+patna-OeGoiMXx,Gungti-ISBT,Gungti to I S B T,9,patna-fJpfXMow,Giriyak
+patna-OeGoiMXx,Gungti-ISBT,Gungti to I S B T,10,patna-xmAJPdIt,Pawapuri
+patna-OeGoiMXx,Gungti-ISBT,Gungti to I S B T,11,patna-oscIIQjZ,Bihar Shariff
+patna-OeGoiMXx,Gungti-ISBT,Gungti to I S B T,12,patna-xQlafvrJ,Harnaut
+patna-OeGoiMXx,Gungti-ISBT,Gungti to I S B T,13,patna-BPqAgOtJ,Bakhtiyarpur
+patna-OtUXuTgg,ISBT-Sarmera,I S B T to Sarmera,1,patna-kMkpVULc,I S B T
+patna-OtUXuTgg,ISBT-Sarmera,I S B T to Sarmera,2,patna-eHjAIiHS,Bakhtiyarpur
+patna-OtUXuTgg,ISBT-Sarmera,I S B T to Sarmera,3,patna-xQlafvrJ,Harnaut
+patna-OtUXuTgg,ISBT-Sarmera,I S B T to Sarmera,4,patna-tOYnOtTN,Saksohra
+patna-OtUXuTgg,ISBT-Sarmera,I S B T to Sarmera,5,patna-aoMiurPa,Bind
+patna-PMyjDsXe,Motihari-Patna,Motihari to I S B T,1,patna-RkYaowtR,Motihari
+patna-PMyjDsXe,Motihari-Patna,Motihari to I S B T,2,patna-cmaLCwkt,Chakia
+patna-PMyjDsXe,Motihari-Patna,Motihari to I S B T,3,patna-QYMPFEYE,Mehsi
+patna-PMyjDsXe,Motihari-Patna,Motihari to I S B T,4,patna-irViiidU,Muzaffarpur
+patna-PMyjDsXe,Motihari-Patna,Motihari to I S B T,5,patna-jvsgjECj,Goraul
+patna-PMyjDsXe,Motihari-Patna,Motihari to I S B T,6,patna-cgFYUuzY,Hajipur Bus Stand
+patna-PXkpWnNm,Patna-Aurangabad,Patna to Aurangabad,1,patna-cHBBOtRE,Patna
+patna-PXkpWnNm,Patna-Aurangabad,Patna to Aurangabad,2,patna-rDgOJvER,Paligang
+patna-PXkpWnNm,Patna-Aurangabad,Patna to Aurangabad,3,patna-FgHqGflb,Arwal
+patna-PXkpWnNm,Patna-Aurangabad,Patna to Aurangabad,4,patna-cJWwQQQs,Mahendia
+patna-PXkpWnNm,Patna-Aurangabad,Patna to Aurangabad,5,patna-PiHVDmOK,Daudnagar
+patna-PcprPANf,Lachhuar-Patna,Lachhuar to I S B T,1,patna-uYEATuJv,Lachhuar
+patna-PcprPANf,Lachhuar-Patna,Lachhuar to I S B T,2,patna-aTOkhcOn,Sikandra
+patna-PcprPANf,Lachhuar-Patna,Lachhuar to I S B T,3,patna-zxNqRrHN,Chewara
+patna-PcprPANf,Lachhuar-Patna,Lachhuar to I S B T,4,patna-MYusVUYn,Sheikhpura
+patna-PcprPANf,Lachhuar-Patna,Lachhuar to I S B T,5,patna-rLzQwbSN,Barbigha
+patna-QMsdLFtJ,Jahanabad-Patna,Jahanabad to I S B T,1,patna-NYdcWAQk,Jahanabad
+patna-QMsdLFtJ,Jahanabad-Patna,Jahanabad to I S B T,2,patna-LFsbwqks,Nadaul
+patna-QMsdLFtJ,Jahanabad-Patna,Jahanabad to I S B T,3,patna-etlanMQH,Masauhri
+patna-QMsdLFtJ,Jahanabad-Patna,Jahanabad to I S B T,4,patna-IQKsfvbo,Kolhachauk
+patna-QMsdLFtJ,Jahanabad-Patna,Jahanabad to I S B T,5,patna-NufgDdId,Shai
+patna-QMsdLFtJ,Jahanabad-Patna,Jahanabad to I S B T,6,patna-fjgpuSmv,Dhanarua
+patna-QMsdLFtJ,Jahanabad-Patna,Jahanabad to I S B T,7,patna-gtLLblzw,Paveri
+patna-QMsdLFtJ,Jahanabad-Patna,Jahanabad to I S B T,8,patna-zpjIwMYX,Bir
+patna-QMsdLFtJ,Jahanabad-Patna,Jahanabad to I S B T,9,patna-GOzBmchy,Beldari Chak
+patna-QMsdLFtJ,Jahanabad-Patna,Jahanabad to I S B T,10,patna-BJjjNSSG,Gauri Chak
+patna-ReETdPOZ,222,AIIMS to Kargil Chowk,1,patna-dmqfzWmF,AIIMS
+patna-ReETdPOZ,222,AIIMS to Kargil Chowk,2,patna-iczFYyPw,Phulwari Sharif Block
+patna-ReETdPOZ,222,AIIMS to Kargil Chowk,3,patna-eumKDqlt,Anisabad Bus Stand
+patna-ReETdPOZ,222,AIIMS to Kargil Chowk,4,patna-qLIVfdbp,Chitkohra Mode Bus Stop
+patna-ReETdPOZ,222,AIIMS to Kargil Chowk,5,patna-HSKzpqJE,Old Secretaria
+patna-ReETdPOZ,222,AIIMS to Kargil Chowk,6,patna-NKFaOiir,R Block
+patna-ReETdPOZ,222,AIIMS to Kargil Chowk,7,patna-ZTluoSBs,Taramandal
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,1,patna-qXsstNYn,Danapur Bus Stand
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,2,patna-IhVyEhcH,Danapur Army Cant
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,3,patna-gcCJcjUS,Saguna More
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,4,patna-rNjsBeKm,Rps More
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,5,patna-viWIQDHB,Gola Road
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,6,patna-xToXuuAj,Vijay Nagar
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,7,patna-JtBcKAuH,Rukunpura
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,8,patna-JcLwxwqp,Jagdeo Path
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,9,patna-MvPYwZuQ,Ashiyana More
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,10,patna-PUxcCVyr,Igims
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,11,patna-ZKVKxPoK,Sheikhupura
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,12,patna-QXskmdBP,Zoo
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,13,patna-OhxSmNKg,Rajbanshi Nagar
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,14,patna-kYpfqeud,Lalit Bhawan
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,15,patna-mkZTapzB,Secretariat
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,16,patna-HtjPcpJv,Hartali Chowk
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,17,patna-bcFpJnkA,Bihar Museum
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,18,patna-tocmOnpm,High Court
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,19,patna-wdLQAFQH,Patna Womens College
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,20,patna-CCyjaRnM,Income Tax Chauraha
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,21,patna-NKFaOiir,R Block
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,22,patna-WojJfWRv,Gpo
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,23,patna-FRLiFyhE,Patna Junction
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,24,patna-PExNSZnC,Dak Bunglow Chowk Bus Stop
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,25,patna-JafAlBal,Bata More
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,26,patna-GwpwjDbN,Doordarshan Kendra
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,27,patna-kvzPsEoA,Biscoman Bhawan Bus Stop
+patna-RmfWDZdT,111,Danapur Bus Stand to Kargil Chowk,28,patna-SPIXGANo,Magadh Mahila College Or Children Park
+patna-SKKKDPnJ,Sasbahana-Isbt,Sasbahana to I S B T,1,patna-hrSeYunP,Sasbahana
+patna-SKKKDPnJ,Sasbahana-Isbt,Sasbahana to I S B T,2,patna-KrpRITOp,Pakribarawan
+patna-SKKKDPnJ,Sasbahana-Isbt,Sasbahana to I S B T,3,patna-xgnxTJDE,Warisaliganj
+patna-SKKKDPnJ,Sasbahana-Isbt,Sasbahana to I S B T,4,patna-xtKTxXWG,Kharantmore
+patna-SKKKDPnJ,Sasbahana-Isbt,Sasbahana to I S B T,5,patna-uYTxLdmU,Giriyak
+patna-SKKKDPnJ,Sasbahana-Isbt,Sasbahana to I S B T,6,patna-xmAJPdIt,Pawapuri
+patna-SKKKDPnJ,Sasbahana-Isbt,Sasbahana to I S B T,7,patna-oscIIQjZ,Bihar Shariff
+patna-SKKKDPnJ,Sasbahana-Isbt,Sasbahana to I S B T,8,patna-xQlafvrJ,Harnaut
+patna-SKKKDPnJ,Sasbahana-Isbt,Sasbahana to I S B T,9,patna-BPqAgOtJ,Bakhtiyarpur
+patna-SQSHzsOT,Samur-Patna,Samur to I S B T,1,patna-SxyzoHKl,Samur
+patna-SQSHzsOT,Samur-Patna,Samur to I S B T,2,patna-HUDxSrUe,Panchdeori
+patna-SQSHzsOT,Samur-Patna,Samur to I S B T,3,patna-ANfRkprN,Jamunaha
+patna-SQSHzsOT,Samur-Patna,Samur to I S B T,4,patna-TNkKLvJR,Bathua-Bazar
+patna-SQSHzsOT,Samur-Patna,Samur to I S B T,5,patna-mkMrHBRi,Gopalganj
+patna-SQSHzsOT,Samur-Patna,Samur to I S B T,6,patna-mYyGKdUk,Siwan
+patna-SQSHzsOT,Samur-Patna,Samur to I S B T,7,patna-tFuIcfYd,Malmaliya
+patna-SQSHzsOT,Samur-Patna,Samur to I S B T,8,patna-EIIaqXMZ,Masrakh
+patna-SQSHzsOT,Samur-Patna,Samur to I S B T,9,patna-yvDGqdTE,Taraiya
+patna-SQSHzsOT,Samur-Patna,Samur to I S B T,10,patna-uPNxWXqX,Marhowrah
+patna-SQSHzsOT,Samur-Patna,Samur to I S B T,11,patna-QJlMNlhD,Amnour
+patna-SQSHzsOT,Samur-Patna,Samur to I S B T,12,patna-PdxlTJlj,Sonho
+patna-SQSHzsOT,Samur-Patna,Samur to I S B T,13,patna-DZQUmETf,Parsa
+patna-SQSHzsOT,Samur-Patna,Samur to I S B T,14,patna-WPvRoGRE,Sitalpur
+patna-SQSHzsOT,Samur-Patna,Samur to I S B T,15,patna-vJzqMMTK,Nayagaon
+patna-SQSHzsOT,Samur-Patna,Samur to I S B T,16,patna-QjgxROnt,Hajipur
+patna-TkjVxXpC,Belkhara-Patna,Belkhara to Kargil Chowk,1,patna-BfNMQwGK,Belkhara
+patna-TkjVxXpC,Belkhara-Patna,Belkhara to Kargil Chowk,2,patna-nxtSaCHx,Kubri
+patna-TkjVxXpC,Belkhara-Patna,Belkhara to Kargil Chowk,3,patna-TpKoAUZF,Usri
+patna-TkjVxXpC,Belkhara-Patna,Belkhara to Kargil Chowk,4,patna-kVxxwPJb,Mahendia
+patna-TkjVxXpC,Belkhara-Patna,Belkhara to Kargil Chowk,5,patna-LEkRXhNW,Balidad
+patna-TkjVxXpC,Belkhara-Patna,Belkhara to Kargil Chowk,6,patna-BVWvzcNy,Baidrabad
+patna-TkjVxXpC,Belkhara-Patna,Belkhara to Kargil Chowk,7,patna-DpOEVPtX,Arwal
+patna-TkjVxXpC,Belkhara-Patna,Belkhara to Kargil Chowk,8,patna-pLQmPmQI,Parsadi  English
+patna-TkjVxXpC,Belkhara-Patna,Belkhara to Kargil Chowk,9,patna-GhOrUFCm,Mahabalipur
+patna-TkjVxXpC,Belkhara-Patna,Belkhara to Kargil Chowk,10,patna-DNqeKnZt,Ranitalab
+patna-TkjVxXpC,Belkhara-Patna,Belkhara to Kargil Chowk,11,patna-CyznnAZX,Dulhin Bazar
+patna-TkjVxXpC,Belkhara-Patna,Belkhara to Kargil Chowk,12,patna-eUQIbbFJ,Bikarm
+patna-TkjVxXpC,Belkhara-Patna,Belkhara to Kargil Chowk,13,patna-hmWiWxHT,Naubatpur
+patna-UQLOeSUr,Aliganj-Patna,Aliganj to I S B T,1,patna-RiLtvQxm,Aliganj
+patna-UQLOeSUr,Aliganj-Patna,Aliganj to I S B T,2,patna-zxNqRrHN,Chewara
+patna-UQLOeSUr,Aliganj-Patna,Aliganj to I S B T,3,patna-MYusVUYn,Sheikhpura
+patna-UQLOeSUr,Aliganj-Patna,Aliganj to I S B T,4,patna-rLzQwbSN,Barbigha
+patna-UYPEuVjM,200,I S B T to Patna Airport,1,patna-kMkpVULc,I S B T
+patna-UYPEuVjM,200,I S B T to Patna Airport,2,patna-PlMNCuPY,Zero Mile
+patna-UYPEuVjM,200,I S B T to Patna Airport,3,patna-lEeuCMAp,Dhanki More
+patna-UYPEuVjM,200,I S B T to Patna Airport,4,patna-ZZwceDKV,Rajendra Nagar Terminal
+patna-UYPEuVjM,200,I S B T to Patna Airport,5,patna-TvFBuHrx,Karbigahiya More
+patna-UYPEuVjM,200,I S B T to Patna Airport,6,patna-SDWbiTFr,Old Secretaria
+patna-UYPEuVjM,200,I S B T to Patna Airport,7,patna-FNKLRqRg,Haj Bhawan
+patna-UwgnHWrO,500,Kurji More Bus Stop to Patna Junction,1,patna-rYRDgBZv,Kurji More Bus Stop
+patna-UwgnHWrO,500,Kurji More Bus Stop to Patna Junction,2,patna-mbWnUNbA,P And M Mall
+patna-UwgnHWrO,500,Kurji More Bus Stop to Patna Junction,3,patna-uSavzmno,Polytechnic More
+patna-UwgnHWrO,500,Kurji More Bus Stop to Patna Junction,4,patna-KvvDsAwa,Patliputra Golambar Bus Stop
+patna-UwgnHWrO,500,Kurji More Bus Stop to Patna Junction,5,patna-UkxWtkzt,Alpana Market
+patna-UwgnHWrO,500,Kurji More Bus Stop to Patna Junction,6,patna-IbAaRQbK,Pani Tanki More
+patna-UwgnHWrO,500,Kurji More Bus Stop to Patna Junction,7,patna-pRMYYxds,A N College
+patna-UwgnHWrO,500,Kurji More Bus Stop to Patna Junction,8,patna-BLxlFOMD,S K Puri Park
+patna-UwgnHWrO,500,Kurji More Bus Stop to Patna Junction,9,patna-AlmBKBZT,Boring Canal Road
+patna-UwgnHWrO,500,Kurji More Bus Stop to Patna Junction,10,patna-WKDazrHb,Hartali Chowk
+patna-UwgnHWrO,500,Kurji More Bus Stop to Patna Junction,11,patna-tocmOnpm,High Court
+patna-UwgnHWrO,500,Kurji More Bus Stop to Patna Junction,12,patna-wdLQAFQH,Patna Womens College
+patna-UwgnHWrO,500,Kurji More Bus Stop to Patna Junction,13,patna-CCyjaRnM,Income Tax Chauraha
+patna-UwgnHWrO,500,Kurji More Bus Stop to Patna Junction,14,patna-kAtVQSLU,Patna Jal Parishd
+patna-UwgnHWrO,500,Kurji More Bus Stop to Patna Junction,15,patna-NKFaOiir,R Block
+patna-UwgnHWrO,500,Kurji More Bus Stop to Patna Junction,16,patna-WojJfWRv,Gpo
+patna-VaapvudD,ISBT-Mirgaganj,I S B T to Mirgaganj,1,patna-kMkpVULc,I S B T
+patna-VaapvudD,ISBT-Mirgaganj,I S B T to Mirgaganj,2,patna-eHjAIiHS,Bakhtiyarpur
+patna-VaapvudD,ISBT-Mirgaganj,I S B T to Mirgaganj,3,patna-tjWbLisg,Harnaut
+patna-VaapvudD,ISBT-Mirgaganj,I S B T to Mirgaganj,4,patna-fyzjWmLi,Bihar Shariff
+patna-VaapvudD,ISBT-Mirgaganj,I S B T to Mirgaganj,5,patna-jIYBclOo,Pawapuri
+patna-VaapvudD,ISBT-Mirgaganj,I S B T to Mirgaganj,6,patna-AwWkxvlo,Giriyak
+patna-VaapvudD,ISBT-Mirgaganj,I S B T to Mirgaganj,7,patna-tjojzxAB,Kharantmore
+patna-VaapvudD,ISBT-Mirgaganj,I S B T to Mirgaganj,8,patna-GIvapHji,Warisaliganj
+patna-VaapvudD,ISBT-Mirgaganj,I S B T to Mirgaganj,9,patna-kOGMkVix,Pakribarawan
+patna-VaapvudD,ISBT-Mirgaganj,I S B T to Mirgaganj,10,patna-nXzBqStj,Arha
+patna-VaapvudD,ISBT-Mirgaganj,I S B T to Mirgaganj,11,patna-EqoCUtaN,Chandradeep
+patna-VaapvudD,ISBT-Mirgaganj,I S B T to Mirgaganj,12,patna-RiLtvQxm,Aliganj
+patna-WAqWXeLH,500,Patna Junction to Kurji More Bus Stop,1,patna-qXubGfUs,Patna Junction
+patna-WAqWXeLH,500,Patna Junction to Kurji More Bus Stop,2,patna-fUHzFFak,Gpo
+patna-WAqWXeLH,500,Patna Junction to Kurji More Bus Stop,3,patna-qyzqZBXm,R Block
+patna-WAqWXeLH,500,Patna Junction to Kurji More Bus Stop,4,patna-VjcNgIbF,Patna Jal Parishd
+patna-WAqWXeLH,500,Patna Junction to Kurji More Bus Stop,5,patna-kUvMxLty,Income Tax Chauraha
+patna-WAqWXeLH,500,Patna Junction to Kurji More Bus Stop,6,patna-tXNCvNtE,Patna Womens College
+patna-WAqWXeLH,500,Patna Junction to Kurji More Bus Stop,7,patna-CDactjgS,High Court
+patna-WAqWXeLH,500,Patna Junction to Kurji More Bus Stop,8,patna-MyLWMrbM,Hartali Chowk
+patna-WAqWXeLH,500,Patna Junction to Kurji More Bus Stop,9,patna-NVJCWCGI,Boring Canal Road
+patna-WAqWXeLH,500,Patna Junction to Kurji More Bus Stop,10,patna-wAYYATZl,S K Puri Park
+patna-WAqWXeLH,500,Patna Junction to Kurji More Bus Stop,11,patna-ZjlsiywM,A N College
+patna-WAqWXeLH,500,Patna Junction to Kurji More Bus Stop,12,patna-JvvPyOhB,Pani Tanki More
+patna-WAqWXeLH,500,Patna Junction to Kurji More Bus Stop,13,patna-eXqIpsnX,Alpana Market
+patna-WAqWXeLH,500,Patna Junction to Kurji More Bus Stop,14,patna-bafnxfBU,Patliputra Golambar Bus Stop
+patna-WAqWXeLH,500,Patna Junction to Kurji More Bus Stop,15,patna-bxvySGfz,Polytechnic More
+patna-WAqWXeLH,500,Patna Junction to Kurji More Bus Stop,16,patna-gYZhwijm,P And M Mall
+patna-WLGCPNIN,Shergati-Patna,Sherghati to I S B T,1,patna-EWPgXXtl,Sherghati
+patna-WLGCPNIN,Shergati-Patna,Sherghati to I S B T,2,patna-fGcijnJp,Dobhi
+patna-WLGCPNIN,Shergati-Patna,Sherghati to I S B T,3,patna-YaYcmfYj,Domuhan
+patna-WLGCPNIN,Shergati-Patna,Sherghati to I S B T,4,patna-FJjvSbfA,Gaya
+patna-WLGCPNIN,Shergati-Patna,Sherghati to I S B T,5,patna-bBfpGtQu,Chakand
+patna-WLGCPNIN,Shergati-Patna,Sherghati to I S B T,6,patna-BziXRDZD,Bela
+patna-WLGCPNIN,Shergati-Patna,Sherghati to I S B T,7,patna-kZfUkOEW,Makdumpur
+patna-WLGCPNIN,Shergati-Patna,Sherghati to I S B T,8,patna-pMyGnBSK,Tehta
+patna-WLGCPNIN,Shergati-Patna,Sherghati to I S B T,9,patna-gGMWtige,Jahanabad
+patna-WLGCPNIN,Shergati-Patna,Sherghati to I S B T,10,patna-aLqpBjgI,Masauhri
+patna-XGkcHtDB,Navinagar-Patna,Nabinagar to I S B T,1,patna-DCiqTKRn,Nabinagar
+patna-XGkcHtDB,Navinagar-Patna,Nabinagar to I S B T,2,patna-uWkHiiQI,Kutumba
+patna-XGkcHtDB,Navinagar-Patna,Nabinagar to I S B T,3,patna-qbgJGYWP,Amba
+patna-XGkcHtDB,Navinagar-Patna,Nabinagar to I S B T,4,patna-sqKgYwMK,Aurangabad
+patna-XGkcHtDB,Navinagar-Patna,Nabinagar to I S B T,5,patna-yHmQPPfr,Obra
+patna-XGkcHtDB,Navinagar-Patna,Nabinagar to I S B T,6,patna-ULbdNKPj,Daudnagar
+patna-XGkcHtDB,Navinagar-Patna,Nabinagar to I S B T,7,patna-DpOEVPtX,Arwal
+patna-ZoXwwkXZ,100,Patna Airport to Kargil Chowk,1,patna-ztqVOKFb,Patna Airport
+patna-ZoXwwkXZ,100,Patna Airport to Kargil Chowk,2,patna-FRLiFyhE,Patna Junction
+patna-ZoXwwkXZ,100,Patna Airport to Kargil Chowk,3,patna-gtSLOgWd,Rajendra Nagar Terminal
+patna-ZoXwwkXZ,100,Patna Airport to Kargil Chowk,4,patna-DaXUAfQL,Zero Mile
+patna-ZoXwwkXZ,100,Patna Airport to Kargil Chowk,5,patna-dnNChhYp,ISBT
+patna-ZulbcuMy,333,Kargil Chowk to Nit More,1,patna-TGCWXFtn,Kargil Chowk
+patna-ZulbcuMy,333,Kargil Chowk to Nit More,2,patna-OBDZVmAZ,B N College
+patna-ZulbcuMy,333,Kargil Chowk to Nit More,3,patna-FHPJRSJY,Civil Court
+patna-ZulbcuMy,333,Kargil Chowk to Nit More,4,patna-PpFxNHlW,P M C H
+patna-ZulbcuMy,333,Kargil Chowk to Nit More,5,patna-kUouqEjT,Dharbanga House
+patna-ZulbcuMy,333,Kargil Chowk to Nit More,6,patna-xRlxThqD,Patna College
+patna-ZulbcuMy,333,Kargil Chowk to Nit More,7,patna-ICGnXdZH,Patna University
+patna-ZulbcuMy,333,Kargil Chowk to Nit More,8,patna-ObxMyaIC,Science College
+patna-aDfLkcnD,222,Kargil Chowk to AIIMS,1,patna-jttkHXVx,Kargil Chowk
+patna-aDfLkcnD,222,Kargil Chowk to AIIMS,2,patna-PMeBYSaD,Taramandal
+patna-aDfLkcnD,222,Kargil Chowk to AIIMS,3,patna-qyzqZBXm,R Block
+patna-aDfLkcnD,222,Kargil Chowk to AIIMS,4,patna-SDWbiTFr,Old Secretaria
+patna-aDfLkcnD,222,Kargil Chowk to AIIMS,5,patna-YuAhACRx,Chitkohra Mode Bus Stop
+patna-aDfLkcnD,222,Kargil Chowk to AIIMS,6,patna-QLLuSoTT,Anisabad Bus Stand
+patna-aDfLkcnD,222,Kargil Chowk to AIIMS,7,patna-gbSWCGtN,Phulwari Sharif Block
+patna-bBIBAban,Bihar Shariff-Patna,Bihar Sharif to I S B T,1,patna-vfqlqvzj,Bihar Sharif
+patna-bBIBAban,Bihar Shariff-Patna,Bihar Sharif to I S B T,2,patna-xQlafvrJ,Harnaut
+patna-bBIBAban,Bihar Shariff-Patna,Bihar Sharif to I S B T,3,patna-BPqAgOtJ,Bakhtiyarpur
+patna-bMoipEJt,ISBT-Banka,I S B T to Banka Bus Stand,1,patna-kMkpVULc,I S B T
+patna-bMoipEJt,ISBT-Banka,I S B T to Banka Bus Stand,2,patna-tmpksXZg,Lakhhisarai
+patna-bMoipEJt,ISBT-Banka,I S B T to Banka Bus Stand,3,patna-QTfTpLmR,Surajgarah
+patna-bMoipEJt,ISBT-Banka,I S B T to Banka Bus Stand,4,patna-FHcdOrOX,Safiabad
+patna-bMoipEJt,ISBT-Banka,I S B T to Banka Bus Stand,5,patna-yFoFxBdp,Bariarpur
+patna-bMoipEJt,ISBT-Banka,I S B T to Banka Bus Stand,6,patna-UUimnqhu,Kharagpur
+patna-bMoipEJt,ISBT-Banka,I S B T to Banka Bus Stand,7,patna-cVLvwYEj,Gangta More
+patna-bMoipEJt,ISBT-Banka,I S B T to Banka Bus Stand,8,patna-ZluZIZaS,Sangrapur
+patna-bMoipEJt,ISBT-Banka,I S B T to Banka Bus Stand,9,patna-WcXsEOJs,Shahabganj
+patna-bMoipEJt,ISBT-Banka,I S B T to Banka Bus Stand,10,patna-pIBLRvhU,Ramsariya
+patna-bSMaGdSW,555,Patna Saheb Railway Station to Kargil Chowk,1,patna-vHAUVoyy,Patna Saheb Railway Station
+patna-bSMaGdSW,555,Patna Saheb Railway Station to Kargil Chowk,2,patna-NWSYfqvI,Tent City More
+patna-bSMaGdSW,555,Patna Saheb Railway Station to Kargil Chowk,3,patna-PlMNCuPY,Zero Mile
+patna-bSMaGdSW,555,Patna Saheb Railway Station to Kargil Chowk,4,patna-lEeuCMAp,Dhanki More
+patna-bSMaGdSW,555,Patna Saheb Railway Station to Kargil Chowk,5,patna-YwtdPMvA,Kumhrar
+patna-bSMaGdSW,555,Patna Saheb Railway Station to Kargil Chowk,6,patna-ZZwceDKV,Rajendra Nagar Terminal
+patna-bSMaGdSW,555,Patna Saheb Railway Station to Kargil Chowk,7,patna-gndvKKZV,Kankarbagh More Colony
+patna-bSMaGdSW,555,Patna Saheb Railway Station to Kargil Chowk,8,patna-EBboAeuz,Patna Junction
+patna-baMziVns,Japla-Patna,Japla to I S B T,1,patna-JPSWkhkD,Japla
+patna-baMziVns,Japla-Patna,Japla to I S B T,2,patna-IOkDXLWt,Chhatarpur
+patna-baMziVns,Japla-Patna,Japla to I S B T,3,patna-ZdSYnFGF,Hariharganj
+patna-baMziVns,Japla-Patna,Japla to I S B T,4,patna-qbgJGYWP,Amba
+patna-baMziVns,Japla-Patna,Japla to I S B T,5,patna-KntJLZZX,Aurangabad
+patna-baMziVns,Japla-Patna,Japla to I S B T,6,patna-ULbdNKPj,Daudnagar
+patna-dMMLdkHA,Mirgaganj-ISBT,Mirgaganj to I S B T,1,patna-VVKNjHuw,Mirgaganj
+patna-dMMLdkHA,Mirgaganj-ISBT,Mirgaganj to I S B T,2,patna-wyDfabAa,Aliganj
+patna-dMMLdkHA,Mirgaganj-ISBT,Mirgaganj to I S B T,3,patna-QoEQseyt,Chandradeep
+patna-dMMLdkHA,Mirgaganj-ISBT,Mirgaganj to I S B T,4,patna-RoDCdiaf,Arha
+patna-dMMLdkHA,Mirgaganj-ISBT,Mirgaganj to I S B T,5,patna-KrpRITOp,Pakribarawan
+patna-dMMLdkHA,Mirgaganj-ISBT,Mirgaganj to I S B T,6,patna-xgnxTJDE,Warisaliganj
+patna-dMMLdkHA,Mirgaganj-ISBT,Mirgaganj to I S B T,7,patna-xtKTxXWG,Kharantmore
+patna-dMMLdkHA,Mirgaganj-ISBT,Mirgaganj to I S B T,8,patna-uYTxLdmU,Giriyak
+patna-dMMLdkHA,Mirgaganj-ISBT,Mirgaganj to I S B T,9,patna-xmAJPdIt,Pawapuri
+patna-dMMLdkHA,Mirgaganj-ISBT,Mirgaganj to I S B T,10,patna-oscIIQjZ,Bihar Shariff
+patna-dMMLdkHA,Mirgaganj-ISBT,Mirgaganj to I S B T,11,patna-xQlafvrJ,Harnaut
+patna-dMMLdkHA,Mirgaganj-ISBT,Mirgaganj to I S B T,12,patna-BPqAgOtJ,Bakhtiyarpur
+patna-daOUcdBz,Bhagalpur-Patna,Bhagalpur to I S B T,1,patna-PmFhFLQn,Bhagalpur
+patna-daOUcdBz,Bhagalpur-Patna,Bhagalpur to I S B T,2,patna-pcQeXcTA,Sultanganj
+patna-daOUcdBz,Bhagalpur-Patna,Bhagalpur to I S B T,3,patna-zcOKoCbH,Tarapur
+patna-daOUcdBz,Bhagalpur-Patna,Bhagalpur to I S B T,4,patna-gTOjPOXr,Munger
+patna-daOUcdBz,Bhagalpur-Patna,Bhagalpur to I S B T,5,patna-wRVrCnba,Lakhhisarai
+patna-dbQRcKfq,ISBT-Sarmera,I S B T to Sarmera,1,patna-kMkpVULc,I S B T
+patna-dbQRcKfq,ISBT-Sarmera,I S B T to Sarmera,2,patna-eHjAIiHS,Bakhtiyarpur
+patna-dbQRcKfq,ISBT-Sarmera,I S B T to Sarmera,3,patna-tjWbLisg,Harnaut
+patna-dbQRcKfq,ISBT-Sarmera,I S B T to Sarmera,4,patna-tOYnOtTN,Saksohra
+patna-dbQRcKfq,ISBT-Sarmera,I S B T to Sarmera,5,patna-aoMiurPa,Bind
+patna-eMKvImvD,Banka-ISBT,Banka Bus Stand to I S B T,1,patna-KrjauFDS,Banka Bus Stand
+patna-eMKvImvD,Banka-ISBT,Banka Bus Stand to I S B T,2,patna-oMHBulez,Ramsariya
+patna-eMKvImvD,Banka-ISBT,Banka Bus Stand to I S B T,3,patna-aahPCfVg,Shahabganj
+patna-eMKvImvD,Banka-ISBT,Banka Bus Stand to I S B T,4,patna-VYEePVsV,Sangrapur
+patna-eMKvImvD,Banka-ISBT,Banka Bus Stand to I S B T,5,patna-qRGYWuTo,Gangta More
+patna-eMKvImvD,Banka-ISBT,Banka Bus Stand to I S B T,6,patna-KgBtmEji,Kharagpur
+patna-eMKvImvD,Banka-ISBT,Banka Bus Stand to I S B T,7,patna-oXgaUAzt,Bariarpur
+patna-eMKvImvD,Banka-ISBT,Banka Bus Stand to I S B T,8,patna-hSkxmRBN,Safiabad
+patna-eMKvImvD,Banka-ISBT,Banka Bus Stand to I S B T,9,patna-OciQIgVT,Surajgarah
+patna-eMKvImvD,Banka-ISBT,Banka Bus Stand to I S B T,10,patna-wRVrCnba,Lakhhisarai
+patna-ewMOtCNM,400,Kargil Chowk to ISBT,1,patna-jttkHXVx,Kargil Chowk
+patna-ewMOtCNM,400,Kargil Chowk to ISBT,2,patna-qXubGfUs,Patna Junction
+patna-ewMOtCNM,400,Kargil Chowk to ISBT,3,patna-gtSLOgWd,Rajendra Nagar Terminal
+patna-ewMOtCNM,400,Kargil Chowk to ISBT,4,patna-XPXiBGnl,Dhanki More
+patna-ewMOtCNM,400,Kargil Chowk to ISBT,5,patna-abppjddP,Zero Mile
+patna-fapRxnTu,Patna-Bhagalpur,I S B T to Bhagalpur,1,patna-kMkpVULc,I S B T
+patna-fapRxnTu,Patna-Bhagalpur,I S B T to Bhagalpur,2,patna-tmpksXZg,Lakhhisarai
+patna-fapRxnTu,Patna-Bhagalpur,I S B T to Bhagalpur,3,patna-ccfJIPIL,Munger
+patna-fapRxnTu,Patna-Bhagalpur,I S B T to Bhagalpur,4,patna-eoPeoFEc,Tarapur
+patna-fapRxnTu,Patna-Bhagalpur,I S B T to Bhagalpur,5,patna-DvoidVzh,Sultanganj
+patna-fykinCLf,ISBT-Latkana,I S B T to Latkana,1,patna-kMkpVULc,I S B T
+patna-fykinCLf,ISBT-Latkana,I S B T to Latkana,2,patna-tjWbLisg,Harnaut
+patna-fykinCLf,ISBT-Latkana,I S B T to Latkana,3,patna-gwaPcAwe,Bihar Sharif
+patna-fykinCLf,ISBT-Latkana,I S B T to Latkana,4,patna-tjqnoVIa,Giriyak
+patna-fykinCLf,ISBT-Latkana,I S B T to Latkana,5,patna-GssXdQHO,Katri
+patna-fykinCLf,ISBT-Latkana,I S B T to Latkana,6,patna-QVeILFJo,Shahpur
+patna-fykinCLf,ISBT-Latkana,I S B T to Latkana,7,patna-NhIngtMF,Khakhara
+patna-gwNthdir,555,Kargil Chowk to Patna Saheb Railway Station,1,patna-jttkHXVx,Kargil Chowk
+patna-gwNthdir,555,Kargil Chowk to Patna Saheb Railway Station,2,patna-qXubGfUs,Patna Junction
+patna-gwNthdir,555,Kargil Chowk to Patna Saheb Railway Station,3,patna-bblHnuKC,Kankarbagh More Colony
+patna-gwNthdir,555,Kargil Chowk to Patna Saheb Railway Station,4,patna-CDrUqYOb,Rajendra Nagar Pul
+patna-gwNthdir,555,Kargil Chowk to Patna Saheb Railway Station,5,patna-dQmNdEoy,Kumhrar
+patna-gwNthdir,555,Kargil Chowk to Patna Saheb Railway Station,6,patna-XPXiBGnl,Dhanki More
+patna-gwNthdir,555,Kargil Chowk to Patna Saheb Railway Station,7,patna-lQhdssEt,Zero Mile
+patna-gwNthdir,555,Kargil Chowk to Patna Saheb Railway Station,8,patna-DUOPUHJB,Tent City More
+patna-gxnYTbjb,ISBT-Arha,I S B T to Arha,1,patna-kMkpVULc,I S B T
+patna-gxnYTbjb,ISBT-Arha,I S B T to Arha,2,patna-eHjAIiHS,Bakhtiyarpur
+patna-gxnYTbjb,ISBT-Arha,I S B T to Arha,3,patna-tjWbLisg,Harnaut
+patna-gxnYTbjb,ISBT-Arha,I S B T to Arha,4,patna-tOYnOtTN,Saksohra
+patna-gxnYTbjb,ISBT-Arha,I S B T to Arha,5,patna-aoMiurPa,Bind
+patna-gxnYTbjb,ISBT-Arha,I S B T to Arha,6,patna-tHtJFkqg,Benarmore
+patna-gxnYTbjb,ISBT-Arha,I S B T to Arha,7,patna-JzObKBbf,Barbigha
+patna-gxnYTbjb,ISBT-Arha,I S B T to Arha,8,patna-EIPoPmxL,Sheikhpura
+patna-hUitepfz,Patna-Samur,I S B T to Samur,1,patna-kMkpVULc,I S B T
+patna-hUitepfz,Patna-Samur,I S B T to Samur,2,patna-otrzYLCi,Hajipur
+patna-hUitepfz,Patna-Samur,I S B T to Samur,3,patna-QXUuhYBf,Nayagaon
+patna-hUitepfz,Patna-Samur,I S B T to Samur,4,patna-yPlTxUBU,Sitalpur
+patna-hUitepfz,Patna-Samur,I S B T to Samur,5,patna-vdtsootw,Parsa
+patna-hUitepfz,Patna-Samur,I S B T to Samur,6,patna-epzeBPrq,Sonho
+patna-hUitepfz,Patna-Samur,I S B T to Samur,7,patna-cklMRhON,Amnour
+patna-hUitepfz,Patna-Samur,I S B T to Samur,8,patna-NRouBIpf,Marhowrah
+patna-hUitepfz,Patna-Samur,I S B T to Samur,9,patna-qLuzGloG,Taraiya
+patna-hUitepfz,Patna-Samur,I S B T to Samur,10,patna-FhmWPHTs,Masrakh
+patna-hUitepfz,Patna-Samur,I S B T to Samur,11,patna-auAylDey,Malmaliya
+patna-hUitepfz,Patna-Samur,I S B T to Samur,12,patna-OYuSzHGm,Siwan
+patna-hUitepfz,Patna-Samur,I S B T to Samur,13,patna-uHEhtoZR,Gopalganj
+patna-hUitepfz,Patna-Samur,I S B T to Samur,14,patna-hNZaKPFp,Bathua-Bazar
+patna-hUitepfz,Patna-Samur,I S B T to Samur,15,patna-amSiYlqo,Jamunaha
+patna-hUitepfz,Patna-Samur,I S B T to Samur,16,patna-mQvpHBvN,Panchdeori
+patna-hereKjAn,Warisaliganj-Bihar Shariff,Warisaliganj to Bihar Shariff,1,patna-xgnxTJDE,Warisaliganj
+patna-hereKjAn,Warisaliganj-Bihar Shariff,Warisaliganj to Bihar Shariff,2,patna-GssXdQHO,Katri
+patna-hereKjAn,Warisaliganj-Bihar Shariff,Warisaliganj to Bihar Shariff,3,patna-FsfyZdqz,Noanwan
+patna-hereKjAn,Warisaliganj-Bihar Shariff,Warisaliganj to Bihar Shariff,4,patna-oNTmGhEt,Sare
+patna-hereKjAn,Warisaliganj-Bihar Shariff,Warisaliganj to Bihar Shariff,5,patna-mqioHZWz,Asthawan
+patna-hfxqRjvO,Patliputra Junction-ISBT Via IGIMS,Patliputra Juction to I S B T,1,patna-oUvThVmL,Patliputra Juction
+patna-hfxqRjvO,Patliputra Junction-ISBT Via IGIMS,Patliputra Juction to I S B T,2,patna-xToXuuAj,Vijay Nagar
+patna-hfxqRjvO,Patliputra Junction-ISBT Via IGIMS,Patliputra Juction to I S B T,3,patna-JcLwxwqp,Jagdeo Path
+patna-hfxqRjvO,Patliputra Junction-ISBT Via IGIMS,Patliputra Juction to I S B T,4,patna-MvPYwZuQ,Ashiyana More
+patna-hfxqRjvO,Patliputra Junction-ISBT Via IGIMS,Patliputra Juction to I S B T,5,patna-PUxcCVyr,Igims
+patna-hfxqRjvO,Patliputra Junction-ISBT Via IGIMS,Patliputra Juction to I S B T,6,patna-mkZTapzB,Secretariat
+patna-hfxqRjvO,Patliputra Junction-ISBT Via IGIMS,Patliputra Juction to I S B T,7,patna-CCyjaRnM,Income Tax Chauraha
+patna-hfxqRjvO,Patliputra Junction-ISBT Via IGIMS,Patliputra Juction to I S B T,8,patna-qXubGfUs,Patna Junction
+patna-hfxqRjvO,Patliputra Junction-ISBT Via IGIMS,Patliputra Juction to I S B T,9,patna-gtSLOgWd,Rajendra Nagar Terminal
+patna-hfxqRjvO,Patliputra Junction-ISBT Via IGIMS,Patliputra Juction to I S B T,10,patna-dQmNdEoy,Kumhrar
+patna-hfxqRjvO,Patliputra Junction-ISBT Via IGIMS,Patliputra Juction to I S B T,11,patna-XPXiBGnl,Dhanki More
+patna-hfxqRjvO,Patliputra Junction-ISBT Via IGIMS,Patliputra Juction to I S B T,12,patna-abppjddP,Zero Mile
+patna-iDiaLtTz,Patna-Gopalganj,I S B T to Gopalganj,1,patna-kMkpVULc,I S B T
+patna-iDiaLtTz,Patna-Gopalganj,I S B T to Gopalganj,2,patna-WrIxiook,Parsa
+patna-iDiaLtTz,Patna-Gopalganj,I S B T to Gopalganj,3,patna-PdxlTJlj,Sonho
+patna-iDiaLtTz,Patna-Gopalganj,I S B T to Gopalganj,4,patna-cklMRhON,Amnour
+patna-iDiaLtTz,Patna-Gopalganj,I S B T to Gopalganj,5,patna-NRouBIpf,Marhowrah
+patna-iDiaLtTz,Patna-Gopalganj,I S B T to Gopalganj,6,patna-qLuzGloG,Taraiya
+patna-iDiaLtTz,Patna-Gopalganj,I S B T to Gopalganj,7,patna-FhmWPHTs,Masrakh
+patna-iDiaLtTz,Patna-Gopalganj,I S B T to Gopalganj,8,patna-auAylDey,Malmaliya
+patna-iDiaLtTz,Patna-Gopalganj,I S B T to Gopalganj,9,patna-PswPGqfR,Tarwara
+patna-iDiaLtTz,Patna-Gopalganj,I S B T to Gopalganj,10,patna-OYuSzHGm,Siwan
+patna-iLoxbaJl,ISBT-Patliputra Junction Via IGIMS,I S B T to Patliputra Juction,1,patna-kMkpVULc,I S B T
+patna-iLoxbaJl,ISBT-Patliputra Junction Via IGIMS,I S B T to Patliputra Juction,2,patna-PlMNCuPY,Zero Mile
+patna-iLoxbaJl,ISBT-Patliputra Junction Via IGIMS,I S B T to Patliputra Juction,3,patna-lEeuCMAp,Dhanki More
+patna-iLoxbaJl,ISBT-Patliputra Junction Via IGIMS,I S B T to Patliputra Juction,4,patna-YwtdPMvA,Kumhrar
+patna-iLoxbaJl,ISBT-Patliputra Junction Via IGIMS,I S B T to Patliputra Juction,5,patna-ZZwceDKV,Rajendra Nagar Terminal
+patna-iLoxbaJl,ISBT-Patliputra Junction Via IGIMS,I S B T to Patliputra Juction,6,patna-EBboAeuz,Patna Junction
+patna-iLoxbaJl,ISBT-Patliputra Junction Via IGIMS,I S B T to Patliputra Juction,7,patna-kUvMxLty,Income Tax Chauraha
+patna-iLoxbaJl,ISBT-Patliputra Junction Via IGIMS,I S B T to Patliputra Juction,8,patna-WIntsuzV,Secretariat
+patna-iLoxbaJl,ISBT-Patliputra Junction Via IGIMS,I S B T to Patliputra Juction,9,patna-aJQhthyl,Igims
+patna-iLoxbaJl,ISBT-Patliputra Junction Via IGIMS,I S B T to Patliputra Juction,10,patna-qDaikMPP,Ashiyana More
+patna-iLoxbaJl,ISBT-Patliputra Junction Via IGIMS,I S B T to Patliputra Juction,11,patna-JFtqAoXU,Jagdeo Path
+patna-iLoxbaJl,ISBT-Patliputra Junction Via IGIMS,I S B T to Patliputra Juction,12,patna-CeZimMjc,Vijay Nagar
+patna-ircDuUSe,Patna-Lachhuar,I S B T to Lachhuar,1,patna-kMkpVULc,I S B T
+patna-ircDuUSe,Patna-Lachhuar,I S B T to Lachhuar,2,patna-JzObKBbf,Barbigha
+patna-ircDuUSe,Patna-Lachhuar,I S B T to Lachhuar,3,patna-EIPoPmxL,Sheikhpura
+patna-ircDuUSe,Patna-Lachhuar,I S B T to Lachhuar,4,patna-uApoSQcH,Chewara
+patna-ircDuUSe,Patna-Lachhuar,I S B T to Lachhuar,5,patna-zbsHSjhj,Sikandra
+patna-jPscrWDH,Patna-Aliganj,I S B T to Aliganj,1,patna-kMkpVULc,I S B T
+patna-jPscrWDH,Patna-Aliganj,I S B T to Aliganj,2,patna-JzObKBbf,Barbigha
+patna-jPscrWDH,Patna-Aliganj,I S B T to Aliganj,3,patna-EIPoPmxL,Sheikhpura
+patna-jPscrWDH,Patna-Aliganj,I S B T to Aliganj,4,patna-uApoSQcH,Chewara
+patna-kCzpQLoV,Isbt-Sasbahana,I S B T to Sasbahana,1,patna-kMkpVULc,I S B T
+patna-kCzpQLoV,Isbt-Sasbahana,I S B T to Sasbahana,2,patna-eHjAIiHS,Bakhtiyarpur
+patna-kCzpQLoV,Isbt-Sasbahana,I S B T to Sasbahana,3,patna-tjWbLisg,Harnaut
+patna-kCzpQLoV,Isbt-Sasbahana,I S B T to Sasbahana,4,patna-fyzjWmLi,Bihar Shariff
+patna-kCzpQLoV,Isbt-Sasbahana,I S B T to Sasbahana,5,patna-jIYBclOo,Pawapuri
+patna-kCzpQLoV,Isbt-Sasbahana,I S B T to Sasbahana,6,patna-AwWkxvlo,Giriyak
+patna-kCzpQLoV,Isbt-Sasbahana,I S B T to Sasbahana,7,patna-tjojzxAB,Kharantmore
+patna-kCzpQLoV,Isbt-Sasbahana,I S B T to Sasbahana,8,patna-GIvapHji,Warisaliganj
+patna-kCzpQLoV,Isbt-Sasbahana,I S B T to Sasbahana,9,patna-jVVMTWuA,Pakribarwan
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,1,patna-jttkHXVx,Kargil Chowk
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,2,patna-qTeqfyAe,Magadh Mahila College Or Children Park
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,3,patna-izoiYhOf,Biscoman Bhawan Bus Stop
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,4,patna-HzhdYrsO,Doordarshan Kendra
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,5,patna-HrMbpXGw,Bata More
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,6,patna-IfZMfheJ,Dak Bunglow Chowk Bus Stop
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,7,patna-qXubGfUs,Patna Junction
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,8,patna-fUHzFFak,Gpo
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,9,patna-qyzqZBXm,R Block
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,10,patna-kUvMxLty,Income Tax Chauraha
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,11,patna-tXNCvNtE,Patna Womens College
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,12,patna-CDactjgS,High Court
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,13,patna-qeAZpbLQ,Bihar Museum
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,14,patna-jhKDaRcK,Hartali Chowk
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,15,patna-WIntsuzV,Secretariat
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,16,patna-wMIgeISn,Lalit Bhawan
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,17,patna-VnFTyFFO,Rajbanshi Nagar
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,18,patna-tvBgMAdy,Zoo
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,19,patna-cgPcFnQf,Sheikhupura
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,20,patna-aJQhthyl,Igims
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,21,patna-qDaikMPP,Ashiyana More
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,22,patna-JFtqAoXU,Jagdeo Path
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,23,patna-SSvwlfeB,Rukunpura
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,24,patna-CeZimMjc,Vijay Nagar
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,25,patna-YZkHLCXj,Gola Road
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,26,patna-ELEtiDxp,Rps More
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,27,patna-LGPWwnwL,Saguna More
+patna-kHhRBtwz,111,Kargil Chowk to Danapur Bus Stand,28,patna-kflQPcHK,Danapur Army Cant
+patna-kyMCucBt,333,Nit More to Kargil Chowk,1,patna-LLXdOnzM,Nit More
+patna-kyMCucBt,333,Nit More to Kargil Chowk,2,patna-rCrIdtek,Science College
+patna-kyMCucBt,333,Nit More to Kargil Chowk,3,patna-bAudpzEX,Patna University
+patna-kyMCucBt,333,Nit More to Kargil Chowk,4,patna-JaLOntao,Patna College
+patna-kyMCucBt,333,Nit More to Kargil Chowk,5,patna-rEmvmjCl,Dharbanga House
+patna-kyMCucBt,333,Nit More to Kargil Chowk,6,patna-lHYZsrzk,P M C H
+patna-kyMCucBt,333,Nit More to Kargil Chowk,7,patna-AIzPDdbO,Civil Court
+patna-kyMCucBt,333,Nit More to Kargil Chowk,8,patna-NnvvXRwq,B N College
+patna-lGjzipTT,Patna-Sarbadahi,I S B T to Sarbahdi,1,patna-kMkpVULc,I S B T
+patna-lGjzipTT,Patna-Sarbadahi,I S B T to Sarbahdi,2,patna-TYFHSXWy,Fatuha
+patna-lGjzipTT,Patna-Sarbadahi,I S B T to Sarbahdi,3,patna-myeBkVMj,Daniawan
+patna-lGjzipTT,Patna-Sarbadahi,I S B T to Sarbahdi,4,patna-vmareSJB,Nagarnausa
+patna-lGjzipTT,Patna-Sarbadahi,I S B T to Sarbahdi,5,patna-lijQjgXk,Chandi
+patna-lGjzipTT,Patna-Sarbadahi,I S B T to Sarbahdi,6,patna-qAMhPtKf,Ramchandrapur
+patna-lGjzipTT,Patna-Sarbadahi,I S B T to Sarbahdi,7,patna-lIpsVPWU,Itaura
+patna-lLhKJuyk,Patna-Japla,I S B T to Japla,1,patna-kMkpVULc,I S B T
+patna-lLhKJuyk,Patna-Japla,I S B T to Japla,2,patna-PiHVDmOK,Daudnagar
+patna-lLhKJuyk,Patna-Japla,I S B T to Japla,3,patna-rwmQBzDR,Aurangabad
+patna-lLhKJuyk,Patna-Japla,I S B T to Japla,4,patna-SknaYyXr,Amba
+patna-lLhKJuyk,Patna-Japla,I S B T to Japla,5,patna-gXRAxRAy,Hariharganj
+patna-lLhKJuyk,Patna-Japla,I S B T to Japla,6,patna-hjnvxKpX,Chhatarpur
+patna-lTauXIRA,100,Kargil Chowk to Patna Airport,1,patna-jttkHXVx,Kargil Chowk
+patna-lTauXIRA,100,Kargil Chowk to Patna Airport,2,patna-qXubGfUs,Patna Junction
+patna-lTauXIRA,100,Kargil Chowk to Patna Airport,3,patna-qyzqZBXm,R Block
+patna-lTauXIRA,100,Kargil Chowk to Patna Airport,4,patna-SDWbiTFr,Old Secretaria
+patna-lTauXIRA,100,Kargil Chowk to Patna Airport,5,patna-FNKLRqRg,Haj Bhawan
+patna-lXpwsBcQ,Sarmera-ISBT,Sarmera to I S B T,1,patna-rwcZFDuq,Sarmera
+patna-lXpwsBcQ,Sarmera-ISBT,Sarmera to I S B T,2,patna-PKzhMBkI,Bind
+patna-lXpwsBcQ,Sarmera-ISBT,Sarmera to I S B T,3,patna-NRabgqWb,Saksohra
+patna-lXpwsBcQ,Sarmera-ISBT,Sarmera to I S B T,4,patna-xQlafvrJ,Harnaut
+patna-lXpwsBcQ,Sarmera-ISBT,Sarmera to I S B T,5,patna-BPqAgOtJ,Bakhtiyarpur
+patna-luwjNKDl,Kadar Bigha-Patna,Kadar Bigha to Patna,1,patna-XHkaOZUW,Kadar Bigha
+patna-luwjNKDl,Kadar Bigha-Patna,Kadar Bigha to Patna,2,patna-cOHfAwkB,Pakharpur
+patna-luwjNKDl,Kadar Bigha-Patna,Kadar Bigha to Patna,3,patna-INsbCrag,Paliganj
+patna-luwjNKDl,Kadar Bigha-Patna,Kadar Bigha to Patna,4,patna-CyznnAZX,Dulhin Bazar
+patna-luwjNKDl,Kadar Bigha-Patna,Kadar Bigha to Patna,5,patna-eUQIbbFJ,Bikarm
+patna-luwjNKDl,Kadar Bigha-Patna,Kadar Bigha to Patna,6,patna-hmWiWxHT,Naubatpur
+patna-mRjWUYvm,Aurangabad-Patna,Aurangabad to Patna,1,patna-qsChnwDe,Aurangabad
+patna-mRjWUYvm,Aurangabad-Patna,Aurangabad to Patna,2,patna-ULbdNKPj,Daudnagar
+patna-mRjWUYvm,Aurangabad-Patna,Aurangabad to Patna,3,patna-kVxxwPJb,Mahendia
+patna-mRjWUYvm,Aurangabad-Patna,Aurangabad to Patna,4,patna-DpOEVPtX,Arwal
+patna-mRjWUYvm,Aurangabad-Patna,Aurangabad to Patna,5,patna-aOeHGrzj,Paligang
+patna-mqyeCJoZ,Patna-Gaya,I S B T to Gaya,1,patna-kMkpVULc,I S B T
+patna-mqyeCJoZ,Patna-Gaya,I S B T to Gaya,2,patna-TYFHSXWy,Fatuha
+patna-mqyeCJoZ,Patna-Gaya,I S B T to Gaya,3,patna-myeBkVMj,Daniawan
+patna-mqyeCJoZ,Patna-Gaya,I S B T to Gaya,4,patna-YfusYbIO,Hilsa
+patna-mqyeCJoZ,Patna-Gaya,I S B T to Gaya,5,patna-oMKNFhOe,Ekangarsarai
+patna-mqyeCJoZ,Patna-Gaya,I S B T to Gaya,6,patna-lVRruNzi,Islampur
+patna-mqyeCJoZ,Patna-Gaya,I S B T to Gaya,7,patna-wzRCalnG,Hulasganj
+patna-mqyeCJoZ,Patna-Gaya,I S B T to Gaya,8,patna-rSAqVlhw,Nai Bazar
+patna-mqyeCJoZ,Patna-Gaya,I S B T to Gaya,9,patna-xXbrTivW,Kurwa
+patna-mqyeCJoZ,Patna-Gaya,I S B T to Gaya,10,patna-rnllFgdz,Khizar Sarai
+patna-nheVDVde,Patna-Motihari,I S B T to Motihari,1,patna-kMkpVULc,I S B T
+patna-nheVDVde,Patna-Motihari,I S B T to Motihari,2,patna-zKHRKEKX,Hajipur Bus Stand
+patna-nheVDVde,Patna-Motihari,I S B T to Motihari,3,patna-DBlPjDax,Goraul
+patna-nheVDVde,Patna-Motihari,I S B T to Motihari,4,patna-fOvSOfMs,Muzaffarpur
+patna-nheVDVde,Patna-Motihari,I S B T to Motihari,5,patna-yUZRutoA,Mehsi
+patna-nheVDVde,Patna-Motihari,I S B T to Motihari,6,patna-dUkXZtoy,Chakia
+patna-oDJVmSlG,Patna-Jahanabad,I S B T to Jahanabad,1,patna-kMkpVULc,I S B T
+patna-oDJVmSlG,Patna-Jahanabad,I S B T to Jahanabad,2,patna-kIcRuInR,Gauri Chak
+patna-oDJVmSlG,Patna-Jahanabad,I S B T to Jahanabad,3,patna-MDyRnAuQ,Beldari Chak
+patna-oDJVmSlG,Patna-Jahanabad,I S B T to Jahanabad,4,patna-luZThfRM,Bir
+patna-oDJVmSlG,Patna-Jahanabad,I S B T to Jahanabad,5,patna-xqwvKHcS,Paveri
+patna-oDJVmSlG,Patna-Jahanabad,I S B T to Jahanabad,6,patna-snoVXmxT,Dhanarua
+patna-oDJVmSlG,Patna-Jahanabad,I S B T to Jahanabad,7,patna-eubAKFqU,Shai
+patna-oDJVmSlG,Patna-Jahanabad,I S B T to Jahanabad,8,patna-TuTUCTDi,Kolhachauk
+patna-oDJVmSlG,Patna-Jahanabad,I S B T to Jahanabad,9,patna-mYCZyPPY,Masauhri
+patna-oDJVmSlG,Patna-Jahanabad,I S B T to Jahanabad,10,patna-ynAgyVjq,Nadaul
+patna-odCnnXvy,Chapra-Patna,Chhapra to Gandhi Maidan Bankipur Bus Stand,1,patna-AUxEKTlj,Chhapra
+patna-odCnnXvy,Chapra-Patna,Chhapra to Gandhi Maidan Bankipur Bus Stand,2,patna-xjPiesWa,Garkha
+patna-odCnnXvy,Chapra-Patna,Chhapra to Gandhi Maidan Bankipur Bus Stand,3,patna-WPvRoGRE,Sitalpur
+patna-qdQSeSjJ,Samur-Patna,Samur to I S B T,1,patna-SxyzoHKl,Samur
+patna-qdQSeSjJ,Samur-Patna,Samur to I S B T,2,patna-HUDxSrUe,Panchdeori
+patna-qdQSeSjJ,Samur-Patna,Samur to I S B T,3,patna-ANfRkprN,Jamunaha
+patna-qdQSeSjJ,Samur-Patna,Samur to I S B T,4,patna-TNkKLvJR,Bathua-Bazar
+patna-qdQSeSjJ,Samur-Patna,Samur to I S B T,5,patna-mkMrHBRi,Gopalganj
+patna-qdQSeSjJ,Samur-Patna,Samur to I S B T,6,patna-mYyGKdUk,Siwan
+patna-qdQSeSjJ,Samur-Patna,Samur to I S B T,7,patna-tFuIcfYd,Malmaliya
+patna-qdQSeSjJ,Samur-Patna,Samur to I S B T,8,patna-EIIaqXMZ,Masrakh
+patna-qdQSeSjJ,Samur-Patna,Samur to I S B T,9,patna-yvDGqdTE,Taraiya
+patna-qdQSeSjJ,Samur-Patna,Samur to I S B T,10,patna-uPNxWXqX,Marhowrah
+patna-qdQSeSjJ,Samur-Patna,Samur to I S B T,11,patna-QJlMNlhD,Amnour
+patna-qdQSeSjJ,Samur-Patna,Samur to I S B T,12,patna-PdxlTJlj,Sonho
+patna-qdQSeSjJ,Samur-Patna,Samur to I S B T,13,patna-DZQUmETf,Parsa
+patna-qdQSeSjJ,Samur-Patna,Samur to I S B T,14,patna-WPvRoGRE,Sitalpur
+patna-qdQSeSjJ,Samur-Patna,Samur to I S B T,15,patna-vJzqMMTK,Nayagaon
+patna-qdQSeSjJ,Samur-Patna,Samur to I S B T,16,patna-QjgxROnt,Hajipur
+patna-rldhofeM,Gopalganj-Patna,Gopalganj to I S B T,1,patna-mkMrHBRi,Gopalganj
+patna-rldhofeM,Gopalganj-Patna,Gopalganj to I S B T,2,patna-mYyGKdUk,Siwan
+patna-rldhofeM,Gopalganj-Patna,Gopalganj to I S B T,3,patna-aBOmEAMU,Tarwara
+patna-rldhofeM,Gopalganj-Patna,Gopalganj to I S B T,4,patna-tFuIcfYd,Malmaliya
+patna-rldhofeM,Gopalganj-Patna,Gopalganj to I S B T,5,patna-EIIaqXMZ,Masrakh
+patna-rldhofeM,Gopalganj-Patna,Gopalganj to I S B T,6,patna-yvDGqdTE,Taraiya
+patna-rldhofeM,Gopalganj-Patna,Gopalganj to I S B T,7,patna-uPNxWXqX,Marhowrah
+patna-rldhofeM,Gopalganj-Patna,Gopalganj to I S B T,8,patna-QJlMNlhD,Amnour
+patna-rldhofeM,Gopalganj-Patna,Gopalganj to I S B T,9,patna-PdxlTJlj,Sonho
+patna-rldhofeM,Gopalganj-Patna,Gopalganj to I S B T,10,patna-XOwGoPZZ,Parsa
+patna-uPcXlvgZ,Pithoura-Bhagalpur,Pithoura to Bhagalpur,1,patna-gSShrRwI,Pithoura
+patna-uPcXlvgZ,Pithoura-Bhagalpur,Pithoura to Bhagalpur,2,patna-XdnlvbFE,Mirdul
+patna-uPcXlvgZ,Pithoura-Bhagalpur,Pithoura to Bhagalpur,3,patna-vwxUCwsq,Shaifganj
+patna-uPcXlvgZ,Pithoura-Bhagalpur,Pithoura to Bhagalpur,4,patna-qvsvQnxR,Dakbangla
+patna-uPcXlvgZ,Pithoura-Bhagalpur,Pithoura to Bhagalpur,5,patna-aIjfgydZ,Basaitha
+patna-uPcXlvgZ,Pithoura-Bhagalpur,Pithoura to Bhagalpur,6,patna-zzpQtLTD,Jageli
+patna-uPcXlvgZ,Pithoura-Bhagalpur,Pithoura to Bhagalpur,7,patna-SVXWBcvn,Purnia
+patna-uPcXlvgZ,Pithoura-Bhagalpur,Pithoura to Bhagalpur,8,patna-olXYhjbC,Gerabari
+patna-uPcXlvgZ,Pithoura-Bhagalpur,Pithoura to Bhagalpur,9,patna-rXaBdtNr,Kursela
+patna-uPcXlvgZ,Pithoura-Bhagalpur,Pithoura to Bhagalpur,10,patna-vhlMWQpE,Naugachia
+patna-uVLPZFCP,Patna-Navinagar,I S B T to Nabinagar,1,patna-kMkpVULc,I S B T
+patna-uVLPZFCP,Patna-Navinagar,I S B T to Nabinagar,2,patna-FgHqGflb,Arwal
+patna-uVLPZFCP,Patna-Navinagar,I S B T to Nabinagar,3,patna-PiHVDmOK,Daudnagar
+patna-uVLPZFCP,Patna-Navinagar,I S B T to Nabinagar,4,patna-vvMrbaKh,Obra
+patna-uVLPZFCP,Patna-Navinagar,I S B T to Nabinagar,5,patna-rvSjeDRk,Aurangabad
+patna-uVLPZFCP,Patna-Navinagar,I S B T to Nabinagar,6,patna-QiKflEwP,Amba
+patna-uVLPZFCP,Patna-Navinagar,I S B T to Nabinagar,7,patna-NkbekgJM,Kutumba
+patna-uhngUiVh,Jahanabad-Patna,Jahanabad to I S B T,1,patna-NYdcWAQk,Jahanabad
+patna-uhngUiVh,Jahanabad-Patna,Jahanabad to I S B T,2,patna-LFsbwqks,Nadaul
+patna-uhngUiVh,Jahanabad-Patna,Jahanabad to I S B T,3,patna-etlanMQH,Masauhri
+patna-uhngUiVh,Jahanabad-Patna,Jahanabad to I S B T,4,patna-IQKsfvbo,Kolhachauk
+patna-uhngUiVh,Jahanabad-Patna,Jahanabad to I S B T,5,patna-NufgDdId,Shai
+patna-uhngUiVh,Jahanabad-Patna,Jahanabad to I S B T,6,patna-fjgpuSmv,Dhanarua
+patna-uhngUiVh,Jahanabad-Patna,Jahanabad to I S B T,7,patna-gtLLblzw,Paveri
+patna-uhngUiVh,Jahanabad-Patna,Jahanabad to I S B T,8,patna-zpjIwMYX,Bir
+patna-uhngUiVh,Jahanabad-Patna,Jahanabad to I S B T,9,patna-GOzBmchy,Beldari Chak
+patna-uhngUiVh,Jahanabad-Patna,Jahanabad to I S B T,10,patna-BJjjNSSG,Gauri Chak
+patna-unfcQmcE,Patna-Shergati,I S B T to Sherghati,1,patna-kMkpVULc,I S B T
+patna-unfcQmcE,Patna-Shergati,I S B T to Sherghati,2,patna-EmZYyjFm,Masauhri
+patna-unfcQmcE,Patna-Shergati,I S B T to Sherghati,3,patna-jizvnnQv,Jahanabad
+patna-unfcQmcE,Patna-Shergati,I S B T to Sherghati,4,patna-gLIvxhBB,Tehta
+patna-unfcQmcE,Patna-Shergati,I S B T to Sherghati,5,patna-xORxiFfG,Makdumpur
+patna-unfcQmcE,Patna-Shergati,I S B T to Sherghati,6,patna-OQQKTnlj,Bela
+patna-unfcQmcE,Patna-Shergati,I S B T to Sherghati,7,patna-tpCgxCJx,Chakand
+patna-unfcQmcE,Patna-Shergati,I S B T to Sherghati,8,patna-edEQfZPh,Gaya
+patna-unfcQmcE,Patna-Shergati,I S B T to Sherghati,9,patna-TATDAwPH,Domuhan
+patna-unfcQmcE,Patna-Shergati,I S B T to Sherghati,10,patna-gMfwiLyB,Dobhi
+patna-vSxKLoeO,200,Patna Airport to I S B T,1,patna-ztqVOKFb,Patna Airport
+patna-vSxKLoeO,200,Patna Airport to I S B T,2,patna-yJUCzIWk,Haj Bhawan
+patna-vSxKLoeO,200,Patna Airport to I S B T,3,patna-HSKzpqJE,Old Secretaria
+patna-vSxKLoeO,200,Patna Airport to I S B T,4,patna-xRKAutUA,Karbigahiya More
+patna-vSxKLoeO,200,Patna Airport to I S B T,5,patna-gtSLOgWd,Rajendra Nagar Terminal
+patna-vSxKLoeO,200,Patna Airport to I S B T,6,patna-XPXiBGnl,Dhanki More
+patna-vSxKLoeO,200,Patna Airport to I S B T,7,patna-DaXUAfQL,Zero Mile
+patna-wSdlhCVB,Arha-ISBT,Arha to I S B T,1,patna-kWrdaPum,Arha
+patna-wSdlhCVB,Arha-ISBT,Arha to I S B T,2,patna-MYusVUYn,Sheikhpura
+patna-wSdlhCVB,Arha-ISBT,Arha to I S B T,3,patna-rLzQwbSN,Barbigha
+patna-wSdlhCVB,Arha-ISBT,Arha to I S B T,4,patna-adQNIzMR,Benarmore
+patna-wSdlhCVB,Arha-ISBT,Arha to I S B T,5,patna-PKzhMBkI,Bind
+patna-wSdlhCVB,Arha-ISBT,Arha to I S B T,6,patna-NRabgqWb,Saksohra
+patna-wSdlhCVB,Arha-ISBT,Arha to I S B T,7,patna-xQlafvrJ,Harnaut
+patna-wSdlhCVB,Arha-ISBT,Arha to I S B T,8,patna-BPqAgOtJ,Bakhtiyarpur
+patna-wUfbFFMY,200,Kargil Chowk to Patna Airport,1,patna-jttkHXVx,Kargil Chowk
+patna-wUfbFFMY,200,Kargil Chowk to Patna Airport,2,patna-qXubGfUs,Patna Junction
+patna-wUfbFFMY,200,Kargil Chowk to Patna Airport,3,patna-qyzqZBXm,R Block
+patna-wUfbFFMY,200,Kargil Chowk to Patna Airport,4,patna-SDWbiTFr,Old Secretaria
+patna-wUfbFFMY,200,Kargil Chowk to Patna Airport,5,patna-FNKLRqRg,Haj Bhawan
+patna-yfTXPJYP,Kauakole-Isbt,Kauakole to I S B T,1,patna-MXPNsJTy,Kauakole
+patna-yfTXPJYP,Kauakole-Isbt,Kauakole to I S B T,2,patna-VLYRSmeb,Badraji
+patna-yfTXPJYP,Kauakole-Isbt,Kauakole to I S B T,3,patna-qldCuMjk,Gulni
+patna-yfTXPJYP,Kauakole-Isbt,Kauakole to I S B T,4,patna-KrpRITOp,Pakribarawan
+patna-yfTXPJYP,Kauakole-Isbt,Kauakole to I S B T,5,patna-xgnxTJDE,Warisaliganj
+patna-yfTXPJYP,Kauakole-Isbt,Kauakole to I S B T,6,patna-xtKTxXWG,Kharantmore
+patna-yfTXPJYP,Kauakole-Isbt,Kauakole to I S B T,7,patna-uYTxLdmU,Giriyak
+patna-yfTXPJYP,Kauakole-Isbt,Kauakole to I S B T,8,patna-xmAJPdIt,Pawapuri
+patna-yfTXPJYP,Kauakole-Isbt,Kauakole to I S B T,9,patna-oscIIQjZ,Bihar Shariff
+patna-yfTXPJYP,Kauakole-Isbt,Kauakole to I S B T,10,patna-xQlafvrJ,Harnaut
+patna-yfTXPJYP,Kauakole-Isbt,Kauakole to I S B T,11,patna-BPqAgOtJ,Bakhtiyarpur
+patna-zGVYkWyf,Patna-Paliganj,Patna to Paliganj,1,patna-rWVjdiga,Patna
+patna-zGVYkWyf,Patna-Paliganj,Patna to Paliganj,2,patna-QLLuSoTT,Anisabad Bus Stand
+patna-zGVYkWyf,Patna-Paliganj,Patna to Paliganj,3,patna-gbSWCGtN,Phulwari Sharif Block
+patna-zGVYkWyf,Patna-Paliganj,Patna to Paliganj,4,patna-RPjAdMIV,Danapur
+patna-zGVYkWyf,Patna-Paliganj,Patna to Paliganj,5,patna-jGrYTUhb,Naubatpur
+patna-zGVYkWyf,Patna-Paliganj,Patna to Paliganj,6,patna-QeIIHfNm,Bikarm
+patna-zGVYkWyf,Patna-Paliganj,Patna to Paliganj,7,patna-SJQSiDLF,Dulhin Bazar
+patna-zYWSKfHh,Patna-Samur,I S B T to Samur,1,patna-kMkpVULc,I S B T
+patna-zYWSKfHh,Patna-Samur,I S B T to Samur,2,patna-otrzYLCi,Hajipur
+patna-zYWSKfHh,Patna-Samur,I S B T to Samur,3,patna-QXUuhYBf,Nayagaon
+patna-zYWSKfHh,Patna-Samur,I S B T to Samur,4,patna-yPlTxUBU,Sitalpur
+patna-zYWSKfHh,Patna-Samur,I S B T to Samur,5,patna-vdtsootw,Parsa
+patna-zYWSKfHh,Patna-Samur,I S B T to Samur,6,patna-epzeBPrq,Sonho
+patna-zYWSKfHh,Patna-Samur,I S B T to Samur,7,patna-cklMRhON,Amnour
+patna-zYWSKfHh,Patna-Samur,I S B T to Samur,8,patna-NRouBIpf,Marhowrah
+patna-zYWSKfHh,Patna-Samur,I S B T to Samur,9,patna-qLuzGloG,Taraiya
+patna-zYWSKfHh,Patna-Samur,I S B T to Samur,10,patna-FhmWPHTs,Masrakh
+patna-zYWSKfHh,Patna-Samur,I S B T to Samur,11,patna-auAylDey,Malmaliya
+patna-zYWSKfHh,Patna-Samur,I S B T to Samur,12,patna-OYuSzHGm,Siwan
+patna-zYWSKfHh,Patna-Samur,I S B T to Samur,13,patna-uHEhtoZR,Gopalganj
+patna-zYWSKfHh,Patna-Samur,I S B T to Samur,14,patna-hNZaKPFp,Bathua-Bazar
+patna-zYWSKfHh,Patna-Samur,I S B T to Samur,15,patna-amSiYlqo,Jamunaha
+patna-zYWSKfHh,Patna-Samur,I S B T to Samur,16,patna-mQvpHBvN,Panchdeori
+patna-zeikZKuM,ISBT-Gungti,I S B T to Gungti,1,patna-kMkpVULc,I S B T
+patna-zeikZKuM,ISBT-Gungti,I S B T to Gungti,2,patna-eHjAIiHS,Bakhtiyarpur
+patna-zeikZKuM,ISBT-Gungti,I S B T to Gungti,3,patna-tjWbLisg,Harnaut
+patna-zeikZKuM,ISBT-Gungti,I S B T to Gungti,4,patna-fyzjWmLi,Bihar Shariff
+patna-zeikZKuM,ISBT-Gungti,I S B T to Gungti,5,patna-jIYBclOo,Pawapuri
+patna-zeikZKuM,ISBT-Gungti,I S B T to Gungti,6,patna-tjqnoVIa,Giriyak
+patna-zeikZKuM,ISBT-Gungti,I S B T to Gungti,7,patna-yUvBRWOu,Katri Sarai
+patna-zeikZKuM,ISBT-Gungti,I S B T to Gungti,8,patna-zKxtmntB,Nepuramore
+patna-zeikZKuM,ISBT-Gungti,I S B T to Gungti,9,patna-GIvapHji,Warisaliganj
+patna-zeikZKuM,ISBT-Gungti,I S B T to Gungti,10,patna-kOGMkVix,Pakribarawan
+patna-zeikZKuM,ISBT-Gungti,I S B T to Gungti,11,patna-nXzBqStj,Arha
+patna-zeikZKuM,ISBT-Gungti,I S B T to Gungti,12,patna-EqoCUtaN,Chandradeep
+patna-zeikZKuM,ISBT-Gungti,I S B T to Gungti,13,patna-RiLtvQxm,Aliganj
+patna-zkBMDgmM,300,AIIMS to ISBT,1,patna-dmqfzWmF,AIIMS
+patna-zkBMDgmM,300,AIIMS to ISBT,2,patna-peEKpGdx,Phulwari Sharif Thana
+patna-zkBMDgmM,300,AIIMS to ISBT,3,patna-eumKDqlt,Anisabad Bus Stand
+patna-zkBMDgmM,300,AIIMS to ISBT,4,patna-qLIVfdbp,Chitkohra Mode Bus Stop
+patna-zkBMDgmM,300,AIIMS to ISBT,5,patna-HSKzpqJE,Old Secretaria
+patna-zkBMDgmM,300,AIIMS to ISBT,6,patna-FRLiFyhE,Patna Junction
+patna-zkBMDgmM,300,AIIMS to ISBT,7,patna-gtSLOgWd,Rajendra Nagar Terminal
+patna-zkBMDgmM,300,AIIMS to ISBT,8,patna-tHDjipyV,NMCH Bus Stop
+patna-zkBMDgmM,300,AIIMS to ISBT,9,patna-XPXiBGnl,Dhanki More
+patna-zkBMDgmM,300,AIIMS to ISBT,10,patna-DaXUAfQL,Zero Mile
+patna-zvtYzWhJ,Patna-Belkhara,Kargil Chowk to Belkhara,1,patna-jttkHXVx,Kargil Chowk
+patna-zvtYzWhJ,Patna-Belkhara,Kargil Chowk to Belkhara,2,patna-jGrYTUhb,Naubatpur
+patna-zvtYzWhJ,Patna-Belkhara,Kargil Chowk to Belkhara,3,patna-QeIIHfNm,Bikarm
+patna-zvtYzWhJ,Patna-Belkhara,Kargil Chowk to Belkhara,4,patna-SJQSiDLF,Dulhin Bazar
+patna-zvtYzWhJ,Patna-Belkhara,Kargil Chowk to Belkhara,5,patna-ddLkbfUc,Ranitalab
+patna-zvtYzWhJ,Patna-Belkhara,Kargil Chowk to Belkhara,6,patna-vOXFfaEs,Mahabalipur
+patna-zvtYzWhJ,Patna-Belkhara,Kargil Chowk to Belkhara,7,patna-YfkYDelq,Parsadi  English
+patna-zvtYzWhJ,Patna-Belkhara,Kargil Chowk to Belkhara,8,patna-FgHqGflb,Arwal
+patna-zvtYzWhJ,Patna-Belkhara,Kargil Chowk to Belkhara,9,patna-imAIppcU,Baidrabad
+patna-zvtYzWhJ,Patna-Belkhara,Kargil Chowk to Belkhara,10,patna-aYreBGku,Balidad
+patna-zvtYzWhJ,Patna-Belkhara,Kargil Chowk to Belkhara,11,patna-cJWwQQQs,Mahendia
+patna-zvtYzWhJ,Patna-Belkhara,Kargil Chowk to Belkhara,12,patna-oTiEXwCG,Usri
+patna-zvtYzWhJ,Patna-Belkhara,Kargil Chowk to Belkhara,13,patna-wmFgCKXc,Kubri

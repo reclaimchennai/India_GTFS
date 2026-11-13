@@ -1,0 +1,125 @@
+[
+ {
+  "fid": "chennai-suburban",
+  "path": "tamil-nadu/chennai/suburban-rail-mrts",
+  "name": "Chennai suburban rail and MRTS (Southern Railway)",
+  "state": "Tamil Nadu",
+  "src": "~/Desktop/projects/ChennaiGTFS/data/chennai-one-suburban-gtfs.zip",
+  "kind": "rail",
+  "source": {
+   "name": "reclaimchennai/ChennaiGTFS, Chennai One suburban feed (stations from CUMTA, Government Open Data Licence - India)",
+   "url": "https://github.com/reclaimchennai/ChennaiGTFS/tree/chennai-one-feeds",
+   "licence": "ODbL"
+  }
+ },
+ {
+  "fid": "chennai-metro",
+  "path": "tamil-nadu/chennai/metro-cmrl",
+  "name": "Chennai Metro (CMRL)",
+  "state": "Tamil Nadu",
+  "src": "~/Desktop/projects/ChennaiGTFS/data/chennai-one-cmrl-gtfs.zip",
+  "kind": "metro",
+  "source": {
+   "name": "reclaimchennai/ChennaiGTFS, Chennai One CMRL feed",
+   "url": "https://github.com/reclaimchennai/ChennaiGTFS/tree/chennai-one-feeds",
+   "licence": "ODbL"
+  }
+ },
+ {
+  "fid": "kolkata-metro",
+  "path": "west-bengal/kolkata/metro",
+  "name": "Kolkata Metro",
+  "state": "West Bengal",
+  "src": "~/Desktop/projects/kolkata_bus/gtfs/metro",
+  "kind": "metro",
+  "note": "Unofficial: real first and last trains and headways; times at later stations estimated from distance."
+ },
+ {
+  "fid": "kolkata-suburban",
+  "path": "west-bengal/kolkata/suburban-rail",
+  "name": "Kolkata suburban rail (Eastern and South Eastern Railway)",
+  "state": "West Bengal",
+  "src": "~/Desktop/projects/kolkata_bus/gtfs/suburban",
+  "kind": "rail",
+  "note": "Unofficial: built from the national Indian Railways GTFS."
+ },
+ {
+  "fid": "kolkata-ferry",
+  "path": "west-bengal/kolkata/ferry",
+  "name": "Kolkata Hooghly ferries",
+  "state": "West Bengal",
+  "src": "~/Desktop/projects/kolkata_bus/gtfs/ferry",
+  "kind": "ferry",
+  "note": "Unofficial: mostly headway-based services (frequencies.txt)."
+ },
+ {
+  "fid": "delhi-metro",
+  "path": "delhi/metro-dmrc",
+  "name": "Delhi Metro (DMRC, incl. Airport Express and Rapid Metro Gurugram)",
+  "state": "Delhi",
+  "src": "~/Downloads/dmrc_static_gtfs_v1.zip",
+  "kind": "metro",
+  "source": {
+   "name": "DMRC static GTFS v1 (Open Transit Data Delhi)",
+   "url": "https://otd.delhi.gov.in/",
+   "licence": "OTD Delhi terms"
+  },
+  "note": "The official feed's calendar ended on 31 Dec 2025; republished as it is (the times are the current timetable pattern)."
+ },
+ {
+  "fid": "delhi-rrts",
+  "path": "delhi/rrts-namo-bharat",
+  "name": "Namo Bharat RRTS (NCRTC, Delhi-Meerut)",
+  "state": "Delhi",
+  "src": "~/Downloads/ncrtc_static_gtfs_v1.zip",
+  "kind": "rail",
+  "route_type": {
+   "*": "2"
+  },
+  "source": {
+   "name": "NCRTC static GTFS v1 (Open Transit Data Delhi)",
+   "url": "https://otd.delhi.gov.in/",
+   "licence": "OTD Delhi terms"
+  }
+ },
+ {
+  "fid": "indian-railways",
+  "path": "india/indian-railways",
+  "name": "Indian Railways (all-India trains, incl. EMU/MEMU)",
+  "state": "India",
+  "src": "~/Desktop/projects/indianrailways-gtfs/gtfs.zip",
+  "kind": "rail",
+  "source": {
+   "name": "Community GTFS of Indian Railways by P. Radha Krishna (github.com/Neo2308)",
+   "url": "https://github.com/Neo2308",
+   "licence": null
+  },
+  "note": "One trip per train number; covers long-distance and some EMU/MEMU, not the Mumbai or Chennai local timetables."
+ },
+ {
+  "fid": "mumbai-suburban",
+  "path": "maharashtra/mumbai/suburban-rail",
+  "name": "Mumbai suburban rail (Western, Central, Harbour, Trans-Harbour, Uran)",
+  "state": "Maharashtra",
+  "src": "{build}/suburban/mumbai",
+  "kind": "rail",
+  "source": {
+   "name": "Rush Hour's Mumbai timetable (railway working timetables: WR Feb 2026, Harbour Oct 2024, Trans-Harbour Jan 2024, Port line Dec 2025), via India Metro's suburban map; built by tools/suburban_gtfs.py",
+   "url": "https://git.sr.ht/~sphericalkat/rush-hour",
+   "licence": "MIT"
+  }
+ },
+ {
+  "fid": "delhi-suburban",
+  "path": "delhi/suburban-rail",
+  "name": "Delhi NCR suburban rail (Northern Railway EMU/MEMU)",
+  "state": "Delhi",
+  "src": "{build}/suburban/delhi",
+  "kind": "rail",
+  "source": {
+   "name": "National Indian Railways GTFS (github.com/Neo2308), cut to the Delhi suburban lines by India Metro's suburban map; built by tools/suburban_gtfs.py",
+   "url": "https://github.com/Neo2308",
+   "licence": null
+  }
+ }
+]

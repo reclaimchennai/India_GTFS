@@ -1,0 +1,969 @@
+route_id,route_short_name,route_long_name,stop_sequence,stop_id,stop_name
+mr-NbUbmDVv,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,1,mrKKUmmqVy,Medical Chauraha
+mr-NbUbmDVv,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,2,mrlfPVYjmO,Tej Ghadi
+mr-NbUbmDVv,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,3,mrqzDIpWPC,Nai Sadak
+mr-NbUbmDVv,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,4,mrtKAkEfEQ,Shohrab Gate
+mr-NbUbmDVv,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,5,mrbbAjySym,Hapur Adda
+mr-NbUbmDVv,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,6,mroyWdQOPB,Indra Chowk
+mr-NbUbmDVv,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,7,mrwQQyKfts,Eves Chowk
+mr-NbUbmDVv,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,8,mrRcveBrga,Baccha Park
+mr-NbUbmDVv,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,9,mrDnBCCzMN,G I C
+mr-NbUbmDVv,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,10,mrLmfgoxfv,Begum Pul
+mr-NbUbmDVv,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,11,mrqyBTpUTf,Bhainsali Stand
+mr-NbUbmDVv,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,12,mrEsgYDsgM,Mehtab Cinema
+mr-NbUbmDVv,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,13,mrYCefVjsa,Ghantaghar Chauraha
+mr-NbUbmDVv,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,14,mrkehYEoja,Jain Nagar
+mr-dmDBZcvb,MRT 1,MRT 1,1,mrKKUmmqVy,Medical Chauraha
+mr-dmDBZcvb,MRT 1,MRT 1,2,mrlfPVYjmO,Tej Ghadi
+mr-dmDBZcvb,MRT 1,MRT 1,3,mrqzDIpWPC,Nai Sadak
+mr-dmDBZcvb,MRT 1,MRT 1,4,mrtKAkEfEQ,Shohrab Gate
+mr-dmDBZcvb,MRT 1,MRT 1,5,mrbbAjySym,Hapur Adda
+mr-dmDBZcvb,MRT 1,MRT 1,6,mroyWdQOPB,Indra Chowk
+mr-dmDBZcvb,MRT 1,MRT 1,7,mrwQQyKfts,Eves Chowk
+mr-dmDBZcvb,MRT 1,MRT 1,8,mrRcveBrga,Baccha Park
+mr-dmDBZcvb,MRT 1,MRT 1,9,mrDnBCCzMN,G I C
+mr-TEGdqyqj,MRT R23,MRT R23,1,mrzsUkAdgV,Radha Govind
+mr-TEGdqyqj,MRT R23,MRT R23,2,mrKKUmmqVy,Medical Chauraha
+mr-TEGdqyqj,MRT R23,MRT R23,3,mrlfPVYjmO,Tej Ghadi
+mr-TEGdqyqj,MRT R23,MRT R23,4,mrqzDIpWPC,Nai Sadak
+mr-TEGdqyqj,MRT R23,MRT R23,5,mrtKAkEfEQ,Shohrab Gate
+mr-TEGdqyqj,MRT R23,MRT R23,6,mrbbAjySym,Hapur Adda
+mr-TEGdqyqj,MRT R23,MRT R23,7,mroyWdQOPB,Indra Chowk
+mr-TEGdqyqj,MRT R23,MRT R23,8,mrwQQyKfts,Eves Chowk
+mr-TEGdqyqj,MRT R23,MRT R23,9,mrRcveBrga,Baccha Park
+mr-TEGdqyqj,MRT R23,MRT R23,10,mrDnBCCzMN,G I C
+mr-TEGdqyqj,MRT R23,MRT R23,11,mrcmWbWjSM,Begum Pul
+mr-TEGdqyqj,MRT R23,MRT R23,12,mruqUVbpin,Lalkurti
+mr-TEGdqyqj,MRT R23,MRT R23,13,mrdsJoBigz,Company Bagh
+mr-TEGdqyqj,MRT R23,MRT R23,14,mrYnTXUCXG,510
+mr-TEGdqyqj,MRT R23,MRT R23,15,mrkMMWkoea,Shiv Chowk
+mr-TEGdqyqj,MRT R23,MRT R23,16,mrrRPfVWou,S Puri Arya
+mr-TEGdqyqj,MRT R23,MRT R23,17,mrzyeTnpvW,Defance Colony
+mr-TEGdqyqj,MRT R23,MRT R23,18,mrvfUAAXMm,Sar By Pass
+mr-TEGdqyqj,MRT R23,MRT R23,19,mrzyDCqhyB,I T I
+mr-TEGdqyqj,MRT R23,MRT R23,20,mrkLZXEnoj,Dream City
+mr-TEGdqyqj,MRT R23,MRT R23,21,mrPbjDBdiB,Javeri
+mr-TEGdqyqj,MRT R23,MRT R23,22,mrysKihgAz,Jagethi
+mr-TEGdqyqj,MRT R23,MRT R23,23,mrZusSgowX,Batjevra
+mr-TEGdqyqj,MRT R23,MRT R23,24,mrlXTWRytq,Mahaveer School
+mr-TEGdqyqj,MRT R23,MRT R23,25,mrNJcDFxDF,Signal Cantt
+mr-TEGdqyqj,MRT R23,MRT R23,26,mrHPNxniYK,Dabthuva
+mr-TEGdqyqj,MRT R23,MRT R23,27,mrZcTKNNla,Bubakpur
+mr-TEGdqyqj,MRT R23,MRT R23,28,mrfhEyeItk,Gang Nehar
+mr-TEGdqyqj,MRT R23,MRT R23,29,mrqpNnLjIX,Madeyi
+mr-QxjrGOdi,MRT 1 NAC,MRT 1 NAC,1,mrzsUkAdgV,Radha Govind
+mr-QxjrGOdi,MRT 1 NAC,MRT 1 NAC,2,mrKKUmmqVy,Medical Chauraha
+mr-QxjrGOdi,MRT 1 NAC,MRT 1 NAC,3,mrlfPVYjmO,Tej Ghadi
+mr-QxjrGOdi,MRT 1 NAC,MRT 1 NAC,4,mrqzDIpWPC,Nai Sadak
+mr-QxjrGOdi,MRT 1 NAC,MRT 1 NAC,5,mrtKAkEfEQ,Shohrab Gate
+mr-QxjrGOdi,MRT 1 NAC,MRT 1 NAC,6,mrbbAjySym,Hapur Adda
+mr-QxjrGOdi,MRT 1 NAC,MRT 1 NAC,7,mroyWdQOPB,Indra Chowk
+mr-QxjrGOdi,MRT 1 NAC,MRT 1 NAC,8,mrwQQyKfts,Eves Chowk
+mr-QxjrGOdi,MRT 1 NAC,MRT 1 NAC,9,mrRcveBrga,Baccha Park
+mr-QxjrGOdi,MRT 1 NAC,MRT 1 NAC,10,mrDnBCCzMN,G I C
+mr-QxjrGOdi,MRT 1 NAC,MRT 1 NAC,11,mrLmfgoxfv,Begum Pul
+mr-QxjrGOdi,MRT 1 NAC,MRT 1 NAC,12,mrdsJoBigz,Company Bagh
+mr-QxjrGOdi,MRT 1 NAC,MRT 1 NAC,13,mrARGnQyeI,Sofipur
+mr-QxjrGOdi,MRT 1 NAC,MRT 1 NAC,14,mrLMFwIniK,P A C
+mr-QxjrGOdi,MRT 1 NAC,MRT 1 NAC,15,mrkBWKGEJS,D M A 1 Or Modipuram
+mr-QxjrGOdi,MRT 1 NAC,MRT 1 NAC,16,mrQktPTMJO,Pallavpuram Phase 1
+mr-QxjrGOdi,MRT 1 NAC,MRT 1 NAC,17,mrVyIIPklQ,Pallavpuram Phase 2
+mr-QxjrGOdi,MRT 1 NAC,MRT 1 NAC,18,mrhhgXxiaW,Shobhit University
+mr-QxjrGOdi,MRT 1 NAC,MRT 1 NAC,19,mrVVTvjXRR,Agriculture University
+mr-QxjrGOdi,MRT 1 NAC,MRT 1 NAC,20,mrLJoEiUrm,Siwaya
+mr-AaAFxYcF,MRT DT12,MRT DT12,1,mrzsUkAdgV,Radha Govind
+mr-AaAFxYcF,MRT DT12,MRT DT12,2,mrKKUmmqVy,Medical Chauraha
+mr-AaAFxYcF,MRT DT12,MRT DT12,3,mrlfPVYjmO,Tej Ghadi
+mr-AaAFxYcF,MRT DT12,MRT DT12,4,mrqzDIpWPC,Nai Sadak
+mr-AaAFxYcF,MRT DT12,MRT DT12,5,mrtKAkEfEQ,Shohrab Gate
+mr-AaAFxYcF,MRT DT12,MRT DT12,6,mrbbAjySym,Hapur Adda
+mr-AaAFxYcF,MRT DT12,MRT DT12,7,mroyWdQOPB,Indra Chowk
+mr-AaAFxYcF,MRT DT12,MRT DT12,8,mrwQQyKfts,Eves Chowk
+mr-AaAFxYcF,MRT DT12,MRT DT12,9,mrRcveBrga,Baccha Park
+mr-AaAFxYcF,MRT DT12,MRT DT12,10,mrDnBCCzMN,G I C
+mr-AaAFxYcF,MRT DT12,MRT DT12,11,mrcmWbWjSM,Begum Pul
+mr-AaAFxYcF,MRT DT12,MRT DT12,12,mrdsJoBigz,Company Bagh
+mr-AaAFxYcF,MRT DT12,MRT DT12,13,mrARGnQyeI,Sofipur
+mr-AaAFxYcF,MRT DT12,MRT DT12,14,mrLMFwIniK,P A C
+mr-gMFXhGYc,MRT ACDT12,MRT ACDT12,1,mrzsUkAdgV,Radha Govind
+mr-gMFXhGYc,MRT ACDT12,MRT ACDT12,2,mrKKUmmqVy,Medical Chauraha
+mr-gMFXhGYc,MRT ACDT12,MRT ACDT12,3,mrlfPVYjmO,Tej Ghadi
+mr-gMFXhGYc,MRT ACDT12,MRT ACDT12,4,mrqzDIpWPC,Nai Sadak
+mr-gMFXhGYc,MRT ACDT12,MRT ACDT12,5,mrtKAkEfEQ,Shohrab Gate
+mr-gMFXhGYc,MRT ACDT12,MRT ACDT12,6,mrbbAjySym,Hapur Adda
+mr-gMFXhGYc,MRT ACDT12,MRT ACDT12,7,mroyWdQOPB,Indra Chowk
+mr-gMFXhGYc,MRT ACDT12,MRT ACDT12,8,mrwQQyKfts,Eves Chowk
+mr-gMFXhGYc,MRT ACDT12,MRT ACDT12,9,mrRcveBrga,Baccha Park
+mr-gMFXhGYc,MRT ACDT12,MRT ACDT12,10,mrDnBCCzMN,G I C
+mr-gMFXhGYc,MRT ACDT12,MRT ACDT12,11,mrcmWbWjSM,Begum Pul
+mr-gMFXhGYc,MRT ACDT12,MRT ACDT12,12,mrdsJoBigz,Company Bagh
+mr-gMFXhGYc,MRT ACDT12,MRT ACDT12,13,mrARGnQyeI,Sofipur
+mr-gMFXhGYc,MRT ACDT12,MRT ACDT12,14,mrLMFwIniK,P A C
+mr-PNRYowQQ,MRT 14S,MRT 14S,1,mrzsUkAdgV,Radha Govind
+mr-PNRYowQQ,MRT 14S,MRT 14S,2,mrKKUmmqVy,Medical Chauraha
+mr-PNRYowQQ,MRT 14S,MRT 14S,3,mrlfPVYjmO,Tej Ghadi
+mr-PNRYowQQ,MRT 14S,MRT 14S,4,mrqzDIpWPC,Nai Sadak
+mr-PNRYowQQ,MRT 14S,MRT 14S,5,mrtKAkEfEQ,Shohrab Gate
+mr-PNRYowQQ,MRT 14S,MRT 14S,6,mrbbAjySym,Hapur Adda
+mr-PNRYowQQ,MRT 14S,MRT 14S,7,mroyWdQOPB,Indra Chowk
+mr-PNRYowQQ,MRT 14S,MRT 14S,8,mrwQQyKfts,Eves Chowk
+mr-PNRYowQQ,MRT 14S,MRT 14S,9,mrRcveBrga,Baccha Park
+mr-PNRYowQQ,MRT 14S,MRT 14S,10,mrDnBCCzMN,G I C
+mr-PNRYowQQ,MRT 14S,MRT 14S,11,mrcmWbWjSM,Begum Pul
+mr-PNRYowQQ,MRT 14S,MRT 14S,12,mrdsJoBigz,Company Bagh
+mr-PNRYowQQ,MRT 14S,MRT 14S,13,mrARGnQyeI,Sofipur
+mr-PNRYowQQ,MRT 14S,MRT 14S,14,mrLMFwIniK,P A C
+mr-PNRYowQQ,MRT 14S,MRT 14S,15,mrkBWKGEJS,D M A 1 Or Modipuram
+mr-PNRYowQQ,MRT 14S,MRT 14S,16,mrQktPTMJO,Pallavpuram Phase 1
+mr-PNRYowQQ,MRT 14S,MRT 14S,17,mrVyIIPklQ,Pallavpuram Phase 2
+mr-PNRYowQQ,MRT 14S,MRT 14S,18,mrhhgXxiaW,Shobhit University
+mr-PNRYowQQ,MRT 14S,MRT 14S,19,mrVVTvjXRR,Agriculture University
+mr-PNRYowQQ,MRT 14S,MRT 14S,20,mrLJoEiUrm,Siwaya
+mr-PNRYowQQ,MRT 14S,MRT 14S,21,mrVDWfaQle,Bhagwati College
+mr-PNRYowQQ,MRT 14S,MRT 14S,22,mrNRnhAPYL,I H M
+mr-PNRYowQQ,MRT 14S,MRT 14S,23,mrWNxmaThQ,Daurala
+mr-PNRYowQQ,MRT 14S,MRT 14S,24,mrFGlpIIay,Mator
+mr-PNRYowQQ,MRT 14S,MRT 14S,25,mrmPIUKIau,Walidpur
+mr-PNRYowQQ,MRT 14S,MRT 14S,26,mrImtJrelI,Samoli
+mr-PNRYowQQ,MRT 14S,MRT 14S,27,mrbQniGoWr,Ruhasa
+mr-PNRYowQQ,MRT 14S,MRT 14S,28,mrrpjaIjgd,Dasrathpur
+mr-PNRYowQQ,MRT 14S,MRT 14S,29,mrTAmTVhJZ,Nangli Gate
+mr-zlAYbhkl,MRT 14B,MRT 14B,1,mrzsUkAdgV,Radha Govind
+mr-zlAYbhkl,MRT 14B,MRT 14B,2,mrKKUmmqVy,Medical Chauraha
+mr-zlAYbhkl,MRT 14B,MRT 14B,3,mrlfPVYjmO,Tej Ghadi
+mr-zlAYbhkl,MRT 14B,MRT 14B,4,mrqzDIpWPC,Nai Sadak
+mr-zlAYbhkl,MRT 14B,MRT 14B,5,mrtKAkEfEQ,Shohrab Gate
+mr-zlAYbhkl,MRT 14B,MRT 14B,6,mrbbAjySym,Hapur Adda
+mr-zlAYbhkl,MRT 14B,MRT 14B,7,mroyWdQOPB,Indra Chowk
+mr-zlAYbhkl,MRT 14B,MRT 14B,8,mrwQQyKfts,Eves Chowk
+mr-zlAYbhkl,MRT 14B,MRT 14B,9,mrRcveBrga,Baccha Park
+mr-zlAYbhkl,MRT 14B,MRT 14B,10,mrDnBCCzMN,G I C
+mr-zlAYbhkl,MRT 14B,MRT 14B,11,mrcmWbWjSM,Begum Pul
+mr-zlAYbhkl,MRT 14B,MRT 14B,12,mrdsJoBigz,Company Bagh
+mr-zlAYbhkl,MRT 14B,MRT 14B,13,mrARGnQyeI,Sofipur
+mr-zlAYbhkl,MRT 14B,MRT 14B,14,mrLMFwIniK,P A C
+mr-zlAYbhkl,MRT 14B,MRT 14B,15,mrkBWKGEJS,D M A 1 Or Modipuram
+mr-zlAYbhkl,MRT 14B,MRT 14B,16,mrQktPTMJO,Pallavpuram Phase 1
+mr-zlAYbhkl,MRT 14B,MRT 14B,17,mrVyIIPklQ,Pallavpuram Phase 2
+mr-zlAYbhkl,MRT 14B,MRT 14B,18,mrhhgXxiaW,Shobhit University
+mr-zlAYbhkl,MRT 14B,MRT 14B,19,mrVVTvjXRR,Agriculture University
+mr-zlAYbhkl,MRT 14B,MRT 14B,20,mrLJoEiUrm,Siwaya
+mr-tfKqFOFP,MRT 13,MRT 13,1,mrzsUkAdgV,Radha Govind
+mr-tfKqFOFP,MRT 13,MRT 13,2,mrKKUmmqVy,Medical Chauraha
+mr-tfKqFOFP,MRT 13,MRT 13,3,mrlfPVYjmO,Tej Ghadi
+mr-tfKqFOFP,MRT 13,MRT 13,4,mrqzDIpWPC,Nai Sadak
+mr-tfKqFOFP,MRT 13,MRT 13,5,mrtKAkEfEQ,Shohrab Gate
+mr-tfKqFOFP,MRT 13,MRT 13,6,mrbbAjySym,Hapur Adda
+mr-tfKqFOFP,MRT 13,MRT 13,7,mroyWdQOPB,Indra Chowk
+mr-tfKqFOFP,MRT 13,MRT 13,8,mrwQQyKfts,Eves Chowk
+mr-tfKqFOFP,MRT 13,MRT 13,9,mrRcveBrga,Baccha Park
+mr-tfKqFOFP,MRT 13,MRT 13,10,mrDnBCCzMN,G I C
+mr-tfKqFOFP,MRT 13,MRT 13,11,mrcmWbWjSM,Begum Pul
+mr-tfKqFOFP,MRT 13,MRT 13,12,mrdsJoBigz,Company Bagh
+mr-tfKqFOFP,MRT 13,MRT 13,13,mrARGnQyeI,Sofipur
+mr-tfKqFOFP,MRT 13,MRT 13,14,mrLMFwIniK,P A C
+mr-tfKqFOFP,MRT 13,MRT 13,15,mrkBWKGEJS,D M A 1 Or Modipuram
+mr-tfKqFOFP,MRT 13,MRT 13,16,mrQktPTMJO,Pallavpuram Phase 1
+mr-tfKqFOFP,MRT 13,MRT 13,17,mrVyIIPklQ,Pallavpuram Phase 2
+mr-tfKqFOFP,MRT 13,MRT 13,18,mrhhgXxiaW,Shobhit University
+mr-tfKqFOFP,MRT 13,MRT 13,19,mrVVTvjXRR,Agriculture University
+mr-tfKqFOFP,MRT 13,MRT 13,20,mrLJoEiUrm,Siwaya
+mr-tfKqFOFP,MRT 13,MRT 13,21,mrVDWfaQle,Bhagwati College
+mr-tfKqFOFP,MRT 13,MRT 13,22,mrNRnhAPYL,I H M
+mr-tfKqFOFP,MRT 13,MRT 13,23,mrWNxmaThQ,Daurala
+mr-tfKqFOFP,MRT 13,MRT 13,24,mrFGlpIIay,Mator
+mr-tfKqFOFP,MRT 13,MRT 13,25,mrmPIUKIau,Walidpur
+mr-tfKqFOFP,MRT 13,MRT 13,26,mrImtJrelI,Samoli
+mr-tfKqFOFP,MRT 13,MRT 13,27,mrbQniGoWr,Ruhasa
+mr-tfKqFOFP,MRT 13,MRT 13,28,mrrpjaIjgd,Dasrathpur
+mr-tfKqFOFP,MRT 13,MRT 13,29,mrTAmTVhJZ,Nangli Gate
+mr-tfKqFOFP,MRT 13,MRT 13,30,mrHfTHCXWj,Sakoti
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,1,mrzsUkAdgV,Radha Govind
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,2,mrKKUmmqVy,Medical Chauraha
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,3,mrlfPVYjmO,Tej Ghadi
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,4,mrqzDIpWPC,Nai Sadak
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,5,mrtKAkEfEQ,Shohrab Gate
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,6,mrbbAjySym,Hapur Adda
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,7,mroyWdQOPB,Indra Chowk
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,8,mrwQQyKfts,Eves Chowk
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,9,mrRcveBrga,Baccha Park
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,10,mrDnBCCzMN,G I C
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,11,mrcmWbWjSM,Begum Pul
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,12,mruqUVbpin,Lalkurti
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,13,mrdsJoBigz,Company Bagh
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,14,mrYnTXUCXG,510
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,15,mrkMMWkoea,Shiv Chowk
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,16,mrrRPfVWou,S Puri Arya
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,17,mrzyeTnpvW,Defance Colony
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,18,mrvfUAAXMm,Sar By Pass
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,19,mrzyDCqhyB,I T I
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,20,mrkLZXEnoj,Dream City
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,21,mrPbjDBdiB,Javeri
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,22,mrysKihgAz,Jagethi
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,23,mrZusSgowX,Batjevra
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,24,mrlXTWRytq,Mahaveer School
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,25,mrNJcDFxDF,Signal Cantt
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,26,mrHPNxniYK,Dabthuva
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,27,mrZcTKNNla,Bubakpur
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,28,mrfhEyeItk,Gang Nehar
+mr-VdvtyKpD,MRT 23 AC,MRT 23 AC,29,mrqpNnLjIX,Madeyi
+mr-DhiZuARh,MRT 113,MRT 113,1,mrreLleadW,Kina Nagar
+mr-DhiZuARh,MRT 113,MRT 113,2,mrIMsriUKS,Datawali
+mr-DhiZuARh,MRT 113,MRT 113,3,mrQPZbmXJo,Gokulpur
+mr-DhiZuARh,MRT 113,MRT 113,4,mrzsUkAdgV,Radha Govind
+mr-DhiZuARh,MRT 113,MRT 113,5,mrKKUmmqVy,Medical Chauraha
+mr-DhiZuARh,MRT 113,MRT 113,6,mrlfPVYjmO,Tej Ghadi
+mr-DhiZuARh,MRT 113,MRT 113,7,mrqzDIpWPC,Nai Sadak
+mr-DhiZuARh,MRT 113,MRT 113,8,mrtKAkEfEQ,Shohrab Gate
+mr-DhiZuARh,MRT 113,MRT 113,9,mrbbAjySym,Hapur Adda
+mr-DhiZuARh,MRT 113,MRT 113,10,mroyWdQOPB,Indra Chowk
+mr-DhiZuARh,MRT 113,MRT 113,11,mrwQQyKfts,Eves Chowk
+mr-DhiZuARh,MRT 113,MRT 113,12,mrRcveBrga,Baccha Park
+mr-DhiZuARh,MRT 113,MRT 113,13,mrDnBCCzMN,G I C
+mr-DhiZuARh,MRT 113,MRT 113,14,mrLmfgoxfv,Begum Pul
+mr-DhiZuARh,MRT 113,MRT 113,15,mrqyBTpUTf,Bhainsali Stand
+mr-DhiZuARh,MRT 113,MRT 113,16,mrEsgYDsgM,Mehtab Cinema
+mr-DhiZuARh,MRT 113,MRT 113,17,mrYCefVjsa,Ghantaghar Chauraha
+mr-DhiZuARh,MRT 113,MRT 113,18,mrkehYEoja,Jain Nagar
+mr-kqZJpgwR,MRT 30A,MRT 30A,1,mrreLleadW,Kina Nagar
+mr-kqZJpgwR,MRT 30A,MRT 30A,2,mrIMsriUKS,Datawali
+mr-kqZJpgwR,MRT 30A,MRT 30A,3,mrQPZbmXJo,Gokulpur
+mr-kqZJpgwR,MRT 30A,MRT 30A,4,mrzsUkAdgV,Radha Govind
+mr-kqZJpgwR,MRT 30A,MRT 30A,5,mrKKUmmqVy,Medical Chauraha
+mr-kqZJpgwR,MRT 30A,MRT 30A,6,mrlfPVYjmO,Tej Ghadi
+mr-kqZJpgwR,MRT 30A,MRT 30A,7,mrqzDIpWPC,Nai Sadak
+mr-kqZJpgwR,MRT 30A,MRT 30A,8,mrtKAkEfEQ,Shohrab Gate
+mr-kqZJpgwR,MRT 30A,MRT 30A,9,mrbbAjySym,Hapur Adda
+mr-kqZJpgwR,MRT 30A,MRT 30A,10,mroyWdQOPB,Indra Chowk
+mr-kqZJpgwR,MRT 30A,MRT 30A,11,mrwQQyKfts,Eves Chowk
+mr-kqZJpgwR,MRT 30A,MRT 30A,12,mrRcveBrga,Baccha Park
+mr-kqZJpgwR,MRT 30A,MRT 30A,13,mrDnBCCzMN,G I C
+mr-kqZJpgwR,MRT 30A,MRT 30A,14,mrLmfgoxfv,Begum Pul
+mr-kqZJpgwR,MRT 30A,MRT 30A,15,mruqUVbpin,Lalkurti
+mr-kqZJpgwR,MRT 30A,MRT 30A,16,mrFIYHzSgY,Sofiapur
+mr-kqZJpgwR,MRT 30A,MRT 30A,17,mrbfFlrkOm,Rajban
+mr-kqZJpgwR,MRT 30A,MRT 30A,18,mrVfraaUpI,Ogarnath
+mr-kqZJpgwR,MRT 30A,MRT 30A,19,mrLkSPczwg,Bhagat Chowk
+mr-foPxfuoU,MRT A11,MRT A11,1,mrKKUmmqVy,Medical Chauraha
+mr-foPxfuoU,MRT A11,MRT A11,2,mrlfPVYjmO,Tej Ghadi
+mr-foPxfuoU,MRT A11,MRT A11,3,mrqzDIpWPC,Nai Sadak
+mr-foPxfuoU,MRT A11,MRT A11,4,mrtKAkEfEQ,Shohrab Gate
+mr-foPxfuoU,MRT A11,MRT A11,5,mrhAGGOocQ,Gandhi Ashr
+mr-foPxfuoU,MRT A11,MRT A11,6,mrbbAjySym,Hapur Adda
+mr-foPxfuoU,MRT A11,MRT A11,7,mroyWdQOPB,Indra Chowk
+mr-foPxfuoU,MRT A11,MRT A11,8,mrwQQyKfts,Eves Chowk
+mr-foPxfuoU,MRT A11,MRT A11,9,mrRcveBrga,Baccha Park
+mr-foPxfuoU,MRT A11,MRT A11,10,mrDnBCCzMN,G I C
+mr-foPxfuoU,MRT A11,MRT A11,11,mrLmfgoxfv,Begum Pul
+mr-foPxfuoU,MRT A11,MRT A11,12,mroELlZiRG,Lalkurti
+mr-foPxfuoU,MRT A11,MRT A11,13,mrCjyyylGQ,Kailash Prakash Stadium
+mr-foPxfuoU,MRT A11,MRT A11,14,mrKENgPjMo,Commissionary Chauraha
+mr-foPxfuoU,MRT A11,MRT A11,15,mrmQYyiObs,Ganga Nagar
+mr-foPxfuoU,MRT A11,MRT A11,16,mrEXaTUFrf,Bakshar
+mr-foPxfuoU,MRT A11,MRT A11,17,mrXhFeRPuR,Amhera
+mr-foPxfuoU,MRT A11,MRT A11,18,mrUVWPiFNs,Sikhera
+mr-khNJimBx,MRT 1,MRT 1,1,mrDNMfHLae,Begum Pul
+mr-khNJimBx,MRT 1,MRT 1,2,mrKsmKqogj,G I C
+mr-khNJimBx,MRT 1,MRT 1,3,mroDukrMSh,Baccha Park
+mr-khNJimBx,MRT 1,MRT 1,4,mrQQGZXHAn,Eves Chowk
+mr-khNJimBx,MRT 1,MRT 1,5,mrRYlHPaym,Indra Chowk
+mr-khNJimBx,MRT 1,MRT 1,6,mrGgfrLUOo,Hapur Adda
+mr-khNJimBx,MRT 1,MRT 1,7,mrwIjepWir,Shohrab Gate
+mr-khNJimBx,MRT 1,MRT 1,8,mrxJvZEaob,Nai Sadak
+mr-khNJimBx,MRT 1,MRT 1,9,mrTuhKyFEN,Tej Ghadi
+mr-hGuUrtTe,MRT 30A,MRT 30A,1,mrepaCruRX,Cantt Station
+mr-hGuUrtTe,MRT 30A,MRT 30A,2,mrTSHLaYsH,Bhagat Chowk
+mr-hGuUrtTe,MRT 30A,MRT 30A,3,mrOvauwGMf,Ogarnath
+mr-hGuUrtTe,MRT 30A,MRT 30A,4,mrbvUJJKLz,Rajban
+mr-hGuUrtTe,MRT 30A,MRT 30A,5,mrwdexoSCQ,Sofiapur
+mr-hGuUrtTe,MRT 30A,MRT 30A,6,mrzzXdxlnh,Lalkurti
+mr-hGuUrtTe,MRT 30A,MRT 30A,7,mrDNMfHLae,Begum Pul
+mr-hGuUrtTe,MRT 30A,MRT 30A,8,mrKsmKqogj,G I C
+mr-hGuUrtTe,MRT 30A,MRT 30A,9,mroDukrMSh,Baccha Park
+mr-hGuUrtTe,MRT 30A,MRT 30A,10,mrQQGZXHAn,Eves Chowk
+mr-hGuUrtTe,MRT 30A,MRT 30A,11,mrRYlHPaym,Indra Chowk
+mr-hGuUrtTe,MRT 30A,MRT 30A,12,mrGgfrLUOo,Hapur Adda
+mr-hGuUrtTe,MRT 30A,MRT 30A,13,mrwIjepWir,Shohrab Gate
+mr-hGuUrtTe,MRT 30A,MRT 30A,14,mrxJvZEaob,Nai Sadak
+mr-hGuUrtTe,MRT 30A,MRT 30A,15,mrTuhKyFEN,Tej Ghadi
+mr-hGuUrtTe,MRT 30A,MRT 30A,16,mrjAFPSLnB,Medical Chauraha
+mr-hGuUrtTe,MRT 30A,MRT 30A,17,mrRnLyUEpb,Radha Govind
+mr-hGuUrtTe,MRT 30A,MRT 30A,18,mrGbctzQwk,Gokulpur
+mr-hGuUrtTe,MRT 30A,MRT 30A,19,mrQuhfsvcT,Datawali
+mr-opXYTuXw,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,1,mrhRrDlLAY,Meerut City Station
+mr-opXYTuXw,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,2,mrtLTiXgIo,Jain Nagar
+mr-opXYTuXw,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,3,mrbbOgZuXJ,Ghantaghar Chauraha
+mr-opXYTuXw,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,4,mrZwQUxSzd,Mehtab Cinema
+mr-opXYTuXw,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,5,mrdfONUwqE,Bhainsali Stand
+mr-opXYTuXw,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,6,mrDNMfHLae,Begum Pul
+mr-opXYTuXw,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,7,mrKsmKqogj,G I C
+mr-opXYTuXw,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,8,mroDukrMSh,Baccha Park
+mr-opXYTuXw,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,9,mrQQGZXHAn,Eves Chowk
+mr-opXYTuXw,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,10,mrRYlHPaym,Indra Chowk
+mr-opXYTuXw,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,11,mrGgfrLUOo,Hapur Adda
+mr-opXYTuXw,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,12,mrwIjepWir,Shohrab Gate
+mr-opXYTuXw,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,13,mrxJvZEaob,Nai Sadak
+mr-opXYTuXw,MRT 25 via Hapur Adda,MRT 25 via Hapur Adda,14,mrTuhKyFEN,Tej Ghadi
+mr-vfyTpxBX,MRT 113,MRT 113,1,mrYebxkzYW,Meerut City Station
+mr-vfyTpxBX,MRT 113,MRT 113,2,mrtLTiXgIo,Jain Nagar
+mr-vfyTpxBX,MRT 113,MRT 113,3,mrbbOgZuXJ,Ghantaghar Chauraha
+mr-vfyTpxBX,MRT 113,MRT 113,4,mrZwQUxSzd,Mehtab Cinema
+mr-vfyTpxBX,MRT 113,MRT 113,5,mrdfONUwqE,Bhainsali Stand
+mr-vfyTpxBX,MRT 113,MRT 113,6,mrDNMfHLae,Begum Pul
+mr-vfyTpxBX,MRT 113,MRT 113,7,mrKsmKqogj,G I C
+mr-vfyTpxBX,MRT 113,MRT 113,8,mroDukrMSh,Baccha Park
+mr-vfyTpxBX,MRT 113,MRT 113,9,mrQQGZXHAn,Eves Chowk
+mr-vfyTpxBX,MRT 113,MRT 113,10,mrRYlHPaym,Indra Chowk
+mr-vfyTpxBX,MRT 113,MRT 113,11,mrGgfrLUOo,Hapur Adda
+mr-vfyTpxBX,MRT 113,MRT 113,12,mrwIjepWir,Shohrab Gate
+mr-vfyTpxBX,MRT 113,MRT 113,13,mrxJvZEaob,Nai Sadak
+mr-vfyTpxBX,MRT 113,MRT 113,14,mrTuhKyFEN,Tej Ghadi
+mr-vfyTpxBX,MRT 113,MRT 113,15,mrjAFPSLnB,Medical Chauraha
+mr-vfyTpxBX,MRT 113,MRT 113,16,mrRnLyUEpb,Radha Govind
+mr-vfyTpxBX,MRT 113,MRT 113,17,mrGbctzQwk,Gokulpur
+mr-vfyTpxBX,MRT 113,MRT 113,18,mrQuhfsvcT,Datawali
+mr-KkHvpVYR,MRT DT12,MRT DT12,1,mrPMJXkGjX,D M A 1 Or Modipuram
+mr-KkHvpVYR,MRT DT12,MRT DT12,2,mronqxKhIz,P A C
+mr-KkHvpVYR,MRT DT12,MRT DT12,3,mrkzygMrJr,Sofipur
+mr-KkHvpVYR,MRT DT12,MRT DT12,4,mrWTVSTtrm,Company Bagh
+mr-KkHvpVYR,MRT DT12,MRT DT12,5,mrDNMfHLae,Begum Pul
+mr-KkHvpVYR,MRT DT12,MRT DT12,6,mrKsmKqogj,G I C
+mr-KkHvpVYR,MRT DT12,MRT DT12,7,mroDukrMSh,Baccha Park
+mr-KkHvpVYR,MRT DT12,MRT DT12,8,mrQQGZXHAn,Eves Chowk
+mr-KkHvpVYR,MRT DT12,MRT DT12,9,mrRYlHPaym,Indra Chowk
+mr-KkHvpVYR,MRT DT12,MRT DT12,10,mrGgfrLUOo,Hapur Adda
+mr-KkHvpVYR,MRT DT12,MRT DT12,11,mrwIjepWir,Shohrab Gate
+mr-KkHvpVYR,MRT DT12,MRT DT12,12,mrxJvZEaob,Nai Sadak
+mr-KkHvpVYR,MRT DT12,MRT DT12,13,mrTuhKyFEN,Tej Ghadi
+mr-KkHvpVYR,MRT DT12,MRT DT12,14,mrjAFPSLnB,Medical Chauraha
+mr-GdLoNVFh,MRT ACDT12,MRT ACDT12,1,mrPMJXkGjX,D M A 1 Or Modipuram
+mr-GdLoNVFh,MRT ACDT12,MRT ACDT12,2,mronqxKhIz,P A C
+mr-GdLoNVFh,MRT ACDT12,MRT ACDT12,3,mrkzygMrJr,Sofipur
+mr-GdLoNVFh,MRT ACDT12,MRT ACDT12,4,mrWTVSTtrm,Company Bagh
+mr-GdLoNVFh,MRT ACDT12,MRT ACDT12,5,mrDNMfHLae,Begum Pul
+mr-GdLoNVFh,MRT ACDT12,MRT ACDT12,6,mrKsmKqogj,G I C
+mr-GdLoNVFh,MRT ACDT12,MRT ACDT12,7,mroDukrMSh,Baccha Park
+mr-GdLoNVFh,MRT ACDT12,MRT ACDT12,8,mrQQGZXHAn,Eves Chowk
+mr-GdLoNVFh,MRT ACDT12,MRT ACDT12,9,mrRYlHPaym,Indra Chowk
+mr-GdLoNVFh,MRT ACDT12,MRT ACDT12,10,mrGgfrLUOo,Hapur Adda
+mr-GdLoNVFh,MRT ACDT12,MRT ACDT12,11,mrwIjepWir,Shohrab Gate
+mr-GdLoNVFh,MRT ACDT12,MRT ACDT12,12,mrxJvZEaob,Nai Sadak
+mr-GdLoNVFh,MRT ACDT12,MRT ACDT12,13,mrTuhKyFEN,Tej Ghadi
+mr-GdLoNVFh,MRT ACDT12,MRT ACDT12,14,mrjAFPSLnB,Medical Chauraha
+mr-ZWenYOaU,MRT 14B,MRT 14B,1,mrFiLvrIjZ,Bhagwati College
+mr-ZWenYOaU,MRT 14B,MRT 14B,2,mrlwgVyRiQ,Siwaya
+mr-ZWenYOaU,MRT 14B,MRT 14B,3,mrJQtxvfKe,Agriculture University
+mr-ZWenYOaU,MRT 14B,MRT 14B,4,mrkMrnbBru,Shobhit University
+mr-ZWenYOaU,MRT 14B,MRT 14B,5,mrTixDqdfT,Pallavpuram Phase 2
+mr-ZWenYOaU,MRT 14B,MRT 14B,6,mrsIiUTrjg,Pallavpuram Phase 1
+mr-ZWenYOaU,MRT 14B,MRT 14B,7,mrPMJXkGjX,D M A 1 Or Modipuram
+mr-ZWenYOaU,MRT 14B,MRT 14B,8,mronqxKhIz,P A C
+mr-ZWenYOaU,MRT 14B,MRT 14B,9,mrkzygMrJr,Sofipur
+mr-ZWenYOaU,MRT 14B,MRT 14B,10,mrWTVSTtrm,Company Bagh
+mr-ZWenYOaU,MRT 14B,MRT 14B,11,mrDNMfHLae,Begum Pul
+mr-ZWenYOaU,MRT 14B,MRT 14B,12,mrKsmKqogj,G I C
+mr-ZWenYOaU,MRT 14B,MRT 14B,13,mroDukrMSh,Baccha Park
+mr-ZWenYOaU,MRT 14B,MRT 14B,14,mrQQGZXHAn,Eves Chowk
+mr-ZWenYOaU,MRT 14B,MRT 14B,15,mrRYlHPaym,Indra Chowk
+mr-ZWenYOaU,MRT 14B,MRT 14B,16,mrGgfrLUOo,Hapur Adda
+mr-ZWenYOaU,MRT 14B,MRT 14B,17,mrwIjepWir,Shohrab Gate
+mr-ZWenYOaU,MRT 14B,MRT 14B,18,mrxJvZEaob,Nai Sadak
+mr-ZWenYOaU,MRT 14B,MRT 14B,19,mrTuhKyFEN,Tej Ghadi
+mr-ZWenYOaU,MRT 14B,MRT 14B,20,mrjAFPSLnB,Medical Chauraha
+mr-phAxAdmg,MRT 1 NAC,MRT 1 NAC,1,mrFiLvrIjZ,Bhagwati College
+mr-phAxAdmg,MRT 1 NAC,MRT 1 NAC,2,mrlwgVyRiQ,Siwaya
+mr-phAxAdmg,MRT 1 NAC,MRT 1 NAC,3,mrJQtxvfKe,Agriculture University
+mr-phAxAdmg,MRT 1 NAC,MRT 1 NAC,4,mrkMrnbBru,Shobhit University
+mr-phAxAdmg,MRT 1 NAC,MRT 1 NAC,5,mrTixDqdfT,Pallavpuram Phase 2
+mr-phAxAdmg,MRT 1 NAC,MRT 1 NAC,6,mrsIiUTrjg,Pallavpuram Phase 1
+mr-phAxAdmg,MRT 1 NAC,MRT 1 NAC,7,mrPMJXkGjX,D M A 1 Or Modipuram
+mr-phAxAdmg,MRT 1 NAC,MRT 1 NAC,8,mronqxKhIz,P A C
+mr-phAxAdmg,MRT 1 NAC,MRT 1 NAC,9,mrkzygMrJr,Sofipur
+mr-phAxAdmg,MRT 1 NAC,MRT 1 NAC,10,mrWTVSTtrm,Company Bagh
+mr-phAxAdmg,MRT 1 NAC,MRT 1 NAC,11,mrDNMfHLae,Begum Pul
+mr-phAxAdmg,MRT 1 NAC,MRT 1 NAC,12,mrKsmKqogj,G I C
+mr-phAxAdmg,MRT 1 NAC,MRT 1 NAC,13,mroDukrMSh,Baccha Park
+mr-phAxAdmg,MRT 1 NAC,MRT 1 NAC,14,mrQQGZXHAn,Eves Chowk
+mr-phAxAdmg,MRT 1 NAC,MRT 1 NAC,15,mrRYlHPaym,Indra Chowk
+mr-phAxAdmg,MRT 1 NAC,MRT 1 NAC,16,mrGgfrLUOo,Hapur Adda
+mr-phAxAdmg,MRT 1 NAC,MRT 1 NAC,17,mrwIjepWir,Shohrab Gate
+mr-phAxAdmg,MRT 1 NAC,MRT 1 NAC,18,mrxJvZEaob,Nai Sadak
+mr-phAxAdmg,MRT 1 NAC,MRT 1 NAC,19,mrTuhKyFEN,Tej Ghadi
+mr-phAxAdmg,MRT 1 NAC,MRT 1 NAC,20,mrjAFPSLnB,Medical Chauraha
+mr-ZaLhoLkW,MRT R23,MRT R23,1,mrkSLCofSr,Sardhana
+mr-ZaLhoLkW,MRT R23,MRT R23,2,mrVnwDVjmt,Madeyi
+mr-ZaLhoLkW,MRT R23,MRT R23,3,mrQmJsSPPh,Gang Nehar
+mr-ZaLhoLkW,MRT R23,MRT R23,4,mrfWyPSNoB,Bubakpur
+mr-ZaLhoLkW,MRT R23,MRT R23,5,mraePmwuzJ,Dabthuva
+mr-ZaLhoLkW,MRT R23,MRT R23,6,mrkpAPheWM,Signal Cantt
+mr-ZaLhoLkW,MRT R23,MRT R23,7,mruiHJFian,Mahaveer School
+mr-ZaLhoLkW,MRT R23,MRT R23,8,mrGXfpjzLU,Batjevra
+mr-ZaLhoLkW,MRT R23,MRT R23,9,mrCbEMkVOf,Jagethi
+mr-ZaLhoLkW,MRT R23,MRT R23,10,mrvmKlWGHq,Javeri
+mr-ZaLhoLkW,MRT R23,MRT R23,11,mrsXzYKCVJ,Dream City
+mr-ZaLhoLkW,MRT R23,MRT R23,12,mrlZgcdjOh,I T I
+mr-ZaLhoLkW,MRT R23,MRT R23,13,mrObnyhsOD,Sar By Pass
+mr-ZaLhoLkW,MRT R23,MRT R23,14,mrkBrxBoUS,Defance Colony
+mr-ZaLhoLkW,MRT R23,MRT R23,15,mrXuEzmNNA,S Puri Arya
+mr-ZaLhoLkW,MRT R23,MRT R23,16,mritFfBrPI,Shiv Chowk
+mr-ZaLhoLkW,MRT R23,MRT R23,17,mrhjdQHwDd,510
+mr-ZaLhoLkW,MRT R23,MRT R23,18,mrWTVSTtrm,Company Bagh
+mr-ZaLhoLkW,MRT R23,MRT R23,19,mrzzXdxlnh,Lalkurti
+mr-ZaLhoLkW,MRT R23,MRT R23,20,mrDNMfHLae,Begum Pul
+mr-ZaLhoLkW,MRT R23,MRT R23,21,mrKsmKqogj,G I C
+mr-ZaLhoLkW,MRT R23,MRT R23,22,mroDukrMSh,Baccha Park
+mr-ZaLhoLkW,MRT R23,MRT R23,23,mrQQGZXHAn,Eves Chowk
+mr-ZaLhoLkW,MRT R23,MRT R23,24,mrRYlHPaym,Indra Chowk
+mr-ZaLhoLkW,MRT R23,MRT R23,25,mrGgfrLUOo,Hapur Adda
+mr-ZaLhoLkW,MRT R23,MRT R23,26,mrwIjepWir,Shohrab Gate
+mr-ZaLhoLkW,MRT R23,MRT R23,27,mrxJvZEaob,Nai Sadak
+mr-ZaLhoLkW,MRT R23,MRT R23,28,mrTuhKyFEN,Tej Ghadi
+mr-ZaLhoLkW,MRT R23,MRT R23,29,mrjAFPSLnB,Medical Chauraha
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,1,mrkSLCofSr,Sardhana
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,2,mrVnwDVjmt,Madeyi
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,3,mrQmJsSPPh,Gang Nehar
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,4,mrfWyPSNoB,Bubakpur
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,5,mraePmwuzJ,Dabthuva
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,6,mrkpAPheWM,Signal Cantt
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,7,mruiHJFian,Mahaveer School
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,8,mrGXfpjzLU,Batjevra
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,9,mrCbEMkVOf,Jagethi
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,10,mrvmKlWGHq,Javeri
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,11,mrsXzYKCVJ,Dream City
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,12,mrlZgcdjOh,I T I
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,13,mrObnyhsOD,Sar By Pass
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,14,mrkBrxBoUS,Defance Colony
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,15,mrXuEzmNNA,S Puri Arya
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,16,mritFfBrPI,Shiv Chowk
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,17,mrhjdQHwDd,510
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,18,mrWTVSTtrm,Company Bagh
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,19,mrzzXdxlnh,Lalkurti
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,20,mrDNMfHLae,Begum Pul
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,21,mrKsmKqogj,G I C
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,22,mroDukrMSh,Baccha Park
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,23,mrQQGZXHAn,Eves Chowk
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,24,mrRYlHPaym,Indra Chowk
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,25,mrGgfrLUOo,Hapur Adda
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,26,mrwIjepWir,Shohrab Gate
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,27,mrxJvZEaob,Nai Sadak
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,28,mrTuhKyFEN,Tej Ghadi
+mr-VzisXugO,MRT 23 AC,MRT 23 AC,29,mrjAFPSLnB,Medical Chauraha
+mr-CFxODqQm,MRT 14S,MRT 14S,1,mrTaEShSan,Sakoti
+mr-CFxODqQm,MRT 14S,MRT 14S,2,mrafkJmxDe,Nangli Gate
+mr-CFxODqQm,MRT 14S,MRT 14S,3,mrYoWECxBM,Dasrathpur
+mr-CFxODqQm,MRT 14S,MRT 14S,4,mrdzwdqRBz,Ruhasa
+mr-CFxODqQm,MRT 14S,MRT 14S,5,mrEYRkUJRG,Samoli
+mr-CFxODqQm,MRT 14S,MRT 14S,6,mrwfqPCzNF,Walidpur
+mr-CFxODqQm,MRT 14S,MRT 14S,7,mrviJHvVAM,Mator
+mr-CFxODqQm,MRT 14S,MRT 14S,8,mrFjHgsZyY,Daurala
+mr-CFxODqQm,MRT 14S,MRT 14S,9,mrnDNkfxmT,I H M
+mr-CFxODqQm,MRT 14S,MRT 14S,10,mrFiLvrIjZ,Bhagwati College
+mr-CFxODqQm,MRT 14S,MRT 14S,11,mrlwgVyRiQ,Siwaya
+mr-CFxODqQm,MRT 14S,MRT 14S,12,mrJQtxvfKe,Agriculture University
+mr-CFxODqQm,MRT 14S,MRT 14S,13,mrkMrnbBru,Shobhit University
+mr-CFxODqQm,MRT 14S,MRT 14S,14,mrTixDqdfT,Pallavpuram Phase 2
+mr-CFxODqQm,MRT 14S,MRT 14S,15,mrsIiUTrjg,Pallavpuram Phase 1
+mr-CFxODqQm,MRT 14S,MRT 14S,16,mrPMJXkGjX,D M A 1 Or Modipuram
+mr-CFxODqQm,MRT 14S,MRT 14S,17,mronqxKhIz,P A C
+mr-CFxODqQm,MRT 14S,MRT 14S,18,mrkzygMrJr,Sofipur
+mr-CFxODqQm,MRT 14S,MRT 14S,19,mrWTVSTtrm,Company Bagh
+mr-CFxODqQm,MRT 14S,MRT 14S,20,mrDNMfHLae,Begum Pul
+mr-CFxODqQm,MRT 14S,MRT 14S,21,mrKsmKqogj,G I C
+mr-CFxODqQm,MRT 14S,MRT 14S,22,mroDukrMSh,Baccha Park
+mr-CFxODqQm,MRT 14S,MRT 14S,23,mrQQGZXHAn,Eves Chowk
+mr-CFxODqQm,MRT 14S,MRT 14S,24,mrRYlHPaym,Indra Chowk
+mr-CFxODqQm,MRT 14S,MRT 14S,25,mrGgfrLUOo,Hapur Adda
+mr-CFxODqQm,MRT 14S,MRT 14S,26,mrwIjepWir,Shohrab Gate
+mr-CFxODqQm,MRT 14S,MRT 14S,27,mrxJvZEaob,Nai Sadak
+mr-CFxODqQm,MRT 14S,MRT 14S,28,mrTuhKyFEN,Tej Ghadi
+mr-CFxODqQm,MRT 14S,MRT 14S,29,mrjAFPSLnB,Medical Chauraha
+mr-tGUbistK,MRT 13,MRT 13,1,mrZZOTEwmw,Dadri
+mr-tGUbistK,MRT 13,MRT 13,2,mrTaEShSan,Sakoti
+mr-tGUbistK,MRT 13,MRT 13,3,mrafkJmxDe,Nangli Gate
+mr-tGUbistK,MRT 13,MRT 13,4,mrYoWECxBM,Dasrathpur
+mr-tGUbistK,MRT 13,MRT 13,5,mrdzwdqRBz,Ruhasa
+mr-tGUbistK,MRT 13,MRT 13,6,mrEYRkUJRG,Samoli
+mr-tGUbistK,MRT 13,MRT 13,7,mrwfqPCzNF,Walidpur
+mr-tGUbistK,MRT 13,MRT 13,8,mrviJHvVAM,Mator
+mr-tGUbistK,MRT 13,MRT 13,9,mrFjHgsZyY,Daurala
+mr-tGUbistK,MRT 13,MRT 13,10,mrnDNkfxmT,I H M
+mr-tGUbistK,MRT 13,MRT 13,11,mrFiLvrIjZ,Bhagwati College
+mr-tGUbistK,MRT 13,MRT 13,12,mrlwgVyRiQ,Siwaya
+mr-tGUbistK,MRT 13,MRT 13,13,mrJQtxvfKe,Agriculture University
+mr-tGUbistK,MRT 13,MRT 13,14,mrkMrnbBru,Shobhit University
+mr-tGUbistK,MRT 13,MRT 13,15,mrTixDqdfT,Pallavpuram Phase 2
+mr-tGUbistK,MRT 13,MRT 13,16,mrsIiUTrjg,Pallavpuram Phase 1
+mr-tGUbistK,MRT 13,MRT 13,17,mrPMJXkGjX,D M A 1 Or Modipuram
+mr-tGUbistK,MRT 13,MRT 13,18,mronqxKhIz,P A C
+mr-tGUbistK,MRT 13,MRT 13,19,mrkzygMrJr,Sofipur
+mr-tGUbistK,MRT 13,MRT 13,20,mrWTVSTtrm,Company Bagh
+mr-tGUbistK,MRT 13,MRT 13,21,mrDNMfHLae,Begum Pul
+mr-tGUbistK,MRT 13,MRT 13,22,mrKsmKqogj,G I C
+mr-tGUbistK,MRT 13,MRT 13,23,mroDukrMSh,Baccha Park
+mr-tGUbistK,MRT 13,MRT 13,24,mrQQGZXHAn,Eves Chowk
+mr-tGUbistK,MRT 13,MRT 13,25,mrRYlHPaym,Indra Chowk
+mr-tGUbistK,MRT 13,MRT 13,26,mrGgfrLUOo,Hapur Adda
+mr-tGUbistK,MRT 13,MRT 13,27,mrwIjepWir,Shohrab Gate
+mr-tGUbistK,MRT 13,MRT 13,28,mrxJvZEaob,Nai Sadak
+mr-tGUbistK,MRT 13,MRT 13,29,mrTuhKyFEN,Tej Ghadi
+mr-tGUbistK,MRT 13,MRT 13,30,mrjAFPSLnB,Medical Chauraha
+mr-SiwVOpfi,MRT 11,MRT 11,1,mrZYKTyEJu,Zero Mile
+mr-SiwVOpfi,MRT 11,MRT 11,2,mrqyBTpUTf,Bhainsali Stand
+mr-SiwVOpfi,MRT 11,MRT 11,3,mrEsgYDsgM,Mehtab Cinema
+mr-SiwVOpfi,MRT 11,MRT 11,4,mrYCefVjsa,Ghantaghar Chauraha
+mr-SiwVOpfi,MRT 11,MRT 11,5,mrXzAZIGqc,Metro Plaza
+mr-SiwVOpfi,MRT 11,MRT 11,6,mrxQZGMxSA,T P Nagar
+mr-SiwVOpfi,MRT 11,MRT 11,7,mraxcjJclZ,Maliyana
+mr-SiwVOpfi,MRT 11,MRT 11,8,mrvcjOzGNd,Khadoli
+mr-SiwVOpfi,MRT 11,MRT 11,9,mrxJmAObAK,Pepla
+mr-SiwVOpfi,MRT 11,MRT 11,10,mrVmpZfxYz,Sekhpuri
+mr-SiwVOpfi,MRT 11,MRT 11,11,mrTMlSjiAJ,Bhola
+mr-XRDWJpdA,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,1,mrKKUmmqVy,Medical Chauraha
+mr-XRDWJpdA,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,2,mrlfPVYjmO,Tej Ghadi
+mr-XRDWJpdA,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,3,mrazNXTOiV,CCSU
+mr-XRDWJpdA,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,4,mrnJMPwGvm,Mangal Pandey Nagar
+mr-XRDWJpdA,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,5,mrlNjDyOJl,Jail Chungi
+mr-XRDWJpdA,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,6,mrhfYcgNxC,LIC
+mr-XRDWJpdA,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,7,mrsPwXckxy,Commissionary Chauraha
+mr-XRDWJpdA,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,8,mrjplybTjY,Stadium Chauraha
+mr-XRDWJpdA,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,9,mrucSncGPy,Kutchery
+mr-XRDWJpdA,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,10,mrLmfgoxfv,Begum Pul
+mr-XRDWJpdA,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,11,mrqyBTpUTf,Bhainsali Stand
+mr-XRDWJpdA,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,12,mrEsgYDsgM,Mehtab Cinema
+mr-XRDWJpdA,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,13,mrYCefVjsa,Ghantaghar Chauraha
+mr-XRDWJpdA,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,14,mrkehYEoja,Jain Nagar
+mr-cqGYquUh,MRT 15,MRT 15,1,mrrYKnWjxN,Lawad
+mr-cqGYquUh,MRT 15,MRT 15,2,mrttsOtzKJ,Mehalka
+mr-cqGYquUh,MRT 15,MRT 15,3,mrFrOJccxB,Khardoni
+mr-cqGYquUh,MRT 15,MRT 15,4,mrGeiEBCpv,Masoori
+mr-cqGYquUh,MRT 15,MRT 15,5,mraSXBIJfO,Mmr College
+mr-cqGYquUh,MRT 15,MRT 15,6,mrBRscqpmh,Incholi
+mr-cqGYquUh,MRT 15,MRT 15,7,mrTghyCfHI,Saini Gaon
+mr-cqGYquUh,MRT 15,MRT 15,8,mrHTFDUNlH,Papermill
+mr-cqGYquUh,MRT 15,MRT 15,9,mrwgtBWQfF,Shantiniketan
+mr-cqGYquUh,MRT 15,MRT 15,10,mrHmriYzkd,Rajpura
+mr-cqGYquUh,MRT 15,MRT 15,11,mrRtdDAQMQ,Bakshar
+mr-cqGYquUh,MRT 15,MRT 15,12,mrCuPkoVQG,Ganga Nagar
+mr-cqGYquUh,MRT 15,MRT 15,13,mrIfjROOwe,Commissionary Chauraha
+mr-cqGYquUh,MRT 15,MRT 15,14,mrucSncGPy,Kutchery
+mr-cqGYquUh,MRT 15,MRT 15,15,mryQRRzcuG,Lalkurti
+mr-cqGYquUh,MRT 15,MRT 15,16,mrLmfgoxfv,Begum Pul
+mr-cqGYquUh,MRT 15,MRT 15,17,mrqyBTpUTf,Bhainsali Stand
+mr-cqGYquUh,MRT 15,MRT 15,18,mrEsgYDsgM,Mehtab Cinema
+mr-cqGYquUh,MRT 15,MRT 15,19,mrYCefVjsa,Ghantaghar Chauraha
+mr-cqGYquUh,MRT 15,MRT 15,20,mrkehYEoja,Jain Nagar
+mr-OveOeRtj,MRT 19,MRT 19,1,mrqyBTpUTf,Bhainsali Stand
+mr-OveOeRtj,MRT 19,MRT 19,2,mrEsgYDsgM,Mehtab Cinema
+mr-OveOeRtj,MRT 19,MRT 19,3,mrYCefVjsa,Ghantaghar Chauraha
+mr-OveOeRtj,MRT 19,MRT 19,4,mrXzAZIGqc,Metro Plaza
+mr-OveOeRtj,MRT 19,MRT 19,5,mrxQZGMxSA,T P Nagar
+mr-OveOeRtj,MRT 19,MRT 19,6,mraxcjJclZ,Maliyana
+mr-OveOeRtj,MRT 19,MRT 19,7,mrXHoHqvMR,Rishi Nagar
+mr-OveOeRtj,MRT 19,MRT 19,8,mrEfeEuDjT,Baghpat Bypass
+mr-OveOeRtj,MRT 19,MRT 19,9,mrayVeokoz,Vidhya College
+mr-OveOeRtj,MRT 19,MRT 19,10,mrnAHWPvMA,Panchli
+mr-OveOeRtj,MRT 19,MRT 19,11,mrAqvyoMZs,Nagla Pul
+mr-OveOeRtj,MRT 19,MRT 19,12,mrYVndFJGa,Kithauli Mod
+mr-OveOeRtj,MRT 19,MRT 19,13,mreePKQzTT,Bafar
+mr-OveOeRtj,MRT 19,MRT 19,14,mrmXmwGNTC,Jani
+mr-OveOeRtj,MRT 19,MRT 19,15,mrkPUBpcMZ,Bhagvan Ghar
+mr-OveOeRtj,MRT 19,MRT 19,16,mrIRKmmRPV,Shival Khass
+mr-sCXRNQdA,MRT 500,MRT 500,1,mrdfONUwqE,Bhainsali Stand
+mr-sCXRNQdA,MRT 500,MRT 500,2,mrcmWbWjSM,Begum Pul
+mr-sCXRNQdA,MRT 500,MRT 500,3,mrKENgPjMo,Commissionary Chauraha
+mr-sCXRNQdA,MRT 500,MRT 500,4,mrmQYyiObs,Ganga Nagar
+mr-sCXRNQdA,MRT 500,MRT 500,5,mrjHjfJfRF,Shantiniketan
+mr-sCXRNQdA,MRT 500,MRT 500,6,mruwCxzjms,Incholi
+mr-sCXRNQdA,MRT 500,MRT 500,7,mrJiPksRuu,Masoori
+mr-sCXRNQdA,MRT 500,MRT 500,8,mrILzQXZQD,Mawana Khurd
+mr-XlmMpxZy,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,1,mrYebxkzYW,Meerut City Station
+mr-XlmMpxZy,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,2,mrtLTiXgIo,Jain Nagar
+mr-XlmMpxZy,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,3,mrbbOgZuXJ,Ghantaghar Chauraha
+mr-XlmMpxZy,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,4,mrZwQUxSzd,Mehtab Cinema
+mr-XlmMpxZy,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,5,mrdfONUwqE,Bhainsali Stand
+mr-XlmMpxZy,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,6,mrcmWbWjSM,Begum Pul
+mr-XlmMpxZy,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,7,mrukQltUwH,Kutchery
+mr-XlmMpxZy,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,8,mrQZtHlGzT,Stadium Chauraha
+mr-XlmMpxZy,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,9,mrOVoiPhct,Commissionary Chauraha
+mr-XlmMpxZy,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,10,mrVxEIntEC,LIC
+mr-XlmMpxZy,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,11,mrujqMylLH,Jail Chungi
+mr-XlmMpxZy,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,12,mrFaQqCsbJ,Mangal Pandey Nagar
+mr-XlmMpxZy,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,13,mrVPSYEjnj,CCSU
+mr-XlmMpxZy,MRT 16 via Jail Chungi,MRT 16 via Jail Chungi,14,mrTuhKyFEN,Tej Ghadi
+mr-zmpEIxNK,MRT 15,MRT 15,1,mrYebxkzYW,Meerut City Station
+mr-zmpEIxNK,MRT 15,MRT 15,2,mrtLTiXgIo,Jain Nagar
+mr-zmpEIxNK,MRT 15,MRT 15,3,mrbbOgZuXJ,Ghantaghar Chauraha
+mr-zmpEIxNK,MRT 15,MRT 15,4,mrZwQUxSzd,Mehtab Cinema
+mr-zmpEIxNK,MRT 15,MRT 15,5,mrdfONUwqE,Bhainsali Stand
+mr-zmpEIxNK,MRT 15,MRT 15,6,mrcmWbWjSM,Begum Pul
+mr-zmpEIxNK,MRT 15,MRT 15,7,mroELlZiRG,Lalkurti
+mr-zmpEIxNK,MRT 15,MRT 15,8,mrukQltUwH,Kutchery
+mr-zmpEIxNK,MRT 15,MRT 15,9,mrKENgPjMo,Commissionary Chauraha
+mr-zmpEIxNK,MRT 15,MRT 15,10,mrmQYyiObs,Ganga Nagar
+mr-zmpEIxNK,MRT 15,MRT 15,11,mrEXaTUFrf,Bakshar
+mr-zmpEIxNK,MRT 15,MRT 15,12,mrkpfKfSRI,Rajpura
+mr-zmpEIxNK,MRT 15,MRT 15,13,mrjHjfJfRF,Shantiniketan
+mr-zmpEIxNK,MRT 15,MRT 15,14,mrLHtlolEB,Papermill
+mr-zmpEIxNK,MRT 15,MRT 15,15,mrUVRtOsRA,Saini Gaon
+mr-zmpEIxNK,MRT 15,MRT 15,16,mruwCxzjms,Incholi
+mr-zmpEIxNK,MRT 15,MRT 15,17,mrmoVnfzxg,Mmr College
+mr-zmpEIxNK,MRT 15,MRT 15,18,mrJiPksRuu,Masoori
+mr-zmpEIxNK,MRT 15,MRT 15,19,mrQsIfszZQ,Khardoni
+mr-zmpEIxNK,MRT 15,MRT 15,20,mrxRVXKjoO,Mehalka
+mr-igeKlmaq,MRT 11,MRT 11,1,mrpgECGple,Satwai
+mr-igeKlmaq,MRT 11,MRT 11,2,mrPrNvFcSn,Bhola
+mr-igeKlmaq,MRT 11,MRT 11,3,mrsXXGOjVe,Sekhpuri
+mr-igeKlmaq,MRT 11,MRT 11,4,mrrEVqONjY,Pepla
+mr-igeKlmaq,MRT 11,MRT 11,5,mrxJfWOMTH,Khadoli
+mr-igeKlmaq,MRT 11,MRT 11,6,mrOneiPRUI,Maliyana
+mr-igeKlmaq,MRT 11,MRT 11,7,mrHWKQUVXc,T P Nagar
+mr-igeKlmaq,MRT 11,MRT 11,8,mrWvoUIMGs,Metro Plaza
+mr-igeKlmaq,MRT 11,MRT 11,9,mrbbOgZuXJ,Ghantaghar Chauraha
+mr-igeKlmaq,MRT 11,MRT 11,10,mrZwQUxSzd,Mehtab Cinema
+mr-igeKlmaq,MRT 11,MRT 11,11,mrdfONUwqE,Bhainsali Stand
+mr-XsHTREfV,MRT 41,MRT 41,1,mrKKUmmqVy,Medical Chauraha
+mr-XsHTREfV,MRT 41,MRT 41,2,mrlfPVYjmO,Tej Ghadi
+mr-XsHTREfV,MRT 41,MRT 41,3,mrazNXTOiV,CCSU
+mr-XsHTREfV,MRT 41,MRT 41,4,mrnJMPwGvm,Mangal Pandey Nagar
+mr-XsHTREfV,MRT 41,MRT 41,5,mrlNjDyOJl,Jail Chungi
+mr-XsHTREfV,MRT 41,MRT 41,6,mrhfYcgNxC,LIC
+mr-XsHTREfV,MRT 41,MRT 41,7,mrsPwXckxy,Commissionary Chauraha
+mr-XsHTREfV,MRT 41,MRT 41,8,mrjplybTjY,Stadium Chauraha
+mr-XsHTREfV,MRT 41,MRT 41,9,mrucSncGPy,Kutchery
+mr-XsHTREfV,MRT 41,MRT 41,10,mrcmWbWjSM,Begum Pul
+mr-GPencVZi,MRT 41,MRT 41,1,mrepaCruRX,Cantt Station
+mr-GPencVZi,MRT 41,MRT 41,2,mrDNMfHLae,Begum Pul
+mr-GPencVZi,MRT 41,MRT 41,3,mrukQltUwH,Kutchery
+mr-GPencVZi,MRT 41,MRT 41,4,mrQZtHlGzT,Stadium Chauraha
+mr-GPencVZi,MRT 41,MRT 41,5,mrOVoiPhct,Commissionary Chauraha
+mr-GPencVZi,MRT 41,MRT 41,6,mrVxEIntEC,LIC
+mr-GPencVZi,MRT 41,MRT 41,7,mrujqMylLH,Jail Chungi
+mr-GPencVZi,MRT 41,MRT 41,8,mrFaQqCsbJ,Mangal Pandey Nagar
+mr-GPencVZi,MRT 41,MRT 41,9,mrVPSYEjnj,CCSU
+mr-GPencVZi,MRT 41,MRT 41,10,mrTuhKyFEN,Tej Ghadi
+mr-oOFOKlDk,MRT 29,MRT 29,1,mrLmfgoxfv,Begum Pul
+mr-oOFOKlDk,MRT 29,MRT 29,2,mruqUVbpin,Lalkurti
+mr-oOFOKlDk,MRT 29,MRT 29,3,mrdsJoBigz,Company Bagh
+mr-oOFOKlDk,MRT 29,MRT 29,4,mrYnTXUCXG,510
+mr-oOFOKlDk,MRT 29,MRT 29,5,mrkMMWkoea,Shiv Chowk
+mr-oOFOKlDk,MRT 29,MRT 29,6,mrrRPfVWou,S Puri Arya
+mr-oOFOKlDk,MRT 29,MRT 29,7,mrzyeTnpvW,Defance Colony
+mr-oOFOKlDk,MRT 29,MRT 29,8,mrvfUAAXMm,Sar By Pass
+mr-oOFOKlDk,MRT 29,MRT 29,9,mrzyDCqhyB,I T I
+mr-oOFOKlDk,MRT 29,MRT 29,10,mrkLZXEnoj,Dream City
+mr-oOFOKlDk,MRT 29,MRT 29,11,mrPbjDBdiB,Javeri
+mr-oOFOKlDk,MRT 29,MRT 29,12,mrysKihgAz,Jagethi
+mr-oOFOKlDk,MRT 29,MRT 29,13,mrZusSgowX,Batjevra
+mr-oOFOKlDk,MRT 29,MRT 29,14,mrlXTWRytq,Mahaveer School
+mr-oOFOKlDk,MRT 29,MRT 29,15,mrNJcDFxDF,Signal Cantt
+mr-oOFOKlDk,MRT 29,MRT 29,16,mrHPNxniYK,Dabthuva
+mr-oOFOKlDk,MRT 29,MRT 29,17,mrZcTKNNla,Bubakpur
+mr-oOFOKlDk,MRT 29,MRT 29,18,mrfhEyeItk,Gang Nehar
+mr-oOFOKlDk,MRT 29,MRT 29,19,mrushsaygO,Nanu
+mr-oOFOKlDk,MRT 29,MRT 29,20,mrFwNyoUNn,Ekadi Chouk
+mr-oOFOKlDk,MRT 29,MRT 29,21,mrNPoThINa,Ekadi
+mr-oOFOKlDk,MRT 29,MRT 29,22,mrLnDCdBII,Nangla
+mr-oOFOKlDk,MRT 29,MRT 29,23,mrJxwELyce,Patholi
+mr-oOFOKlDk,MRT 29,MRT 29,24,mrYwnvxTGn,Durjanpur
+mr-TxJIvjEo,MRT 20,MRT 20,1,mrLmfgoxfv,Begum Pul
+mr-TxJIvjEo,MRT 20,MRT 20,2,mruqUVbpin,Lalkurti
+mr-TxJIvjEo,MRT 20,MRT 20,3,mrdsJoBigz,Company Bagh
+mr-TxJIvjEo,MRT 20,MRT 20,4,mrYnTXUCXG,510
+mr-TxJIvjEo,MRT 20,MRT 20,5,mrkMMWkoea,Shiv Chowk
+mr-TxJIvjEo,MRT 20,MRT 20,6,mrrRPfVWou,S Puri Arya
+mr-TxJIvjEo,MRT 20,MRT 20,7,mrzyeTnpvW,Defance Colony
+mr-TxJIvjEo,MRT 20,MRT 20,8,mrvfUAAXMm,Sar By Pass
+mr-TxJIvjEo,MRT 20,MRT 20,9,mrzyDCqhyB,I T I
+mr-TxJIvjEo,MRT 20,MRT 20,10,mrkLZXEnoj,Dream City
+mr-TxJIvjEo,MRT 20,MRT 20,11,mrPbjDBdiB,Javeri
+mr-TxJIvjEo,MRT 20,MRT 20,12,mrysKihgAz,Jagethi
+mr-TxJIvjEo,MRT 20,MRT 20,13,mrZusSgowX,Batjevra
+mr-TxJIvjEo,MRT 20,MRT 20,14,mrlXTWRytq,Mahaveer School
+mr-TxJIvjEo,MRT 20,MRT 20,15,mrNJcDFxDF,Signal Cantt
+mr-TxJIvjEo,MRT 20,MRT 20,16,mrHPNxniYK,Dabthuva
+mr-TxJIvjEo,MRT 20,MRT 20,17,mrZcTKNNla,Bubakpur
+mr-TxJIvjEo,MRT 20,MRT 20,18,mrfhEyeItk,Gang Nehar
+mr-TxJIvjEo,MRT 20,MRT 20,19,mrushsaygO,Nanu
+mr-TxJIvjEo,MRT 20,MRT 20,20,mrFwNyoUNn,Ekadi Chouk
+mr-TxJIvjEo,MRT 20,MRT 20,21,mrsTERBUqH,Kakey Pur
+mr-TxJIvjEo,MRT 20,MRT 20,22,mrKZHJXAyM,Bhuni Chauraha
+mr-TxJIvjEo,MRT 20,MRT 20,23,mrwDoMMrGl,Sarurpur
+mr-TxJIvjEo,MRT 20,MRT 20,24,mrSKKXcunj,Mainaputhi
+mr-nRdYyqlo,MRT 29,MRT 29,1,mrLmfgoxfv,Begum Pul
+mr-nRdYyqlo,MRT 29,MRT 29,2,mruqUVbpin,Lalkurti
+mr-nRdYyqlo,MRT 29,MRT 29,3,mrdsJoBigz,Company Bagh
+mr-nRdYyqlo,MRT 29,MRT 29,4,mrYnTXUCXG,510
+mr-nRdYyqlo,MRT 29,MRT 29,5,mrkMMWkoea,Shiv Chowk
+mr-nRdYyqlo,MRT 29,MRT 29,6,mrrRPfVWou,S Puri Arya
+mr-nRdYyqlo,MRT 29,MRT 29,7,mrvfUAAXMm,Sar By Pass
+mr-nRdYyqlo,MRT 29,MRT 29,8,mrzyDCqhyB,I T I
+mr-nRdYyqlo,MRT 29,MRT 29,9,mrkLZXEnoj,Dream City
+mr-nRdYyqlo,MRT 29,MRT 29,10,mrPbjDBdiB,Javeri
+mr-nRdYyqlo,MRT 29,MRT 29,11,mrysKihgAz,Jagethi
+mr-nRdYyqlo,MRT 29,MRT 29,12,mrZusSgowX,Batjevra
+mr-nRdYyqlo,MRT 29,MRT 29,13,mrlXTWRytq,Mahaveer School
+mr-nRdYyqlo,MRT 29,MRT 29,14,mrNJcDFxDF,Signal Cantt
+mr-nRdYyqlo,MRT 29,MRT 29,15,mrHPNxniYK,Dabthuva
+mr-nRdYyqlo,MRT 29,MRT 29,16,mrZcTKNNla,Bubakpur
+mr-nRdYyqlo,MRT 29,MRT 29,17,mrfhEyeItk,Gang Nehar
+mr-nRdYyqlo,MRT 29,MRT 29,18,mrushsaygO,Nanu
+mr-nRdYyqlo,MRT 29,MRT 29,19,mrFwNyoUNn,Ekadi Chouk
+mr-nRdYyqlo,MRT 29,MRT 29,20,mrNPoThINa,Ekadi
+mr-nRdYyqlo,MRT 29,MRT 29,21,mrLnDCdBII,Nangla
+mr-qCUBdczP,MRT 500,MRT 500,1,mrxSUilYnd,Mawana
+mr-qCUBdczP,MRT 500,MRT 500,2,mrcpRvBubz,Mawana Khurd
+mr-qCUBdczP,MRT 500,MRT 500,3,mrGeiEBCpv,Masoori
+mr-qCUBdczP,MRT 500,MRT 500,4,mrBRscqpmh,Incholi
+mr-qCUBdczP,MRT 500,MRT 500,5,mrwgtBWQfF,Shantiniketan
+mr-qCUBdczP,MRT 500,MRT 500,6,mrCuPkoVQG,Ganga Nagar
+mr-qCUBdczP,MRT 500,MRT 500,7,mrIfjROOwe,Commissionary Chauraha
+mr-qCUBdczP,MRT 500,MRT 500,8,mrLmfgoxfv,Begum Pul
+mr-RXEAaOtE,MRT 18,MRT 18,1,mroELlZiRG,Lalkurti
+mr-RXEAaOtE,MRT 18,MRT 18,2,mrCjyyylGQ,Kailash Prakash Stadium
+mr-RXEAaOtE,MRT 18,MRT 18,3,mrOVoiPhct,Commissionary Chauraha
+mr-RXEAaOtE,MRT 18,MRT 18,4,mrqhPwjhsW,Jail Chungi
+mr-RXEAaOtE,MRT 18,MRT 18,5,mrFRHIitLZ,Abdullapur
+mr-RXEAaOtE,MRT 18,MRT 18,6,mrLvMegTiW,Bhawanpur
+mr-RXEAaOtE,MRT 18,MRT 18,7,mrLGQcZWmu,Pachpeda
+mr-RXEAaOtE,MRT 18,MRT 18,8,mrGbscAbTZ,Jai Gaon
+mr-RXEAaOtE,MRT 18,MRT 18,9,mrSHpbRyeq,Adarsh Intercollege
+mr-RXEAaOtE,MRT 18,MRT 18,10,mrcHhcUVRJ,Durgeshpur
+mr-RXEAaOtE,MRT 18,MRT 18,11,mrjUKdjoUW,Khajoori
+mr-RXEAaOtE,MRT 18,MRT 18,12,mrIhxIlsaz,Khanpur Bagh
+mr-RXEAaOtE,MRT 18,MRT 18,13,mrTfiGXauf,Killa Hospital
+mr-RlWVykmq,MRT 26,MRT 26,1,mrGgfrLUOo,Hapur Adda
+mr-RlWVykmq,MRT 26,MRT 26,2,mrwIjepWir,Shohrab Gate
+mr-RlWVykmq,MRT 26,MRT 26,3,mrxJvZEaob,Nai Sadak
+mr-RlWVykmq,MRT 26,MRT 26,4,mrTuhKyFEN,Tej Ghadi
+mr-RlWVykmq,MRT 26,MRT 26,5,mrjAFPSLnB,Medical Chauraha
+mr-RlWVykmq,MRT 26,MRT 26,6,mrRnLyUEpb,Radha Govind
+mr-RlWVykmq,MRT 26,MRT 26,7,mrGbctzQwk,Gokulpur
+mr-RlWVykmq,MRT 26,MRT 26,8,mrpihdQhnX,BIMT
+mr-RlWVykmq,MRT 26,MRT 26,9,mrlKxQRPiW,Hasanpur Kheda
+mr-RlWVykmq,MRT 26,MRT 26,10,mrcqXvWvqI,Murlipur
+mr-RlWVykmq,MRT 26,MRT 26,11,mroNLqVVgm,Sisoli
+mr-RlWVykmq,MRT 26,MRT 26,12,mrEDllegny,Bhagwanpur
+mr-RlWVykmq,MRT 26,MRT 26,13,mrdxovqtwn,Maukhas
+mr-RlWVykmq,MRT 26,MRT 26,14,mrFzByIryv,Bauda Mode
+mr-RlWVykmq,MRT 26,MRT 26,15,mrYmGpNEDE,Bhatipura
+mr-RlWVykmq,MRT 26,MRT 26,16,mrTqwMikcc,Hasanpur Kheda
+mr-RlWVykmq,MRT 26,MRT 26,17,mrvKKrTLcX,Rachhoti
+mr-RlWVykmq,MRT 26,MRT 26,18,mrOFaweBZC,Machhra
+mr-RlWVykmq,MRT 26,MRT 26,19,mrxOqAfVIy,Solda
+mr-RlWVykmq,MRT 26,MRT 26,20,mrbwXffDdr,Bath Road Mode
+mr-RlWVykmq,MRT 26,MRT 26,21,mrtJMtWYyZ,Nangli Mode
+mr-RlWVykmq,MRT 26,MRT 26,22,mrYSmtlMHQ,Kithore Hapu
+mr-RlWVykmq,MRT 26,MRT 26,23,mrYvlRshAV,Kithore Thana
+mr-chkUQFde,MRT 29,MRT 29,1,mrbRaJxmPi,Patholi
+mr-chkUQFde,MRT 29,MRT 29,2,mrijvsewXs,Nangla
+mr-chkUQFde,MRT 29,MRT 29,3,mrTFEesCfB,Ekadi
+mr-chkUQFde,MRT 29,MRT 29,4,mrVnIbiWzt,Ekadi Chouk
+mr-chkUQFde,MRT 29,MRT 29,5,mrlhACJUmt,Nanu
+mr-chkUQFde,MRT 29,MRT 29,6,mrQmJsSPPh,Gang Nehar
+mr-chkUQFde,MRT 29,MRT 29,7,mrfWyPSNoB,Bubakpur
+mr-chkUQFde,MRT 29,MRT 29,8,mraePmwuzJ,Dabthuva
+mr-chkUQFde,MRT 29,MRT 29,9,mrkpAPheWM,Signal Cantt
+mr-chkUQFde,MRT 29,MRT 29,10,mruiHJFian,Mahaveer School
+mr-chkUQFde,MRT 29,MRT 29,11,mrGXfpjzLU,Batjevra
+mr-chkUQFde,MRT 29,MRT 29,12,mrCbEMkVOf,Jagethi
+mr-chkUQFde,MRT 29,MRT 29,13,mrvmKlWGHq,Javeri
+mr-chkUQFde,MRT 29,MRT 29,14,mrsXzYKCVJ,Dream City
+mr-chkUQFde,MRT 29,MRT 29,15,mrlZgcdjOh,I T I
+mr-chkUQFde,MRT 29,MRT 29,16,mrObnyhsOD,Sar By Pass
+mr-chkUQFde,MRT 29,MRT 29,17,mrkBrxBoUS,Defance Colony
+mr-chkUQFde,MRT 29,MRT 29,18,mritFfBrPI,Shiv Chowk
+mr-chkUQFde,MRT 29,MRT 29,19,mrhjdQHwDd,510
+mr-chkUQFde,MRT 29,MRT 29,20,mrWTVSTtrm,Company Bagh
+mr-chkUQFde,MRT 29,MRT 29,21,mrzzXdxlnh,Lalkurti
+mr-IbBQfMHb,MRT 29,MRT 29,1,mretvHXuun,Karnawal
+mr-IbBQfMHb,MRT 29,MRT 29,2,mrTTILMvjG,Durjanpur
+mr-IbBQfMHb,MRT 29,MRT 29,3,mrbRaJxmPi,Patholi
+mr-IbBQfMHb,MRT 29,MRT 29,4,mrijvsewXs,Nangla
+mr-IbBQfMHb,MRT 29,MRT 29,5,mrTFEesCfB,Ekadi
+mr-IbBQfMHb,MRT 29,MRT 29,6,mrVnIbiWzt,Ekadi Chouk
+mr-IbBQfMHb,MRT 29,MRT 29,7,mrlhACJUmt,Nanu
+mr-IbBQfMHb,MRT 29,MRT 29,8,mrQmJsSPPh,Gang Nehar
+mr-IbBQfMHb,MRT 29,MRT 29,9,mrfWyPSNoB,Bubakpur
+mr-IbBQfMHb,MRT 29,MRT 29,10,mraePmwuzJ,Dabthuva
+mr-IbBQfMHb,MRT 29,MRT 29,11,mrkpAPheWM,Signal Cantt
+mr-IbBQfMHb,MRT 29,MRT 29,12,mruiHJFian,Mahaveer School
+mr-IbBQfMHb,MRT 29,MRT 29,13,mrGXfpjzLU,Batjevra
+mr-IbBQfMHb,MRT 29,MRT 29,14,mrCbEMkVOf,Jagethi
+mr-IbBQfMHb,MRT 29,MRT 29,15,mrvmKlWGHq,Javeri
+mr-IbBQfMHb,MRT 29,MRT 29,16,mrsXzYKCVJ,Dream City
+mr-IbBQfMHb,MRT 29,MRT 29,17,mrlZgcdjOh,I T I
+mr-IbBQfMHb,MRT 29,MRT 29,18,mrObnyhsOD,Sar By Pass
+mr-IbBQfMHb,MRT 29,MRT 29,19,mrkBrxBoUS,Defance Colony
+mr-IbBQfMHb,MRT 29,MRT 29,20,mrXuEzmNNA,S Puri Arya
+mr-IbBQfMHb,MRT 29,MRT 29,21,mritFfBrPI,Shiv Chowk
+mr-IbBQfMHb,MRT 29,MRT 29,22,mrhjdQHwDd,510
+mr-IbBQfMHb,MRT 29,MRT 29,23,mrWTVSTtrm,Company Bagh
+mr-IbBQfMHb,MRT 29,MRT 29,24,mrzzXdxlnh,Lalkurti
+mr-FBVKNAvY,MRT 20,MRT 20,1,mrqViEfHTV,Harra
+mr-FBVKNAvY,MRT 20,MRT 20,2,mrAEWGHvBN,Mainaputhi
+mr-FBVKNAvY,MRT 20,MRT 20,3,mrBUkXceXa,Sarurpur
+mr-FBVKNAvY,MRT 20,MRT 20,4,mrdFVhoVyZ,Bhuni Chauraha
+mr-FBVKNAvY,MRT 20,MRT 20,5,mrvyZYuzPn,Kakey Pur
+mr-FBVKNAvY,MRT 20,MRT 20,6,mrVnIbiWzt,Ekadi Chouk
+mr-FBVKNAvY,MRT 20,MRT 20,7,mrlhACJUmt,Nanu
+mr-FBVKNAvY,MRT 20,MRT 20,8,mrQmJsSPPh,Gang Nehar
+mr-FBVKNAvY,MRT 20,MRT 20,9,mrfWyPSNoB,Bubakpur
+mr-FBVKNAvY,MRT 20,MRT 20,10,mraePmwuzJ,Dabthuva
+mr-FBVKNAvY,MRT 20,MRT 20,11,mrkpAPheWM,Signal Cantt
+mr-FBVKNAvY,MRT 20,MRT 20,12,mruiHJFian,Mahaveer School
+mr-FBVKNAvY,MRT 20,MRT 20,13,mrGXfpjzLU,Batjevra
+mr-FBVKNAvY,MRT 20,MRT 20,14,mrCbEMkVOf,Jagethi
+mr-FBVKNAvY,MRT 20,MRT 20,15,mrvmKlWGHq,Javeri
+mr-FBVKNAvY,MRT 20,MRT 20,16,mrsXzYKCVJ,Dream City
+mr-FBVKNAvY,MRT 20,MRT 20,17,mrlZgcdjOh,I T I
+mr-FBVKNAvY,MRT 20,MRT 20,18,mrObnyhsOD,Sar By Pass
+mr-FBVKNAvY,MRT 20,MRT 20,19,mrkBrxBoUS,Defance Colony
+mr-FBVKNAvY,MRT 20,MRT 20,20,mrXuEzmNNA,S Puri Arya
+mr-FBVKNAvY,MRT 20,MRT 20,21,mritFfBrPI,Shiv Chowk
+mr-FBVKNAvY,MRT 20,MRT 20,22,mrhjdQHwDd,510
+mr-FBVKNAvY,MRT 20,MRT 20,23,mrWTVSTtrm,Company Bagh
+mr-FBVKNAvY,MRT 20,MRT 20,24,mrzzXdxlnh,Lalkurti
+mr-dvpLDfRW,MRT 18,MRT 18,1,mraPeUSwAO,Killa Parikshit Garh
+mr-dvpLDfRW,MRT 18,MRT 18,2,mrHIjYlmuM,Killa Hospital
+mr-dvpLDfRW,MRT 18,MRT 18,3,mrtRwzpKcO,Khanpur Bagh
+mr-dvpLDfRW,MRT 18,MRT 18,4,mrgXhWByyj,Khajoori
+mr-dvpLDfRW,MRT 18,MRT 18,5,mrxljnVlCn,Durgeshpur
+mr-dvpLDfRW,MRT 18,MRT 18,6,mrbKoIcHIR,Adarsh Intercollege
+mr-dvpLDfRW,MRT 18,MRT 18,7,mrLQCgXLFi,Jai Gaon
+mr-dvpLDfRW,MRT 18,MRT 18,8,mrzxNRcwxm,Pachpeda
+mr-dvpLDfRW,MRT 18,MRT 18,9,mrMsawfZWR,Bhawanpur
+mr-dvpLDfRW,MRT 18,MRT 18,10,mrqtHvBpel,Abdullapur
+mr-dvpLDfRW,MRT 18,MRT 18,11,mrlNjDyOJl,Jail Chungi
+mr-dvpLDfRW,MRT 18,MRT 18,12,mrsPwXckxy,Commissionary Chauraha
+mr-dvpLDfRW,MRT 18,MRT 18,13,mrNxDmQhco,Kailash Prakash Stadium
+mr-dHvQIFrt,MRT 26,MRT 26,1,mrLLkaHURF,Shahjahanpur
+mr-dHvQIFrt,MRT 26,MRT 26,2,mrsjXMOTbE,Kithore Thana
+mr-dHvQIFrt,MRT 26,MRT 26,3,mrPPjrkmHz,Kithore Hapu
+mr-dHvQIFrt,MRT 26,MRT 26,4,mrnLtsgjxZ,Nangli Mode
+mr-dHvQIFrt,MRT 26,MRT 26,5,mrcYuANeRt,Bath Road Mode
+mr-dHvQIFrt,MRT 26,MRT 26,6,mrlJDgtXFf,Solda
+mr-dHvQIFrt,MRT 26,MRT 26,7,mrUKGlAEpm,Machhra
+mr-dHvQIFrt,MRT 26,MRT 26,8,mrPogpYKaI,Rachhoti
+mr-dHvQIFrt,MRT 26,MRT 26,9,mrYYYYsKSM,Hasanpur Kheda
+mr-dHvQIFrt,MRT 26,MRT 26,10,mrfXfnaRob,Bhatipura
+mr-dHvQIFrt,MRT 26,MRT 26,11,mrQDwNPsMv,Bauda Mode
+mr-dHvQIFrt,MRT 26,MRT 26,12,mrDwPDfUdO,Maukhas
+mr-dHvQIFrt,MRT 26,MRT 26,13,mrRRPkECQC,Bhagwanpur
+mr-dHvQIFrt,MRT 26,MRT 26,14,mrjOsZVIgr,Sisoli
+mr-dHvQIFrt,MRT 26,MRT 26,15,mrSlvBoISn,Murlipur
+mr-dHvQIFrt,MRT 26,MRT 26,16,mrtMmjhDwf,Hasanpur Kheda
+mr-dHvQIFrt,MRT 26,MRT 26,17,mrmKEkfWJv,BIMT
+mr-dHvQIFrt,MRT 26,MRT 26,18,mrQPZbmXJo,Gokulpur
+mr-dHvQIFrt,MRT 26,MRT 26,19,mrzsUkAdgV,Radha Govind
+mr-dHvQIFrt,MRT 26,MRT 26,20,mrKKUmmqVy,Medical Chauraha
+mr-dHvQIFrt,MRT 26,MRT 26,21,mrlfPVYjmO,Tej Ghadi
+mr-dHvQIFrt,MRT 26,MRT 26,22,mrqzDIpWPC,Nai Sadak
+mr-dHvQIFrt,MRT 26,MRT 26,23,mrtKAkEfEQ,Shohrab Gate
+mr-BlekvUQW,MRT 19,MRT 19,1,mrnANYrLTf,Khanpur
+mr-BlekvUQW,MRT 19,MRT 19,2,mrJMJnfTPb,Shival Khass
+mr-BlekvUQW,MRT 19,MRT 19,3,mriLLkupnr,Bhagvan Ghar
+mr-BlekvUQW,MRT 19,MRT 19,4,mrfsUJtbmE,Jani
+mr-BlekvUQW,MRT 19,MRT 19,5,mrJKXoXZYB,Bafar
+mr-BlekvUQW,MRT 19,MRT 19,6,mrpEpuEVJS,Kithauli Mod
+mr-BlekvUQW,MRT 19,MRT 19,7,mrLoAPluNM,Nagla Pul
+mr-BlekvUQW,MRT 19,MRT 19,8,mrrziDeocd,Panchli
+mr-BlekvUQW,MRT 19,MRT 19,9,mroHMGdSkh,Vidhya College
+mr-BlekvUQW,MRT 19,MRT 19,10,mrokzdMNjd,Baghpat Bypass
+mr-BlekvUQW,MRT 19,MRT 19,11,mrgYzVscMy,Rishi Nagar
+mr-BlekvUQW,MRT 19,MRT 19,12,mrOneiPRUI,Maliyana
+mr-BlekvUQW,MRT 19,MRT 19,13,mrHWKQUVXc,T P Nagar
+mr-BlekvUQW,MRT 19,MRT 19,14,mrWvoUIMGs,Metro Plaza
+mr-BlekvUQW,MRT 19,MRT 19,15,mrbbOgZuXJ,Ghantaghar Chauraha
+mr-BlekvUQW,MRT 19,MRT 19,16,mrZwQUxSzd,Mehtab Cinema
+mr-qWoWpOkY,MRT 12 AC,MRT 12 AC,1,mrhhsKLJXn,D M A 1 Or Modipuram
+mr-qWoWpOkY,MRT 12 AC,MRT 12 AC,2,mrgmISrngP,Jatoli
+mr-qWoWpOkY,MRT 12 AC,MRT 12 AC,3,mrNHDWzlUT,Aryan School
+mr-qWoWpOkY,MRT 12 AC,MRT 12 AC,4,mrdWlXTIOt,Kanker Khera
+mr-qWoWpOkY,MRT 12 AC,MRT 12 AC,5,mrjALgtFqN,Ark City
+mr-qWoWpOkY,MRT 12 AC,MRT 12 AC,6,mroVIlMSiW,Dayampur
+mr-qWoWpOkY,MRT 12 AC,MRT 12 AC,7,mrVwXdBnCv,Dabka
+mr-qWoWpOkY,MRT 12 AC,MRT 12 AC,8,mrSEnjVYUP,Shobha Pur C
+mr-qWoWpOkY,MRT 12 AC,MRT 12 AC,9,mrCwZuywGT,Khadoli
+mr-qWoWpOkY,MRT 12 AC,MRT 12 AC,10,mrlIwggjCv,Baghpat Bypass
+mr-qWoWpOkY,MRT 12 AC,MRT 12 AC,11,mrlaDQJZLt,Shubarti
+mr-qWoWpOkY,MRT 12 AC,MRT 12 AC,12,mrfErfkfTZ,Sushanat City
+mr-qWoWpOkY,MRT 12 AC,MRT 12 AC,13,mrPdOZooRv,Dungrawali
+mr-qWoWpOkY,MRT 12 AC,MRT 12 AC,14,mrFblDrbnt,Big Byte
+mr-qWoWpOkY,MRT 12 AC,MRT 12 AC,15,mrhFBdAHEH,Partapur
+mr-qWoWpOkY,MRT 12 AC,MRT 12 AC,16,mrPbydQAZs,Bhudbaral
+mr-qWoWpOkY,MRT 12 AC,MRT 12 AC,17,mrgaPZINaL,Mohiuddinpur
+mr-qWoWpOkY,MRT 12 AC,MRT 12 AC,18,mrfddpByBe,Sugar Mill
+mr-qWoWpOkY,MRT 12 AC,MRT 12 AC,19,mrroIDQqZF,IDST
+mr-qWoWpOkY,MRT 12 AC,MRT 12 AC,20,mrVwDCmryD,Kadrabad
+mr-qWoWpOkY,MRT 12 AC,MRT 12 AC,21,mrgzsMPZam,Govindpuri
+mr-qWoWpOkY,MRT 12 AC,MRT 12 AC,22,mrAdYeumAA,Sai Mandir
+mr-qWoWpOkY,MRT 12 AC,MRT 12 AC,23,mroIDBqaml,Raj Chopla
+mr-nkoqZItI,MRT 12 NAC,MRT 12 NAC,1,mrkBWKGEJS,D M A 1 Or Modipuram
+mr-nkoqZItI,MRT 12 NAC,MRT 12 NAC,2,mrgmISrngP,Jatoli
+mr-nkoqZItI,MRT 12 NAC,MRT 12 NAC,3,mrNHDWzlUT,Aryan School
+mr-nkoqZItI,MRT 12 NAC,MRT 12 NAC,4,mrdWlXTIOt,Kanker Khera
+mr-nkoqZItI,MRT 12 NAC,MRT 12 NAC,5,mrjALgtFqN,Ark City
+mr-nkoqZItI,MRT 12 NAC,MRT 12 NAC,6,mroVIlMSiW,Dayampur
+mr-nkoqZItI,MRT 12 NAC,MRT 12 NAC,7,mrVwXdBnCv,Dabka
+mr-nkoqZItI,MRT 12 NAC,MRT 12 NAC,8,mrSEnjVYUP,Shobha Pur C
+mr-nkoqZItI,MRT 12 NAC,MRT 12 NAC,9,mrCwZuywGT,Khadoli
+mr-nkoqZItI,MRT 12 NAC,MRT 12 NAC,10,mrlIwggjCv,Baghpat Bypass
+mr-nkoqZItI,MRT 12 NAC,MRT 12 NAC,11,mrlaDQJZLt,Shubarti
+mr-nkoqZItI,MRT 12 NAC,MRT 12 NAC,12,mrfErfkfTZ,Sushanat City
+mr-nkoqZItI,MRT 12 NAC,MRT 12 NAC,13,mrPdOZooRv,Dungrawali
+mr-nkoqZItI,MRT 12 NAC,MRT 12 NAC,14,mrFblDrbnt,Big Byte
+mr-nkoqZItI,MRT 12 NAC,MRT 12 NAC,15,mrhFBdAHEH,Partapur
+mr-nkoqZItI,MRT 12 NAC,MRT 12 NAC,16,mrPbydQAZs,Bhudbaral
+mr-nkoqZItI,MRT 12 NAC,MRT 12 NAC,17,mrgaPZINaL,Mohiuddinpur
+mr-nkoqZItI,MRT 12 NAC,MRT 12 NAC,18,mrfddpByBe,Sugar Mill
+mr-nkoqZItI,MRT 12 NAC,MRT 12 NAC,19,mrroIDQqZF,IDST
+mr-nkoqZItI,MRT 12 NAC,MRT 12 NAC,20,mrVwDCmryD,Kadrabad
+mr-nkoqZItI,MRT 12 NAC,MRT 12 NAC,21,mrgzsMPZam,Govindpuri
+mr-nkoqZItI,MRT 12 NAC,MRT 12 NAC,22,mrAdYeumAA,Sai Mandir
+mr-nkoqZItI,MRT 12 NAC,MRT 12 NAC,23,mroIDBqaml,Raj Chopla
+mr-xXIKhKtG,MRT 12 AC,MRT 12 AC,1,mrDLCLqBGW,Modi Nagar
+mr-xXIKhKtG,MRT 12 AC,MRT 12 AC,2,mrQkMjTSjE,Raj Chopla
+mr-xXIKhKtG,MRT 12 AC,MRT 12 AC,3,mrHaEYfjjJ,Sai Mandir
+mr-xXIKhKtG,MRT 12 AC,MRT 12 AC,4,mrtDMusaDF,Govindpuri
+mr-xXIKhKtG,MRT 12 AC,MRT 12 AC,5,mrhbgnFSUu,Kadrabad
+mr-xXIKhKtG,MRT 12 AC,MRT 12 AC,6,mrckzeGeeI,IDST
+mr-xXIKhKtG,MRT 12 AC,MRT 12 AC,7,mrpbmFuXqV,Sugar Mill
+mr-xXIKhKtG,MRT 12 AC,MRT 12 AC,8,mrOkQLjDyz,Mohiuddinpur
+mr-xXIKhKtG,MRT 12 AC,MRT 12 AC,9,mrgvZprTSf,Bhudbaral
+mr-xXIKhKtG,MRT 12 AC,MRT 12 AC,10,mrQeqmLMcd,Partapur
+mr-xXIKhKtG,MRT 12 AC,MRT 12 AC,11,mrNGBVldQt,Big Byte
+mr-xXIKhKtG,MRT 12 AC,MRT 12 AC,12,mrnJoRfryJ,Dungrawali
+mr-xXIKhKtG,MRT 12 AC,MRT 12 AC,13,mrOkqOOwnf,Sushanat City
+mr-xXIKhKtG,MRT 12 AC,MRT 12 AC,14,mrWhBpAypL,Shubarti 
+mr-xXIKhKtG,MRT 12 AC,MRT 12 AC,15,mrLUiEyDAy,Baghpat Bypass
+mr-xXIKhKtG,MRT 12 AC,MRT 12 AC,16,mrdWxlEOBS,Khadoli
+mr-xXIKhKtG,MRT 12 AC,MRT 12 AC,17,mrRhGQeCRJ,Shobha Pur C
+mr-xXIKhKtG,MRT 12 AC,MRT 12 AC,18,mrsOHTcOHB,Dabka
+mr-xXIKhKtG,MRT 12 AC,MRT 12 AC,19,mraZnQAiyd,Dayampur
+mr-xXIKhKtG,MRT 12 AC,MRT 12 AC,20,mrdTuKeWnB,Ark City
+mr-xXIKhKtG,MRT 12 AC,MRT 12 AC,21,mrUABdhMeY,Kanker Khera
+mr-xXIKhKtG,MRT 12 AC,MRT 12 AC,22,mrklMGleqW,Aryan School
+mr-xXIKhKtG,MRT 12 AC,MRT 12 AC,23,mrrXdSjWKN,Jatoli
+mr-uJLqSdUR,MRT 12 NAC,MRT 12 NAC,1,mrDLCLqBGW,Modi Nagar
+mr-uJLqSdUR,MRT 12 NAC,MRT 12 NAC,2,mrQkMjTSjE,Raj Chopla
+mr-uJLqSdUR,MRT 12 NAC,MRT 12 NAC,3,mrHaEYfjjJ,Sai Mandir
+mr-uJLqSdUR,MRT 12 NAC,MRT 12 NAC,4,mrtDMusaDF,Govindpuri
+mr-uJLqSdUR,MRT 12 NAC,MRT 12 NAC,5,mrhbgnFSUu,Kadrabad
+mr-uJLqSdUR,MRT 12 NAC,MRT 12 NAC,6,mrckzeGeeI,IDST
+mr-uJLqSdUR,MRT 12 NAC,MRT 12 NAC,7,mrpbmFuXqV,Sugar Mill
+mr-uJLqSdUR,MRT 12 NAC,MRT 12 NAC,8,mrOkQLjDyz,Mohiuddinpur
+mr-uJLqSdUR,MRT 12 NAC,MRT 12 NAC,9,mrgvZprTSf,Bhudbaral
+mr-uJLqSdUR,MRT 12 NAC,MRT 12 NAC,10,mrQeqmLMcd,Partapur
+mr-uJLqSdUR,MRT 12 NAC,MRT 12 NAC,11,mrNGBVldQt,Big Byte
+mr-uJLqSdUR,MRT 12 NAC,MRT 12 NAC,12,mrnJoRfryJ,Dungrawali
+mr-uJLqSdUR,MRT 12 NAC,MRT 12 NAC,13,mrOkqOOwnf,Sushanat City
+mr-uJLqSdUR,MRT 12 NAC,MRT 12 NAC,14,mrWhBpAypL,Shubarti 
+mr-uJLqSdUR,MRT 12 NAC,MRT 12 NAC,15,mrLUiEyDAy,Baghpat Bypass
+mr-uJLqSdUR,MRT 12 NAC,MRT 12 NAC,16,mrdWxlEOBS,Khadoli
+mr-uJLqSdUR,MRT 12 NAC,MRT 12 NAC,17,mrRhGQeCRJ,Shobha Pur C
+mr-uJLqSdUR,MRT 12 NAC,MRT 12 NAC,18,mrsOHTcOHB,Dabka
+mr-uJLqSdUR,MRT 12 NAC,MRT 12 NAC,19,mraZnQAiyd,Dayampur
+mr-uJLqSdUR,MRT 12 NAC,MRT 12 NAC,20,mrdTuKeWnB,Ark City
+mr-uJLqSdUR,MRT 12 NAC,MRT 12 NAC,21,mrUABdhMeY,Kanker Khera
+mr-uJLqSdUR,MRT 12 NAC,MRT 12 NAC,22,mrklMGleqW,Aryan School
+mr-uJLqSdUR,MRT 12 NAC,MRT 12 NAC,23,mrrXdSjWKN,Jatoli

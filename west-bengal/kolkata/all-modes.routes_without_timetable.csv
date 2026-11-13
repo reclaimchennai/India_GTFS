@@ -1,0 +1,435 @@
+route_id,route_short_name,route_long_name,stop_sequence,stop_id,stop_name
+wbtc-tram-13,Tram 26/17,Tram 26/17,1,s2e74bd73dc,Gariahat Depot (In Gate)
+wbtc-tram-13,Tram 26/17,Tram 26/17,2,s85c8f19e98,Ballygunge Phari
+wbtc-tram-13,Tram 26/17,Tram 26/17,3,sa17a44b61d,Birla Mandir/BG. Post Office
+wbtc-tram-13,Tram 26/17,Tram 26/17,4,s6b8b754099,Gurusaday Dutta Road
+wbtc-tram-13,Tram 26/17,Tram 26/17,5,s0f7547b88e,Jhow Tala/Rani Birla School
+wbtc-tram-13,Tram 26/17,Tram 26/17,6,s203d166fb4,Beck Bagan
+wbtc-tram-13,Tram 26/17,Tram 26/17,7,sa4036d17c9,New Park Street
+wbtc-tram-13,Tram 26/17,Tram 26/17,8,sc2ef799398,Mallick Bazar
+wbtc-tram-13,Tram 26/17,Tram 26/17,9,sc28f4e457e,Bijli Road
+wbtc-tram-13,Tram 26/17,Tram 26/17,10,s9fd0c822c3,Mission Hospital
+wbtc-tram-13,Tram 26/17,Tram 26/17,11,sbd859a8d28,S.N.B. Crossing/ Moulali
+wbtc-tram-13,Tram 26/17,Tram 26/17,12,sb4fa8de08b,NRS Hospital
+wbtc-tram-13,Tram 26/17,Tram 26/17,1,sb4fa8de08b,NRS Hospital
+wbtc-tram-13,Tram 26/17,Tram 26/17,2,sbd859a8d28,S.N.B. Crossing/ Moulali
+wbtc-tram-13,Tram 26/17,Tram 26/17,3,s9fd0c822c3,Mission Hospital
+wbtc-tram-13,Tram 26/17,Tram 26/17,4,sc28f4e457e,Bijli Road
+wbtc-tram-13,Tram 26/17,Tram 26/17,5,sc2ef799398,Mallick Bazar
+wbtc-tram-13,Tram 26/17,Tram 26/17,6,sa4036d17c9,New Park Street
+wbtc-tram-13,Tram 26/17,Tram 26/17,7,s203d166fb4,Beck Bagan
+wbtc-tram-13,Tram 26/17,Tram 26/17,8,s0f7547b88e,Jhow Tala/Rani Birla School
+wbtc-tram-13,Tram 26/17,Tram 26/17,9,s6b8b754099,Gurusaday Dutta Road
+wbtc-tram-13,Tram 26/17,Tram 26/17,10,sa17a44b61d,Birla Mandir/BG. Post Office
+wbtc-tram-13,Tram 26/17,Tram 26/17,11,s85c8f19e98,Ballygunge Phari
+wbtc-tram-13,Tram 26/17,Tram 26/17,12,s2e74bd73dc,Gariahat Depot (In Gate)
+wbtc-tram-14,Tram 1,Tram 1,1,sd166df6081,Belgachia Depot (Out Gate)
+wbtc-tram-14,Tram 1,Tram 1,2,s3dad4ee35e,R.G.Kar Hospital
+wbtc-tram-14,Tram 1,Tram 1,3,s643ede4c25,Raja Dinendra Street
+wbtc-tram-14,Tram 1,Tram 1,4,s1c3884460c,Shyambazar Tram Terminus
+wbtc-tram-14,Tram 1,Tram 1,5,s1a6a0839a0,Faria Pukur
+wbtc-tram-14,Tram 1,Tram 1,6,s5e7bc14bf1,Hatibagan /Star Theater
+wbtc-tram-14,Tram 1,Tram 1,7,sbdb62fc534,Hedua Park
+wbtc-tram-14,Tram 1,Tram 1,8,s3bb82122ca,Vivekananda Road Crossing
+wbtc-tram-14,Tram 1,Tram 1,9,s6ca11df6d5,Vidya Sagar College
+wbtc-tram-14,Tram 1,Tram 1,10,s10c20c05c5,College Street Junction
+wbtc-tram-14,Tram 1,Tram 1,11,s529e611e9e,Hindu School
+wbtc-tram-14,Tram 1,Tram 1,12,sac96ca38b7,Medical College
+wbtc-tram-14,Tram 1,Tram 1,13,sdfc7c0c192,Hind Cinema
+wbtc-tram-14,Tram 1,Tram 1,14,sf2c02afde2,Wellington
+wbtc-tram-14,Tram 1,Tram 1,15,s66a64eb565,Chandni Chawk
+wbtc-tram-14,Tram 1,Tram 1,16,s050010f767,Moti Seal Street
+wbtc-tram-14,Tram 1,Tram 1,17,scd96c7f2b1,Esplanade
+wbtc-tram-14,Tram 1,Tram 1,1,scd96c7f2b1,Esplanade
+wbtc-tram-14,Tram 1,Tram 1,2,s050010f767,Moti Seal Street
+wbtc-tram-14,Tram 1,Tram 1,3,s66a64eb565,Chandni Chawk
+wbtc-tram-14,Tram 1,Tram 1,4,sf2c02afde2,Wellington
+wbtc-tram-14,Tram 1,Tram 1,5,sdfc7c0c192,Hind Cinema
+wbtc-tram-14,Tram 1,Tram 1,6,sac96ca38b7,Medical College
+wbtc-tram-14,Tram 1,Tram 1,7,s529e611e9e,Hindu School
+wbtc-tram-14,Tram 1,Tram 1,8,s10c20c05c5,College Street Junction
+wbtc-tram-14,Tram 1,Tram 1,9,s6ca11df6d5,Vidya Sagar College
+wbtc-tram-14,Tram 1,Tram 1,10,s3bb82122ca,Vivekananda Road Crossing
+wbtc-tram-14,Tram 1,Tram 1,11,sbdb62fc534,Hedua Park
+wbtc-tram-14,Tram 1,Tram 1,12,s5e7bc14bf1,Hatibagan /Star Theater
+wbtc-tram-14,Tram 1,Tram 1,13,s1a6a0839a0,Faria Pukur
+wbtc-tram-14,Tram 1,Tram 1,14,s1c3884460c,Shyambazar Tram Terminus
+wbtc-tram-14,Tram 1,Tram 1,15,s643ede4c25,Raja Dinendra Street
+wbtc-tram-14,Tram 1,Tram 1,16,s3dad4ee35e,R.G.Kar Hospital
+wbtc-tram-14,Tram 1,Tram 1,17,sd166df6081,Belgachia Depot (Out Gate)
+wbtc-tram-15,Tram 2,Tram 2,1,sd166df6081,Belgachia Depot (Out Gate)
+wbtc-tram-15,Tram 2,Tram 2,2,s3dad4ee35e,R.G.Kar Hospital
+wbtc-tram-15,Tram 2,Tram 2,3,s643ede4c25,Raja Dinendra Street
+wbtc-tram-15,Tram 2,Tram 2,4,s1c3884460c,Shyambazar Tram Terminus
+wbtc-tram-15,Tram 2,Tram 2,5,s1a6a0839a0,Faria Pukur
+wbtc-tram-15,Tram 2,Tram 2,6,s5e7bc14bf1,Hatibagan /Star Theater
+wbtc-tram-15,Tram 2,Tram 2,7,sbdb62fc534,Hedua Park
+wbtc-tram-15,Tram 2,Tram 2,8,s3bb82122ca,Vivekananda Road Crossing
+wbtc-tram-15,Tram 2,Tram 2,9,s6ca11df6d5,Vidya Sagar College
+wbtc-tram-15,Tram 2,Tram 2,10,s10c20c05c5,College Street Junction
+wbtc-tram-15,Tram 2,Tram 2,11,s529e611e9e,Hindu School
+wbtc-tram-15,Tram 2,Tram 2,12,sac96ca38b7,Medical College
+wbtc-tram-15,Tram 2,Tram 2,13,s1a9eed3966,Lal Bazar
+wbtc-tram-15,Tram 2,Tram 2,14,sfaf839c941,B. B. D. Bag
+wbtc-tram-15,Tram 2,Tram 2,1,sfaf839c941,B. B. D. Bag
+wbtc-tram-15,Tram 2,Tram 2,2,s1a9eed3966,Lal Bazar
+wbtc-tram-15,Tram 2,Tram 2,3,sac96ca38b7,Medical College
+wbtc-tram-15,Tram 2,Tram 2,4,s529e611e9e,Hindu School
+wbtc-tram-15,Tram 2,Tram 2,5,s10c20c05c5,College Street Junction
+wbtc-tram-15,Tram 2,Tram 2,6,s6ca11df6d5,Vidya Sagar College
+wbtc-tram-15,Tram 2,Tram 2,7,s3bb82122ca,Vivekananda Road Crossing
+wbtc-tram-15,Tram 2,Tram 2,8,sbdb62fc534,Hedua Park
+wbtc-tram-15,Tram 2,Tram 2,9,s5e7bc14bf1,Hatibagan /Star Theater
+wbtc-tram-15,Tram 2,Tram 2,10,s1a6a0839a0,Faria Pukur
+wbtc-tram-15,Tram 2,Tram 2,11,s1c3884460c,Shyambazar Tram Terminus
+wbtc-tram-15,Tram 2,Tram 2,12,s643ede4c25,Raja Dinendra Street
+wbtc-tram-15,Tram 2,Tram 2,13,s3dad4ee35e,R.G.Kar Hospital
+wbtc-tram-15,Tram 2,Tram 2,14,sd166df6081,Belgachia Depot (Out Gate)
+wbtc-tram-16,Tram 4,Tram 4,1,s705f7f8797,Esplanade
+wbtc-tram-16,Tram 4,Tram 4,2,s3506e217fb,Shyambazar (northbound)
+wbtc-tram-16,Tram 4,Tram 4,1,s3506e217fb,Shyambazar (northbound)
+wbtc-tram-16,Tram 4,Tram 4,2,s705f7f8797,Esplanade
+wbtc-tram-17,Tram 5,Tram 5,1,s1c3884460c,Shyambazar Tram Terminus
+wbtc-tram-17,Tram 5,Tram 5,2,s1a6a0839a0,Faria Pukur
+wbtc-tram-17,Tram 5,Tram 5,3,s5e7bc14bf1,Hatibagan /Star Theater
+wbtc-tram-17,Tram 5,Tram 5,4,sbdb62fc534,Hedua Park
+wbtc-tram-17,Tram 5,Tram 5,5,s3bb82122ca,Vivekananda Road Crossing
+wbtc-tram-17,Tram 5,Tram 5,6,s6ca11df6d5,Vidya Sagar College
+wbtc-tram-17,Tram 5,Tram 5,7,s10c20c05c5,College Street Junction
+wbtc-tram-17,Tram 5,Tram 5,8,s529e611e9e,Hindu School
+wbtc-tram-17,Tram 5,Tram 5,9,sac96ca38b7,Medical College
+wbtc-tram-17,Tram 5,Tram 5,10,sdfc7c0c192,Hind Cinema
+wbtc-tram-17,Tram 5,Tram 5,11,sf2c02afde2,Wellington
+wbtc-tram-17,Tram 5,Tram 5,12,s66a64eb565,Chandni Chawk
+wbtc-tram-17,Tram 5,Tram 5,13,s050010f767,Moti Seal Street
+wbtc-tram-17,Tram 5,Tram 5,14,scd96c7f2b1,Esplanade
+wbtc-tram-17,Tram 5,Tram 5,1,scd96c7f2b1,Esplanade
+wbtc-tram-17,Tram 5,Tram 5,2,s050010f767,Moti Seal Street
+wbtc-tram-17,Tram 5,Tram 5,3,s66a64eb565,Chandni Chawk
+wbtc-tram-17,Tram 5,Tram 5,4,sf2c02afde2,Wellington
+wbtc-tram-17,Tram 5,Tram 5,5,sdfc7c0c192,Hind Cinema
+wbtc-tram-17,Tram 5,Tram 5,6,sac96ca38b7,Medical College
+wbtc-tram-17,Tram 5,Tram 5,7,s529e611e9e,Hindu School
+wbtc-tram-17,Tram 5,Tram 5,8,s10c20c05c5,College Street Junction
+wbtc-tram-17,Tram 5,Tram 5,9,s6ca11df6d5,Vidya Sagar College
+wbtc-tram-17,Tram 5,Tram 5,10,s3bb82122ca,Vivekananda Road Crossing
+wbtc-tram-17,Tram 5,Tram 5,11,sbdb62fc534,Hedua Park
+wbtc-tram-17,Tram 5,Tram 5,12,s5e7bc14bf1,Hatibagan /Star Theater
+wbtc-tram-17,Tram 5,Tram 5,13,s1a6a0839a0,Faria Pukur
+wbtc-tram-17,Tram 5,Tram 5,14,s1c3884460c,Shyambazar Tram Terminus
+wbtc-tram-18,Tram 6,Tram 6,1,s1c3884460c,Shyambazar Tram Terminus
+wbtc-tram-18,Tram 6,Tram 6,2,s1a6a0839a0,Faria Pukur
+wbtc-tram-18,Tram 6,Tram 6,3,s5e7bc14bf1,Hatibagan /Star Theater
+wbtc-tram-18,Tram 6,Tram 6,4,sbdb62fc534,Hedua Park
+wbtc-tram-18,Tram 6,Tram 6,5,s3bb82122ca,Vivekananda Road Crossing
+wbtc-tram-18,Tram 6,Tram 6,6,s6ca11df6d5,Vidya Sagar College
+wbtc-tram-18,Tram 6,Tram 6,7,s10c20c05c5,College Street Junction
+wbtc-tram-18,Tram 6,Tram 6,8,s529e611e9e,Hindu School
+wbtc-tram-18,Tram 6,Tram 6,9,sac96ca38b7,Medical College
+wbtc-tram-18,Tram 6,Tram 6,10,s1a9eed3966,Lal Bazar
+wbtc-tram-18,Tram 6,Tram 6,11,sfaf839c941,B. B. D. Bag
+wbtc-tram-18,Tram 6,Tram 6,12,s1a0a81c443,Great Eastern Hotel
+wbtc-tram-18,Tram 6,Tram 6,13,s076626d242,Raj Bhavan
+wbtc-tram-18,Tram 6,Tram 6,14,s705f7f8797,Esplanade
+wbtc-tram-18,Tram 6,Tram 6,1,s705f7f8797,Esplanade
+wbtc-tram-18,Tram 6,Tram 6,2,s076626d242,Raj Bhavan
+wbtc-tram-18,Tram 6,Tram 6,3,s1a0a81c443,Great Eastern Hotel
+wbtc-tram-18,Tram 6,Tram 6,4,sfaf839c941,B. B. D. Bag
+wbtc-tram-18,Tram 6,Tram 6,5,s1a9eed3966,Lal Bazar
+wbtc-tram-18,Tram 6,Tram 6,6,sac96ca38b7,Medical College
+wbtc-tram-18,Tram 6,Tram 6,7,s529e611e9e,Hindu School
+wbtc-tram-18,Tram 6,Tram 6,8,s10c20c05c5,College Street Junction
+wbtc-tram-18,Tram 6,Tram 6,9,s6ca11df6d5,Vidya Sagar College
+wbtc-tram-18,Tram 6,Tram 6,10,s3bb82122ca,Vivekananda Road Crossing
+wbtc-tram-18,Tram 6,Tram 6,11,sbdb62fc534,Hedua Park
+wbtc-tram-18,Tram 6,Tram 6,12,s5e7bc14bf1,Hatibagan /Star Theater
+wbtc-tram-18,Tram 6,Tram 6,13,s1a6a0839a0,Faria Pukur
+wbtc-tram-18,Tram 6,Tram 6,14,s1c3884460c,Shyambazar Tram Terminus
+wbtc-tram-19,Tram 11,Tram 11,1,s1bef504df6,Howrah Bridge
+wbtc-tram-19,Tram 11,Tram 11,2,s3506e217fb,Shyambazar (northbound)
+wbtc-tram-19,Tram 11,Tram 11,1,s3506e217fb,Shyambazar (northbound)
+wbtc-tram-19,Tram 11,Tram 11,2,s1bef504df6,Howrah Bridge
+wbtc-tram-20,Tram 14,Tram 14,1,s2b1f9f0536,Rajabazar Tram Depot
+wbtc-tram-20,Tram 14,Tram 14,2,s7fbbc5ceef,Bowbazar Junction
+wbtc-tram-20,Tram 14,Tram 14,3,s1a9eed3966,Lal Bazar
+wbtc-tram-20,Tram 14,Tram 14,4,sfaf839c941,B. B. D. Bag
+wbtc-tram-20,Tram 14,Tram 14,5,s1a0a81c443,Great Eastern Hotel
+wbtc-tram-20,Tram 14,Tram 14,6,s076626d242,Raj Bhavan
+wbtc-tram-20,Tram 14,Tram 14,7,s705f7f8797,Esplanade
+wbtc-tram-20,Tram 14,Tram 14,1,s705f7f8797,Esplanade
+wbtc-tram-20,Tram 14,Tram 14,2,s076626d242,Raj Bhavan
+wbtc-tram-20,Tram 14,Tram 14,3,s1a0a81c443,Great Eastern Hotel
+wbtc-tram-20,Tram 14,Tram 14,4,sfaf839c941,B. B. D. Bag
+wbtc-tram-20,Tram 14,Tram 14,5,s1a9eed3966,Lal Bazar
+wbtc-tram-20,Tram 14,Tram 14,6,s7fbbc5ceef,Bowbazar Junction
+wbtc-tram-20,Tram 14,Tram 14,7,s2b1f9f0536,Rajabazar Tram Depot
+wbtc-tram-21,Tram 16,Tram 16,1,sf69d1d6272,Bidhannagar Station
+wbtc-tram-21,Tram 16,Tram 16,2,s6b7f7a129a,Ultadanga Crossing
+wbtc-tram-21,Tram 16,Tram 16,3,s51440b2fcc,ESI Hospital
+wbtc-tram-21,Tram 16,Tram 16,4,s7b96c9fbe0,Kabarsthan
+wbtc-tram-21,Tram 16,Tram 16,5,s089ce4a59f,Kankurgachi Junction
+wbtc-tram-21,Tram 16,Tram 16,6,s1b62992881,Marawari Bagan
+wbtc-tram-21,Tram 16,Tram 16,7,s9a8b7bf7dd,North Road
+wbtc-tram-21,Tram 16,Tram 16,8,sdf20b16d00,Sukhia Street
+wbtc-tram-21,Tram 16,Tram 16,9,s1a9eed3966,Lal Bazar
+wbtc-tram-21,Tram 16,Tram 16,10,sfaf839c941,B. B. D. Bag
+wbtc-tram-21,Tram 16,Tram 16,11,s1a0a81c443,Great Eastern Hotel
+wbtc-tram-21,Tram 16,Tram 16,12,s076626d242,Raj Bhavan
+wbtc-tram-21,Tram 16,Tram 16,13,s705f7f8797,Esplanade
+wbtc-tram-21,Tram 16,Tram 16,1,s705f7f8797,Esplanade
+wbtc-tram-21,Tram 16,Tram 16,2,s076626d242,Raj Bhavan
+wbtc-tram-21,Tram 16,Tram 16,3,s1a0a81c443,Great Eastern Hotel
+wbtc-tram-21,Tram 16,Tram 16,4,sfaf839c941,B. B. D. Bag
+wbtc-tram-21,Tram 16,Tram 16,5,s1a9eed3966,Lal Bazar
+wbtc-tram-21,Tram 16,Tram 16,6,sdf20b16d00,Sukhia Street
+wbtc-tram-21,Tram 16,Tram 16,7,s9a8b7bf7dd,North Road
+wbtc-tram-21,Tram 16,Tram 16,8,s1b62992881,Marawari Bagan
+wbtc-tram-21,Tram 16,Tram 16,9,s089ce4a59f,Kankurgachi Junction
+wbtc-tram-21,Tram 16,Tram 16,10,s7b96c9fbe0,Kabarsthan
+wbtc-tram-21,Tram 16,Tram 16,11,s51440b2fcc,ESI Hospital
+wbtc-tram-21,Tram 16,Tram 16,12,s6b7f7a129a,Ultadanga Crossing
+wbtc-tram-21,Tram 16,Tram 16,13,sf69d1d6272,Bidhannagar Station
+wbtc-tram-22,Tram 21,Tram 21,1,sa4036d17c9,New Park Street
+wbtc-tram-22,Tram 21,Tram 21,2,sc2ef799398,Mallick Bazar
+wbtc-tram-22,Tram 21,Tram 21,3,sc28f4e457e,Bijli Road
+wbtc-tram-22,Tram 21,Tram 21,4,s5117ed24fe,Nonapukur Junction
+wbtc-tram-22,Tram 21,Tram 21,5,s756a1634b8,Ripon Street
+wbtc-tram-22,Tram 21,Tram 21,6,sf2c02afde2,Wellington
+wbtc-tram-22,Tram 21,Tram 21,7,s66a64eb565,Chandni Chawk
+wbtc-tram-22,Tram 21,Tram 21,8,s050010f767,Moti Seal Street
+wbtc-tram-22,Tram 21,Tram 21,9,s5662d1a6e0,Esplanade
+wbtc-tram-22,Tram 21,Tram 21,10,s1a0a81c443,Great Eastern Hotel
+wbtc-tram-22,Tram 21,Tram 21,11,sfaf839c941,B. B. D. Bag
+wbtc-tram-22,Tram 21,Tram 21,12,s4f54d5d9f4,Writers’ Building
+wbtc-tram-22,Tram 21,Tram 21,13,s1a9eed3966,Lal Bazar
+wbtc-tram-22,Tram 21,Tram 21,14,s8bc698650d,Poddar Court
+wbtc-tram-22,Tram 21,Tram 21,15,s399ab5778c,Tiretti Bazar
+wbtc-tram-22,Tram 21,Tram 21,16,sa490f8aab8,Nakhoda Masjid
+wbtc-tram-22,Tram 21,Tram 21,17,s5fb4124ad0,Chitpur Crossing
+wbtc-tram-22,Tram 21,Tram 21,18,sa5d869cdd5,Sona Patty/ Burrabazar P.S.
+wbtc-tram-22,Tram 21,Tram 21,19,sdd7809a910,Kalakar Street
+wbtc-tram-22,Tram 21,Tram 21,1,sdd7809a910,Kalakar Street
+wbtc-tram-22,Tram 21,Tram 21,2,sa5d869cdd5,Sona Patty/ Burrabazar P.S.
+wbtc-tram-22,Tram 21,Tram 21,3,s5fb4124ad0,Chitpur Crossing
+wbtc-tram-22,Tram 21,Tram 21,4,sa490f8aab8,Nakhoda Masjid
+wbtc-tram-22,Tram 21,Tram 21,5,s399ab5778c,Tiretti Bazar
+wbtc-tram-22,Tram 21,Tram 21,6,s8bc698650d,Poddar Court
+wbtc-tram-22,Tram 21,Tram 21,7,s1a9eed3966,Lal Bazar
+wbtc-tram-22,Tram 21,Tram 21,8,s4f54d5d9f4,Writers’ Building
+wbtc-tram-22,Tram 21,Tram 21,9,sfaf839c941,B. B. D. Bag
+wbtc-tram-22,Tram 21,Tram 21,10,s1a0a81c443,Great Eastern Hotel
+wbtc-tram-22,Tram 21,Tram 21,11,s5662d1a6e0,Esplanade
+wbtc-tram-22,Tram 21,Tram 21,12,s050010f767,Moti Seal Street
+wbtc-tram-22,Tram 21,Tram 21,13,s66a64eb565,Chandni Chawk
+wbtc-tram-22,Tram 21,Tram 21,14,sf2c02afde2,Wellington
+wbtc-tram-22,Tram 21,Tram 21,15,s756a1634b8,Ripon Street
+wbtc-tram-22,Tram 21,Tram 21,16,s5117ed24fe,Nonapukur Junction
+wbtc-tram-22,Tram 21,Tram 21,17,sc28f4e457e,Bijli Road
+wbtc-tram-22,Tram 21,Tram 21,18,sc2ef799398,Mallick Bazar
+wbtc-tram-22,Tram 21,Tram 21,19,sa4036d17c9,New Park Street
+wbtc-tram-23,Tram 22,Tram 22,1,sa4036d17c9,New Park Street
+wbtc-tram-23,Tram 22,Tram 22,2,sc2ef799398,Mallick Bazar
+wbtc-tram-23,Tram 22,Tram 22,3,sc28f4e457e,Bijli Road
+wbtc-tram-23,Tram 22,Tram 22,4,s5117ed24fe,Nonapukur Junction
+wbtc-tram-23,Tram 22,Tram 22,5,s756a1634b8,Ripon Street
+wbtc-tram-23,Tram 22,Tram 22,6,s66a64eb565,Chandni Chawk
+wbtc-tram-23,Tram 22,Tram 22,7,s050010f767,Moti Seal Street
+wbtc-tram-23,Tram 22,Tram 22,8,s1a0a81c443,Great Eastern Hotel
+wbtc-tram-23,Tram 22,Tram 22,9,sfaf839c941,B. B. D. Bag
+wbtc-tram-23,Tram 22,Tram 22,1,sfaf839c941,B. B. D. Bag
+wbtc-tram-23,Tram 22,Tram 22,2,s1a0a81c443,Great Eastern Hotel
+wbtc-tram-23,Tram 22,Tram 22,3,s050010f767,Moti Seal Street
+wbtc-tram-23,Tram 22,Tram 22,4,s66a64eb565,Chandni Chawk
+wbtc-tram-23,Tram 22,Tram 22,5,s756a1634b8,Ripon Street
+wbtc-tram-23,Tram 22,Tram 22,6,s5117ed24fe,Nonapukur Junction
+wbtc-tram-23,Tram 22,Tram 22,7,sc28f4e457e,Bijli Road
+wbtc-tram-23,Tram 22,Tram 22,8,sc2ef799398,Mallick Bazar
+wbtc-tram-23,Tram 22,Tram 22,9,sa4036d17c9,New Park Street
+wbtc-tram-24,Tram 25,Tram 25,1,s2e74bd73dc,Gariahat Depot (In Gate)
+wbtc-tram-24,Tram 25,Tram 25,2,s85c8f19e98,Ballygunge Phari
+wbtc-tram-24,Tram 25,Tram 25,3,s33a50dffd3,Ballygunge Post Office
+wbtc-tram-24,Tram 25,Tram 25,4,s6b8b754099,Gurusaday Dutta Road
+wbtc-tram-24,Tram 25,Tram 25,5,s50cb9ec809,Jhowtalla Road
+wbtc-tram-24,Tram 25,Tram 25,6,s203d166fb4,Beck Bagan
+wbtc-tram-24,Tram 25,Tram 25,7,sa4036d17c9,New Park Street
+wbtc-tram-24,Tram 25,Tram 25,8,sc2ef799398,Mallick Bazar
+wbtc-tram-24,Tram 25,Tram 25,9,sc28f4e457e,Bijli Road
+wbtc-tram-24,Tram 25,Tram 25,10,s28539435be,Nonapukur Crossing
+wbtc-tram-24,Tram 25,Tram 25,11,s756a1634b8,Ripon Street
+wbtc-tram-24,Tram 25,Tram 25,12,sf2c02afde2,Wellington
+wbtc-tram-24,Tram 25,Tram 25,13,s66a64eb565,Chandni Chawk
+wbtc-tram-24,Tram 25,Tram 25,14,s050010f767,Moti Seal Street
+wbtc-tram-24,Tram 25,Tram 25,15,s5662d1a6e0,Esplanade
+wbtc-tram-24,Tram 25,Tram 25,16,s1a0a81c443,Great Eastern Hotel
+wbtc-tram-24,Tram 25,Tram 25,17,sfaf839c941,B. B. D. Bag
+wbtc-tram-24,Tram 25,Tram 25,1,sfaf839c941,B. B. D. Bag
+wbtc-tram-24,Tram 25,Tram 25,2,s1a0a81c443,Great Eastern Hotel
+wbtc-tram-24,Tram 25,Tram 25,3,s5662d1a6e0,Esplanade
+wbtc-tram-24,Tram 25,Tram 25,4,s050010f767,Moti Seal Street
+wbtc-tram-24,Tram 25,Tram 25,5,s66a64eb565,Chandni Chawk
+wbtc-tram-24,Tram 25,Tram 25,6,sf2c02afde2,Wellington
+wbtc-tram-24,Tram 25,Tram 25,7,s756a1634b8,Ripon Street
+wbtc-tram-24,Tram 25,Tram 25,8,s28539435be,Nonapukur Crossing
+wbtc-tram-24,Tram 25,Tram 25,9,sc28f4e457e,Bijli Road
+wbtc-tram-24,Tram 25,Tram 25,10,sc2ef799398,Mallick Bazar
+wbtc-tram-24,Tram 25,Tram 25,11,sa4036d17c9,New Park Street
+wbtc-tram-24,Tram 25,Tram 25,12,s203d166fb4,Beck Bagan
+wbtc-tram-24,Tram 25,Tram 25,13,s50cb9ec809,Jhowtalla Road
+wbtc-tram-24,Tram 25,Tram 25,14,s6b8b754099,Gurusaday Dutta Road
+wbtc-tram-24,Tram 25,Tram 25,15,s33a50dffd3,Ballygunge Post Office
+wbtc-tram-24,Tram 25,Tram 25,16,s85c8f19e98,Ballygunge Phari
+wbtc-tram-24,Tram 25,Tram 25,17,s2e74bd73dc,Gariahat Depot (In Gate)
+wbtc-tram-25,Tram 26,Tram 26,1,s2e74bd73dc,Gariahat Depot (In Gate)
+wbtc-tram-25,Tram 26,Tram 26,2,s85c8f19e98,Ballygunge Phari
+wbtc-tram-25,Tram 26,Tram 26,3,s6b8b754099,Gurusaday Dutta Road
+wbtc-tram-25,Tram 26,Tram 26,4,s0f7547b88e,Jhow Tala/Rani Birla School
+wbtc-tram-25,Tram 26,Tram 26,5,s203d166fb4,Beck Bagan
+wbtc-tram-25,Tram 26,Tram 26,6,sa4036d17c9,New Park Street
+wbtc-tram-25,Tram 26,Tram 26,7,sc2ef799398,Mallick Bazar
+wbtc-tram-25,Tram 26,Tram 26,8,sc28f4e457e,Bijli Road
+wbtc-tram-25,Tram 26,Tram 26,9,s9fd0c822c3,Mission Hospital
+wbtc-tram-25,Tram 26,Tram 26,10,s97df3e0202,S.N.B. Crossing/ Moulali
+wbtc-tram-25,Tram 26,Tram 26,11,sc8ca25d090,Surendranath College
+wbtc-tram-25,Tram 26,Tram 26,12,s10c20c05c5,College Street Junction
+wbtc-tram-25,Tram 26,Tram 26,13,sa5d869cdd5,Sona Patty/ Burrabazar P.S.
+wbtc-tram-25,Tram 26,Tram 26,1,sa5d869cdd5,Sona Patty/ Burrabazar P.S.
+wbtc-tram-25,Tram 26,Tram 26,2,s10c20c05c5,College Street Junction
+wbtc-tram-25,Tram 26,Tram 26,3,sc8ca25d090,Surendranath College
+wbtc-tram-25,Tram 26,Tram 26,4,s97df3e0202,S.N.B. Crossing/ Moulali
+wbtc-tram-25,Tram 26,Tram 26,5,s9fd0c822c3,Mission Hospital
+wbtc-tram-25,Tram 26,Tram 26,6,sc28f4e457e,Bijli Road
+wbtc-tram-25,Tram 26,Tram 26,7,sc2ef799398,Mallick Bazar
+wbtc-tram-25,Tram 26,Tram 26,8,sa4036d17c9,New Park Street
+wbtc-tram-25,Tram 26,Tram 26,9,s203d166fb4,Beck Bagan
+wbtc-tram-25,Tram 26,Tram 26,10,s0f7547b88e,Jhow Tala/Rani Birla School
+wbtc-tram-25,Tram 26,Tram 26,11,s6b8b754099,Gurusaday Dutta Road
+wbtc-tram-25,Tram 26,Tram 26,12,s85c8f19e98,Ballygunge Phari
+wbtc-tram-25,Tram 26,Tram 26,13,s2e74bd73dc,Gariahat Depot (In Gate)
+wbtc-tram-26,Tram 36,Tram 36,1,sd7adc6d620,Babu Bazar
+wbtc-tram-26,Tram 36,Tram 36,2,s606a91ce52,Khidderpore College
+wbtc-tram-26,Tram 36,Tram 36,3,sbf1ce484e0,Fancy Market
+wbtc-tram-26,Tram 36,Tram 36,4,sc50cdf013d,Hastings
+wbtc-tram-26,Tram 36,Tram 36,5,s105996608d,Race Course
+wbtc-tram-26,Tram 36,Tram 36,6,s9948879ac1,Fort William South Gate
+wbtc-tram-26,Tram 36,Tram 36,7,sdd2614c2e2,Sahid Minar
+wbtc-tram-26,Tram 36,Tram 36,8,scd96c7f2b1,Esplanade
+wbtc-tram-26,Tram 36,Tram 36,1,scd96c7f2b1,Esplanade
+wbtc-tram-26,Tram 36,Tram 36,2,sdd2614c2e2,Sahid Minar
+wbtc-tram-26,Tram 36,Tram 36,3,s9948879ac1,Fort William South Gate
+wbtc-tram-26,Tram 36,Tram 36,4,s105996608d,Race Course
+wbtc-tram-26,Tram 36,Tram 36,5,sc50cdf013d,Hastings
+wbtc-tram-26,Tram 36,Tram 36,6,sbf1ce484e0,Fancy Market
+wbtc-tram-26,Tram 36,Tram 36,7,s606a91ce52,Khidderpore College
+wbtc-tram-26,Tram 36,Tram 36,8,sd7adc6d620,Babu Bazar
+wbtc-tram-27,Tram 20,Tram 20,1,sa4036d17c9,New Park Street
+wbtc-tram-27,Tram 20,Tram 20,2,sc2ef799398,Mallick Bazar
+wbtc-tram-27,Tram 20,Tram 20,3,sc28f4e457e,Bijli Road
+wbtc-tram-27,Tram 20,Tram 20,4,s9fd0c822c3,Mission Hospital
+wbtc-tram-27,Tram 20,Tram 20,5,s97df3e0202,S.N.B. Crossing/ Moulali
+wbtc-tram-27,Tram 20,Tram 20,6,sc8ca25d090,Surendranath College
+wbtc-tram-27,Tram 20,Tram 20,7,s10c20c05c5,College Street Junction
+wbtc-tram-27,Tram 20,Tram 20,8,sa5d869cdd5,Sona Patty/ Burrabazar P.S.
+wbtc-tram-27,Tram 20,Tram 20,1,sa5d869cdd5,Sona Patty/ Burrabazar P.S.
+wbtc-tram-27,Tram 20,Tram 20,2,s10c20c05c5,College Street Junction
+wbtc-tram-27,Tram 20,Tram 20,3,sc8ca25d090,Surendranath College
+wbtc-tram-27,Tram 20,Tram 20,4,s97df3e0202,S.N.B. Crossing/ Moulali
+wbtc-tram-27,Tram 20,Tram 20,5,s9fd0c822c3,Mission Hospital
+wbtc-tram-27,Tram 20,Tram 20,6,sc28f4e457e,Bijli Road
+wbtc-tram-27,Tram 20,Tram 20,7,sc2ef799398,Mallick Bazar
+wbtc-tram-27,Tram 20,Tram 20,8,sa4036d17c9,New Park Street
+wbtc-tram-28,Tram 12/7,Tram 12/7,1,s1a0a81c443,Great Eastern Hotel
+wbtc-tram-28,Tram 12/7,Tram 12/7,2,sfaf839c941,B. B. D. Bag
+wbtc-tram-28,Tram 12/7,Tram 12/7,3,s1a9eed3966,Lal Bazar
+wbtc-tram-28,Tram 12/7,Tram 12/7,4,s8bc698650d,Poddar Court
+wbtc-tram-28,Tram 12/7,Tram 12/7,5,s5fb4124ad0,Chitpur Crossing
+wbtc-tram-28,Tram 12/7,Tram 12/7,6,s0631717e8d,Cotton Street
+wbtc-tram-28,Tram 12/7,Tram 12/7,7,s2b2f026bff,Jorasanko Thakur Bari
+wbtc-tram-28,Tram 12/7,Tram 12/7,8,se722a0d60a,Ganesh Talkies
+wbtc-tram-28,Tram 12/7,Tram 12/7,9,sfbb5c3fb56,B. K. Paul Avenue
+wbtc-tram-28,Tram 12/7,Tram 12/7,10,s29b8d703e8,Sova Bazar Junction
+wbtc-tram-28,Tram 12/7,Tram 12/7,11,s0d54b83488,Kumar Tuli
+wbtc-tram-28,Tram 12/7,Tram 12/7,12,s43685040a0,Rajballav Para
+wbtc-tram-28,Tram 12/7,Tram 12/7,13,s31fc077910,Chitpore Bridge
+wbtc-tram-28,Tram 12/7,Tram 12/7,14,s6502c40df3,Galiff Street (Out Gate)
+wbtc-tram-28,Tram 12/7,Tram 12/7,1,s6502c40df3,Galiff Street (Out Gate)
+wbtc-tram-28,Tram 12/7,Tram 12/7,2,s31fc077910,Chitpore Bridge
+wbtc-tram-28,Tram 12/7,Tram 12/7,3,s43685040a0,Rajballav Para
+wbtc-tram-28,Tram 12/7,Tram 12/7,4,s0d54b83488,Kumar Tuli
+wbtc-tram-28,Tram 12/7,Tram 12/7,5,s29b8d703e8,Sova Bazar Junction
+wbtc-tram-28,Tram 12/7,Tram 12/7,6,sfbb5c3fb56,B. K. Paul Avenue
+wbtc-tram-28,Tram 12/7,Tram 12/7,7,se722a0d60a,Ganesh Talkies
+wbtc-tram-28,Tram 12/7,Tram 12/7,8,s2b2f026bff,Jorasanko Thakur Bari
+wbtc-tram-28,Tram 12/7,Tram 12/7,9,s0631717e8d,Cotton Street
+wbtc-tram-28,Tram 12/7,Tram 12/7,10,s5fb4124ad0,Chitpur Crossing
+wbtc-tram-28,Tram 12/7,Tram 12/7,11,s8bc698650d,Poddar Court
+wbtc-tram-28,Tram 12/7,Tram 12/7,12,s1a9eed3966,Lal Bazar
+wbtc-tram-28,Tram 12/7,Tram 12/7,13,sfaf839c941,B. B. D. Bag
+wbtc-tram-28,Tram 12/7,Tram 12/7,14,s1a0a81c443,Great Eastern Hotel
+wbtc-tram-29,Tram 12/1,Tram 12/1,1,scd96c7f2b1,Esplanade
+wbtc-tram-29,Tram 12/1,Tram 12/1,2,s050010f767,Moti Seal Street
+wbtc-tram-29,Tram 12/1,Tram 12/1,3,s66a64eb565,Chandni Chawk
+wbtc-tram-29,Tram 12/1,Tram 12/1,4,sf2c02afde2,Wellington
+wbtc-tram-29,Tram 12/1,Tram 12/1,5,sc3f1de8690,Moulali
+wbtc-tram-29,Tram 12/1,Tram 12/1,6,sb4fa8de08b,NRS Hospital
+wbtc-tram-29,Tram 12/1,Tram 12/1,1,sb4fa8de08b,NRS Hospital
+wbtc-tram-29,Tram 12/1,Tram 12/1,2,sc3f1de8690,Moulali
+wbtc-tram-29,Tram 12/1,Tram 12/1,3,sf2c02afde2,Wellington
+wbtc-tram-29,Tram 12/1,Tram 12/1,4,s66a64eb565,Chandni Chawk
+wbtc-tram-29,Tram 12/1,Tram 12/1,5,s050010f767,Moti Seal Street
+wbtc-tram-29,Tram 12/1,Tram 12/1,6,scd96c7f2b1,Esplanade
+wbtc-tram-30,Tram 17,Tram 17,1,scd96c7f2b1,Esplanade
+wbtc-tram-30,Tram 17,Tram 17,2,s050010f767,Moti Seal Street
+wbtc-tram-30,Tram 17,Tram 17,3,sf2c02afde2,Wellington
+wbtc-tram-30,Tram 17,Tram 17,4,sc687ebc63f,Moulali
+wbtc-tram-30,Tram 17,Tram 17,1,sc687ebc63f,Moulali
+wbtc-tram-30,Tram 17,Tram 17,2,sf2c02afde2,Wellington
+wbtc-tram-30,Tram 17,Tram 17,3,s050010f767,Moti Seal Street
+wbtc-tram-30,Tram 17,Tram 17,4,scd96c7f2b1,Esplanade
+wbtc-tram-31,Tram 18,Tram 18,1,sa5d869cdd5,Sona Patty/ Burrabazar P.S.
+wbtc-tram-31,Tram 18,Tram 18,2,s10c20c05c5,College Street Junction
+wbtc-tram-31,Tram 18,Tram 18,3,s2b1f9f0536,Rajabazar Tram Depot
+wbtc-tram-31,Tram 18,Tram 18,4,sdf20b16d00,Sukhia Street
+wbtc-tram-31,Tram 18,Tram 18,5,s3012b14699,Maniktala Post Office
+wbtc-tram-31,Tram 18,Tram 18,6,s9a8b7bf7dd,North Road
+wbtc-tram-31,Tram 18,Tram 18,7,s1b62992881,Marawari Bagan
+wbtc-tram-31,Tram 18,Tram 18,8,s089ce4a59f,Kankurgachi Junction
+wbtc-tram-31,Tram 18,Tram 18,9,s7b96c9fbe0,Kabarsthan
+wbtc-tram-31,Tram 18,Tram 18,10,s51440b2fcc,ESI Hospital
+wbtc-tram-31,Tram 18,Tram 18,1,s51440b2fcc,ESI Hospital
+wbtc-tram-31,Tram 18,Tram 18,2,s7b96c9fbe0,Kabarsthan
+wbtc-tram-31,Tram 18,Tram 18,3,s089ce4a59f,Kankurgachi Junction
+wbtc-tram-31,Tram 18,Tram 18,4,s1b62992881,Marawari Bagan
+wbtc-tram-31,Tram 18,Tram 18,5,s9a8b7bf7dd,North Road
+wbtc-tram-31,Tram 18,Tram 18,6,s3012b14699,Maniktala Post Office
+wbtc-tram-31,Tram 18,Tram 18,7,sdf20b16d00,Sukhia Street
+wbtc-tram-31,Tram 18,Tram 18,8,s2b1f9f0536,Rajabazar Tram Depot
+wbtc-tram-31,Tram 18,Tram 18,9,s10c20c05c5,College Street Junction
+wbtc-tram-31,Tram 18,Tram 18,10,sa5d869cdd5,Sona Patty/ Burrabazar P.S.
+wbtc-tram-32,Tram 8,Tram 8,1,s1a0a81c443,Great Eastern Hotel
+wbtc-tram-32,Tram 8,Tram 8,2,sfaf839c941,B. B. D. Bag
+wbtc-tram-32,Tram 8,Tram 8,3,s1a9eed3966,Lal Bazar
+wbtc-tram-32,Tram 8,Tram 8,4,s8bc698650d,Poddar Court
+wbtc-tram-32,Tram 8,Tram 8,5,s5fb4124ad0,Chitpur Crossing
+wbtc-tram-32,Tram 8,Tram 8,6,s0631717e8d,Cotton Street
+wbtc-tram-32,Tram 8,Tram 8,7,s2b2f026bff,Jorasanko Thakur Bari
+wbtc-tram-32,Tram 8,Tram 8,8,se722a0d60a,Ganesh Talkies
+wbtc-tram-32,Tram 8,Tram 8,9,sfbb5c3fb56,B. K. Paul Avenue
+wbtc-tram-32,Tram 8,Tram 8,10,s29b8d703e8,Sova Bazar Junction
+wbtc-tram-32,Tram 8,Tram 8,11,s0d54b83488,Kumar Tuli
+wbtc-tram-32,Tram 8,Tram 8,12,s43685040a0,Rajballav Para
+wbtc-tram-32,Tram 8,Tram 8,1,s43685040a0,Rajballav Para
+wbtc-tram-32,Tram 8,Tram 8,2,s0d54b83488,Kumar Tuli
+wbtc-tram-32,Tram 8,Tram 8,3,s29b8d703e8,Sova Bazar Junction
+wbtc-tram-32,Tram 8,Tram 8,4,sfbb5c3fb56,B. K. Paul Avenue
+wbtc-tram-32,Tram 8,Tram 8,5,se722a0d60a,Ganesh Talkies
+wbtc-tram-32,Tram 8,Tram 8,6,s2b2f026bff,Jorasanko Thakur Bari
+wbtc-tram-32,Tram 8,Tram 8,7,s0631717e8d,Cotton Street
+wbtc-tram-32,Tram 8,Tram 8,8,s5fb4124ad0,Chitpur Crossing
+wbtc-tram-32,Tram 8,Tram 8,9,s8bc698650d,Poddar Court
+wbtc-tram-32,Tram 8,Tram 8,10,s1a9eed3966,Lal Bazar
+wbtc-tram-32,Tram 8,Tram 8,11,sfaf839c941,B. B. D. Bag
+wbtc-tram-32,Tram 8,Tram 8,12,s1a0a81c443,Great Eastern Hotel
+wbtc-tram-33,Tram 24,Tram 24,1,sd59507d26a,Ballygunge Station
+wbtc-tram-33,Tram 24,Tram 24,2,s0160777879,Hazra Junction
+wbtc-tram-33,Tram 24,Tram 24,1,s0160777879,Hazra Junction
+wbtc-tram-33,Tram 24,Tram 24,2,sd59507d26a,Ballygunge Station

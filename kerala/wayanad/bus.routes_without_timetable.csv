@@ -1,0 +1,669 @@
+route_id,route_short_name,route_long_name,stop_sequence,stop_id,stop_name
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,1,wayanad-GppqUDrk,Maripuzha
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,2,wayanad-AHPDrxMZ,Thazhe Maripuzha
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,3,wayanad-FculQmxh,Mainamvalavu
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,4,wayanad-aTVLEUhL,Thazhe Mainamvalav
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,5,wayanad-PzIQhDRI,Muthappanpuzha LP School
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,6,wayanad-nXaoaEOu,Muthappanpuzha
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,7,wayanad-oXjZXGEO,Ktc Pady
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,8,wayanad-MztFoEeV,Kalarikkal
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,9,wayanad-bJToeElD,Kulangarappady Or Thazhe Kalarikkal
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,10,wayanad-wqIZRlVV,Pulinchodu Or Mele Nadukkandam
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,11,wayanad-jiRFTPWl,Nadukkandam Junction
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,12,wayanad-SsAaVOZX,Nadukkandam Junction
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,13,wayanad-xVxcheLQ,Nadukkandam
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,14,wayanad-joabCtMK,Anakkampoyil
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,15,wayanad-FCVZUvDs,Thazhe Anakkampoyil
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,16,wayanad-oKOhRToE,St Marys Church Ankkampoyil
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,17,wayanad-dYykwLWZ,Kallolikkalpady
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,18,wayanad-liyVXAEm,Mele Arippara
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,19,wayanad-BXVxQGrP,Othikkalpady
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,20,wayanad-yjVUerTm,Thundipady
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,21,wayanad-rrDgBBXk,Mavathukkal Parathodu
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,22,wayanad-aZwpZFoC,Mavathukkal
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,23,wayanad-ikTxgLzh,Kurumkayam
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,24,wayanad-hPmnoBVT,Pullurampara Mavinchuvadu
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,25,wayanad-JLMZcBUS,Kambilikkunnu
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,26,wayanad-wtVgrUBE,Elanthukadavu
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,27,wayanad-wLqYNiGs,Pullurampara
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,28,wayanad-EHzqbyUR,Pullurampara
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,29,wayanad-noDZEhZN,Pullurampara Snehatheeram
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,30,wayanad-FlroLeZK,Pullurampara Badhaniya Pallipady
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,31,wayanad-ARKZkMva,Kaliyampuzha
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,32,wayanad-hDUTwptA,Kaliampuzha
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,33,wayanad-dtrxaJIB,Kaliyampuzha S Valavu
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,34,wayanad-KFWtWfUx,Kappichuvadu
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,35,wayanad-DfAhkjyc,Athipara
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,36,wayanad-XDmWZWvw,Athipara Kurishu
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,37,wayanad-kWWOYfmT,Parapady
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,38,wayanad-xbuOOQCP,JJ Bakery
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,39,wayanad-slmFRAvQ,Thumbachal Junction
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,40,wayanad-QnGKKXlO,Irumbakam
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,41,wayanad-JMTtRKMk,Nursery Stop
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,42,wayanad-idsEpHgM,Perumalipady
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,43,wayanad-NCgntKRp,Kodalimukku
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,44,wayanad-yoXGFuVz,Thachukunnel
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,45,wayanad-rkocnQnT,Homeo Hospital
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,46,wayanad-ywCYMHye,Thiruvambady
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,47,wayanad-bjKcAMMI,Thiruvambady
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,48,wayanad-GSNhRmvJ,Thiruvambady Market
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,49,wayanad-XMKgHdYy,Thiruvambady Police Station
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,50,wayanad-IiqdsKgq,Thiruvambady UC Mukku
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,51,wayanad-kGkaWkJG,Thazhe Thiruvambady
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,52,wayanad-uUwUlLio,Eranjimukku
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,53,wayanad-bSbFQxcp,Payyadymukku
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,54,wayanad-nQgdgoDw,Priyadarshini
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,55,wayanad-EBsGzUEW,Marakkattupuram
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,56,wayanad-xgFevxwy,Thiruvambady Snehatheeram
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,57,wayanad-vfTkjKVw,Thamburattypady
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,58,wayanad-vDhLwLrH,Thondimmal Kinar
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,59,wayanad-bGsVtdEI,Koolippara
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,60,wayanad-QUJamukj,Cholappady
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,61,wayanad-YdvlxMtY,Thondimmal School
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,62,wayanad-OPRKBiJJ,Agastiamuzhi
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,63,wayanad-DMOevOpB,Agastiamuzhi Mini Civil Station
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,64,wayanad-SHSKzqXQ,Mukkam Government Hospital
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,65,wayanad-TrlYLNqe,Mukkam Abhilash Junction
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,66,wayanad-AzgDdwvd,Mukkam Bus Stand
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,67,wayanad-tWokjTCa,Mukkam Pc Theatre Junction
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,68,wayanad-cuKlCFog,Mukkam Abhilash Junction
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,69,wayanad-BmNvXFTA,Agastiamuzhi
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,70,wayanad-eIJjnJax,Pratheeksha School
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,71,wayanad-hzBriSIF,Mampetta
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,72,wayanad-vVGGuWfC,Manassery
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,73,wayanad-wXterdmX,Manassery GUPS
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,74,wayanad-RgecAXdt,Manassery
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,75,wayanad-uGufWiyq,Manassery
+wayanad-0BLgYOTI,Maripuzha-Kozhikode,Maripuzha to Kariyakulangara,76,wayanad-GOirIrWP,Kariyakulangara
+wayanad-0FbRiVli,Thiruvambady-Palakkadu,Thiruvambady to Mukkam Bus Stand,1,wayanad-bjKcAMMI,Thiruvambady
+wayanad-0FbRiVli,Thiruvambady-Palakkadu,Thiruvambady to Mukkam Bus Stand,2,wayanad-GuzPPgnt,Omassery
+wayanad-0FbRiVli,Thiruvambady-Palakkadu,Thiruvambady to Mukkam Bus Stand,3,wayanad-cORUiPpQ,Neeleswaram
+wayanad-0FbRiVli,Thiruvambady-Palakkadu,Thiruvambady to Mukkam Bus Stand,4,wayanad-DMOevOpB,Agastiamuzhi Mini Civil Station
+wayanad-0FbRiVli,Thiruvambady-Palakkadu,Thiruvambady to Mukkam Bus Stand,5,wayanad-AzgDdwvd,Mukkam Bus Stand
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,1,wayanad-MjpWpvfD,Mananthavady Bus Stand
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,2,wayanad-KVSPhhPk,Ghandi Park
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,3,wayanad-OTggSELK,Erumatheruvu
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,4,wayanad-LYZjkhtl,St Josephs Tti Kaniyaram
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,5,wayanad-svKxjEWH,Palakkuli
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,6,wayanad-RidlBHAH,Kaniyaram
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,7,wayanad-MVrQWETV,Kuzhinilam
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,8,wayanad-RAlHEPTk,Puthanpura
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,9,wayanad-VlTmdvvm,S Valave Thalapuzha
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,10,wayanad-lVCqxnTF,Godhavari Colani
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,11,wayanad-RXDYDUnL,Thindummel
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,12,wayanad-rtHdyEsf,Government Engineering College Wayanad
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,13,wayanad-CyjeEQUz,Central Excise Thalapuzha
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,14,wayanad-BmGSrpxR,Kambi Palam Thalapuzha
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,15,wayanad-jnuHkJwo,Thalapuzha
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,16,wayanad-OPgbXuSP,Kattiyerikkunnu Thalapuzha
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,17,wayanad-ZaRmErKa,Thalappuzha Chungam
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,18,wayanad-eUcRNuYB,Thalapuzha Padi
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,19,wayanad-IJgSwJqz,Kattakalam 44 Th Mile
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,20,wayanad-cblstgWD,Kattakalam Thazhe
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,21,wayanad-AOuLAXIc,43 Mile
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,22,wayanad-EMATqZMi,Kannothumala
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,23,wayanad-fWEYarVT,Eettichuvadu
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,24,wayanad-TfiDAHre,Kannothmala
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,25,wayanad-DZBQpnsr,Venmani
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,26,wayanad-PaPKVDfd,Venmani Thazhe
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,27,wayanad-HGvLzLSS,Shattur Mukku
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,28,wayanad-YObFVYMx,Mele Mambe
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,29,wayanad-YtzWxpgs,Mambe
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,30,wayanad-wvrykpWi,Veerappan Mukku
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,31,wayanad-PLuhvMyD,Kattimoola Milk Socity
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,32,wayanad-QEzDLMJi,Kaattimoola
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,33,wayanad-JaunCoVD,Kattimoola Kavala
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,34,wayanad-jMkplHDF,ALP School Valad
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,35,wayanad-BGkBXErV,Puthoor A
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,36,wayanad-NgJbKEuC,Puthoor
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,37,wayanad-CJSEMqsz,Valad
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,38,wayanad-IvWXoDvM,Valad Palam
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,39,wayanad-JcsrSJID,Valad Palam Akkare
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,40,wayanad-PINhvqqu,Valad Juma Masjid
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,41,wayanad-hCpYjNyW,Karimbil
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,42,wayanad-HqsttOuN,Parakkettu Cherimoola
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,43,wayanad-UoYKsYCp,Mavally Mele
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,44,wayanad-tETPrkRf,Tholakkara
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,45,wayanad-oQxfCUUG,Tholakkara Anganvadi
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,46,wayanad-qskYnUrT,Areekara Palam
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,47,wayanad-oEXqdrjn,Karimbil Church
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,48,wayanad-soeGelXd,Karimbil
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,49,wayanad-tDgESUfZ,Edacheri
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,50,wayanad-NTxBSvZP,Porlome
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,51,wayanad-BkhXuHYY,Kakkottil
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,52,wayanad-QamfKhae,Porlom Mosk
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,53,wayanad-UpBSGGwS,Kunchome Road Junction
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,54,wayanad-XSjaBpLO,Kunchome Road Junction
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,55,wayanad-pNQgDODT,Kunchome
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,56,wayanad-YhWbURez,Kunhome Vilakodi
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,57,wayanad-CjvsbGli,Kunhome Anganvadi
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,58,wayanad-LBCtXfsK,Kunhome Coloney
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,59,wayanad-hzxVyfqT,Pathirymandam
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,60,wayanad-TcmWFXDm,St Antoneys Church
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,61,wayanad-kMaCpqHK,Pakramthalam
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,62,wayanad-gOFFHuuG,Onpathamvalavu
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,63,wayanad-ufnECUMs,Ettamvalavu
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,64,wayanad-aTBMqqUW,Ezhamvalavu
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,65,wayanad-pguKkTCV,Aaramvalavu
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,66,wayanad-EEDytmCu,Anchamvalavu
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,67,wayanad-mPgjVOBZ,4th Valavu
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,68,wayanad-mQAxMFlf,Moonnamvalavu
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,69,wayanad-kxwwqAcP,Ration Shop Poothampara
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,70,wayanad-rFahUvXM,Poothampara
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,71,wayanad-DCouTzfC,Mulavattam
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,72,wayanad-CXDqRbdf,Thazhe Mulavattam
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,73,wayanad-cjYNxzts,Thottilpalam Market
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,74,wayanad-GOAxlxdh,Devarkovil
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,75,wayanad-uttoBhIY,Kanjipeedika
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,76,wayanad-cfeFYfUD,Police Station Kuttiadi
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,77,wayanad-LaCpjbXI,Cheriya Kumbalam
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,78,wayanad-CxkDreCa,Kuyimbilpalam
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,79,wayanad-ITyNYBeF,Puthanpalli
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,80,wayanad-tODxnZsT,Vadakkumbadu
+wayanad-0GPiTTOo,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,81,wayanad-ucMuUngL,Kadiyangad
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,1,wayanad-IgWxVMVU,Thamarassery Old Bus Stand
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,2,wayanad-IrCHnkPA,Mary Matha Cathredral
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,3,wayanad-VCQqFjaB,Chungam
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,4,wayanad-dkCKHBgO,Check Post Thamarassery
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,5,wayanad-onLXTfOT,Ambayathode
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,6,wayanad-AKlRkJJZ,Ambayathode Palam
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,7,wayanad-bLsXKLQP,Pullanhimedu
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,8,wayanad-ESWdimWo,Kr Bus Stop
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,9,wayanad-pPBcuMwn,21 Or 6 Perumbally
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,10,wayanad-tiuBjIXs,21 Or 6 Perumbally
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,11,wayanad-UypEXTFe,Anapparapoyil
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,12,wayanad-nTXXOHEG,Arammukku
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,13,wayanad-GNPITcjr,Chundankuzhi Estate Mukku
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,14,wayanad-QmihMrSu,Chundan Kuzhi
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,15,wayanad-cyQtxXma,Chundankuzhi Palli
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,16,wayanad-MkZvHhAM,Glps Chamal
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,17,wayanad-hjecqjXx,Chamal Valavu
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,18,wayanad-JJKUPSNZ,Chamal
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,19,wayanad-IcoOjaLH,Nirmala School Chamal
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,20,wayanad-BpiVirML,Chamal Convent
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,21,wayanad-ZqdIbmNg,Kelanmoola
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,22,wayanad-qLKlIaPM,Kelanmoola Kayattam
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,23,wayanad-UNkGHKdv,Thazhvaram
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,24,wayanad-ZlMZCump,Kolamala
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,25,wayanad-FgSdoQGU,Pazhaya Kattippara
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,26,wayanad-VuIWQrdS,High School Stop Kattippara
+wayanad-0LwISQRB,Thamarassery-Kattipara,Thamarassery Old Bus Stand to Kattippara Town,27,wayanad-keUPVZqU,Kattippara Town
+wayanad-0OyntazX,Kalpetta-Vythri,Kalpetta Old Bus Stand to Vythiri Bus Stand,1,wayanad-bWKStDlQ,Kalpetta Old Bus Stand
+wayanad-0OyntazX,Kalpetta-Vythri,Kalpetta Old Bus Stand to Vythiri Bus Stand,2,wayanad-zyTNVpVl,Chungam
+wayanad-0OyntazX,Kalpetta-Vythri,Kalpetta Old Bus Stand to Vythiri Bus Stand,3,wayanad-nRtwrJBw,Kalpetta Muncipal Bus Stand
+wayanad-0OyntazX,Kalpetta-Vythri,Kalpetta Old Bus Stand to Vythiri Bus Stand,4,wayanad-sQqkUDBe,Police Station Kalpetta
+wayanad-0OyntazX,Kalpetta-Vythri,Kalpetta Old Bus Stand to Vythiri Bus Stand,5,wayanad-lGYEeiTe,Fire Station
+wayanad-0OyntazX,Kalpetta-Vythri,Kalpetta Old Bus Stand to Vythiri Bus Stand,6,wayanad-uoquqoPO,Weigh Bridge
+wayanad-0OyntazX,Kalpetta-Vythri,Kalpetta Old Bus Stand to Vythiri Bus Stand,7,wayanad-EVCKXHLf,Falah Stop
+wayanad-0OyntazX,Kalpetta-Vythri,Kalpetta Old Bus Stand to Vythiri Bus Stand,8,wayanad-qpWMAEUX,Vellaramkunnu
+wayanad-0OyntazX,Kalpetta-Vythri,Kalpetta Old Bus Stand to Vythiri Bus Stand,9,wayanad-iiSektCb,Perumthatta
+wayanad-0OyntazX,Kalpetta-Vythri,Kalpetta Old Bus Stand to Vythiri Bus Stand,10,wayanad-nQWWUKRD,Kinfra
+wayanad-0OyntazX,Kalpetta-Vythri,Kalpetta Old Bus Stand to Vythiri Bus Stand,11,wayanad-ZICxoyDk,Mavinchodu
+wayanad-0OyntazX,Kalpetta-Vythri,Kalpetta Old Bus Stand to Vythiri Bus Stand,12,wayanad-DrfWKJkK,Chundale Town
+wayanad-0OyntazX,Kalpetta-Vythri,Kalpetta Old Bus Stand to Vythiri Bus Stand,13,wayanad-nFTJzlxY,Vellankolli
+wayanad-0OyntazX,Kalpetta-Vythri,Kalpetta Old Bus Stand to Vythiri Bus Stand,14,wayanad-WczxWsNW,Chelode Palli
+wayanad-0OyntazX,Kalpetta-Vythri,Kalpetta Old Bus Stand to Vythiri Bus Stand,15,wayanad-lEgOHCVN,Chelode
+wayanad-0OyntazX,Kalpetta-Vythri,Kalpetta Old Bus Stand to Vythiri Bus Stand,16,wayanad-fQDnGoeK,Vythiri Panchayath
+wayanad-0UmpydAA,Meppadi Hs-Wims Hospital,Meppadi Panchayath to WIMS Hospital,1,wayanad-MEDrxifs,Meppadi Panchayath
+wayanad-0UmpydAA,Meppadi Hs-Wims Hospital,Meppadi Panchayath to WIMS Hospital,2,wayanad-POjvoeyN,Meppadi Palli Stop
+wayanad-0UmpydAA,Meppadi Hs-Wims Hospital,Meppadi Panchayath to WIMS Hospital,3,wayanad-gcrTzblU,Meppadi Bus Stand
+wayanad-0UmpydAA,Meppadi Hs-Wims Hospital,Meppadi Panchayath to WIMS Hospital,4,wayanad-DFDvJmgf,Thazhe Arappetta Palli
+wayanad-0XgrFUbc,Vythri-Kalpetta,Vythiri Bus Stand to Kalpetta Old Bus Stand,1,wayanad-iYihUebN,Vythiri Bus Stand
+wayanad-0XgrFUbc,Vythri-Kalpetta,Vythiri Bus Stand to Kalpetta Old Bus Stand,2,wayanad-pmTsGmXi,Vythiri Panchayath
+wayanad-0XgrFUbc,Vythri-Kalpetta,Vythiri Bus Stand to Kalpetta Old Bus Stand,3,wayanad-YagPIIbk,Chelode
+wayanad-0XgrFUbc,Vythri-Kalpetta,Vythiri Bus Stand to Kalpetta Old Bus Stand,4,wayanad-rbSpDFXY,Chelode Palli
+wayanad-0XgrFUbc,Vythri-Kalpetta,Vythiri Bus Stand to Kalpetta Old Bus Stand,5,wayanad-RSbXmcnw,Vellankolli
+wayanad-0XgrFUbc,Vythri-Kalpetta,Vythiri Bus Stand to Kalpetta Old Bus Stand,6,wayanad-DrfWKJkK,Chundale Town
+wayanad-0XgrFUbc,Vythri-Kalpetta,Vythiri Bus Stand to Kalpetta Old Bus Stand,7,wayanad-QftPvJqB,Mavinchodu
+wayanad-0XgrFUbc,Vythri-Kalpetta,Vythiri Bus Stand to Kalpetta Old Bus Stand,8,wayanad-CyCWUgHm,Kinfra
+wayanad-0XgrFUbc,Vythri-Kalpetta,Vythiri Bus Stand to Kalpetta Old Bus Stand,9,wayanad-BhKtsowc,Perumthatta
+wayanad-0XgrFUbc,Vythri-Kalpetta,Vythiri Bus Stand to Kalpetta Old Bus Stand,10,wayanad-freTgOGQ,Vellaramkunnu
+wayanad-0XgrFUbc,Vythri-Kalpetta,Vythiri Bus Stand to Kalpetta Old Bus Stand,11,wayanad-oEWJdLcR,Falah Stop
+wayanad-0XgrFUbc,Vythri-Kalpetta,Vythiri Bus Stand to Kalpetta Old Bus Stand,12,wayanad-NZIRFaGB,Weigh Bridge
+wayanad-0XgrFUbc,Vythri-Kalpetta,Vythiri Bus Stand to Kalpetta Old Bus Stand,13,wayanad-QqmrncpF,Fire Station
+wayanad-0XgrFUbc,Vythri-Kalpetta,Vythiri Bus Stand to Kalpetta Old Bus Stand,14,wayanad-yRGjKOry,Police Station Kalpetta
+wayanad-0XgrFUbc,Vythri-Kalpetta,Vythiri Bus Stand to Kalpetta Old Bus Stand,15,wayanad-VbagvTmx,Kalpetta Muncipal Bus Stand
+wayanad-0XgrFUbc,Vythri-Kalpetta,Vythiri Bus Stand to Kalpetta Old Bus Stand,16,wayanad-UPQAsDQc,Chungam
+wayanad-0bUoEjPM,Sulthan Bathery-Trivandrum,Sulthan Bathery Bus Stand to Thiruvananthapuram Central,1,wayanad-KpnibgLX,Sulthan Bathery Bus Stand
+wayanad-0bUoEjPM,Sulthan Bathery-Trivandrum,Sulthan Bathery Bus Stand to Thiruvananthapuram Central,2,wayanad-TJOaSGZd,Meenangadi
+wayanad-0bUoEjPM,Sulthan Bathery-Trivandrum,Sulthan Bathery Bus Stand to Thiruvananthapuram Central,3,wayanad-bWKStDlQ,Kalpetta Old Bus Stand
+wayanad-0bUoEjPM,Sulthan Bathery-Trivandrum,Sulthan Bathery Bus Stand to Thiruvananthapuram Central,4,wayanad-btcwYatG,Adivaram
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,1,wayanad-rhsmqyxl,Perikkallur
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,2,wayanad-GxzrgpZV,Pattani Koopu
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,3,wayanad-prNCBTcF,Madal
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,4,wayanad-PEXdBhOd,Mullenkolly
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,5,wayanad-mvotnIWc,Pulpally Private Bus Stand
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,6,wayanad-kzJRkyzk,Cheeyambam
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,7,wayanad-dajQecpX,Valiya Kurish
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,8,wayanad-WJmerLXG,Cheeyambam
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,9,wayanad-qsmwVrap,Irulam
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,10,wayanad-NlJYAkkI,Chethalayam
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,11,wayanad-hRExQXsp,Kuppady
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,12,wayanad-KpnibgLX,Sulthan Bathery Bus Stand
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,13,wayanad-SoiQozPd,Chungam Town
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,14,wayanad-fylUdFre,Assumption
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,15,wayanad-IwvRqyok,Kodathipadi Bathery
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,16,wayanad-XpiZhSyV,Kolagappara Junction
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,17,wayanad-VNLhsOpv,Meenangadi
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,18,wayanad-nAJlDvdm,Kottakkunnu
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,19,wayanad-XoAScquT,Muttil
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,20,wayanad-sKXxECqb,Kalpetta Civil Station
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,21,wayanad-ZgPkwtHw,Kalpetta Old Bus Stand
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,22,wayanad-RBbwpOCk,Kalpetta Muncipal Bus Stand
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,23,wayanad-RbSPTJqX,Fire Station
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,24,wayanad-BKLlMTHd,Chundale
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,25,wayanad-GKoZKoWI,Vythiri Bus Stand
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,26,wayanad-QykqxPZO,Vythiri Police Station
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,27,wayanad-FjJEroLf,Veterinary College
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,28,wayanad-XlbfxdMO,Lakkidi
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,29,wayanad-sbNffSkQ,Thakkarapadi
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,30,wayanad-UEUQZBfC,Adivaram
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,31,wayanad-bRJGEAsC,Kaithappoyil
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,32,wayanad-MYgHOkGL,Engapuzha Bus Stand
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,33,wayanad-BzEuuyQt,Southmaloram Ration Shop
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,34,wayanad-ehJjthNo,Thamarassery Old Bus Stand
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,35,wayanad-GeJvTzJm,Thamarassery Bus Stand
+wayanad-0mILDNPo,Perikkalloor-ponkunnam,Perikkallur to Koduvally,36,wayanad-dAHFHSaE,Koduvally
+wayanad-0tKjaPwL,Panamaram-Kalpetta,Panamaram Bus Stand to Kalpetta Muncipal Bus Stand,1,wayanad-mDOqjoCE,Panamaram Bus Stand
+wayanad-0tKjaPwL,Panamaram-Kalpetta,Panamaram Bus Stand to Kalpetta Muncipal Bus Stand,2,wayanad-bdgnvzpm,Panamaram SBI
+wayanad-0tKjaPwL,Panamaram-Kalpetta,Panamaram Bus Stand to Kalpetta Muncipal Bus Stand,3,wayanad-kKDsTPRQ,Karimbummal
+wayanad-0tKjaPwL,Panamaram-Kalpetta,Panamaram Bus Stand to Kalpetta Muncipal Bus Stand,4,wayanad-CsMIPDvo,Panamaram Vadechal
+wayanad-0tKjaPwL,Panamaram-Kalpetta,Panamaram Bus Stand to Kalpetta Muncipal Bus Stand,5,wayanad-nUcuFCDJ,Wayanad
+wayanad-0tKjaPwL,Panamaram-Kalpetta,Panamaram Bus Stand to Kalpetta Muncipal Bus Stand,6,wayanad-TrkLxHSh,Eraneloor
+wayanad-0tKjaPwL,Panamaram-Kalpetta,Panamaram Bus Stand to Kalpetta Muncipal Bus Stand,7,wayanad-XLyFhCEE,Mele Pachilakkad
+wayanad-0tKjaPwL,Panamaram-Kalpetta,Panamaram Bus Stand to Kalpetta Muncipal Bus Stand,8,wayanad-mfYXKAXj,Pachilakkad Avila Bhavan
+wayanad-0tKjaPwL,Panamaram-Kalpetta,Panamaram Bus Stand to Kalpetta Muncipal Bus Stand,9,wayanad-hYQBtpAU,Mele Millu Mukku
+wayanad-0tKjaPwL,Panamaram-Kalpetta,Panamaram Bus Stand to Kalpetta Muncipal Bus Stand,10,wayanad-kpeeosQt,Millu Mukku Palli Stop
+wayanad-0tKjaPwL,Panamaram-Kalpetta,Panamaram Bus Stand to Kalpetta Muncipal Bus Stand,11,wayanad-hCCDgEqW,Millumukku
+wayanad-0tKjaPwL,Panamaram-Kalpetta,Panamaram Bus Stand to Kalpetta Muncipal Bus Stand,12,wayanad-yhBmNavA,Kaniyambetta
+wayanad-0tKjaPwL,Panamaram-Kalpetta,Panamaram Bus Stand to Kalpetta Muncipal Bus Stand,13,wayanad-COwVLDcR,Kaniyambetta Ayyappa Temple
+wayanad-0tKjaPwL,Panamaram-Kalpetta,Panamaram Bus Stand to Kalpetta Muncipal Bus Stand,14,wayanad-uIItggFy,Kambalakkad Police Station
+wayanad-0tKjaPwL,Panamaram-Kalpetta,Panamaram Bus Stand to Kalpetta Muncipal Bus Stand,15,wayanad-FBKcjuqr,Mele Pallimukku
+wayanad-0tKjaPwL,Panamaram-Kalpetta,Panamaram Bus Stand to Kalpetta Muncipal Bus Stand,16,wayanad-vEgvdyke,Kambalakkad
+wayanad-0tKjaPwL,Panamaram-Kalpetta,Panamaram Bus Stand to Kalpetta Muncipal Bus Stand,17,wayanad-jqcpzXyO,Kambalakkad
+wayanad-0tKjaPwL,Panamaram-Kalpetta,Panamaram Bus Stand to Kalpetta Muncipal Bus Stand,18,wayanad-DLYFiyPp,Keltron Valavu
+wayanad-0tKjaPwL,Panamaram-Kalpetta,Panamaram Bus Stand to Kalpetta Muncipal Bus Stand,19,wayanad-ulPnMtcR,Madakimala Palli
+wayanad-0tKjaPwL,Panamaram-Kalpetta,Panamaram Bus Stand to Kalpetta Muncipal Bus Stand,20,wayanad-RSPkraPI,Madakkimala
+wayanad-0tKjaPwL,Panamaram-Kalpetta,Panamaram Bus Stand to Kalpetta Muncipal Bus Stand,21,wayanad-lDGAQWYg,Vellambadi Gate
+wayanad-0tKjaPwL,Panamaram-Kalpetta,Panamaram Bus Stand to Kalpetta Muncipal Bus Stand,22,wayanad-OvGfqSVL,Puliyarmala
+wayanad-0tKjaPwL,Panamaram-Kalpetta,Panamaram Bus Stand to Kalpetta Muncipal Bus Stand,23,wayanad-XaQjjGqY,Jyithra Bus Stop
+wayanad-0tKjaPwL,Panamaram-Kalpetta,Panamaram Bus Stand to Kalpetta Muncipal Bus Stand,24,wayanad-bWKStDlQ,Kalpetta Old Bus Stand
+wayanad-0tKjaPwL,Panamaram-Kalpetta,Panamaram Bus Stand to Kalpetta Muncipal Bus Stand,25,wayanad-zyTNVpVl,Chungam
+wayanad-0ukedZVq,Mananthavady-Pancharakolly,Mananthavady Bus Stand to Panjarakolly,1,wayanad-MjpWpvfD,Mananthavady Bus Stand
+wayanad-0ukedZVq,Mananthavady-Pancharakolly,Mananthavady Bus Stand to Panjarakolly,2,wayanad-KVSPhhPk,Ghandi Park
+wayanad-0ukedZVq,Mananthavady-Pancharakolly,Mananthavady Bus Stand to Panjarakolly,3,wayanad-FdnybmDn,Erumatheruvu
+wayanad-0ukedZVq,Mananthavady-Pancharakolly,Mananthavady Bus Stand to Panjarakolly,4,wayanad-LYZjkhtl,St Josephs Tti Kaniyaram
+wayanad-0ukedZVq,Mananthavady-Pancharakolly,Mananthavady Bus Stand to Panjarakolly,5,wayanad-svKxjEWH,Palakkuli
+wayanad-0ukedZVq,Mananthavady-Pancharakolly,Mananthavady Bus Stand to Panjarakolly,6,wayanad-RidlBHAH,Kaniyaram
+wayanad-0ukedZVq,Mananthavady-Pancharakolly,Mananthavady Bus Stand to Panjarakolly,7,wayanad-jYrOQrdg,Alp School Kaniyaram
+wayanad-0ukedZVq,Mananthavady-Pancharakolly,Mananthavady Bus Stand to Panjarakolly,8,wayanad-CBhrdZaw,Kuttimoola Millumukku
+wayanad-0ukedZVq,Mananthavady-Pancharakolly,Mananthavady Bus Stand to Panjarakolly,9,wayanad-VocggbSt,Kuttimoola
+wayanad-0ukedZVq,Mananthavady-Pancharakolly,Mananthavady Bus Stand to Panjarakolly,10,wayanad-rQaDXOQF,Kuttimoola Church
+wayanad-0ukedZVq,Mananthavady-Pancharakolly,Mananthavady Bus Stand to Panjarakolly,11,wayanad-OzfEIGYo,Kuttimoola Coloney
+wayanad-0ukedZVq,Mananthavady-Pancharakolly,Mananthavady Bus Stand to Panjarakolly,12,wayanad-BjgWXGlB,Adivaram Pilakavu
+wayanad-0ukedZVq,Mananthavady-Pancharakolly,Mananthavady Bus Stand to Panjarakolly,13,wayanad-VuJLNGIu,Quarters
+wayanad-0ukedZVq,Mananthavady-Pancharakolly,Mananthavady Bus Stand to Panjarakolly,14,wayanad-XpVOFIFu,Pilakkavu
+wayanad-0ukedZVq,Mananthavady-Pancharakolly,Mananthavady Bus Stand to Panjarakolly,15,wayanad-NKqRiNhI,Pilakavu Church
+wayanad-0ukedZVq,Mananthavady-Pancharakolly,Mananthavady Bus Stand to Panjarakolly,16,wayanad-LHjLwHYF,3 Road
+wayanad-0ukedZVq,Mananthavady-Pancharakolly,Mananthavady Bus Stand to Panjarakolly,17,wayanad-wEAiLhwL,Panjarakolly B
+wayanad-0ukedZVq,Mananthavady-Pancharakolly,Mananthavady Bus Stand to Panjarakolly,18,wayanad-hwOJOjuK,Panjarakolly B
+wayanad-0ukedZVq,Mananthavady-Pancharakolly,Mananthavady Bus Stand to Panjarakolly,19,wayanad-KhLENdUa,Panjarakolly A
+wayanad-BIPCVeIC,Tohttilplalam-Ernakulam,Thottilpalam Bus Stand to Perambra Bus Stand,1,wayanad-eCeknIzU,Thottilpalam Bus Stand
+wayanad-BIPCVeIC,Tohttilplalam-Ernakulam,Thottilpalam Bus Stand to Perambra Bus Stand,2,wayanad-NbPjhLMu,Thottilpalam Private Stand
+wayanad-BIPCVeIC,Tohttilplalam-Ernakulam,Thottilpalam Bus Stand to Perambra Bus Stand,3,wayanad-cjYNxzts,Thottilpalam Market
+wayanad-BIPCVeIC,Tohttilplalam-Ernakulam,Thottilpalam Bus Stand to Perambra Bus Stand,4,wayanad-cfeFYfUD,Police Station Kuttiadi
+wayanad-BIPCVeIC,Tohttilplalam-Ernakulam,Thottilpalam Bus Stand to Perambra Bus Stand,5,wayanad-NmIkpVgh,Kadiyangad
+wayanad-BIPCVeIC,Tohttilplalam-Ernakulam,Thottilpalam Bus Stand to Perambra Bus Stand,6,wayanad-cpoxoWWD,Perambra Market
+wayanad-BIPCVeIC,Tohttilplalam-Ernakulam,Thottilpalam Bus Stand to Perambra Bus Stand,7,wayanad-xhIvwSyG,Perambra Bus Stand
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,1,wayanad-htJBvMwV,Mananthavady Bus Stand
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,2,wayanad-MnzoYayU,Kozhikode Road
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,3,wayanad-hDswVVcd,Government Hospital Mananthavady
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,4,wayanad-KgUJqegr,Mananthavady Bus Stand
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,5,wayanad-LDVxndcQ,Mananthavady Bus Stand Road
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,6,wayanad-vaGjqPBd,Mananthavady High School
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,7,wayanad-CbkJEzcy,Mananthavady High School
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,8,wayanad-DSETVzKy,Payode
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,9,wayanad-ysBeCiTV,Payyode Toddy Shop
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,10,wayanad-nmWVGWkf,Government College Mananthavady
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,11,wayanad-blWPcaiZ,Thonichal
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,12,wayanad-wnbcebwf,Irumbupalam
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,13,wayanad-JxpAwQJc,Dwaraka Iti
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,14,wayanad-qAziKAOe,Dwaraka
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,15,wayanad-PUDxMCUf,4th Mile
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,16,wayanad-hFclyTcg,PHC Peechamkode
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,17,wayanad-kvNqhsRT,Peechamkodu
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,18,wayanad-GpYMREFK,Nadakkal A
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,19,wayanad-TKmfGdjN,Nadakkal
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,20,wayanad-yXSCKpik,6th Mile Tharuvana
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,21,wayanad-uKzgZVcv,Tharuvana
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,22,wayanad-pCAMJmhe,Tharuvana Village
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,23,wayanad-adzsgXxR,Tharuvana 7 Th Mile
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,24,wayanad-AAMXABUp,Tharuvana 7 and 2 Th Mile
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,25,wayanad-MlVjotGJ,Kattayad 7 and 4
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,26,wayanad-xGkwSbrQ,Kattayad 7 and 4
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,27,wayanad-aIjgvCcA,Kattayad Mosque
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,28,wayanad-bsnbhUZp,KSEBL Vellamunda
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,29,wayanad-ErdDKptd,Vellamunda 8 Or 4
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,30,wayanad-urEnoEBB,Vellamunda Registretion Office
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,31,wayanad-jyZKilqO,9Th Mile Vellamunda
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,32,wayanad-aRNxYTZN,Pazhanjana Makham
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,33,wayanad-yILrsopq,St Anns School Vellamunda
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,34,wayanad-RmZVyOJD,Vellamunda Adivaram
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,35,wayanad-hOjLaQgs,Vellamunda 10th Mile
+wayanad-GXvpKFDy,Mananthavady-Narokkadavu,Mananthavady Bus Stand to Narokkadavu,36,wayanad-wZQXvYbh,Pulinjal
+wayanad-JCLePDLW,Sulthan Bathery-Thiruvananthapuram,Sulthan Bathery Bus Stand to Thamarassery New Bus Stand,1,wayanad-KpnibgLX,Sulthan Bathery Bus Stand
+wayanad-JCLePDLW,Sulthan Bathery-Thiruvananthapuram,Sulthan Bathery Bus Stand to Thamarassery New Bus Stand,2,wayanad-VNLhsOpv,Meenangadi
+wayanad-JCLePDLW,Sulthan Bathery-Thiruvananthapuram,Sulthan Bathery Bus Stand to Thamarassery New Bus Stand,3,wayanad-bWKStDlQ,Kalpetta Old Bus Stand
+wayanad-JCLePDLW,Sulthan Bathery-Thiruvananthapuram,Sulthan Bathery Bus Stand to Thamarassery New Bus Stand,4,wayanad-wkLrreTD,Thamarassery New Bus Stand
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,1,wayanad-btcwYatG,Adivaram
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,2,wayanad-uqdWWKqP,Adivaram Bus Stand
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,3,wayanad-BvsAdIwO,Elikkad
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,4,wayanad-bRJGEAsC,Kaithappoyil
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,5,wayanad-CstrcJOc,Kaithapoyil School
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,6,wayanad-VnOHahHp,26th Mile Puthuppadi
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,7,wayanad-mSXtSlGE,Puthuppadi Old Check Post
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,8,wayanad-QGoCGSLm,Kurisu Palli
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,9,wayanad-UamYXvfN,West Puthuppadi
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,10,wayanad-AsaYypnV,Odungakkad Makham
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,11,wayanad-njfDavVC,Puthuppadi Panchayath
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,12,wayanad-evybftKs,Parish Hall
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,13,wayanad-MYgHOkGL,Engapuzha Bus Stand
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,14,wayanad-tFIqCTng,Koyas Or South Engapuzha
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,15,wayanad-cLefHWOo,Engapuzha Village Office
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,16,wayanad-VQlpzGnw,Elokkara
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,17,wayanad-QdOlOwnD,Malapuram School
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,18,wayanad-ptdAngrx,Maloram
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,19,wayanad-BzEuuyQt,Southmaloram Ration Shop
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,20,wayanad-jtkcNaFl,21 Or 6 Perumbally
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,21,wayanad-KNZgzNUd,Kr Bus Stop
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,22,wayanad-tNNQsTXx,Pullanhimedu
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,23,wayanad-SVFThVZo,Ambayathode Palam
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,24,wayanad-uDilXjmP,Ambayathode
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,25,wayanad-zQxPhdph,Check Post Thamarassery
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,26,wayanad-AIVVzKOg,Chungam
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,27,wayanad-nqqJRoAa,Mary Matha Cathredral
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,28,wayanad-ALjxRXZz,Thamarasery Bus Stand
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,29,wayanad-pzbQsasD,Thamarassery Taluk Hospital
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,30,wayanad-wkLrreTD,Thamarassery New Bus Stand
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,31,wayanad-lugeIBdN,Thamarassery Bus Stand
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,32,wayanad-ajpUgHAc,18th Mile Thamarassery
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,33,wayanad-AGVXAdSi,Odakkunnu
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,34,wayanad-okxJCiCz,Thazhe Parappanpoyil
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,35,wayanad-etsxfUbq,Parappan Poyil Junction
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,36,wayanad-iaoDTrKn,Alinchuvadu
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,37,wayanad-fwHiIOzD,Vavad
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,38,wayanad-WTJUZgBA,Erumoth
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,39,wayanad-dBdlHvSz,Vavad 16th Mile
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,40,wayanad-yPJmseOJ,Mannil Kadavu
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,41,wayanad-ehFQbLrX,Nellamkandy
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,42,wayanad-gkHLFlzT,Mele Palakkutty
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,43,wayanad-RbeSlfZy,Palakkutty
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,44,wayanad-OYoVQtNm,Koduvally Petrol Pump
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,45,wayanad-MgKpCTzi,Koduvally Bus Stand
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,46,wayanad-TvImwhjD,Thazhe Koduvally
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,47,wayanad-rEthNObz,Old Rt Office
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,48,wayanad-UjHqkpjN,Modern Bazar Koduvally
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,49,wayanad-oTjGUiHL,Homoeo Dispensary Koduvally
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,50,wayanad-UPjrYTYn,South Koduvally
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,51,wayanad-zOKscPbL,Madrasa Bazar
+wayanad-PJjfqkca,Adivaram-Mch Kozhikode,Adivaram to Vennakkad,52,wayanad-NLUraauo,Vennakkad
+wayanad-SkklJakL,Mananthavady-Coimbatore,Mananthavady Bus Stand to Gandhipuram Coimbatore Bus Stand,1,wayanad-MjpWpvfD,Mananthavady Bus Stand
+wayanad-SkklJakL,Mananthavady-Coimbatore,Mananthavady Bus Stand to Gandhipuram Coimbatore Bus Stand,2,wayanad-PUDxMCUf,4th Mile
+wayanad-SkklJakL,Mananthavady-Coimbatore,Mananthavady Bus Stand to Gandhipuram Coimbatore Bus Stand,3,wayanad-DobCZKGW,Tharuvana
+wayanad-SkklJakL,Mananthavady-Coimbatore,Mananthavady Bus Stand to Gandhipuram Coimbatore Bus Stand,4,wayanad-IxXpJyzd,Padinjarathara
+wayanad-SkklJakL,Mananthavady-Coimbatore,Mananthavady Bus Stand to Gandhipuram Coimbatore Bus Stand,5,wayanad-tkfbRskt,Kavumannam Town
+wayanad-SkklJakL,Mananthavady-Coimbatore,Mananthavady Bus Stand to Gandhipuram Coimbatore Bus Stand,6,wayanad-ufgGLvbz,Pinangode
+wayanad-SkklJakL,Mananthavady-Coimbatore,Mananthavady Bus Stand to Gandhipuram Coimbatore Bus Stand,7,wayanad-bWKStDlQ,Kalpetta Old Bus Stand
+wayanad-SkklJakL,Mananthavady-Coimbatore,Mananthavady Bus Stand to Gandhipuram Coimbatore Bus Stand,8,wayanad-pBkapmpt,Kalpetta Muncipal Bus Stand
+wayanad-SkklJakL,Mananthavady-Coimbatore,Mananthavady Bus Stand to Gandhipuram Coimbatore Bus Stand,9,wayanad-DrfWKJkK,Chundale Town
+wayanad-SkklJakL,Mananthavady-Coimbatore,Mananthavady Bus Stand to Gandhipuram Coimbatore Bus Stand,10,wayanad-pDciFhqb,Vythiri Bus Stand
+wayanad-SkklJakL,Mananthavady-Coimbatore,Mananthavady Bus Stand to Gandhipuram Coimbatore Bus Stand,11,wayanad-AbIMAZoK,Vythiri Police Station
+wayanad-SkklJakL,Mananthavady-Coimbatore,Mananthavady Bus Stand to Gandhipuram Coimbatore Bus Stand,12,wayanad-qrvzeCMK,Veterinary College
+wayanad-SkklJakL,Mananthavady-Coimbatore,Mananthavady Bus Stand to Gandhipuram Coimbatore Bus Stand,13,wayanad-btcwYatG,Adivaram
+wayanad-SkklJakL,Mananthavady-Coimbatore,Mananthavady Bus Stand to Gandhipuram Coimbatore Bus Stand,14,wayanad-lugeIBdN,Thamarassery Bus Stand
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,1,wayanad-MjpWpvfD,Mananthavady Bus Stand
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,2,wayanad-ytBtEzfE,Mananthavady Bus Stand Road
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,3,wayanad-vaGjqPBd,Mananthavady High School
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,4,wayanad-JeajWXDx,4th Mile
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,5,wayanad-LDRKdwcO,5th Mile
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,6,wayanad-PbYuBCBS,Koolivayal
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,7,wayanad-mDOqjoCE,Panamaram Bus Stand
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,8,wayanad-pNkpuRXj,Millumukku
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,9,wayanad-yTrBCioI,Kaniyambetta
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,10,wayanad-uIItggFy,Kambalakkad Police Station
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,11,wayanad-oCTmCqOo,Kambalakkad
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,12,wayanad-FVxyRuUk,Kambalakkad
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,13,wayanad-eNuOeFTp,Madakkimala
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,14,wayanad-mlYKHfjE,Kainatty Junction
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,15,wayanad-JTKAoXSi,Kalpetta Civil Station
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,16,wayanad-bWKStDlQ,Kalpetta Old Bus Stand
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,17,wayanad-QrABeRzw,Police Station Kalpetta
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,18,wayanad-BsjMeSew,Kalpetta Bypass
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,19,wayanad-RbSPTJqX,Fire Station
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,20,wayanad-DrfWKJkK,Chundale Town
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,21,wayanad-gZTbVNaq,Vythiri Bus Stand
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,22,wayanad-AbIMAZoK,Vythiri Police Station
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,23,wayanad-XzNSFHgz,Old Vythiri
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,24,wayanad-qrvzeCMK,Veterinary College
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,25,wayanad-xbYpfjaS,Lakkidi
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,26,wayanad-MCCRWfvJ,Lakkidi Gate
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,27,wayanad-IwjPXIrV,Thattil Haji Stop
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,28,wayanad-fHQprNse,34th Mile
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,29,wayanad-bxNELXzd,Thakarappady
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,30,wayanad-YmCTyteU,Nalaam Valavu
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,31,wayanad-efkSRrZH,Randaam Valavu
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,32,wayanad-QvMTrLVw,Chippilithode
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,33,wayanad-btcwYatG,Adivaram
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,34,wayanad-CstrcJOc,Kaithapoyil School
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,35,wayanad-VnOHahHp,26th Mile Puthuppadi
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,36,wayanad-MYgHOkGL,Engapuzha Bus Stand
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,37,wayanad-VQlpzGnw,Elokkara
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,38,wayanad-ptdAngrx,Maloram
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,39,wayanad-aCglBNxR,Maloram Junction
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,40,wayanad-lFBAzCvj,Ambayathode
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,41,wayanad-AIVVzKOg,Chungam
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,42,wayanad-aeKlZBuk,Thamarassery New Bus Stand
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,43,wayanad-GeJvTzJm,Thamarassery Bus Stand
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,44,wayanad-mvELddep,Parappan Poyil Junction
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,45,wayanad-fwHiIOzD,Vavad
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,46,wayanad-lKtQBAIG,Nalankandy
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,47,wayanad-gkHLFlzT,Mele Palakkutty
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,48,wayanad-rEthNObz,Old Rt Office
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,49,wayanad-UPjrYTYn,South Koduvally
+wayanad-TmTXaTCH,Mananthavdy-Pamba,Mananthavady Bus Stand to Pamba Bus Station,50,wayanad-zOKscPbL,Madrasa Bazar
+wayanad-ViNwdtdT,Thottilpalam-Chegannur,Thottilpalam Bus Stand to Naduvannur Bus Stand,1,wayanad-eCeknIzU,Thottilpalam Bus Stand
+wayanad-ViNwdtdT,Thottilpalam-Chegannur,Thottilpalam Bus Stand to Naduvannur Bus Stand,2,wayanad-NbPjhLMu,Thottilpalam Private Stand
+wayanad-ViNwdtdT,Thottilpalam-Chegannur,Thottilpalam Bus Stand to Naduvannur Bus Stand,3,wayanad-cjYNxzts,Thottilpalam Market
+wayanad-ViNwdtdT,Thottilpalam-Chegannur,Thottilpalam Bus Stand to Naduvannur Bus Stand,4,wayanad-KjzDzUVX,Devarkovil
+wayanad-ViNwdtdT,Thottilpalam-Chegannur,Thottilpalam Bus Stand to Naduvannur Bus Stand,5,wayanad-qucLpUwZ,Kuttiadi Pump
+wayanad-ViNwdtdT,Thottilpalam-Chegannur,Thottilpalam Bus Stand to Naduvannur Bus Stand,6,wayanad-cfeFYfUD,Police Station Kuttiadi
+wayanad-ViNwdtdT,Thottilpalam-Chegannur,Thottilpalam Bus Stand to Naduvannur Bus Stand,7,wayanad-NmIkpVgh,Kadiyangad
+wayanad-ViNwdtdT,Thottilpalam-Chegannur,Thottilpalam Bus Stand to Naduvannur Bus Stand,8,wayanad-cpoxoWWD,Perambra Market
+wayanad-ViNwdtdT,Thottilpalam-Chegannur,Thottilpalam Bus Stand to Naduvannur Bus Stand,9,wayanad-WadxUNCH,Perambra Police Station
+wayanad-ViNwdtdT,Thottilpalam-Chegannur,Thottilpalam Bus Stand to Naduvannur Bus Stand,10,wayanad-xhIvwSyG,Perambra Bus Stand
+wayanad-ViNwdtdT,Thottilpalam-Chegannur,Thottilpalam Bus Stand to Naduvannur Bus Stand,11,wayanad-YiqKwTqe,Velliyoor
+wayanad-ViNwdtdT,Thottilpalam-Chegannur,Thottilpalam Bus Stand to Naduvannur Bus Stand,12,wayanad-UjtuPHaG,Naduvannur Bus Stand
+wayanad-WZQpdgqu,Mananthavady-Trivandrum,Mananthavady Bus Stand to Thiruvananthapuram Central,1,wayanad-htJBvMwV,Mananthavady Bus Stand
+wayanad-WZQpdgqu,Mananthavady-Trivandrum,Mananthavady Bus Stand to Thiruvananthapuram Central,2,wayanad-ezsfweyc,4th Mile
+wayanad-WZQpdgqu,Mananthavady-Trivandrum,Mananthavady Bus Stand to Thiruvananthapuram Central,3,wayanad-inDlgFxW,Anjukunnu
+wayanad-WZQpdgqu,Mananthavady-Trivandrum,Mananthavady Bus Stand to Thiruvananthapuram Central,4,wayanad-mDOqjoCE,Panamaram Bus Stand
+wayanad-WZQpdgqu,Mananthavady-Trivandrum,Mananthavady Bus Stand to Thiruvananthapuram Central,5,wayanad-yTrBCioI,Kaniyambetta
+wayanad-WZQpdgqu,Mananthavady-Trivandrum,Mananthavady Bus Stand to Thiruvananthapuram Central,6,wayanad-vEgvdyke,Kambalakkad
+wayanad-WZQpdgqu,Mananthavady-Trivandrum,Mananthavady Bus Stand to Thiruvananthapuram Central,7,wayanad-DhvDlXQW,Kalpetta Civil Station
+wayanad-WZQpdgqu,Mananthavady-Trivandrum,Mananthavady Bus Stand to Thiruvananthapuram Central,8,wayanad-nRtwrJBw,Kalpetta Muncipal Bus Stand
+wayanad-WZQpdgqu,Mananthavady-Trivandrum,Mananthavady Bus Stand to Thiruvananthapuram Central,9,wayanad-zPcLpFug,Chundale Town
+wayanad-WZQpdgqu,Mananthavady-Trivandrum,Mananthavady Bus Stand to Thiruvananthapuram Central,10,wayanad-pDciFhqb,Vythiri Bus Stand
+wayanad-WZQpdgqu,Mananthavady-Trivandrum,Mananthavady Bus Stand to Thiruvananthapuram Central,11,wayanad-opeUtOpe,Vythiri Police Station
+wayanad-WZQpdgqu,Mananthavady-Trivandrum,Mananthavady Bus Stand to Thiruvananthapuram Central,12,wayanad-FjJEroLf,Veterinary College
+wayanad-WZQpdgqu,Mananthavady-Trivandrum,Mananthavady Bus Stand to Thiruvananthapuram Central,13,wayanad-nlGNewye,Lakkidi
+wayanad-WZQpdgqu,Mananthavady-Trivandrum,Mananthavady Bus Stand to Thiruvananthapuram Central,14,wayanad-JAYicjvD,Thattil Haji
+wayanad-WZQpdgqu,Mananthavady-Trivandrum,Mananthavady Bus Stand to Thiruvananthapuram Central,15,wayanad-btcwYatG,Adivaram
+wayanad-WZQpdgqu,Mananthavady-Trivandrum,Mananthavady Bus Stand to Thiruvananthapuram Central,16,wayanad-NNIQeSCE,Engapuzha Bus Stand
+wayanad-WZQpdgqu,Mananthavady-Trivandrum,Mananthavady Bus Stand to Thiruvananthapuram Central,17,wayanad-kNZaGdmT,Thamarassery Old Bus Stand
+wayanad-WZQpdgqu,Mananthavady-Trivandrum,Mananthavady Bus Stand to Thiruvananthapuram Central,18,wayanad-lugeIBdN,Thamarassery Bus Stand
+wayanad-WZQpdgqu,Mananthavady-Trivandrum,Mananthavady Bus Stand to Thiruvananthapuram Central,19,wayanad-uunwHUvp,Koduvally
+wayanad-bEpyLDYA,Mananthavady-Trivandrum,Mananthavady Bus Stand to Kalpetta Muncipal Bus Stand,1,wayanad-MjpWpvfD,Mananthavady Bus Stand
+wayanad-bEpyLDYA,Mananthavady-Trivandrum,Mananthavady Bus Stand to Kalpetta Muncipal Bus Stand,2,wayanad-mDOqjoCE,Panamaram Bus Stand
+wayanad-bEpyLDYA,Mananthavady-Trivandrum,Mananthavady Bus Stand to Kalpetta Muncipal Bus Stand,3,wayanad-nRtwrJBw,Kalpetta Muncipal Bus Stand
+wayanad-ekuqIess,Sulthanbathery-Kozhikode,Sulthan Bathery Bus Stand to Kozhikode Bus Stand,1,wayanad-KpnibgLX,Sulthan Bathery Bus Stand
+wayanad-ekuqIess,Sulthanbathery-Kozhikode,Sulthan Bathery Bus Stand to Kozhikode Bus Stand,2,wayanad-StUytyfY,Mint Mall
+wayanad-ekuqIess,Sulthanbathery-Kozhikode,Sulthan Bathery Bus Stand to Kozhikode Bus Stand,3,wayanad-fylUdFre,Assumption
+wayanad-ekuqIess,Sulthanbathery-Kozhikode,Sulthan Bathery Bus Stand to Kozhikode Bus Stand,4,wayanad-XpiZhSyV,Kolagappara Junction
+wayanad-ekuqIess,Sulthanbathery-Kozhikode,Sulthan Bathery Bus Stand to Kozhikode Bus Stand,5,wayanad-VNLhsOpv,Meenangadi
+wayanad-ekuqIess,Sulthanbathery-Kozhikode,Sulthan Bathery Bus Stand to Kozhikode Bus Stand,6,wayanad-nAJlDvdm,Kottakkunnu
+wayanad-ekuqIess,Sulthanbathery-Kozhikode,Sulthan Bathery Bus Stand to Kozhikode Bus Stand,7,wayanad-XoAScquT,Muttil
+wayanad-ekuqIess,Sulthanbathery-Kozhikode,Sulthan Bathery Bus Stand to Kozhikode Bus Stand,8,wayanad-sKXxECqb,Kalpetta Civil Station
+wayanad-ekuqIess,Sulthanbathery-Kozhikode,Sulthan Bathery Bus Stand to Kozhikode Bus Stand,9,wayanad-MnKnzjBC,Kalpetta Old Bus Stand
+wayanad-ekuqIess,Sulthanbathery-Kozhikode,Sulthan Bathery Bus Stand to Kozhikode Bus Stand,10,wayanad-nRtwrJBw,Kalpetta Muncipal Bus Stand
+wayanad-ekuqIess,Sulthanbathery-Kozhikode,Sulthan Bathery Bus Stand to Kozhikode Bus Stand,11,wayanad-GzBCOBrx,Ksrtc Garage
+wayanad-ekuqIess,Sulthanbathery-Kozhikode,Sulthan Bathery Bus Stand to Kozhikode Bus Stand,12,wayanad-DrfWKJkK,Chundale Town
+wayanad-ekuqIess,Sulthanbathery-Kozhikode,Sulthan Bathery Bus Stand to Kozhikode Bus Stand,13,wayanad-pDciFhqb,Vythiri Bus Stand
+wayanad-ekuqIess,Sulthanbathery-Kozhikode,Sulthan Bathery Bus Stand to Kozhikode Bus Stand,14,wayanad-FjJEroLf,Veterinary College
+wayanad-ekuqIess,Sulthanbathery-Kozhikode,Sulthan Bathery Bus Stand to Kozhikode Bus Stand,15,wayanad-hkfANDwE,Thamarassery Old Bus Stand
+wayanad-ekuqIess,Sulthanbathery-Kozhikode,Sulthan Bathery Bus Stand to Kozhikode Bus Stand,16,wayanad-GeJvTzJm,Thamarassery Bus Stand
+wayanad-ekuqIess,Sulthanbathery-Kozhikode,Sulthan Bathery Bus Stand to Kozhikode Bus Stand,17,wayanad-kbBPZcuf,Koduvally
+wayanad-gMewFlnO,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,1,wayanad-MjpWpvfD,Mananthavady Bus Stand
+wayanad-gMewFlnO,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,2,wayanad-nmWVGWkf,Government College Mananthavady
+wayanad-gMewFlnO,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,3,wayanad-JeajWXDx,4th Mile
+wayanad-gMewFlnO,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,4,wayanad-crpNiYZM,Koolivayal
+wayanad-gMewFlnO,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,5,wayanad-mDOqjoCE,Panamaram Bus Stand
+wayanad-gMewFlnO,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,6,wayanad-yhBmNavA,Kaniyambetta
+wayanad-gMewFlnO,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,7,wayanad-FVxyRuUk,Kambalakkad
+wayanad-gMewFlnO,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,8,wayanad-sKXxECqb,Kalpetta Civil Station
+wayanad-gMewFlnO,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,9,wayanad-bWKStDlQ,Kalpetta Old Bus Stand
+wayanad-gMewFlnO,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,10,wayanad-nRtwrJBw,Kalpetta Muncipal Bus Stand
+wayanad-gMewFlnO,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,11,wayanad-GzBCOBrx,Ksrtc Garage
+wayanad-gMewFlnO,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,12,wayanad-DrfWKJkK,Chundale Town
+wayanad-gMewFlnO,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,13,wayanad-kRflxxku,Adivaram
+wayanad-gMewFlnO,Mananthavady-Kozhikkode,Mananthavady Bus Stand to Kozhikode Bus Stand,14,wayanad-ckhPZnbw,Engapuzha
+wayanad-hWLXuHXg,Thamarassery-Velimanna Mukkam,Thamarassery New Bus Stand to Agastiamuzhi Mini Civil Station,1,wayanad-wkLrreTD,Thamarassery New Bus Stand
+wayanad-hWLXuHXg,Thamarassery-Velimanna Mukkam,Thamarassery New Bus Stand to Agastiamuzhi Mini Civil Station,2,wayanad-uiAlpokj,Kudukkilummaram
+wayanad-hWLXuHXg,Thamarassery-Velimanna Mukkam,Thamarassery New Bus Stand to Agastiamuzhi Mini Civil Station,3,wayanad-rxzbZPhD,Koodathai
+wayanad-hWLXuHXg,Thamarassery-Velimanna Mukkam,Thamarassery New Bus Stand to Agastiamuzhi Mini Civil Station,4,wayanad-Tbmabdvm,Velimanna
+wayanad-hWLXuHXg,Thamarassery-Velimanna Mukkam,Thamarassery New Bus Stand to Agastiamuzhi Mini Civil Station,5,wayanad-DvdoCGdI,Oamssery Bus Stand
+wayanad-hWLXuHXg,Thamarassery-Velimanna Mukkam,Thamarassery New Bus Stand to Agastiamuzhi Mini Civil Station,6,wayanad-kgRYbpQH,Poolapoyil
+wayanad-hWLXuHXg,Thamarassery-Velimanna Mukkam,Thamarassery New Bus Stand to Agastiamuzhi Mini Civil Station,7,wayanad-DMOevOpB,Agastiamuzhi Mini Civil Station
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,1,wayanad-tAnFfkbQ,Narokkadavu
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,2,wayanad-wZQXvYbh,Pulinjal
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,3,wayanad-UoCFUgmI,Vellamunda 10th Mile
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,4,wayanad-xFLIaVlM,Vellamunda Adivaram
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,5,wayanad-zOKxdqLv,St Anns School Vellamunda
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,6,wayanad-bRAEZmpy,Pazhanjana Makham
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,7,wayanad-diSLOiqj,9Th Mile Vellamunda
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,8,wayanad-JRXUKhAO,Vellamunda Registretion Office
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,9,wayanad-fINxPnjy,KSEBL Vellamunda
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,10,wayanad-TqWTCqzG,Kattayad
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,11,wayanad-iOPoZPvq,Kattayad Mosque
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,12,wayanad-yscSphAR,Kattayad 7 and 4
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,13,wayanad-GSpXFJhQ,Kattayad 7 and 4
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,14,wayanad-AAMXABUp,Tharuvana 7 and 2 Th Mile
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,15,wayanad-adzsgXxR,Tharuvana 7 Th Mile
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,16,wayanad-aVEGBwdY,Tharuvana Village
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,17,wayanad-iyUcqcAn,6th Mile Tharuvana
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,18,wayanad-pkynBFAj,Nadakkal
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,19,wayanad-dSRDoYAX,Nadakkal A
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,20,wayanad-GSpwWvpF,Peechamkodu
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,21,wayanad-bsVQLMXL,PHC Peechamkode
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,22,wayanad-IIqhRJle,4th Mile
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,23,wayanad-yQAZlRtx,Dwaraka
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,24,wayanad-QbgoKFpt,Dwaraka Iti
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,25,wayanad-wnbcebwf,Irumbupalam
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,26,wayanad-iQlMCwgx,Thonichal
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,27,wayanad-VvisVVLw,Government College Mananthavady
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,28,wayanad-ysBeCiTV,Payyode Toddy Shop
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,29,wayanad-HkpdHRrG,Payode
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,30,wayanad-CaTXheqt,Mananthavady High School
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,31,wayanad-yOevjEXC,Mananthavady High School
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,32,wayanad-PKlAyDTE,Mananthavady Bus Stand Road
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,33,wayanad-ErQkMCYM,Kseb Mananthavady
+wayanad-nzMEedwx,Narokkadavu-Mananthavady,Narokkadavu to Mananthavady Bus Stand,34,wayanad-zQQiLsnE,Mananthavady Police Station
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,1,wayanad-QqEaveeA,Wims Hospital
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,2,wayanad-hUEWkFpG,Wims Hospital Junction
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,3,wayanad-VMBrBOtS,Thazhe Arappetta
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,4,wayanad-LOsFnxhn,Moopanad
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,5,wayanad-hgskVyvk,Meppadi Village
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,6,wayanad-IQkQbesO,Meppadi Bus Stand
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,7,wayanad-PfhPDgrh,Meppadi
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,8,wayanad-MEDrxifs,Meppadi Panchayath
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,9,wayanad-mJAlOyWk,Panchami
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,10,wayanad-JYcAzmFD,Kappamkolly
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,11,wayanad-jPwOVYAx,Palavayal
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,12,wayanad-puSSNizJ,Chungathara
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,13,wayanad-SQPNZdeK,Kottavayal
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,14,wayanad-dxdBtsMP,Police Camp
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,15,wayanad-JsmPnjcR,Puthoorvayal Bank
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,16,wayanad-tgVRBqOH,Piyo Bhavan Puthoorvayal
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,17,wayanad-FxfvVWwi,Kori valavu
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,18,wayanad-FFoWBMYH,Vinayaka
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,19,wayanad-HjpEgQdf,Baypas Junction
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,20,wayanad-bWKStDlQ,Kalpetta Old Bus Stand
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,21,wayanad-VbagvTmx,Kalpetta Muncipal Bus Stand
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,22,wayanad-GzBCOBrx,Ksrtc Garage
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,23,wayanad-CiwRYpBO,Chundel
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,24,wayanad-pDciFhqb,Vythiri Bus Stand
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,25,wayanad-opeUtOpe,Vythiri Police Station
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,26,wayanad-XzNSFHgz,Old Vythiri
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,27,wayanad-RDiyMJUP,Thali Puzha
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,28,wayanad-FjJEroLf,Veterinary College
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,29,wayanad-xbYpfjaS,Lakkidi
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,30,wayanad-QvMTrLVw,Chippilithode
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,31,wayanad-gByiaraw,Adivaram
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,32,wayanad-bRJGEAsC,Kaithappoyil
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,33,wayanad-AsaYypnV,Odungakkad Makham
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,34,wayanad-MYgHOkGL,Engapuzha Bus Stand
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,35,wayanad-hkfANDwE,Thamarassery Old Bus Stand
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,36,wayanad-wkLrreTD,Thamarassery New Bus Stand
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,37,wayanad-VkBwMoLA,Thamarassery
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,38,wayanad-mvELddep,Parappan Poyil Junction
+wayanad-odesVYle,Wims Hospital-Kozhikkode,Wims Hospital to Kozhikode Bus Stand,39,wayanad-kbBPZcuf,Koduvally
+wayanad-rAQuPlaH,Kalpetta-Trivandrum,Kalpetta Old Bus Stand to Thiruvananthapuram Central,1,wayanad-CXMmmfeA,Kalpetta Old Bus Stand
+wayanad-rAQuPlaH,Kalpetta-Trivandrum,Kalpetta Old Bus Stand to Thiruvananthapuram Central,2,wayanad-zyTpwwsn,Thamarassery New Bus Stand
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,1,wayanad-MjpWpvfD,Mananthavady Bus Stand
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,2,wayanad-LDVxndcQ,Mananthavady Bus Stand Road
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,3,wayanad-nmWVGWkf,Government College Mananthavady
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,4,wayanad-blWPcaiZ,Thonichal
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,5,wayanad-IIqhRJle,4th Mile
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,6,wayanad-kvNqhsRT,Peechamkodu
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,7,wayanad-husgLnZH,6th Mile Tharuvana
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,8,wayanad-AZRyNQJT,Kodakkat Palam
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,9,wayanad-IxXpJyzd,Padinjarathara
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,10,wayanad-DmtKVTDx,Kavummanam
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,11,wayanad-pBDAtScC,Pinangode
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,12,wayanad-bWKStDlQ,Kalpetta Old Bus Stand
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,13,wayanad-VbagvTmx,Kalpetta Muncipal Bus Stand
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,14,wayanad-GzBCOBrx,Ksrtc Garage
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,15,wayanad-DrfWKJkK,Chundale Town
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,16,wayanad-pDciFhqb,Vythiri Bus Stand
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,17,wayanad-AbIMAZoK,Vythiri Police Station
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,18,wayanad-XzNSFHgz,Old Vythiri
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,19,wayanad-ZDyyDTSm,Thali Puzha
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,20,wayanad-FjJEroLf,Veterinary College
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,21,wayanad-xbYpfjaS,Lakkidi
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,22,wayanad-MSzACTzq,Randaam Valavu
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,23,wayanad-QvMTrLVw,Chippilithode
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,24,wayanad-kRflxxku,Adivaram
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,25,wayanad-bRJGEAsC,Kaithappoyil
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,26,wayanad-lVTASrpO,Odungakkad
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,27,wayanad-MYgHOkGL,Engapuzha Bus Stand
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,28,wayanad-YpUYmamx,Koodathai
+wayanad-rSqmnOzJ,Mananthavady-Palakkad,Mananthavady Bus Stand to Neeleswaram,29,wayanad-AcTJoezp,Neeleswaram
+wayanad-slImIDYF,Kuttyadi - Kozhikode,Kuttiadi Old Stand to Naduvannur,1,wayanad-FQfaLzez,Kuttiadi Old Stand
+wayanad-slImIDYF,Kuttyadi - Kozhikode,Kuttiadi Old Stand to Naduvannur,2,wayanad-WYmWJEXJ,Paleri
+wayanad-slImIDYF,Kuttyadi - Kozhikode,Kuttiadi Old Stand to Naduvannur,3,wayanad-nkWKLoOa,Kadiyanghadu Market
+wayanad-slImIDYF,Kuttyadi - Kozhikode,Kuttiadi Old Stand to Naduvannur,4,wayanad-cpoxoWWD,Perambra Market
+wayanad-slImIDYF,Kuttyadi - Kozhikode,Kuttiadi Old Stand to Naduvannur,5,wayanad-QldKVOui,Chaalikkara
+wayanad-slImIDYF,Kuttyadi - Kozhikode,Kuttiadi Old Stand to Naduvannur,6,wayanad-AETUBrsu,Velliyur
+wayanad-slImIDYF,Kuttyadi - Kozhikode,Kuttiadi Old Stand to Naduvannur,7,wayanad-hhrVijVr,Naduvannur
+wayanad-wXUBckhw,Adivaram-Malappuram,Adivaram to Mukkam Bus Stand,1,wayanad-btcwYatG,Adivaram
+wayanad-wXUBckhw,Adivaram-Malappuram,Adivaram to Mukkam Bus Stand,2,wayanad-bRJGEAsC,Kaithappoyil
+wayanad-wXUBckhw,Adivaram-Malappuram,Adivaram to Mukkam Bus Stand,3,wayanad-lVTASrpO,Odungakkad
+wayanad-wXUBckhw,Adivaram-Malappuram,Adivaram to Mukkam Bus Stand,4,wayanad-BUMstRgS,Engapuzha Bus Stand
+wayanad-wXUBckhw,Adivaram-Malappuram,Adivaram to Mukkam Bus Stand,5,wayanad-lugeIBdN,Thamarassery Bus Stand
+wayanad-wXUBckhw,Adivaram-Malappuram,Adivaram to Mukkam Bus Stand,6,wayanad-DvdoCGdI,Oamssery Bus Stand
+wayanad-wXUBckhw,Adivaram-Malappuram,Adivaram to Mukkam Bus Stand,7,wayanad-cORUiPpQ,Neeleswaram
+wayanad-wXUBckhw,Adivaram-Malappuram,Adivaram to Mukkam Bus Stand,8,wayanad-DMOevOpB,Agastiamuzhi Mini Civil Station
+wayanad-wXUBckhw,Adivaram-Malappuram,Adivaram to Mukkam Bus Stand,9,wayanad-cVdJsbRV,Mukkam Bus Stand
+wayanad-zFyekSni,Manandhavady-Jungle Safari,Mananthavady Bus Stand to Jungle Safari,1,wayanad-MjpWpvfD,Mananthavady Bus Stand
+wayanad-zFyekSni,Manandhavady-Jungle Safari,Mananthavady Bus Stand to Jungle Safari,2,wayanad-suXKaOej,Kattikulam
+wayanad-zFyekSni,Manandhavady-Jungle Safari,Mananthavady Bus Stand to Jungle Safari,3,wayanad-QYsbBWVV,Appappara Valavu
+wayanad-zFyekSni,Manandhavady-Jungle Safari,Mananthavady Bus Stand to Jungle Safari,4,wayanad-DOOuWjJV,Palvelicham

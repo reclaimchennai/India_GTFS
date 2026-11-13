@@ -1,0 +1,381 @@
+route_id,route_short_name,route_long_name,stop_sequence,stop_id,stop_name
+varanasi-AQnZBfHq,Narayanpur-Cantt,Narayanpur to Varanasi Cantt Bus Stand,1,varanasi-qrvprKus,Narayanpur
+varanasi-AQnZBfHq,Narayanpur-Cantt,Narayanpur to Varanasi Cantt Bus Stand,2,varanasi-WTwpDTsw,Bishesharpur
+varanasi-AQnZBfHq,Narayanpur-Cantt,Narayanpur to Varanasi Cantt Bus Stand,3,varanasi-VBlAIQnM,Baraipur
+varanasi-AQnZBfHq,Narayanpur-Cantt,Narayanpur to Varanasi Cantt Bus Stand,4,varanasi-rdUWqAwQ,Milkipur
+varanasi-AQnZBfHq,Narayanpur-Cantt,Narayanpur to Varanasi Cantt Bus Stand,5,varanasi-lVnPenbL,Tengara Mod
+varanasi-AQnZBfHq,Narayanpur-Cantt,Narayanpur to Varanasi Cantt Bus Stand,6,varanasi-bhWexYGt,Ram Nagar Chowk
+varanasi-AQnZBfHq,Narayanpur-Cantt,Narayanpur to Varanasi Cantt Bus Stand,7,varanasi-GkzmBbgd,Samne Ghat
+varanasi-AQnZBfHq,Narayanpur-Cantt,Narayanpur to Varanasi Cantt Bus Stand,8,varanasi-MTxjgAzX,Lanka
+varanasi-AQnZBfHq,Narayanpur-Cantt,Narayanpur to Varanasi Cantt Bus Stand,9,varanasi-rtUEdxAe,Ravidas Gate
+varanasi-AQnZBfHq,Narayanpur-Cantt,Narayanpur to Varanasi Cantt Bus Stand,10,varanasi-DqFJTmfR,Durgakund
+varanasi-AQnZBfHq,Narayanpur-Cantt,Narayanpur to Varanasi Cantt Bus Stand,11,varanasi-JecJYAGH,Ravidrapuri
+varanasi-AQnZBfHq,Narayanpur-Cantt,Narayanpur to Varanasi Cantt Bus Stand,12,varanasi-fpHmWBFF,Bhelupur
+varanasi-AQnZBfHq,Narayanpur-Cantt,Narayanpur to Varanasi Cantt Bus Stand,13,varanasi-PBVIMKPj,Bhelupur
+varanasi-AQnZBfHq,Narayanpur-Cantt,Narayanpur to Varanasi Cantt Bus Stand,14,varanasi-AVBaUluD,Rathyatra
+varanasi-AQnZBfHq,Narayanpur-Cantt,Narayanpur to Varanasi Cantt Bus Stand,15,varanasi-zMGpRFrV,Sigra
+varanasi-AQnZBfHq,Narayanpur-Cantt,Narayanpur to Varanasi Cantt Bus Stand,16,varanasi-tpTVRwiG,Vidyapith
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,1,varanasi-iaqOhfyV,Mirzamurad Electric Bus Station
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,2,varanasi-WnavgySQ,KIT
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,3,varanasi-YrwgyfMP,Sadhu Ki Kutiya
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,4,varanasi-PyAAKbEg,Rakhauna
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,5,varanasi-rhkijzAO,Raja Talab
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,6,varanasi-BSdsbqvt,Mohansarai
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,7,varanasi-TMzqjldG,Sahavabad
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,8,varanasi-bwdfLKQd,Jagatpur
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,9,varanasi-pcVkWnED,Rohaniya
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,10,varanasi-TBdDeoVg,Bhullanpur
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,11,varanasi-mqKnbrXS,Modhaila
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,12,varanasi-ZTTZikMz,Chandpur Chauraha Or Poultry Farm
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,13,varanasi-LkrhuMbo,Boulia
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,14,varanasi-yqzyXfcw,Lahartara
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,15,varanasi-TPyEISTN,Cantt Railway Station
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,16,varanasi-qqqszAlf,Chaukaghat
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,17,varanasi-WPzOxmym,Khajuri
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,18,varanasi-JNjKybPs,Police Line
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,19,varanasi-YPQBTZCf,Pandeypur
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,20,varanasi-sFjaDvJn,Lalpur
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,21,varanasi-yGmLHGrP,Belwababa
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,22,varanasi-rnTHvJmD,Baniyapur
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,23,varanasi-ouzVuuYv,Mahaveer
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,24,varanasi-WExmDPfI,Allopur
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,25,varanasi-idcYkxQF,Chamrah
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,26,varanasi-HUkSUkOo,Goshipur
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,27,varanasi-jACzfled,Mohaanv Chauraha
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,28,varanasi-qwbxIUQu,Cholapur
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,29,varanasi-QZZdeVMt,Dharsauna
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,30,varanasi-yUfPjXnd,Katari
+varanasi-AgTAXPJK,E105,Mirzamurad Electric Bus Station to Danganj,31,varanasi-NESsvuUe,Balramganj
+varanasi-AhjHfAZc,Cantt-Rameshwar,Varanasi Cantt Bus Stand to Barema,1,varanasi-XHAPFVvZ,Varanasi Cantt Bus Stand
+varanasi-AhjHfAZc,Cantt-Rameshwar,Varanasi Cantt Bus Stand to Barema,2,varanasi-rmXLhwsO,Kachahari
+varanasi-AhjHfAZc,Cantt-Rameshwar,Varanasi Cantt Bus Stand to Barema,3,varanasi-WsPOmiFs,Bhojuveer
+varanasi-AhjHfAZc,Cantt-Rameshwar,Varanasi Cantt Bus Stand to Barema,4,varanasi-XUKNqMsT,Gilat Bazar
+varanasi-AhjHfAZc,Cantt-Rameshwar,Varanasi Cantt Bus Stand to Barema,5,varanasi-kVLxjAVm,Agrasen Mod
+varanasi-AhjHfAZc,Cantt-Rameshwar,Varanasi Cantt Bus Stand to Barema,6,varanasi-UpyrmzCu,Tarna
+varanasi-AhjHfAZc,Cantt-Rameshwar,Varanasi Cantt Bus Stand to Barema,7,varanasi-NHYomZkn,Bharat Heavy Electricals Limited
+varanasi-AhjHfAZc,Cantt-Rameshwar,Varanasi Cantt Bus Stand to Barema,8,varanasi-BAFLSzmx,Vyas Bagh
+varanasi-AhjHfAZc,Cantt-Rameshwar,Varanasi Cantt Bus Stand to Barema,9,varanasi-NojiqKMR,Harhua Chawraha
+varanasi-AhjHfAZc,Cantt-Rameshwar,Varanasi Cantt Bus Stand to Barema,10,varanasi-BuPrWgxK,Ausanpurgat
+varanasi-AhjHfAZc,Cantt-Rameshwar,Varanasi Cantt Bus Stand to Barema,11,varanasi-hcHjUmdS,Chakka
+varanasi-AhjHfAZc,Cantt-Rameshwar,Varanasi Cantt Bus Stand to Barema,12,varanasi-uShqBnGb,Panchoshila
+varanasi-AhjHfAZc,Cantt-Rameshwar,Varanasi Cantt Bus Stand to Barema,13,varanasi-xyQawQUE,Rameshwar
+varanasi-BEsqlIar,Cantt-Kerakat Via Pandeypur,Varanasi Cantt Bus Stand to Kerakat,1,varanasi-syNRjJON,Varanasi Cantt Bus Stand
+varanasi-BEsqlIar,Cantt-Kerakat Via Pandeypur,Varanasi Cantt Bus Stand to Kerakat,2,varanasi-YPQBTZCf,Pandeypur
+varanasi-BEsqlIar,Cantt-Kerakat Via Pandeypur,Varanasi Cantt Bus Stand to Kerakat,3,varanasi-yGmLHGrP,Belwababa
+varanasi-BEsqlIar,Cantt-Kerakat Via Pandeypur,Varanasi Cantt Bus Stand to Kerakat,4,varanasi-ouzVuuYv,Mahaveer
+varanasi-BEsqlIar,Cantt-Kerakat Via Pandeypur,Varanasi Cantt Bus Stand to Kerakat,5,varanasi-idcYkxQF,Chamrah
+varanasi-BEsqlIar,Cantt-Kerakat Via Pandeypur,Varanasi Cantt Bus Stand to Kerakat,6,varanasi-jACzfled,Mohaanv Chauraha
+varanasi-BEsqlIar,Cantt-Kerakat Via Pandeypur,Varanasi Cantt Bus Stand to Kerakat,7,varanasi-qwbxIUQu,Cholapur
+varanasi-BEsqlIar,Cantt-Kerakat Via Pandeypur,Varanasi Cantt Bus Stand to Kerakat,8,varanasi-lFvrWfSR,Katari
+varanasi-BEsqlIar,Cantt-Kerakat Via Pandeypur,Varanasi Cantt Bus Stand to Kerakat,9,varanasi-NESsvuUe,Balramganj
+varanasi-BEsqlIar,Cantt-Kerakat Via Pandeypur,Varanasi Cantt Bus Stand to Kerakat,10,varanasi-oiYdeBQt,Danganj
+varanasi-EsxaAWSA,Padao-Ahraura,Padao to Ahraura,1,varanasi-lbeTLaEq,Padao
+varanasi-EsxaAWSA,Padao-Ahraura,Padao to Ahraura,2,varanasi-csryokYI,Semara
+varanasi-EsxaAWSA,Padao-Ahraura,Padao to Ahraura,3,varanasi-FyatHWeS,Katesar
+varanasi-EsxaAWSA,Padao-Ahraura,Padao to Ahraura,4,varanasi-AwhIMJov,Ram Nagar Chowk
+varanasi-EsxaAWSA,Padao-Ahraura,Padao to Ahraura,5,varanasi-eByQNqQL,Tengara Mod
+varanasi-EsxaAWSA,Padao-Ahraura,Padao to Ahraura,6,varanasi-pXVkvxPK,Milkipur
+varanasi-EsxaAWSA,Padao-Ahraura,Padao to Ahraura,7,varanasi-fjeGPifO,Baraipur
+varanasi-EsxaAWSA,Padao-Ahraura,Padao to Ahraura,8,varanasi-xqAFqWsP,Bishesharpur
+varanasi-EsxaAWSA,Padao-Ahraura,Padao to Ahraura,9,varanasi-cVQGBkHB,Narayanpur
+varanasi-EsxaAWSA,Padao-Ahraura,Padao to Ahraura,10,varanasi-rfmSeIDh,Ranibag
+varanasi-EsxaAWSA,Padao-Ahraura,Padao to Ahraura,11,varanasi-BCWGpsRa,Khajuraul
+varanasi-EsxaAWSA,Padao-Ahraura,Padao to Ahraura,12,varanasi-QPOJmdaQ,Adalhat
+varanasi-FLgAmAyw,Baragaon-Cantt,Baragaon to Varanasi Cantt Bus Stand,1,varanasi-BnQtwpnh,Baragaon
+varanasi-FLgAmAyw,Baragaon-Cantt,Baragaon to Varanasi Cantt Bus Stand,2,varanasi-mYlZaBaU,Basani
+varanasi-FLgAmAyw,Baragaon-Cantt,Baragaon to Varanasi Cantt Bus Stand,3,varanasi-IRepvSVy,Babatpur Chauraha
+varanasi-FLgAmAyw,Baragaon-Cantt,Baragaon to Varanasi Cantt Bus Stand,4,varanasi-pbZPcFCx,Mangari
+varanasi-FLgAmAyw,Baragaon-Cantt,Baragaon to Varanasi Cantt Bus Stand,5,varanasi-YYpIqcbc,Prem Nagar
+varanasi-FLgAmAyw,Baragaon-Cantt,Baragaon to Varanasi Cantt Bus Stand,6,varanasi-GieDnqKa,Palahi Patti
+varanasi-FLgAmAyw,Baragaon-Cantt,Baragaon to Varanasi Cantt Bus Stand,7,varanasi-SlWCyUsN,Ayar
+varanasi-FLgAmAyw,Baragaon-Cantt,Baragaon to Varanasi Cantt Bus Stand,8,varanasi-edQJjtRl,Murdaha
+varanasi-FLgAmAyw,Baragaon-Cantt,Baragaon to Varanasi Cantt Bus Stand,9,varanasi-aNVbDepp,Belwatiya
+varanasi-FLgAmAyw,Baragaon-Cantt,Baragaon to Varanasi Cantt Bus Stand,10,varanasi-QkGiHJJf,Chandmari
+varanasi-FLgAmAyw,Baragaon-Cantt,Baragaon to Varanasi Cantt Bus Stand,11,varanasi-DUzRcCyV,Natiniya Mai
+varanasi-FLgAmAyw,Baragaon-Cantt,Baragaon to Varanasi Cantt Bus Stand,12,varanasi-QDxfkBYX,Bhojuveer
+varanasi-FLgAmAyw,Baragaon-Cantt,Baragaon to Varanasi Cantt Bus Stand,13,varanasi-dEPfxnCO,Police Line
+varanasi-FLgAmAyw,Baragaon-Cantt,Baragaon to Varanasi Cantt Bus Stand,14,varanasi-BqzdRojR,Chaukaghat
+varanasi-FZKJyTwA,Cantt-Saifapur,Varanasi Cantt Bus Stand to Saifapur,1,varanasi-XHAPFVvZ,Varanasi Cantt Bus Stand
+varanasi-FZKJyTwA,Cantt-Saifapur,Varanasi Cantt Bus Stand to Saifapur,2,varanasi-qqqszAlf,Chaukaghat
+varanasi-FZKJyTwA,Cantt-Saifapur,Varanasi Cantt Bus Stand to Saifapur,3,varanasi-nAWyIoVh,District Jail Varanasi
+varanasi-FZKJyTwA,Cantt-Saifapur,Varanasi Cantt Bus Stand to Saifapur,4,varanasi-kAJIRMel,Kachahari
+varanasi-FZKJyTwA,Cantt-Saifapur,Varanasi Cantt Bus Stand to Saifapur,5,varanasi-YPQBTZCf,Pandeypur
+varanasi-FZKJyTwA,Cantt-Saifapur,Varanasi Cantt Bus Stand to Saifapur,6,varanasi-YKxKCGXJ,Paharia
+varanasi-FZKJyTwA,Cantt-Saifapur,Varanasi Cantt Bus Stand to Saifapur,7,varanasi-psJfEvMe,Chandra Crossing
+varanasi-FZKJyTwA,Cantt-Saifapur,Varanasi Cantt Bus Stand to Saifapur,8,varanasi-MKRBZBGT,Tilmapur
+varanasi-FZKJyTwA,Cantt-Saifapur,Varanasi Cantt Bus Stand to Saifapur,9,varanasi-qOdhSWTG,Chiraigaon
+varanasi-FZKJyTwA,Cantt-Saifapur,Varanasi Cantt Bus Stand to Saifapur,10,varanasi-fMJAnVEO,Gaura Kala
+varanasi-FZKJyTwA,Cantt-Saifapur,Varanasi Cantt Bus Stand to Saifapur,11,varanasi-TqABDPIX,Sahu Ka Pokhra
+varanasi-FZKJyTwA,Cantt-Saifapur,Varanasi Cantt Bus Stand to Saifapur,12,varanasi-RXLNBLAQ,Jalhupur
+varanasi-FZKJyTwA,Cantt-Saifapur,Varanasi Cantt Bus Stand to Saifapur,13,varanasi-ZXKWTTnb,Bhagatua
+varanasi-FZKJyTwA,Cantt-Saifapur,Varanasi Cantt Bus Stand to Saifapur,14,varanasi-oJrTBbEf,Balua Ghat
+varanasi-FZKJyTwA,Cantt-Saifapur,Varanasi Cantt Bus Stand to Saifapur,15,varanasi-rfGuGlCc,Chahaniya
+varanasi-FZKJyTwA,Cantt-Saifapur,Varanasi Cantt Bus Stand to Saifapur,16,varanasi-hDkILDZn,Chak Gurera
+varanasi-GWOymUPe,Cantt-Katona Via Babatpur,Varanasi Cantt Bus Stand to Katona,1,varanasi-XHAPFVvZ,Varanasi Cantt Bus Stand
+varanasi-GWOymUPe,Cantt-Katona Via Babatpur,Varanasi Cantt Bus Stand to Katona,2,varanasi-oOtNbvGl,Police Line
+varanasi-GWOymUPe,Cantt-Katona Via Babatpur,Varanasi Cantt Bus Stand to Katona,3,varanasi-WsPOmiFs,Bhojuveer
+varanasi-GWOymUPe,Cantt-Katona Via Babatpur,Varanasi Cantt Bus Stand to Katona,4,varanasi-XUKNqMsT,Gilat Bazar
+varanasi-GWOymUPe,Cantt-Katona Via Babatpur,Varanasi Cantt Bus Stand to Katona,5,varanasi-kVLxjAVm,Agrasen Mod
+varanasi-GWOymUPe,Cantt-Katona Via Babatpur,Varanasi Cantt Bus Stand to Katona,6,varanasi-UpyrmzCu,Tarna
+varanasi-GWOymUPe,Cantt-Katona Via Babatpur,Varanasi Cantt Bus Stand to Katona,7,varanasi-NHYomZkn,Bharat Heavy Electricals Limited
+varanasi-GWOymUPe,Cantt-Katona Via Babatpur,Varanasi Cantt Bus Stand to Katona,8,varanasi-BAFLSzmx,Vyas Bagh
+varanasi-GWOymUPe,Cantt-Katona Via Babatpur,Varanasi Cantt Bus Stand to Katona,9,varanasi-NojiqKMR,Harhua Chawraha
+varanasi-GWOymUPe,Cantt-Katona Via Babatpur,Varanasi Cantt Bus Stand to Katona,10,varanasi-mjEZFQiL,Kaazi Sarai
+varanasi-GWOymUPe,Cantt-Katona Via Babatpur,Varanasi Cantt Bus Stand to Katona,11,varanasi-PMkcfNff,RTO Office Jamaalpur
+varanasi-GWOymUPe,Cantt-Katona Via Babatpur,Varanasi Cantt Bus Stand to Katona,12,varanasi-stdwxYiZ,Babatpur Chauraha
+varanasi-HVuFMaxS,Cantt-Rupchandpur Vai Jharaiya,Varanasi Cantt Bus Stand to Rupchanpur,1,varanasi-XHAPFVvZ,Varanasi Cantt Bus Stand
+varanasi-HVuFMaxS,Cantt-Rupchandpur Vai Jharaiya,Varanasi Cantt Bus Stand to Rupchanpur,2,varanasi-JNjKybPs,Police Line
+varanasi-HVuFMaxS,Cantt-Rupchandpur Vai Jharaiya,Varanasi Cantt Bus Stand to Rupchanpur,3,varanasi-YPQBTZCf,Pandeypur
+varanasi-HVuFMaxS,Cantt-Rupchandpur Vai Jharaiya,Varanasi Cantt Bus Stand to Rupchanpur,4,varanasi-yGmLHGrP,Belwababa
+varanasi-HVuFMaxS,Cantt-Rupchandpur Vai Jharaiya,Varanasi Cantt Bus Stand to Rupchanpur,5,varanasi-ouzVuuYv,Mahaveer
+varanasi-HVuFMaxS,Cantt-Rupchandpur Vai Jharaiya,Varanasi Cantt Bus Stand to Rupchanpur,6,varanasi-idcYkxQF,Chamrah
+varanasi-HVuFMaxS,Cantt-Rupchandpur Vai Jharaiya,Varanasi Cantt Bus Stand to Rupchanpur,7,varanasi-jACzfled,Mohaanv Chauraha
+varanasi-HVuFMaxS,Cantt-Rupchandpur Vai Jharaiya,Varanasi Cantt Bus Stand to Rupchanpur,8,varanasi-qwbxIUQu,Cholapur
+varanasi-HVuFMaxS,Cantt-Rupchandpur Vai Jharaiya,Varanasi Cantt Bus Stand to Rupchanpur,9,varanasi-QZZdeVMt,Dharsauna
+varanasi-HVuFMaxS,Cantt-Rupchandpur Vai Jharaiya,Varanasi Cantt Bus Stand to Rupchanpur,10,varanasi-yUfPjXnd,Katari
+varanasi-HVuFMaxS,Cantt-Rupchandpur Vai Jharaiya,Varanasi Cantt Bus Stand to Rupchanpur,11,varanasi-NESsvuUe,Balramganj
+varanasi-HVuFMaxS,Cantt-Rupchandpur Vai Jharaiya,Varanasi Cantt Bus Stand to Rupchanpur,12,varanasi-uLeHJnrV,Jharaiya
+varanasi-LMTEqkDz,Kashi-Mughalsarai,Kashi Bus Depot to DDU Mughalsarai,1,varanasi-iERfTOUl,Kashi Bus Depot
+varanasi-LMTEqkDz,Kashi-Mughalsarai,Kashi Bus Depot to DDU Mughalsarai,2,varanasi-MmUqpwTG,Chaukaghat
+varanasi-LMTEqkDz,Kashi-Mughalsarai,Kashi Bus Depot to DDU Mughalsarai,3,varanasi-syNRjJON,Varanasi Cantt Bus Stand
+varanasi-LMTEqkDz,Kashi-Mughalsarai,Kashi Bus Depot to DDU Mughalsarai,4,varanasi-XIWmjcKe,Vidyapith
+varanasi-LMTEqkDz,Kashi-Mughalsarai,Kashi Bus Depot to DDU Mughalsarai,5,varanasi-XpEuBDdY,Sigra
+varanasi-LMTEqkDz,Kashi-Mughalsarai,Kashi Bus Depot to DDU Mughalsarai,6,varanasi-MdWxlOca,Rathyatra
+varanasi-LMTEqkDz,Kashi-Mughalsarai,Kashi Bus Depot to DDU Mughalsarai,7,varanasi-aaZRVuxT,Bhelupur
+varanasi-LMTEqkDz,Kashi-Mughalsarai,Kashi Bus Depot to DDU Mughalsarai,8,varanasi-nppBdsAI,Bhelupur
+varanasi-LMTEqkDz,Kashi-Mughalsarai,Kashi Bus Depot to DDU Mughalsarai,9,varanasi-YVuigQev,Ravidrapuri
+varanasi-LMTEqkDz,Kashi-Mughalsarai,Kashi Bus Depot to DDU Mughalsarai,10,varanasi-qIJZgrbB,Durgakund
+varanasi-LMTEqkDz,Kashi-Mughalsarai,Kashi Bus Depot to DDU Mughalsarai,11,varanasi-SztmBWEp,Ravidas Gate
+varanasi-LMTEqkDz,Kashi-Mughalsarai,Kashi Bus Depot to DDU Mughalsarai,12,varanasi-DwehAuKT,Lanka
+varanasi-LMTEqkDz,Kashi-Mughalsarai,Kashi Bus Depot to DDU Mughalsarai,13,varanasi-EQZizCam,Bhagwanpur
+varanasi-LMTEqkDz,Kashi-Mughalsarai,Kashi Bus Depot to DDU Mughalsarai,14,varanasi-iSYahzVR,Seer Gate
+varanasi-LMTEqkDz,Kashi-Mughalsarai,Kashi Bus Depot to DDU Mughalsarai,15,varanasi-eqEMdBPJ,DAFI
+varanasi-LMTEqkDz,Kashi-Mughalsarai,Kashi Bus Depot to DDU Mughalsarai,16,varanasi-ebVkGJSP,Tengara Mod
+varanasi-LMTEqkDz,Kashi-Mughalsarai,Kashi Bus Depot to DDU Mughalsarai,17,varanasi-VxOkaJuj,Katariya
+varanasi-LMTEqkDz,Kashi-Mughalsarai,Kashi Bus Depot to DDU Mughalsarai,18,varanasi-bcfCpkJS,Chakiya Mod
+varanasi-MutOvyjg,Rupchandpur-Cantt Vai Jharaiya,Rupchanpur to Varanasi Cantt Bus Stand,1,varanasi-tunRlaWR,Rupchanpur
+varanasi-MutOvyjg,Rupchandpur-Cantt Vai Jharaiya,Rupchanpur to Varanasi Cantt Bus Stand,2,varanasi-dCJGXFxU,Jharaiya
+varanasi-MutOvyjg,Rupchandpur-Cantt Vai Jharaiya,Rupchanpur to Varanasi Cantt Bus Stand,3,varanasi-Iaijgaps,Balramganj
+varanasi-MutOvyjg,Rupchandpur-Cantt Vai Jharaiya,Rupchanpur to Varanasi Cantt Bus Stand,4,varanasi-vWYdQIGK,Katari
+varanasi-MutOvyjg,Rupchandpur-Cantt Vai Jharaiya,Rupchanpur to Varanasi Cantt Bus Stand,5,varanasi-vggJkdAH,Dharsauna
+varanasi-MutOvyjg,Rupchandpur-Cantt Vai Jharaiya,Rupchanpur to Varanasi Cantt Bus Stand,6,varanasi-uPprMnHU,Cholapur
+varanasi-MutOvyjg,Rupchandpur-Cantt Vai Jharaiya,Rupchanpur to Varanasi Cantt Bus Stand,7,varanasi-DvNZVmIv,Mohaanv Chauraha
+varanasi-MutOvyjg,Rupchandpur-Cantt Vai Jharaiya,Rupchanpur to Varanasi Cantt Bus Stand,8,varanasi-fkeuqiXJ,Chamrah
+varanasi-MutOvyjg,Rupchandpur-Cantt Vai Jharaiya,Rupchanpur to Varanasi Cantt Bus Stand,9,varanasi-ZwuxptJm,Mahaveer
+varanasi-MutOvyjg,Rupchandpur-Cantt Vai Jharaiya,Rupchanpur to Varanasi Cantt Bus Stand,10,varanasi-WddnCXUH,Belwababa
+varanasi-MutOvyjg,Rupchandpur-Cantt Vai Jharaiya,Rupchanpur to Varanasi Cantt Bus Stand,11,varanasi-IpcuKXlY,Pandeypur
+varanasi-MutOvyjg,Rupchandpur-Cantt Vai Jharaiya,Rupchanpur to Varanasi Cantt Bus Stand,12,varanasi-zuJepecj,Police Line
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,1,varanasi-wnvPRylR,Danganj
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,2,varanasi-Iaijgaps,Balramganj
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,3,varanasi-vWYdQIGK,Katari
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,4,varanasi-vggJkdAH,Dharsauna
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,5,varanasi-uPprMnHU,Cholapur
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,6,varanasi-DvNZVmIv,Mohaanv Chauraha
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,7,varanasi-XOVskomO,Goshipur
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,8,varanasi-fkeuqiXJ,Chamrah
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,9,varanasi-DOOLMbBv,Allopur
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,10,varanasi-ZwuxptJm,Mahaveer
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,11,varanasi-FIDZFuHM,Baniyapur
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,12,varanasi-WddnCXUH,Belwababa
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,13,varanasi-NrGcFBpm,Lalpur
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,14,varanasi-IpcuKXlY,Pandeypur
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,15,varanasi-zuJepecj,Police Line
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,16,varanasi-WWmEhUqy,Khajuri
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,17,varanasi-BqzdRojR,Chaukaghat
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,18,varanasi-vaieUjwr,Cantt Railway Station
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,19,varanasi-pPowKIcd,Lahartara
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,20,varanasi-jjGQPzNC,Boulia
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,21,varanasi-EdGClPTd,Chandpur Chauraha Or Poultry Farm
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,22,varanasi-OteVODsP,Modhaila
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,23,varanasi-fYwvxpIl,Bhullanpur
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,24,varanasi-WKbGoGxv,Rohaniya
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,25,varanasi-mQaPselG,Jagatpur
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,26,varanasi-yOmxUvKl,Sahavabad
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,27,varanasi-TLdCwyZn,Mohansarai
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,28,varanasi-tESogkKe,Raja Talab
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,29,varanasi-kVVWfuIL,Rakhauna
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,30,varanasi-RXcjTKje,Sadhu Ki Kutiya
+varanasi-PmoNmUNH,E105,Danganj to Mirzamurad Electric Bus Station,31,varanasi-BFhbbKji,KIT
+varanasi-SfsiPJPR,Cantt-Kachhawa Bazar 2 Via Jakhini,Varanasi Cantt Bus Stand to Kachhawan Bazar,1,varanasi-syNRjJON,Varanasi Cantt Bus Stand
+varanasi-SfsiPJPR,Cantt-Kachhawa Bazar 2 Via Jakhini,Varanasi Cantt Bus Stand to Kachhawan Bazar,2,varanasi-jjGQPzNC,Boulia
+varanasi-SfsiPJPR,Cantt-Kachhawa Bazar 2 Via Jakhini,Varanasi Cantt Bus Stand to Kachhawan Bazar,3,varanasi-EdGClPTd,Chandpur Chauraha Or Poultry Farm
+varanasi-SfsiPJPR,Cantt-Kachhawa Bazar 2 Via Jakhini,Varanasi Cantt Bus Stand to Kachhawan Bazar,4,varanasi-WKbGoGxv,Rohaniya
+varanasi-SfsiPJPR,Cantt-Kachhawa Bazar 2 Via Jakhini,Varanasi Cantt Bus Stand to Kachhawan Bazar,5,varanasi-mQaPselG,Jagatpur
+varanasi-SfsiPJPR,Cantt-Kachhawa Bazar 2 Via Jakhini,Varanasi Cantt Bus Stand to Kachhawan Bazar,6,varanasi-TLdCwyZn,Mohansarai
+varanasi-SfsiPJPR,Cantt-Kachhawa Bazar 2 Via Jakhini,Varanasi Cantt Bus Stand to Kachhawan Bazar,7,varanasi-tESogkKe,Raja Talab
+varanasi-SfsiPJPR,Cantt-Kachhawa Bazar 2 Via Jakhini,Varanasi Cantt Bus Stand to Kachhawan Bazar,8,varanasi-WGCTShfF,Deepapur
+varanasi-SfsiPJPR,Cantt-Kachhawa Bazar 2 Via Jakhini,Varanasi Cantt Bus Stand to Kachhawan Bazar,9,varanasi-rZBAtJNr,Koilipul
+varanasi-SfsiPJPR,Cantt-Kachhawa Bazar 2 Via Jakhini,Varanasi Cantt Bus Stand to Kachhawan Bazar,10,varanasi-SLmYQIPC,Narsara
+varanasi-SfsiPJPR,Cantt-Kachhawa Bazar 2 Via Jakhini,Varanasi Cantt Bus Stand to Kachhawan Bazar,11,varanasi-bHfZzpdi,Jakhini
+varanasi-cPDIUlXV,Mughalsarai-Kashi,DDU Mughalsarai to Kashi Bus Depot,1,varanasi-SEuYLYAT,DDU Mughalsarai
+varanasi-cPDIUlXV,Mughalsarai-Kashi,DDU Mughalsarai to Kashi Bus Depot,2,varanasi-FLpVBamy,Chakiya Mod
+varanasi-cPDIUlXV,Mughalsarai-Kashi,DDU Mughalsarai to Kashi Bus Depot,3,varanasi-AtoRLchq,Katariya
+varanasi-cPDIUlXV,Mughalsarai-Kashi,DDU Mughalsarai to Kashi Bus Depot,4,varanasi-YrSdcMfH,Tengara Mod
+varanasi-cPDIUlXV,Mughalsarai-Kashi,DDU Mughalsarai to Kashi Bus Depot,5,varanasi-kEFiKBCq,DAFI
+varanasi-cPDIUlXV,Mughalsarai-Kashi,DDU Mughalsarai to Kashi Bus Depot,6,varanasi-LelYJqDK,Seer Gate
+varanasi-cPDIUlXV,Mughalsarai-Kashi,DDU Mughalsarai to Kashi Bus Depot,7,varanasi-CdRJKzyQ,Bhagwanpur
+varanasi-cPDIUlXV,Mughalsarai-Kashi,DDU Mughalsarai to Kashi Bus Depot,8,varanasi-MTxjgAzX,Lanka
+varanasi-cPDIUlXV,Mughalsarai-Kashi,DDU Mughalsarai to Kashi Bus Depot,9,varanasi-rtUEdxAe,Ravidas Gate
+varanasi-cPDIUlXV,Mughalsarai-Kashi,DDU Mughalsarai to Kashi Bus Depot,10,varanasi-DqFJTmfR,Durgakund
+varanasi-cPDIUlXV,Mughalsarai-Kashi,DDU Mughalsarai to Kashi Bus Depot,11,varanasi-JecJYAGH,Ravidrapuri
+varanasi-cPDIUlXV,Mughalsarai-Kashi,DDU Mughalsarai to Kashi Bus Depot,12,varanasi-fpHmWBFF,Bhelupur
+varanasi-cPDIUlXV,Mughalsarai-Kashi,DDU Mughalsarai to Kashi Bus Depot,13,varanasi-PBVIMKPj,Bhelupur
+varanasi-cPDIUlXV,Mughalsarai-Kashi,DDU Mughalsarai to Kashi Bus Depot,14,varanasi-AVBaUluD,Rathyatra
+varanasi-cPDIUlXV,Mughalsarai-Kashi,DDU Mughalsarai to Kashi Bus Depot,15,varanasi-zMGpRFrV,Sigra
+varanasi-cPDIUlXV,Mughalsarai-Kashi,DDU Mughalsarai to Kashi Bus Depot,16,varanasi-tpTVRwiG,Vidyapith
+varanasi-cPDIUlXV,Mughalsarai-Kashi,DDU Mughalsarai to Kashi Bus Depot,17,varanasi-XHAPFVvZ,Varanasi Cantt Bus Stand
+varanasi-cPDIUlXV,Mughalsarai-Kashi,DDU Mughalsarai to Kashi Bus Depot,18,varanasi-TKFKtxBv,Chaukaghat
+varanasi-eSaXlCRk,Cantt-Narayanpur,Varanasi Cantt Bus Stand to Narayanpur,1,varanasi-syNRjJON,Varanasi Cantt Bus Stand
+varanasi-eSaXlCRk,Cantt-Narayanpur,Varanasi Cantt Bus Stand to Narayanpur,2,varanasi-XIWmjcKe,Vidyapith
+varanasi-eSaXlCRk,Cantt-Narayanpur,Varanasi Cantt Bus Stand to Narayanpur,3,varanasi-XpEuBDdY,Sigra
+varanasi-eSaXlCRk,Cantt-Narayanpur,Varanasi Cantt Bus Stand to Narayanpur,4,varanasi-MdWxlOca,Rathyatra
+varanasi-eSaXlCRk,Cantt-Narayanpur,Varanasi Cantt Bus Stand to Narayanpur,5,varanasi-aaZRVuxT,Bhelupur
+varanasi-eSaXlCRk,Cantt-Narayanpur,Varanasi Cantt Bus Stand to Narayanpur,6,varanasi-nppBdsAI,Bhelupur
+varanasi-eSaXlCRk,Cantt-Narayanpur,Varanasi Cantt Bus Stand to Narayanpur,7,varanasi-YVuigQev,Ravidrapuri
+varanasi-eSaXlCRk,Cantt-Narayanpur,Varanasi Cantt Bus Stand to Narayanpur,8,varanasi-qIJZgrbB,Durgakund
+varanasi-eSaXlCRk,Cantt-Narayanpur,Varanasi Cantt Bus Stand to Narayanpur,9,varanasi-SztmBWEp,Ravidas Gate
+varanasi-eSaXlCRk,Cantt-Narayanpur,Varanasi Cantt Bus Stand to Narayanpur,10,varanasi-DwehAuKT,Lanka
+varanasi-eSaXlCRk,Cantt-Narayanpur,Varanasi Cantt Bus Stand to Narayanpur,11,varanasi-zyAvXMTI,Ram Nagar Chowk
+varanasi-eSaXlCRk,Cantt-Narayanpur,Varanasi Cantt Bus Stand to Narayanpur,12,varanasi-eByQNqQL,Tengara Mod
+varanasi-eSaXlCRk,Cantt-Narayanpur,Varanasi Cantt Bus Stand to Narayanpur,13,varanasi-pXVkvxPK,Milkipur
+varanasi-eSaXlCRk,Cantt-Narayanpur,Varanasi Cantt Bus Stand to Narayanpur,14,varanasi-fjeGPifO,Baraipur
+varanasi-eSaXlCRk,Cantt-Narayanpur,Varanasi Cantt Bus Stand to Narayanpur,15,varanasi-xqAFqWsP,Bishesharpur
+varanasi-hPvbimau,Cantt-Kachhawan Bazar Via Mohansarai,Varanasi Cantt Bus Stand to Kachhawan Bazar,1,varanasi-syNRjJON,Varanasi Cantt Bus Stand
+varanasi-hPvbimau,Cantt-Kachhawan Bazar Via Mohansarai,Varanasi Cantt Bus Stand to Kachhawan Bazar,2,varanasi-pPowKIcd,Lahartara
+varanasi-hPvbimau,Cantt-Kachhawan Bazar Via Mohansarai,Varanasi Cantt Bus Stand to Kachhawan Bazar,3,varanasi-EdGClPTd,Chandpur Chauraha Or Poultry Farm
+varanasi-hPvbimau,Cantt-Kachhawan Bazar Via Mohansarai,Varanasi Cantt Bus Stand to Kachhawan Bazar,4,varanasi-WKbGoGxv,Rohaniya
+varanasi-hPvbimau,Cantt-Kachhawan Bazar Via Mohansarai,Varanasi Cantt Bus Stand to Kachhawan Bazar,5,varanasi-mQaPselG,Jagatpur
+varanasi-hPvbimau,Cantt-Kachhawan Bazar Via Mohansarai,Varanasi Cantt Bus Stand to Kachhawan Bazar,6,varanasi-TLdCwyZn,Mohansarai
+varanasi-hPvbimau,Cantt-Kachhawan Bazar Via Mohansarai,Varanasi Cantt Bus Stand to Kachhawan Bazar,7,varanasi-tESogkKe,Raja Talab
+varanasi-hPvbimau,Cantt-Kachhawan Bazar Via Mohansarai,Varanasi Cantt Bus Stand to Kachhawan Bazar,8,varanasi-AuBwYpRK,Chitapur
+varanasi-iHPouHor,Cantt-Aurai,Varanasi Cantt Bus Stand to Aurai,1,varanasi-syNRjJON,Varanasi Cantt Bus Stand
+varanasi-iHPouHor,Cantt-Aurai,Varanasi Cantt Bus Stand to Aurai,2,varanasi-EdGClPTd,Chandpur Chauraha Or Poultry Farm
+varanasi-iHPouHor,Cantt-Aurai,Varanasi Cantt Bus Stand to Aurai,3,varanasi-TLdCwyZn,Mohansarai
+varanasi-iHPouHor,Cantt-Aurai,Varanasi Cantt Bus Stand to Aurai,4,varanasi-tESogkKe,Raja Talab
+varanasi-kSOIePZe,E108,Mirzamurad Electric Bus Station to Cantt Railway Station,1,varanasi-iaqOhfyV,Mirzamurad Electric Bus Station
+varanasi-kSOIePZe,E108,Mirzamurad Electric Bus Station to Cantt Railway Station,2,varanasi-QcuJSUGS,Mirzamurad Bazar
+varanasi-kSOIePZe,E108,Mirzamurad Electric Bus Station to Cantt Railway Station,3,varanasi-WnavgySQ,KIT
+varanasi-kSOIePZe,E108,Mirzamurad Electric Bus Station to Cantt Railway Station,4,varanasi-YrwgyfMP,Sadhu Ki Kutiya
+varanasi-kSOIePZe,E108,Mirzamurad Electric Bus Station to Cantt Railway Station,5,varanasi-PyAAKbEg,Rakhauna
+varanasi-kSOIePZe,E108,Mirzamurad Electric Bus Station to Cantt Railway Station,6,varanasi-rhkijzAO,Raja Talab
+varanasi-kSOIePZe,E108,Mirzamurad Electric Bus Station to Cantt Railway Station,7,varanasi-MLmgqKyQ,Mohansarai
+varanasi-kSOIePZe,E108,Mirzamurad Electric Bus Station to Cantt Railway Station,8,varanasi-TMzqjldG,Sahavabad
+varanasi-kSOIePZe,E108,Mirzamurad Electric Bus Station to Cantt Railway Station,9,varanasi-bwdfLKQd,Jagatpur
+varanasi-kSOIePZe,E108,Mirzamurad Electric Bus Station to Cantt Railway Station,10,varanasi-pcVkWnED,Rohaniya
+varanasi-kSOIePZe,E108,Mirzamurad Electric Bus Station to Cantt Railway Station,11,varanasi-TBdDeoVg,Bhullanpur
+varanasi-kSOIePZe,E108,Mirzamurad Electric Bus Station to Cantt Railway Station,12,varanasi-mqKnbrXS,Modhaila
+varanasi-kSOIePZe,E108,Mirzamurad Electric Bus Station to Cantt Railway Station,13,varanasi-ZTTZikMz,Chandpur Chauraha Or Poultry Farm
+varanasi-kSOIePZe,E108,Mirzamurad Electric Bus Station to Cantt Railway Station,14,varanasi-LkrhuMbo,Boulia
+varanasi-kSOIePZe,E108,Mirzamurad Electric Bus Station to Cantt Railway Station,15,varanasi-yqzyXfcw,Lahartara
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,1,varanasi-iaqOhfyV,Mirzamurad Electric Bus Station
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,2,varanasi-QcuJSUGS,Mirzamurad Bazar
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,3,varanasi-WnavgySQ,KIT
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,4,varanasi-YrwgyfMP,Sadhu Ki Kutiya
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,5,varanasi-PyAAKbEg,Rakhauna
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,6,varanasi-rhkijzAO,Raja Talab
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,7,varanasi-BSdsbqvt,Mohansarai
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,8,varanasi-TMzqjldG,Sahavabad
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,9,varanasi-bwdfLKQd,Jagatpur
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,10,varanasi-pcVkWnED,Rohaniya
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,11,varanasi-TBdDeoVg,Bhullanpur
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,12,varanasi-mqKnbrXS,Modhaila
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,13,varanasi-bhIOKjsW,Chandpur
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,14,varanasi-LkrhuMbo,Boulia
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,15,varanasi-yqzyXfcw,Lahartara
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,16,varanasi-XHAPFVvZ,Varanasi Cantt Bus Stand
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,17,varanasi-TKFKtxBv,Chaukaghat
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,18,varanasi-WPzOxmym,Khajuri
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,19,varanasi-JNjKybPs,Police Line
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,20,varanasi-YPQBTZCf,Pandeypur
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,21,varanasi-YKxKCGXJ,Paharia
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,22,varanasi-oxXzPPSP,Purana RTO
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,23,varanasi-xwHHTxhd,Asapur
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,24,varanasi-lgjXENdS,Ledhupur
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,25,varanasi-OMWidgos,Chiraigaon Block
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,26,varanasi-qoAjOoCV,Umaraha
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,27,varanasi-uAkSZTYF,Swarved Mahamandir Dham
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,28,varanasi-ZTWkszlU,Dubkiya
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,29,varanasi-isRiZhDn,Sahapur
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,30,varanasi-PWZQGNfm,Chaubeypur
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,31,varanasi-hNwlamUg,Gaurapurwar
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,32,varanasi-REvSoKya,Chandrawati
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,33,varanasi-IMwERmfr,Dhakwa
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,34,varanasi-lSMlOgii,Kaithi
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,35,varanasi-BlmgLOgo,Kaithi Toll Plaza
+varanasi-kpzRszyR,E106B,Mirzamurad Electric Bus Station to Sidhauna,36,varanasi-sZyJhuVv,Rajwari
+varanasi-pDojpRBf,E108,Rajghat to Cantt Railway Station,1,varanasi-YAUYyNuX,Rajghat
+varanasi-pDojpRBf,E108,Rajghat to Cantt Railway Station,2,varanasi-huQHilcu,Bhadau Chouraha
+varanasi-pDojpRBf,E108,Rajghat to Cantt Railway Station,3,varanasi-WMbwOiYj,Kazzakpura
+varanasi-pDojpRBf,E108,Rajghat to Cantt Railway Station,4,varanasi-iERfTOUl,Kashi Bus Depot
+varanasi-pDojpRBf,E108,Rajghat to Cantt Railway Station,5,varanasi-otvBsryt,Maidagin
+varanasi-pDojpRBf,E108,Rajghat to Cantt Railway Station,6,varanasi-IRCezZQU,Kabir Nagar Churaha
+varanasi-pDojpRBf,E108,Rajghat to Cantt Railway Station,7,varanasi-wuVZItdC,Lahurabir
+varanasi-pDojpRBf,E108,Rajghat to Cantt Railway Station,8,varanasi-ZVvYNPgv,Maldahiya
+varanasi-sWvJMrnP,Rameshwar-Cantt,Barema to Varanasi Cantt Bus Stand,1,varanasi-MEywCYFI,Barema
+varanasi-sWvJMrnP,Rameshwar-Cantt,Barema to Varanasi Cantt Bus Stand,2,varanasi-wEDLtnXt,Rameshwar
+varanasi-sWvJMrnP,Rameshwar-Cantt,Barema to Varanasi Cantt Bus Stand,3,varanasi-KOpwdpcg,Panchoshila
+varanasi-sWvJMrnP,Rameshwar-Cantt,Barema to Varanasi Cantt Bus Stand,4,varanasi-fTTnvDVF,Chakka
+varanasi-sWvJMrnP,Rameshwar-Cantt,Barema to Varanasi Cantt Bus Stand,5,varanasi-PpEYJZsA,Ausanpurgat
+varanasi-sWvJMrnP,Rameshwar-Cantt,Barema to Varanasi Cantt Bus Stand,6,varanasi-LvmVmbhj,Harhua Chawraha
+varanasi-sWvJMrnP,Rameshwar-Cantt,Barema to Varanasi Cantt Bus Stand,7,varanasi-lrhzlair,Vyas Bagh
+varanasi-sWvJMrnP,Rameshwar-Cantt,Barema to Varanasi Cantt Bus Stand,8,varanasi-wSSUVebr,Bharat Heavy Electricals Limited
+varanasi-sWvJMrnP,Rameshwar-Cantt,Barema to Varanasi Cantt Bus Stand,9,varanasi-TytAirey,Tarna
+varanasi-sWvJMrnP,Rameshwar-Cantt,Barema to Varanasi Cantt Bus Stand,10,varanasi-fNkKBmwQ,Agrasen Mod
+varanasi-sWvJMrnP,Rameshwar-Cantt,Barema to Varanasi Cantt Bus Stand,11,varanasi-tJLsKqCD,Gilat Bazar
+varanasi-sWvJMrnP,Rameshwar-Cantt,Barema to Varanasi Cantt Bus Stand,12,varanasi-QDxfkBYX,Bhojuveer
+varanasi-sWvJMrnP,Rameshwar-Cantt,Barema to Varanasi Cantt Bus Stand,13,varanasi-kAJIRMel,Kachahari
+varanasi-tyXYUnCb,E108,Cantt Railway Station to Rajghat,1,varanasi-vaieUjwr,Cantt Railway Station
+varanasi-tyXYUnCb,E108,Cantt Railway Station to Rajghat,2,varanasi-WPdLptqq,Maldahiya
+varanasi-tyXYUnCb,E108,Cantt Railway Station to Rajghat,3,varanasi-smzzSkJM,Lahurabir
+varanasi-tyXYUnCb,E108,Cantt Railway Station to Rajghat,4,varanasi-CZmAfRWe,Kabir Nagar Churaha
+varanasi-tyXYUnCb,E108,Cantt Railway Station to Rajghat,5,varanasi-ybzIDiBu,Maidagin
+varanasi-tyXYUnCb,E108,Cantt Railway Station to Rajghat,6,varanasi-XxZtgdql,Kashi Bus Depot
+varanasi-tyXYUnCb,E108,Cantt Railway Station to Rajghat,7,varanasi-lNFAdsIf,Kazzakpura
+varanasi-tyXYUnCb,E108,Cantt Railway Station to Rajghat,8,varanasi-RLEIfrSV,Bhadau Chouraha
+varanasi-tzhwPtob,Cantt-Belawon Via Sindhora,Varanasi Cantt Bus Stand to Belawon,1,varanasi-XHAPFVvZ,Varanasi Cantt Bus Stand
+varanasi-tzhwPtob,Cantt-Belawon Via Sindhora,Varanasi Cantt Bus Stand to Belawon,2,varanasi-qqqszAlf,Chaukaghat
+varanasi-tzhwPtob,Cantt-Belawon Via Sindhora,Varanasi Cantt Bus Stand to Belawon,3,varanasi-WsPOmiFs,Bhojuveer
+varanasi-tzhwPtob,Cantt-Belawon Via Sindhora,Varanasi Cantt Bus Stand to Belawon,4,varanasi-sLJRCAno,Natiniya Mai
+varanasi-tzhwPtob,Cantt-Belawon Via Sindhora,Varanasi Cantt Bus Stand to Belawon,5,varanasi-HfrMWxMw,Chandmari
+varanasi-tzhwPtob,Cantt-Belawon Via Sindhora,Varanasi Cantt Bus Stand to Belawon,6,varanasi-PczSSHoS,Belwatiya
+varanasi-tzhwPtob,Cantt-Belawon Via Sindhora,Varanasi Cantt Bus Stand to Belawon,7,varanasi-SidMVveS,Murdaha
+varanasi-tzhwPtob,Cantt-Belawon Via Sindhora,Varanasi Cantt Bus Stand to Belawon,8,varanasi-GRItFgza,Ayar
+varanasi-tzhwPtob,Cantt-Belawon Via Sindhora,Varanasi Cantt Bus Stand to Belawon,9,varanasi-NVXUVHfs,Ahirauli
+varanasi-tzhwPtob,Cantt-Belawon Via Sindhora,Varanasi Cantt Bus Stand to Belawon,10,varanasi-dnXCOlcf,Gosaipur
+varanasi-tzhwPtob,Cantt-Belawon Via Sindhora,Varanasi Cantt Bus Stand to Belawon,11,varanasi-WTgoGRKE,Palahi Patti
+varanasi-tzhwPtob,Cantt-Belawon Via Sindhora,Varanasi Cantt Bus Stand to Belawon,12,varanasi-uojKtSct,Garthma
+varanasi-tzhwPtob,Cantt-Belawon Via Sindhora,Varanasi Cantt Bus Stand to Belawon,13,varanasi-NMbtPlJs,Maruee
+varanasi-tzhwPtob,Cantt-Belawon Via Sindhora,Varanasi Cantt Bus Stand to Belawon,14,varanasi-qrjXsINz,Sindhora
+varanasi-vqFsrvkj,Cantt-Kapsethi Via Lohata,Varanasi Cantt Bus Stand to Kapsethi,1,varanasi-syNRjJON,Varanasi Cantt Bus Stand
+varanasi-vqFsrvkj,Cantt-Kapsethi Via Lohata,Varanasi Cantt Bus Stand to Kapsethi,2,varanasi-pPowKIcd,Lahartara
+varanasi-vqFsrvkj,Cantt-Kapsethi Via Lohata,Varanasi Cantt Bus Stand to Kapsethi,3,varanasi-WUNktuZS,Chandpur
+varanasi-vqFsrvkj,Cantt-Kapsethi Via Lohata,Varanasi Cantt Bus Stand to Kapsethi,4,varanasi-xYCjsUrG,Lohta
+varanasi-vqFsrvkj,Cantt-Kapsethi Via Lohata,Varanasi Cantt Bus Stand to Kapsethi,5,varanasi-cDGFMEdG,Korauta
+varanasi-vqFsrvkj,Cantt-Kapsethi Via Lohata,Varanasi Cantt Bus Stand to Kapsethi,6,varanasi-jmgyylrv,Akelwa
+varanasi-vqFsrvkj,Cantt-Kapsethi Via Lohata,Varanasi Cantt Bus Stand to Kapsethi,7,varanasi-iIASVWKM,Parmandapur Or Kurauna
+varanasi-vqFsrvkj,Cantt-Kapsethi Via Lohata,Varanasi Cantt Bus Stand to Kapsethi,8,varanasi-ztVsccwm,Jansa
+varanasi-vqFsrvkj,Cantt-Kapsethi Via Lohata,Varanasi Cantt Bus Stand to Kapsethi,9,varanasi-gGnSjuwx,Baruda
+varanasi-vqFsrvkj,Cantt-Kapsethi Via Lohata,Varanasi Cantt Bus Stand to Kapsethi,10,varanasi-rVdbyaSM,Gorai
+varanasi-wTmzAUss,E110 Via Maidagin,Cantt Railway Station to Cantt Railway Station,1,varanasi-vaieUjwr,Cantt Railway Station
+varanasi-wTmzAUss,E110 Via Maidagin,Cantt Railway Station to Cantt Railway Station,2,varanasi-WPdLptqq,Maldahiya
+varanasi-wTmzAUss,E110 Via Maidagin,Cantt Railway Station to Cantt Railway Station,3,varanasi-smzzSkJM,Lahurabir
+varanasi-wTmzAUss,E110 Via Maidagin,Cantt Railway Station to Cantt Railway Station,4,varanasi-CZmAfRWe,Kabir Nagar Churaha
+varanasi-wTmzAUss,E110 Via Maidagin,Cantt Railway Station to Cantt Railway Station,5,varanasi-ybzIDiBu,Maidagin
+varanasi-wTmzAUss,E110 Via Maidagin,Cantt Railway Station to Cantt Railway Station,6,varanasi-hyKMSMbb,Pilikothi
+varanasi-wTmzAUss,E110 Via Maidagin,Cantt Railway Station to Cantt Railway Station,7,varanasi-GSVcYPhE,Golgadda
+varanasi-wTmzAUss,E110 Via Maidagin,Cantt Railway Station to Cantt Railway Station,8,varanasi-kKEPmEWo,Varanasi City Railway Station
+varanasi-wTmzAUss,E110 Via Maidagin,Cantt Railway Station to Cantt Railway Station,9,varanasi-MmUqpwTG,Chaukaghat
+varanasi-yCSWAusq,Cantt-Baragaon,Varanasi Cantt Bus Stand to Baragaon,1,varanasi-XHAPFVvZ,Varanasi Cantt Bus Stand
+varanasi-yCSWAusq,Cantt-Baragaon,Varanasi Cantt Bus Stand to Baragaon,2,varanasi-qqqszAlf,Chaukaghat
+varanasi-yCSWAusq,Cantt-Baragaon,Varanasi Cantt Bus Stand to Baragaon,3,varanasi-oOtNbvGl,Police Line
+varanasi-yCSWAusq,Cantt-Baragaon,Varanasi Cantt Bus Stand to Baragaon,4,varanasi-WsPOmiFs,Bhojuveer
+varanasi-yCSWAusq,Cantt-Baragaon,Varanasi Cantt Bus Stand to Baragaon,5,varanasi-sLJRCAno,Natiniya Mai
+varanasi-yCSWAusq,Cantt-Baragaon,Varanasi Cantt Bus Stand to Baragaon,6,varanasi-HfrMWxMw,Chandmari
+varanasi-yCSWAusq,Cantt-Baragaon,Varanasi Cantt Bus Stand to Baragaon,7,varanasi-PczSSHoS,Belwatiya
+varanasi-yCSWAusq,Cantt-Baragaon,Varanasi Cantt Bus Stand to Baragaon,8,varanasi-SidMVveS,Murdaha
+varanasi-yCSWAusq,Cantt-Baragaon,Varanasi Cantt Bus Stand to Baragaon,9,varanasi-GRItFgza,Ayar
+varanasi-yCSWAusq,Cantt-Baragaon,Varanasi Cantt Bus Stand to Baragaon,10,varanasi-WTgoGRKE,Palahi Patti
+varanasi-yCSWAusq,Cantt-Baragaon,Varanasi Cantt Bus Stand to Baragaon,11,varanasi-aXzLjUDQ,Prem Nagar
+varanasi-yCSWAusq,Cantt-Baragaon,Varanasi Cantt Bus Stand to Baragaon,12,varanasi-TvjLWlTz,Mangari
+varanasi-yCSWAusq,Cantt-Baragaon,Varanasi Cantt Bus Stand to Baragaon,13,varanasi-stdwxYiZ,Babatpur Chauraha
+varanasi-yCSWAusq,Cantt-Baragaon,Varanasi Cantt Bus Stand to Baragaon,14,varanasi-IVCrJeey,Basani

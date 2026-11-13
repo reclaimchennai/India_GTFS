@@ -1,0 +1,36 @@
+route_id,route_short_name,route_long_name,stop_sequence,stop_id,stop_name
+noi-e1,NOI E1,NOI E1,1,noibotanicalgarden,Botanical Garden
+noi-e1,NOI E1,NOI E1,2,noigolfcourse,Golf Course
+noi-e1,NOI E1,NOI E1,3,noisector51metro,Sector 51 Metro
+noi-e1,NOI E1,NOI E1,4,noiparthala,Parthala
+noi-e1,NOI E1,NOI E1,5,noigaurchowk,Gaur Chowk
+noi-e1,NOI E1,NOI E1,6,noiekmurti,Ek Murti
+noi-e1,NOI E1,NOI E1,7,noisurajpur,Surajpur
+noi-e1,NOI E1,NOI E1,8,noiparichowk,Pari Chowk
+noi-e2,NOI E2,NOI E2,1,noibotanicalgarden,Botanical Garden
+noi-e2,NOI E2,NOI E2,2,noiparichowk,Pari Chowk
+noi-e2,NOI E2,NOI E2,3,noigalgotiasuniversity,Galgotias University
+noi-e2,NOI E2,NOI E2,4,noidankaur,Dankaur
+noi-e2,NOI E2,NOI E2,5,noijewarairport,Jewar Airport
+noi-e3,NOI E3,NOI E3,1,noibotanicalgarden,Botanical Garden
+noi-e3,NOI E3,NOI E3,2,noisector50metro,Sector 50 Metro
+noi-e3,NOI E3,NOI E3,3,noisector75,Sector 75
+noi-e3,NOI E3,NOI E3,4,noisector116,Sector 116
+noi-e3,NOI E3,NOI E3,5,noisector78,Sector 78
+noi-e3,NOI E3,NOI E3,6,noisamsung,Samsung
+noi-e3,NOI E3,NOI E3,7,noisurajpurcollectorate,Surajpur Collectorate
+noi-e4,NOI E4,NOI E4,1,noibotanicalgarden,Botanical Garden
+noi-e4,NOI E4,NOI E4,2,noigolfcourse,Golf Course
+noi-e4,NOI E4,NOI E4,3,noicitycentre,City Centre
+noi-e4,NOI E4,NOI E4,4,noisector52,Sector 52
+noi-e4,NOI E4,NOI E4,5,noisaimandir,Sai Mandir
+noi-e4,NOI E4,NOI E4,6,noisector62,Sector 62
+noi-e4,NOI E4,NOI E4,7,noipratapvihar,Pratap Vihar
+noi-e4,NOI E4,NOI E4,8,noighaziabadrrts,Ghaziabad RRTS
+noi-e4,NOI E4,NOI E4,9,noinayabusaddaghaziabad,Naya Bus Adda Ghaziabad
+noi-e5,NOI E5,NOI E5,1,noibotanicalgarden,Botanical Garden
+noi-e5,NOI E5,NOI E5,2,noisector16,Sector 16
+noi-e5,NOI E5,NOI E5,3,noinoidagate,Noida Gate
+noi-e5,NOI E5,NOI E5,4,noiakshardham,Akshardham
+noi-e5,NOI E5,NOI E5,5,noikaushambi,Kaushambi
+noi-e5,NOI E5,NOI E5,6,noianandviharisbt,Anand Vihar ISBT

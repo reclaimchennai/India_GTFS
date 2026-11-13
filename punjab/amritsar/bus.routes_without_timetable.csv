@@ -1,0 +1,137 @@
+route_id,route_short_name,route_long_name,stop_sequence,stop_id,stop_name
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,1,amritsar-KdqqTyGx,India Gate
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,2,amritsar-TWEHBStS,Narian Garh
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,3,amritsar-gEOhZBqg,Chheharta Thana
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,4,amritsar-ckjaxSzs,Chheharta Chowk
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,5,amritsar-gBuYbEJo,Chheharta Girls School
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,6,amritsar-THbUKpuA,Sandhu Colony Or OCM mill
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,7,amritsar-Fvhpjhro,Bhagat Naam Dev Chowk
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,8,amritsar-REwJowCK,Purani Chungi
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,9,amritsar-bjhyDLQW,Guru Nanak DEV University
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,10,amritsar-mLWDZOTZ,Khalsa Public School
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,11,amritsar-lbeCasIV,Khalsa College
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,12,amritsar-tMExOtGo,Putli Ghar
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,13,amritsar-nPjJRJUG,Putli Ghar Chowk
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,14,amritsar-tbSBhDnW,Valmiki Chowk
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,15,amritsar-HOjBItQO,Contonment Police station
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,16,amritsar-vaummyxs,Canal Office
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,17,amritsar-biGsVIPu,Amritsar Railway station
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,18,amritsar-hpHDPHZv,Alexender School
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,19,amritsar-rgfbKsjh,Ram Bagh
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,20,amritsar-qOSHaZoL,Dental Hospital
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,21,amritsar-YdHxvWBb,Celebration Mall
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,22,amritsar-xUtnouTf,Vijay Nagar
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,23,amritsar-HFDLcCwe,Jawahar nagar
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,24,amritsar-DVtGpmkZ,Mustafabad
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,25,amritsar-NZBzKJju,New Preet Nagar
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,26,amritsar-jJNvDYqz,Verka Milk Plant
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,27,amritsar-GcfYcwzN,Verka Railway Station
+amritsar-CsEzEvDD,301,India Gate to Verka Canal,28,amritsar-JBTKbUcd,Verka Village
+amritsar-IobJmxIA,401,Amritsar Entry Gate to Verka Canal,1,amritsar-enqIALOu,Amritsar Entry Gate
+amritsar-IobJmxIA,401,Amritsar Entry Gate to Verka Canal,2,amritsar-QUxwkpMH,ITBP Camp
+amritsar-IobJmxIA,401,Amritsar Entry Gate to Verka Canal,3,amritsar-xIzfJjNJ,New Amritsar
+amritsar-IobJmxIA,401,Amritsar Entry Gate to Verka Canal,4,amritsar-ivxvBdaN,Tara wala Pul
+amritsar-IobJmxIA,401,Amritsar Entry Gate to Verka Canal,5,amritsar-KjHoEuIW,Mall of Amritsar
+amritsar-IobJmxIA,401,Amritsar Entry Gate to Verka Canal,6,amritsar-wFaIZNMv,Mall Mandi
+amritsar-IobJmxIA,401,Amritsar Entry Gate to Verka Canal,7,amritsar-YAwuGctV,Bus Stand via at grade
+amritsar-IobJmxIA,401,Amritsar Entry Gate to Verka Canal,8,amritsar-qOSHaZoL,Dental Hospital
+amritsar-IobJmxIA,401,Amritsar Entry Gate to Verka Canal,9,amritsar-YdHxvWBb,Celebration Mall
+amritsar-IobJmxIA,401,Amritsar Entry Gate to Verka Canal,10,amritsar-xUtnouTf,Vijay Nagar
+amritsar-IobJmxIA,401,Amritsar Entry Gate to Verka Canal,11,amritsar-HFDLcCwe,Jawahar nagar
+amritsar-IobJmxIA,401,Amritsar Entry Gate to Verka Canal,12,amritsar-DVtGpmkZ,Mustafabad
+amritsar-IobJmxIA,401,Amritsar Entry Gate to Verka Canal,13,amritsar-NZBzKJju,New Preet Nagar
+amritsar-IobJmxIA,401,Amritsar Entry Gate to Verka Canal,14,amritsar-jJNvDYqz,Verka Milk Plant
+amritsar-IobJmxIA,401,Amritsar Entry Gate to Verka Canal,15,amritsar-GcfYcwzN,Verka Railway Station
+amritsar-IobJmxIA,401,Amritsar Entry Gate to Verka Canal,16,amritsar-JBTKbUcd,Verka Village
+amritsar-JcItRVFe,401,Verka Canal to Amritsar Entry Gate,1,amritsar-PdLxUBNG,Verka Canal
+amritsar-JcItRVFe,401,Verka Canal to Amritsar Entry Gate,2,amritsar-WdtFjuth,Verka Village
+amritsar-JcItRVFe,401,Verka Canal to Amritsar Entry Gate,3,amritsar-kFWvytEQ,Verka Railway station
+amritsar-JcItRVFe,401,Verka Canal to Amritsar Entry Gate,4,amritsar-gzQzpiDl,Verka Milk Plant
+amritsar-JcItRVFe,401,Verka Canal to Amritsar Entry Gate,5,amritsar-OUPabJjq,New Preet Nagar
+amritsar-JcItRVFe,401,Verka Canal to Amritsar Entry Gate,6,amritsar-elxshzYL,Mustafabad
+amritsar-JcItRVFe,401,Verka Canal to Amritsar Entry Gate,7,amritsar-XodwCOQS,Jawahar Nagar
+amritsar-JcItRVFe,401,Verka Canal to Amritsar Entry Gate,8,amritsar-YVDByvjd,Vijay Nagar
+amritsar-JcItRVFe,401,Verka Canal to Amritsar Entry Gate,9,amritsar-Qplhdoyq,Celebration Mall
+amritsar-JcItRVFe,401,Verka Canal to Amritsar Entry Gate,10,amritsar-Wykpgncw,Dental Hospital
+amritsar-JcItRVFe,401,Verka Canal to Amritsar Entry Gate,11,amritsar-REJBiMgy,Bus Stand via at grade
+amritsar-JcItRVFe,401,Verka Canal to Amritsar Entry Gate,12,amritsar-CZumcaBN,Mall Mandi
+amritsar-JcItRVFe,401,Verka Canal to Amritsar Entry Gate,13,amritsar-OmxPTaKN,Mall of Amritsar
+amritsar-JcItRVFe,401,Verka Canal to Amritsar Entry Gate,14,amritsar-LFkzlJjz,New Amritsar
+amritsar-JcItRVFe,401,Verka Canal to Amritsar Entry Gate,15,amritsar-FpKtKvoE,ITBP Camp
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,1,amritsar-PdLxUBNG,Verka Canal
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,2,amritsar-WdtFjuth,Verka Village
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,3,amritsar-kFWvytEQ,Verka Railway station
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,4,amritsar-gzQzpiDl,Verka Milk Plant
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,5,amritsar-OUPabJjq,New Preet Nagar
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,6,amritsar-elxshzYL,Mustafabad
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,7,amritsar-XodwCOQS,Jawahar Nagar
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,8,amritsar-YVDByvjd,Vijay Nagar
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,9,amritsar-Qplhdoyq,Celebration Mall
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,10,amritsar-FXnRwaUF,SSSS Chowk
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,11,amritsar-scRveNZN,Novelty Chowk
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,12,amritsar-KEyHnrZi,Custom Chowk
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,13,amritsar-mFDRMeoL,Kichlu Chowk
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,14,amritsar-iTOaZWXy,Railto Chowk
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,15,amritsar-avVYMUav,Amritsar Railway Station
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,16,amritsar-SoSDPvQh,Canal Office
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,17,amritsar-GWZVjHLs,Contonment Police station
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,18,amritsar-iDoQlBLn,Valmiki Chowk
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,19,amritsar-xSodWwFN,Putli Ghar Chowk
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,20,amritsar-mgIrxWkf,Putli Ghar
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,21,amritsar-ExpTyCPV,Khalsa College
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,22,amritsar-noYbItmA,Khalsa Public School
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,23,amritsar-XBuOVGnL,Guru Nanak Dev University
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,24,amritsar-KNWWKUMu,Purani Chungi
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,25,amritsar-fwBHcPef,Bhagat Naam Dev Chowk
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,26,amritsar-UiVmRnef,Sandhu Colony Or OCM mill
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,27,amritsar-cSWqEGMl,Chheharta Girls School
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,28,amritsar-EbJYdfaE,Chheharta Chowk
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,29,amritsar-rYzzqlrO,Chheharta Thana
+amritsar-TmHSnOWS,301,Verka Canal to India Gate,30,amritsar-pUXuzXlQ,Narian Garh
+amritsar-fOJGzDsm,201,India Gate to Amritsar Entry Gate,1,amritsar-KdqqTyGx,India Gate
+amritsar-fOJGzDsm,201,India Gate to Amritsar Entry Gate,2,amritsar-TWEHBStS,Narian Garh
+amritsar-fOJGzDsm,201,India Gate to Amritsar Entry Gate,3,amritsar-gEOhZBqg,Chheharta Thana
+amritsar-fOJGzDsm,201,India Gate to Amritsar Entry Gate,4,amritsar-ckjaxSzs,Chheharta Chowk
+amritsar-fOJGzDsm,201,India Gate to Amritsar Entry Gate,5,amritsar-gBuYbEJo,Chheharta Girls School
+amritsar-fOJGzDsm,201,India Gate to Amritsar Entry Gate,6,amritsar-THbUKpuA,Sandhu Colony Or OCM mill
+amritsar-fOJGzDsm,201,India Gate to Amritsar Entry Gate,7,amritsar-Fvhpjhro,Bhagat Naam Dev Chowk
+amritsar-fOJGzDsm,201,India Gate to Amritsar Entry Gate,8,amritsar-REwJowCK,Purani Chungi
+amritsar-fOJGzDsm,201,India Gate to Amritsar Entry Gate,9,amritsar-bjhyDLQW,Guru Nanak DEV University
+amritsar-fOJGzDsm,201,India Gate to Amritsar Entry Gate,10,amritsar-mLWDZOTZ,Khalsa Public School
+amritsar-fOJGzDsm,201,India Gate to Amritsar Entry Gate,11,amritsar-lbeCasIV,Khalsa College
+amritsar-fOJGzDsm,201,India Gate to Amritsar Entry Gate,12,amritsar-tMExOtGo,Putli Ghar
+amritsar-fOJGzDsm,201,India Gate to Amritsar Entry Gate,13,amritsar-nPjJRJUG,Putli Ghar Chowk
+amritsar-fOJGzDsm,201,India Gate to Amritsar Entry Gate,14,amritsar-tbSBhDnW,Valmiki Chowk
+amritsar-fOJGzDsm,201,India Gate to Amritsar Entry Gate,15,amritsar-HOjBItQO,Contonment Police station
+amritsar-fOJGzDsm,201,India Gate to Amritsar Entry Gate,16,amritsar-vaummyxs,Canal Office
+amritsar-fOJGzDsm,201,India Gate to Amritsar Entry Gate,17,amritsar-biGsVIPu,Amritsar Railway station
+amritsar-fOJGzDsm,201,India Gate to Amritsar Entry Gate,18,amritsar-xTHhbAtJ,Civil hospital
+amritsar-fOJGzDsm,201,India Gate to Amritsar Entry Gate,19,amritsar-khRZLKQs,I.S.B.T
+amritsar-fOJGzDsm,201,India Gate to Amritsar Entry Gate,20,amritsar-CZumcaBN,Mall Mandi
+amritsar-fOJGzDsm,201,India Gate to Amritsar Entry Gate,21,amritsar-OmxPTaKN,Mall of Amritsar
+amritsar-fOJGzDsm,201,India Gate to Amritsar Entry Gate,22,amritsar-PTHIBqqS,Tara wala Pul
+amritsar-fOJGzDsm,201,India Gate to Amritsar Entry Gate,23,amritsar-LFkzlJjz,New Amritsar
+amritsar-fOJGzDsm,201,India Gate to Amritsar Entry Gate,24,amritsar-FpKtKvoE,ITBP Camp
+amritsar-gCLeDqBs,201,Amritsar Entry Gate to India Gate,1,amritsar-enqIALOu,Amritsar Entry Gate
+amritsar-gCLeDqBs,201,Amritsar Entry Gate to India Gate,2,amritsar-QUxwkpMH,ITBP Camp
+amritsar-gCLeDqBs,201,Amritsar Entry Gate to India Gate,3,amritsar-xIzfJjNJ,New Amritsar
+amritsar-gCLeDqBs,201,Amritsar Entry Gate to India Gate,4,amritsar-ivxvBdaN,Tara wala Pul
+amritsar-gCLeDqBs,201,Amritsar Entry Gate to India Gate,5,amritsar-KjHoEuIW,Mall of Amritsar
+amritsar-gCLeDqBs,201,Amritsar Entry Gate to India Gate,6,amritsar-wFaIZNMv,Mall Mandi
+amritsar-gCLeDqBs,201,Amritsar Entry Gate to India Gate,7,amritsar-EOkJofXZ,I.S.B.T
+amritsar-gCLeDqBs,201,Amritsar Entry Gate to India Gate,8,amritsar-avVYMUav,Amritsar Railway Station
+amritsar-gCLeDqBs,201,Amritsar Entry Gate to India Gate,9,amritsar-SoSDPvQh,Canal Office
+amritsar-gCLeDqBs,201,Amritsar Entry Gate to India Gate,10,amritsar-GWZVjHLs,Contonment Police station
+amritsar-gCLeDqBs,201,Amritsar Entry Gate to India Gate,11,amritsar-iDoQlBLn,Valmiki Chowk
+amritsar-gCLeDqBs,201,Amritsar Entry Gate to India Gate,12,amritsar-xSodWwFN,Putli Ghar Chowk
+amritsar-gCLeDqBs,201,Amritsar Entry Gate to India Gate,13,amritsar-mgIrxWkf,Putli Ghar
+amritsar-gCLeDqBs,201,Amritsar Entry Gate to India Gate,14,amritsar-ExpTyCPV,Khalsa College
+amritsar-gCLeDqBs,201,Amritsar Entry Gate to India Gate,15,amritsar-noYbItmA,Khalsa Public School
+amritsar-gCLeDqBs,201,Amritsar Entry Gate to India Gate,16,amritsar-XBuOVGnL,Guru Nanak Dev University
+amritsar-gCLeDqBs,201,Amritsar Entry Gate to India Gate,17,amritsar-KNWWKUMu,Purani Chungi
+amritsar-gCLeDqBs,201,Amritsar Entry Gate to India Gate,18,amritsar-fwBHcPef,Bhagat Naam Dev Chowk
+amritsar-gCLeDqBs,201,Amritsar Entry Gate to India Gate,19,amritsar-UiVmRnef,Sandhu Colony Or OCM mill
+amritsar-gCLeDqBs,201,Amritsar Entry Gate to India Gate,20,amritsar-cSWqEGMl,Chheharta Girls School
+amritsar-gCLeDqBs,201,Amritsar Entry Gate to India Gate,21,amritsar-EbJYdfaE,Chheharta Chowk
+amritsar-gCLeDqBs,201,Amritsar Entry Gate to India Gate,22,amritsar-rYzzqlrO,Chheharta Thana
+amritsar-gCLeDqBs,201,Amritsar Entry Gate to India Gate,23,amritsar-pUXuzXlQ,Narian Garh

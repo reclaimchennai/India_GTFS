@@ -1,0 +1,3063 @@
+{
+ "generated": "2026-11-13T10:51:37Z",
+ "repository": "https://github.com/reclaimchennai/India_GTFS",
+ "spec": {
+  "schedule": "https://gtfs.org/documentation/schedule/reference/",
+  "realtime": "https://gtfs.org/documentation/realtime/reference/"
+ },
+ "feeds": [
+  {
+   "id": "apsrtc",
+   "name": "APSRTC (Andhra Pradesh, statewide)",
+   "state": "Andhra Pradesh",
+   "path": "andhra-pradesh/apsrtc.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/andhra-pradesh/apsrtc.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/apsrtc.zip",
+   "map": "https://maps.reclaim.city/apsrtc/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "Andhra Pradesh State Road Transport Corporation"
+   ],
+   "routes": 5095,
+   "stops": 11156,
+   "trips": 54812,
+   "shapes": 11609,
+   "trips_with_shape": 54350,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261101",
+   "service_end": "20271031",
+   "source": {
+    "name": "reclaimchennai/apsrtc",
+    "url": "https://github.com/reclaimchennai/apsrtc",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "stop times in 806 trips: 91 past-midnight times written past 24:00, 1728 intermediate times that ran backwards cleared (timepoint=0), 201 departures before their own arrival set to the arrival",
+    "22 shapes no trip uses left out"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 22464943,
+   "sha256": "be2e1a3286de819ef9229a1615543d4c431556122b80bbe69497e054a1ed87c2",
+   "realtime": {
+    "vehicle_positions": "https://maps.reclaim.city/apsrtc/rt/vehicle_positions.pb",
+    "trip_updates": "https://maps.reclaim.city/apsrtc/rt/trip_updates.pb",
+    "status": "https://maps.reclaim.city/apsrtc/rt/status.json"
+   }
+  },
+  {
+   "id": "vijayawada",
+   "name": "Vijayawada",
+   "state": "Andhra Pradesh",
+   "path": "andhra-pradesh/vijayawada/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/andhra-pradesh/vijayawada/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/vijayawada.zip",
+   "map": "https://maps.reclaim.city/vijayawada/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "APSRTC"
+   ],
+   "routes": 331,
+   "stops": 1525,
+   "trips": 3171,
+   "shapes": 331,
+   "trips_with_shape": 3171,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261103",
+   "service_end": "20271103",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "223 stops served only by those routes moved with them",
+    "299 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes for 3061 of 3061 trips that had none: the map's road-snapped line for the route (329 shapes)"
+   ],
+   "routes_without_timetable": "andhra-pradesh/vijayawada/bus.routes_without_timetable.csv",
+   "bytes": 1391227,
+   "sha256": "3e88994861f8e7cf5ac486a9d36cd0351f146a3352d83cd4b42adaec021983ce"
+  },
+  {
+   "id": "guwahati",
+   "name": "Guwahati",
+   "state": "Assam",
+   "path": "assam/guwahati/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/assam/guwahati/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/guwahati.zip",
+   "map": "https://maps.reclaim.city/guwahati/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "ASTC",
+    "GTA",
+    "POB"
+   ],
+   "routes": 522,
+   "stops": 2283,
+   "trips": 4272,
+   "shapes": 326,
+   "trips_with_shape": 2628,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "275 stops served only by those routes moved with them",
+    "168 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 2628 of 4272 trips that had none: the map's road-snapped line for the route (326 shapes)"
+   ],
+   "routes_without_timetable": "assam/guwahati/bus.routes_without_timetable.csv",
+   "bytes": 1426598,
+   "sha256": "dc35ae786efc043f6686ccaae739053c913728d8c97ef96d82930541ba827a36"
+  },
+  {
+   "id": "patna",
+   "name": "Patna",
+   "state": "Bihar",
+   "path": "bihar/patna/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/bihar/patna/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/patna.zip",
+   "map": "https://maps.reclaim.city/patna/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "BSRTC",
+    "KMRL",
+    "PVT BUS PATNA"
+   ],
+   "routes": 54,
+   "stops": 356,
+   "trips": 577,
+   "shapes": 45,
+   "trips_with_shape": 500,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "355 stops served only by those routes moved with them",
+    "92 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 500 of 577 trips that had none: the map's road-snapped line for the route (45 shapes)"
+   ],
+   "routes_without_timetable": "bihar/patna/bus.routes_without_timetable.csv",
+   "bytes": 125198,
+   "sha256": "ff2ec09816611681d15d3788b736e0a4898f5e7d32974de79f930303deb0f058"
+  },
+  {
+   "id": "delhi",
+   "name": "Delhi (DTC and cluster buses)",
+   "state": "Delhi",
+   "path": "delhi/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/delhi/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/delhi.zip",
+   "map": "https://maps.reclaim.city/delhi/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "Delhi Transport Corporation",
+    "Department of Transport"
+   ],
+   "routes": 2554,
+   "stops": 6812,
+   "trips": 65322,
+   "shapes": 2554,
+   "trips_with_shape": 65322,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20250101",
+   "service_end": "20400101",
+   "source": {
+    "name": "Delhi Transport Department / DTC, Delhi bus static GTFS v1 (Open Transit Data Delhi)",
+    "url": "https://otd.delhi.gov.in/",
+    "licence": "OTD Delhi terms"
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 26161967,
+   "sha256": "25030b23d46ea430af2f4e31ff90daabd97224a53fce79df6583ff2a7336fabc",
+   "realtime": {
+    "vehicle_positions": "https://maps.reclaim.city/delhi/rt/vehicle_positions.pb",
+    "trip_updates": "https://maps.reclaim.city/delhi/rt/trip_updates.pb",
+    "status": "https://maps.reclaim.city/delhi/rt/status.json"
+   }
+  },
+  {
+   "id": "delhi-metro",
+   "name": "Delhi Metro (DMRC, incl. Airport Express and Rapid Metro Gurugram)",
+   "state": "Delhi",
+   "path": "delhi/metro-dmrc.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/delhi/metro-dmrc.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/delhi-metro.zip",
+   "map": null,
+   "modes": [
+    "metro"
+   ],
+   "agencies": [
+    "Delhi Metro Rail Corporation"
+   ],
+   "routes": 36,
+   "stops": 262,
+   "trips": 5438,
+   "shapes": 36,
+   "trips_with_shape": 5438,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20190101",
+   "service_end": "20251231",
+   "source": {
+    "name": "DMRC static GTFS v1 (Open Transit Data Delhi)",
+    "url": "https://otd.delhi.gov.in/",
+    "licence": "OTD Delhi terms"
+   },
+   "note": "The official feed's calendar ended on 31 Dec 2025; republished as it is (the times are the current timetable pattern).",
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "feed_info.txt added (none in the source)"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 1132729,
+   "sha256": "ede43926bcf2e5937d7f50c899373cf2d777a739565b5e15b088674b6270acb8"
+  },
+  {
+   "id": "delhi-rrts",
+   "name": "Namo Bharat RRTS (NCRTC, Delhi-Meerut)",
+   "state": "Delhi",
+   "path": "delhi/rrts-namo-bharat.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/delhi/rrts-namo-bharat.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/delhi-rrts.zip",
+   "map": null,
+   "modes": [
+    "rail"
+   ],
+   "agencies": [
+    "National Capital Region Transport Corporation (NCRTC)"
+   ],
+   "routes": 2,
+   "stops": 16,
+   "trips": 130,
+   "shapes": 2,
+   "trips_with_shape": 130,
+   "files": [
+    "agency.txt",
+    "attributions.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20240101",
+   "service_end": "20290101",
+   "source": {
+    "name": "NCRTC static GTFS v1 (Open Transit Data Delhi)",
+    "url": "https://otd.delhi.gov.in/",
+    "licence": "OTD Delhi terms"
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "route_type corrected on 2 routes (rail)",
+    "feed_info.txt added (none in the source)"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 15480,
+   "sha256": "b768c743e12913c33db32b97c149a9f73320355ac84d7dc81488ebb3e8efafca"
+  },
+  {
+   "id": "delhi-suburban",
+   "name": "Delhi NCR suburban rail (Northern Railway EMU/MEMU)",
+   "state": "Delhi",
+   "path": "delhi/suburban-rail.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/delhi/suburban-rail.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/delhi-suburban.zip",
+   "map": null,
+   "modes": [
+    "rail"
+   ],
+   "agencies": [
+    "Northern Railway (Delhi suburban EMU/MEMU)"
+   ],
+   "routes": 14,
+   "stops": 140,
+   "trips": 400,
+   "shapes": 337,
+   "trips_with_shape": 400,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "translations.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261113",
+   "service_end": "20271113",
+   "source": {
+    "name": "National Indian Railways GTFS (github.com/Neo2308), cut to the Delhi suburban lines by India Metro's suburban map; built by tools/suburban_gtfs.py",
+    "url": "https://github.com/Neo2308",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "feed_info.txt added (none in the source)"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 80664,
+   "sha256": "ef7c69ba9de4e155735ccc629ec05b3038496621d70b908a5b63710b9f1b8803"
+  },
+  {
+   "id": "goa",
+   "name": "Goa (Kadamba Transport Corporation)",
+   "state": "Goa",
+   "path": "goa/ktcl-bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/goa/ktcl-bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/goa.zip",
+   "map": "https://maps.reclaim.city/goa/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "Kadamba"
+   ],
+   "routes": 476,
+   "stops": 3255,
+   "trips": 3130,
+   "shapes": 464,
+   "trips_with_shape": 1927,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "fare_attributes.txt",
+    "fare_rules.txt",
+    "feed_info.txt",
+    "frequencies.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20230901",
+   "service_end": "20250801",
+   "source": {
+    "name": "Goa Transport Department: KTCL GTFS",
+    "url": "https://goatransport.gov.in/GTFS",
+    "licence": null,
+    "detail": "GTFS for Kadamba Transport Corporation: 476 routes, 3,255 stops, 3,130 trips (some frequency-based), fares. Files dated 17 Jan 2025; the calendar runs 1 Sep 2023 to 1 Aug 2025 and has not been extended, so these are the last published times, not a current guarantee. Route ids carry the depot: MRG Margao, PRV Porvorim, PNJ Panaji, VSD Vasco; single-letter routes are Panaji city services. Includes interstate services to Karnataka and Maharashtra. Read 3 Nov 2026."
+   },
+   "note": "The official feed's calendar ended on 1 Aug 2025; republished as it is.",
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "calendar_dates.txt left out (header only, no rows)",
+    "feed_info.txt left out (header only, no rows)",
+    "shapes.txt left out (header only, no rows)",
+    "transfers.txt left out (header only, no rows)",
+    "shapes for 1927 of 3130 trips that had none: the map's road-snapped line for the route (464 shapes)",
+    "feed_info.txt added (none in the source)"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 6442542,
+   "sha256": "5ca8f9d8752544102d1f85a7c4d436b802d7fef6fc09a1b9e40bb995eea7eb6f"
+  },
+  {
+   "id": "ahmedabad",
+   "name": "Ahmedabad (AMTS, Janmarg BRTS, Gandhinagar GTSL)",
+   "state": "Gujarat",
+   "path": "gujarat/ahmedabad/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/gujarat/ahmedabad/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/ahmedabad.zip",
+   "map": "https://maps.reclaim.city/ahmedabad/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "Ahmedabad Municipal Transport Services",
+    "Ahmedabad Janmarg Limited",
+    "Gandhinagar Transport Services Limited"
+   ],
+   "routes": 978,
+   "stops": 3235,
+   "trips": 14323,
+   "shapes": 972,
+   "trips_with_shape": 14316,
+   "files": [
+    "agency.txt",
+    "areas.txt",
+    "calendar.txt",
+    "fare_leg_rules.txt",
+    "fare_products.txt",
+    "feed_info.txt",
+    "rider_categories.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_areas.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20260930",
+   "service_end": "20270329",
+   "source": {
+    "name": "croyla/amd-gtfs",
+    "url": "https://github.com/croyla/amd-gtfs",
+    "licence": "MIT",
+    "detail": "GTFS built from the AMTS, Ahmedabad Janmarg (BRTS) and Gandhinagar GTSL websites; feed 30 Sep 2026 to 29 Mar 2027; MIT. 813 AMTS, 149 Janmarg and 16 GTSL route entries. GTSL times come from the Gandhinagar corporation site and may be obsolete. Some AMTS stops are misplaced in the source. Read 3 Nov 2026."
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "shapes for 14316 of 14323 trips that had none: the map's road-snapped line for the route (972 shapes)"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 6480777,
+   "sha256": "e9448197d660d1987fb0425c924254acc3046d41fdffa54d7e45297380974836"
+  },
+  {
+   "id": "rajkot",
+   "name": "Rajkot (RRL BRTS + city)",
+   "state": "Gujarat",
+   "path": "gujarat/rajkot/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/gujarat/rajkot/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/rajkot.zip",
+   "map": "https://maps.reclaim.city/rajkot/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "Rajkot Rajpath Limited"
+   ],
+   "routes": 271,
+   "stops": 760,
+   "trips": 3168,
+   "shapes": 265,
+   "trips_with_shape": 3168,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261016",
+   "service_end": "20270414",
+   "source": null,
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "shapes for 3168 of 3168 trips that had none: the map's road-snapped line for the route (265 shapes)"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 1475102,
+   "sha256": "22a5654b8dbc3e231b47dd75f470f2d33c0f15712385002776b3b2bc760fcbab"
+  },
+  {
+   "id": "vapi",
+   "name": "Vapi (VCBS)",
+   "state": "Gujarat",
+   "path": "gujarat/vapi/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/gujarat/vapi/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/vapi.zip",
+   "map": "https://maps.reclaim.city/vapi/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "Vapi City Bus Service"
+   ],
+   "routes": 22,
+   "stops": 91,
+   "trips": 461,
+   "shapes": 22,
+   "trips_with_shape": 461,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20260101",
+   "service_end": "20271231",
+   "source": {
+    "name": "shubhamvelani/VapiGTFS",
+    "url": "https://github.com/shubhamvelani/VapiGTFS",
+    "licence": null,
+    "detail": "Community GTFS for Vapi City Bus Service (Katch Mobility), release v1.0.0, feed valid 1 Jan 2026 to 31 Dec 2027, with OSRM-made shapes; 22 routes, 91 stops, 461 trips. No licence stated. Read 3 Nov 2026."
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 60982,
+   "sha256": "937471dc530ac5bd96a79364a2ba673f24e0fe16a470f609da25416db95d86d0"
+  },
+  {
+   "id": "gurugram",
+   "name": "Gurugram (GMCBL)",
+   "state": "Haryana",
+   "path": "haryana/gurugram/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/haryana/gurugram/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/gurugram.zip",
+   "map": null,
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "Gurugram Metropolitan City Bus Ltd"
+   ],
+   "routes": 137,
+   "stops": 1086,
+   "trips": 1807,
+   "shapes": 0,
+   "trips_with_shape": 0,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261001",
+   "service_end": "20271001",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "feed_info.txt added (none in the source)"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 375537,
+   "sha256": "056ca67434a8cbf8a4f8a2e90c5cb2a8924ea62e54ccf15a69a01d84f49fbad2",
+   "realtime": {
+    "vehicle_positions": "https://maps.reclaim.city/gurugram/rt/vehicle_positions.pb",
+    "trip_updates": "https://maps.reclaim.city/gurugram/rt/trip_updates.pb",
+    "status": "https://maps.reclaim.city/gurugram/rt/status.json"
+   }
+  },
+  {
+   "id": "indian-railways",
+   "name": "Indian Railways (all-India trains, incl. EMU/MEMU)",
+   "state": "India",
+   "path": "india/indian-railways.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/india/indian-railways.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/indian-railways.zip",
+   "map": null,
+   "modes": [
+    "rail"
+   ],
+   "agencies": [
+    "Indian Railways"
+   ],
+   "routes": 10389,
+   "stops": 8550,
+   "trips": 10389,
+   "shapes": 10389,
+   "trips_with_shape": 10389,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20250101",
+   "service_end": "20991231",
+   "source": {
+    "name": "Community GTFS of Indian Railways by P. Radha Krishna (github.com/Neo2308)",
+    "url": "https://github.com/Neo2308",
+    "licence": null
+   },
+   "note": "One trip per train number; covers long-distance and some EMU/MEMU, not the Mumbai or Chennai local timetables.",
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "205 trips with a service_id in no calendar (they never run) left out",
+    "205 shapes no trip uses left out"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 3853329,
+   "sha256": "495b23034426edb985c2bab73343ef44c1af68df2a4e3f0f6868d8ef1daf00c6"
+  },
+  {
+   "id": "jammu",
+   "name": "Jammu",
+   "state": "Jammu and Kashmir",
+   "path": "jammu-and-kashmir/jammu/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/jammu-and-kashmir/jammu/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/jammu.zip",
+   "map": "https://maps.reclaim.city/jammu/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "CITY BUS JAMMU"
+   ],
+   "routes": 248,
+   "stops": 850,
+   "trips": 1880,
+   "shapes": 240,
+   "trips_with_shape": 1804,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 1804 of 1880 trips that had none: the map's road-snapped line for the route (240 shapes)"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 688058,
+   "sha256": "e358ec63c57dafc7fd4f6e610199567e56d8eb7f3872d0885632088b90b49f11"
+  },
+  {
+   "id": "srinagar",
+   "name": "Srinagar",
+   "state": "Jammu and Kashmir",
+   "path": "jammu-and-kashmir/srinagar/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/jammu-and-kashmir/srinagar/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/srinagar.zip",
+   "map": "https://maps.reclaim.city/srinagar/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "CITY BUS SRINAGAR"
+   ],
+   "routes": 168,
+   "stops": 1065,
+   "trips": 2404,
+   "shapes": 168,
+   "trips_with_shape": 2404,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "1 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 2404 of 2404 trips that had none: the map's road-snapped line for the route (168 shapes)"
+   ],
+   "routes_without_timetable": "jammu-and-kashmir/srinagar/bus.routes_without_timetable.csv",
+   "bytes": 805523,
+   "sha256": "a49d4d51a4d9c96fcd636142eb74b273c9c6ef71da19d0e8cbcc286d5a68df7d"
+  },
+  {
+   "id": "belgaum",
+   "name": "Belagavi",
+   "state": "Karnataka",
+   "path": "karnataka/belagavi/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/karnataka/belagavi/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/belgaum.zip",
+   "map": "https://maps.reclaim.city/belgaum/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "NWKRTC"
+   ],
+   "routes": 33,
+   "stops": 242,
+   "trips": 331,
+   "shapes": 33,
+   "trips_with_shape": 331,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "121 stops served only by those routes moved with them",
+    "30 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 331 of 331 trips that had none: the map's road-snapped line for the route (33 shapes)"
+   ],
+   "routes_without_timetable": "karnataka/belagavi/bus.routes_without_timetable.csv",
+   "bytes": 96283,
+   "sha256": "1a02aee7997626c8992b993d03108964f08a0ca64eee18583b8f7e993633248c"
+  },
+  {
+   "id": "bengaluru",
+   "name": "Bengaluru (BMTC)",
+   "state": "Karnataka",
+   "path": "karnataka/bengaluru/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/karnataka/bengaluru/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/bengaluru.zip",
+   "map": "https://maps.reclaim.city/bengaluru/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "BMTC"
+   ],
+   "routes": 5063,
+   "stops": 10128,
+   "trips": 69642,
+   "shapes": 8983,
+   "trips_with_shape": 69642,
+   "files": [
+    "agency.txt",
+    "attributions.txt",
+    "calendar.txt",
+    "fare_attributes.txt",
+    "fare_rules.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "translations.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261109",
+   "service_end": "20271109",
+   "source": {
+    "name": "Vonter/bmtc-gtfs",
+    "url": "https://github.com/Vonter/bmtc-gtfs",
+    "licence": "ODbL",
+    "detail": "Unofficial GTFS for BMTC built from the official Namma BMTC app; feed version 9 Nov 2026, valid to 9 Nov 2027 (the same file is Mobility Database feed mdb-2595); ODbL. Only routes with working live tracking in the app are included, and the app’s timetables are known to be inaccurate. 5,063 routes, 10,128 stops, 69,642 trips over the week, read 11 Nov 2026. The map counts a Monday's trips (65,339); 539 routes that do not run on Mondays show their busiest day, and their card says which days they run."
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 92988673,
+   "sha256": "2eba4a144e08a59106dcc3ffd6633ab8174fbed8ba2e359e5a60b69c29658c5f"
+  },
+  {
+   "id": "davangere",
+   "name": "Davangere (KSRTC city)",
+   "state": "Karnataka",
+   "path": "karnataka/davangere/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/karnataka/davangere/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/davangere.zip",
+   "map": "https://maps.reclaim.city/davangere/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "Karnataka State Road Transport Corporation"
+   ],
+   "routes": 93,
+   "stops": 146,
+   "trips": 586,
+   "shapes": 14,
+   "trips_with_shape": 586,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20260602",
+   "service_end": "20261129",
+   "source": {
+    "name": "croyla/dvg-gtfs",
+    "url": "https://github.com/croyla/dvg-gtfs",
+    "licence": "MIT-0",
+    "detail": "Community GTFS for KSRTC city buses in Davangere; feed 2 Jun to 29 Nov 2026 (it ends this month); MIT-0. 93 routes but only 14 have trips; 120 trips have times going backwards in the source. Read 3 Nov 2026."
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "stop times in 120 trips: 0 past-midnight times written past 24:00, 417 intermediate times that ran backwards cleared (timepoint=0), 0 departures before their own arrival set to the arrival",
+    "shapes for 586 of 586 trips that had none: the map's road-snapped line for the route (14 shapes)"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 115455,
+   "sha256": "ef0bdc2a397d0c252c59cde44b704fca7fddd88c705791a8733c543e984e9800"
+  },
+  {
+   "id": "hubballi",
+   "name": "Hubballi-Dharwad (HDBRTS + city)",
+   "state": "Karnataka",
+   "path": "karnataka/hubballi-dharwad/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/karnataka/hubballi-dharwad/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/hubballi.zip",
+   "map": "https://maps.reclaim.city/hubballi/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "Hubli-Dharwad Bus Rapid Transit System Company Limited"
+   ],
+   "routes": 632,
+   "stops": 2332,
+   "trips": 8669,
+   "shapes": 630,
+   "trips_with_shape": 8669,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20260824",
+   "service_end": "20270220",
+   "source": null,
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "shapes for 8669 of 8669 trips that had none: the map's road-snapped line for the route (630 shapes)"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 2575611,
+   "sha256": "fb0ff87a4805d348bc3221cd7ccaf09055791c4e41df2f031248ecb92bb5642f"
+  },
+  {
+   "id": "mangaluru",
+   "name": "Mangaluru",
+   "state": "Karnataka",
+   "path": "karnataka/mangaluru/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/karnataka/mangaluru/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/mangaluru.zip",
+   "map": "https://maps.reclaim.city/mangaluru/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "CCM",
+    "COASTAL ZONE",
+    "DKBOA",
+    "KCT",
+    "KSRTC",
+    "MLORE SERVICE BUSES",
+    "ROUTE 42-44",
+    "SBCR",
+    "SERVICE POLALI"
+   ],
+   "routes": 208,
+   "stops": 1394,
+   "trips": 2079,
+   "shapes": 198,
+   "trips_with_shape": 2026,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "1355 stops served only by those routes moved with them",
+    "514 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 2026 of 2079 trips that had none: the map's road-snapped line for the route (198 shapes)"
+   ],
+   "routes_without_timetable": "karnataka/mangaluru/bus.routes_without_timetable.csv",
+   "bytes": 1065786,
+   "sha256": "5c9bae2a15fd62a06ef6e601f85eb13bcdbf3d69f0cd6d470b81f1c0ad0e925e"
+  },
+  {
+   "id": "udupi",
+   "name": "Udupi",
+   "state": "Karnataka",
+   "path": "karnataka/udupi/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/karnataka/udupi/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/udupi.zip",
+   "map": "https://maps.reclaim.city/udupi/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "CITYBUS",
+    "DIGITAL BUS",
+    "SAACHI TRAVELS",
+    "SRI LAKSHMI EXPRESS",
+    "USB"
+   ],
+   "routes": 191,
+   "stops": 1392,
+   "trips": 2561,
+   "shapes": 174,
+   "trips_with_shape": 2318,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "459 stops served only by those routes moved with them",
+    "114 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 2318 of 2561 trips that had none: the map's road-snapped line for the route (174 shapes)"
+   ],
+   "routes_without_timetable": "karnataka/udupi/bus.routes_without_timetable.csv",
+   "bytes": 1120450,
+   "sha256": "e2bcbfa7638525050343f38a68200c9d273e7c3fce3eb629ae82cec06860c1f1"
+  },
+  {
+   "id": "kannur",
+   "name": "Kannur",
+   "state": "Kerala",
+   "path": "kerala/kannur/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/kerala/kannur/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/kannur.zip",
+   "map": "https://maps.reclaim.city/kannur/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "KANNUR PVT BUS",
+    "KSRTC"
+   ],
+   "routes": 510,
+   "stops": 1808,
+   "trips": 2995,
+   "shapes": 510,
+   "trips_with_shape": 2995,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261103",
+   "service_end": "20271103",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "33 stops served only by those routes moved with them",
+    "13 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 2995 of 2995 trips that had none: the map's road-snapped line for the route (510 shapes)"
+   ],
+   "routes_without_timetable": "kerala/kannur/bus.routes_without_timetable.csv",
+   "bytes": 1625075,
+   "sha256": "84228e6f760ba83dab2f2e6a4f2007b61797a5ec2bf3454fe0dd039cbf8ae4cf"
+  },
+  {
+   "id": "kasaragod",
+   "name": "Kasaragod",
+   "state": "Kerala",
+   "path": "kerala/kasaragod/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/kerala/kasaragod/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/kasaragod.zip",
+   "map": "https://maps.reclaim.city/kasaragod/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "KSRTC",
+    "PVT BUS KASARAGOD"
+   ],
+   "routes": 302,
+   "stops": 1920,
+   "trips": 1760,
+   "shapes": 302,
+   "trips_with_shape": 1760,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "80 stops served only by those routes moved with them",
+    "8 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 1760 of 1760 trips that had none: the map's road-snapped line for the route (302 shapes)"
+   ],
+   "routes_without_timetable": "kerala/kasaragod/bus.routes_without_timetable.csv",
+   "bytes": 1476705,
+   "sha256": "d2d6df897bf2215f2971d068dca1cdf4f7e15f9c37053d95cf903386cc6e0fb6"
+  },
+  {
+   "id": "kochi",
+   "name": "Kochi",
+   "state": "Kerala",
+   "path": "kerala/kochi/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/kerala/kochi/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/kochi.zip",
+   "map": "https://maps.reclaim.city/kochi/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "DIGITAL BUS",
+    "KANJOOR CENTER",
+    "KMRL",
+    "KSRTC"
+   ],
+   "routes": 1005,
+   "stops": 548,
+   "trips": 3528,
+   "shapes": 1005,
+   "trips_with_shape": 3528,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261103",
+   "service_end": "20271103",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "59 stops served only by those routes moved with them",
+    "370 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 3528 of 3528 trips that had none: the map's road-snapped line for the route (1005 shapes)"
+   ],
+   "routes_without_timetable": "kerala/kochi/bus.routes_without_timetable.csv",
+   "bytes": 1284019,
+   "sha256": "43d6dd7ecad5cf77d0908dd98a550c96a996372ea0a782b6235ddf7c94642ef1"
+  },
+  {
+   "id": "kottayam",
+   "name": "Kottayam",
+   "state": "Kerala",
+   "path": "kerala/kottayam/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/kerala/kottayam/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/kottayam.zip",
+   "map": "https://maps.reclaim.city/kottayam/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "KBA",
+    "KSRTC"
+   ],
+   "routes": 1380,
+   "stops": 2063,
+   "trips": 9512,
+   "shapes": 1379,
+   "trips_with_shape": 9497,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261103",
+   "service_end": "20271103",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "12 stops served only by those routes moved with them",
+    "27 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 9497 of 9512 trips that had none: the map's road-snapped line for the route (1379 shapes)"
+   ],
+   "routes_without_timetable": "kerala/kottayam/bus.routes_without_timetable.csv",
+   "bytes": 4138931,
+   "sha256": "c6f12249e8d4994e666b88b0b1d9d768ecdc487885c4a33ef7ef2a374d380329"
+  },
+  {
+   "id": "kozhikode",
+   "name": "Kozhikode",
+   "state": "Kerala",
+   "path": "kerala/kozhikode/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/kerala/kozhikode/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/kozhikode.zip",
+   "map": "https://maps.reclaim.city/kozhikode/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "KOZHIKODE PVT BUS",
+    "KSRTC"
+   ],
+   "routes": 1103,
+   "stops": 2144,
+   "trips": 7331,
+   "shapes": 1103,
+   "trips_with_shape": 7331,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "52 stops served only by those routes moved with them",
+    "27 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 7331 of 7331 trips that had none: the map's road-snapped line for the route (1103 shapes)"
+   ],
+   "routes_without_timetable": "kerala/kozhikode/bus.routes_without_timetable.csv",
+   "bytes": 3349806,
+   "sha256": "eef0b5f35e707310a8eb1fb7cc0834a7324d4055f048cc896ffe55ae07f48ac6"
+  },
+  {
+   "id": "thiruvananthapuram",
+   "name": "Thiruvananthapuram",
+   "state": "Kerala",
+   "path": "kerala/thiruvananthapuram/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/kerala/thiruvananthapuram/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/thiruvananthapuram.zip",
+   "map": "https://maps.reclaim.city/thiruvananthapuram/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "KSRTC"
+   ],
+   "routes": 3247,
+   "stops": 2579,
+   "trips": 26519,
+   "shapes": 3247,
+   "trips_with_shape": 26519,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261103",
+   "service_end": "20271103",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "239 stops served only by those routes moved with them",
+    "135 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 26519 of 26519 trips that had none: the map's road-snapped line for the route (3247 shapes)"
+   ],
+   "routes_without_timetable": "kerala/thiruvananthapuram/bus.routes_without_timetable.csv",
+   "bytes": 6357296,
+   "sha256": "2d4ea4a4db89bd6c9d1e177669ef221c6b985d20c2a3567f6d8a3be16f56b942"
+  },
+  {
+   "id": "thrissur",
+   "name": "Thrissur",
+   "state": "Kerala",
+   "path": "kerala/thrissur/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/kerala/thrissur/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/thrissur.zip",
+   "map": "https://maps.reclaim.city/thrissur/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "KSRTC",
+    "MALAPPURAM PVT BUS"
+   ],
+   "routes": 1571,
+   "stops": 2122,
+   "trips": 11209,
+   "shapes": 1571,
+   "trips_with_shape": 11209,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "50 stops served only by those routes moved with them",
+    "26 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 11209 of 11209 trips that had none: the map's road-snapped line for the route (1571 shapes)"
+   ],
+   "routes_without_timetable": "kerala/thrissur/bus.routes_without_timetable.csv",
+   "bytes": 4123054,
+   "sha256": "c03b57851a0ce1ffff2725e970408ea46a000eeeca2e8e94bc8ca2f3f301d2d0"
+  },
+  {
+   "id": "wayanad",
+   "name": "Wayanad",
+   "state": "Kerala",
+   "path": "kerala/wayanad/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/kerala/wayanad/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/wayanad.zip",
+   "map": "https://maps.reclaim.city/wayanad/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "KOZHIKODE PVT BUS",
+    "KSRTC"
+   ],
+   "routes": 969,
+   "stops": 4483,
+   "trips": 6895,
+   "shapes": 969,
+   "trips_with_shape": 6895,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "88 stops served only by those routes moved with them",
+    "30 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 6895 of 6895 trips that had none: the map's road-snapped line for the route (969 shapes)"
+   ],
+   "routes_without_timetable": "kerala/wayanad/bus.routes_without_timetable.csv",
+   "bytes": 6513283,
+   "sha256": "37bd28a457edbe23efa15cbb4adf19ab198508a40d18318756b02831249a15a7"
+  },
+  {
+   "id": "bhopal",
+   "name": "Bhopal",
+   "state": "Madhya Pradesh",
+   "path": "madhya-pradesh/bhopal/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/madhya-pradesh/bhopal/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/bhopal.zip",
+   "map": "https://maps.reclaim.city/bhopal/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "BCLL",
+    "DIGITAL BUS",
+    "INTERCITY",
+    "MAA ASSOCIATES"
+   ],
+   "routes": 32,
+   "stops": 492,
+   "trips": 598,
+   "shapes": 28,
+   "trips_with_shape": 502,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "386 stops served only by those routes moved with them",
+    "37 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 502 of 598 trips that had none: the map's road-snapped line for the route (28 shapes)"
+   ],
+   "routes_without_timetable": "madhya-pradesh/bhopal/bus.routes_without_timetable.csv",
+   "bytes": 272224,
+   "sha256": "273d89fae5f05cbb84eb9770a5aa35046855aa8305e0088cf074abaef5b33490"
+  },
+  {
+   "id": "indore",
+   "name": "Indore",
+   "state": "Madhya Pradesh",
+   "path": "madhya-pradesh/indore/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/madhya-pradesh/indore/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/indore.zip",
+   "map": "https://maps.reclaim.city/indore/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "Aictsl"
+   ],
+   "routes": 45,
+   "stops": 919,
+   "trips": 796,
+   "shapes": 45,
+   "trips_with_shape": 796,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "175 stops served only by those routes moved with them",
+    "18 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 796 of 796 trips that had none: the map's road-snapped line for the route (45 shapes)"
+   ],
+   "routes_without_timetable": "madhya-pradesh/indore/bus.routes_without_timetable.csv",
+   "bytes": 288149,
+   "sha256": "1929e3930431489f71b0abef9a60bd3f4045f131ff829bfb819e4f6c8ad3e669"
+  },
+  {
+   "id": "jabalpur",
+   "name": "Jabalpur",
+   "state": "Madhya Pradesh",
+   "path": "madhya-pradesh/jabalpur/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/madhya-pradesh/jabalpur/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/jabalpur.zip",
+   "map": "https://maps.reclaim.city/jabalpur/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "JCTSL",
+    "JCTSL INTERCITY",
+    "PVT MARKET JABALPUR"
+   ],
+   "routes": 43,
+   "stops": 445,
+   "trips": 880,
+   "shapes": 41,
+   "trips_with_shape": 850,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "446 stops served only by those routes moved with them",
+    "79 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 850 of 880 trips that had none: the map's road-snapped line for the route (41 shapes)"
+   ],
+   "routes_without_timetable": "madhya-pradesh/jabalpur/bus.routes_without_timetable.csv",
+   "bytes": 241935,
+   "sha256": "0fea6ec9bfa7b48a1c7f658db977afad7e7fec872a543387d772dfb0e9801e74"
+  },
+  {
+   "id": "ujjain",
+   "name": "Ujjain",
+   "state": "Madhya Pradesh",
+   "path": "madhya-pradesh/ujjain/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/madhya-pradesh/ujjain/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/ujjain.zip",
+   "map": "https://maps.reclaim.city/ujjain/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "UCTSL"
+   ],
+   "routes": 3,
+   "stops": 26,
+   "trips": 45,
+   "shapes": 3,
+   "trips_with_shape": 45,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 45 of 45 trips that had none: the map's road-snapped line for the route (3 shapes)"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 23504,
+   "sha256": "47cb83528a015bf5e615776e0285f7e8e4451106a250527c621da17d40940923"
+  },
+  {
+   "id": "mumbai",
+   "name": "Mumbai region bus (BEST, TMT, KDMT, VVMT)",
+   "state": "Maharashtra",
+   "path": "maharashtra/mumbai/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/maharashtra/mumbai/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/mumbai.zip",
+   "map": "https://maps.reclaim.city/mumbai/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "Kalyan Dombivali Municipal Transport",
+    "Thane Municipal Transport",
+    "Brihanmumbai Electric Supply and Transport",
+    "Vasai-Virar Municipal Transport"
+   ],
+   "routes": 1609,
+   "stops": 10279,
+   "trips": 99080,
+   "shapes": 1115,
+   "trips_with_shape": 98878,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20260819",
+   "service_end": "20270215",
+   "source": {
+    "name": "croyla/mumbai-gtfs (BLRTransit)",
+    "url": "https://github.com/croyla/mumbai-gtfs",
+    "licence": "MIT-0"
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "shapes for 98878 of 99080 trips that had none: the map's road-snapped line for the route (1115 shapes)"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 17287451,
+   "sha256": "76d82ea119b5cf869e44857fa9431618887934d3166cb16f7a5d205c9379fa69",
+   "realtime": {
+    "vehicle_positions": "https://maps.reclaim.city/mumbai/rt/vehicle_positions.pb",
+    "trip_updates": "https://maps.reclaim.city/mumbai/rt/trip_updates.pb",
+    "status": "https://maps.reclaim.city/mumbai/rt/status.json"
+   }
+  },
+  {
+   "id": "mumbai-suburban",
+   "name": "Mumbai suburban rail (Western, Central, Harbour, Trans-Harbour, Uran)",
+   "state": "Maharashtra",
+   "path": "maharashtra/mumbai/suburban-rail.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/maharashtra/mumbai/suburban-rail.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/mumbai-suburban.zip",
+   "map": null,
+   "modes": [
+    "rail"
+   ],
+   "agencies": [
+    "Western Railway and Central Railway (Mumbai Suburban)"
+   ],
+   "routes": 9,
+   "stops": 123,
+   "trips": 3721,
+   "shapes": 1926,
+   "trips_with_shape": 3721,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "translations.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261113",
+   "service_end": "20271113",
+   "source": {
+    "name": "Rush Hour's Mumbai timetable (railway working timetables: WR Feb 2026, Harbour Oct 2024, Trans-Harbour Jan 2024, Port line Dec 2025), via India Metro's suburban map; built by tools/suburban_gtfs.py",
+    "url": "https://git.sr.ht/~sphericalkat/rush-hour",
+    "licence": "MIT"
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "feed_info.txt added (none in the source)"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 981746,
+   "sha256": "9e7d4d64b245698e2d560d61ae02fc3e8b1337e43c83aae13d37ffba626ca272"
+  },
+  {
+   "id": "nagpur",
+   "name": "Nagpur",
+   "state": "Maharashtra",
+   "path": "maharashtra/nagpur/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/maharashtra/nagpur/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/nagpur.zip",
+   "map": "https://maps.reclaim.city/nagpur/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "NMPL"
+   ],
+   "routes": 900,
+   "stops": 3896,
+   "trips": 8619,
+   "shapes": 899,
+   "trips_with_shape": 8618,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261103",
+   "service_end": "20271103",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "124 stops served only by those routes moved with them",
+    "115 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 8618 of 8619 trips that had none: the map's road-snapped line for the route (899 shapes)"
+   ],
+   "routes_without_timetable": "maharashtra/nagpur/bus.routes_without_timetable.csv",
+   "bytes": 3175785,
+   "sha256": "c723694f137ec1915f5837f83e710fb4a23b508e0e4fb72f07fe9a8f0217ddbf"
+  },
+  {
+   "id": "pune",
+   "name": "Pune (PMPML)",
+   "state": "Maharashtra",
+   "path": "maharashtra/pune/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/maharashtra/pune/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/pune.zip",
+   "map": "https://maps.reclaim.city/pune/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "Pune Mahanagar Parivahan Mahamandal Limited"
+   ],
+   "routes": 628,
+   "stops": 6745,
+   "trips": 10128,
+   "shapes": 628,
+   "trips_with_shape": 10128,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261007",
+   "service_end": "20270405",
+   "source": null,
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 4949578,
+   "sha256": "ec7a8ec794aac7633e34bcada1ab4de56d1cf45098369f27e7a02245526d0d7d"
+  },
+  {
+   "id": "rourkela",
+   "name": "Rourkela",
+   "state": "Odisha",
+   "path": "odisha/rourkela/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/odisha/rourkela/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/rourkela.zip",
+   "map": "https://maps.reclaim.city/rourkela/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "CRUT"
+   ],
+   "routes": 160,
+   "stops": 1081,
+   "trips": 1042,
+   "shapes": 142,
+   "trips_with_shape": 966,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 966 of 1042 trips that had none: the map's road-snapped line for the route (142 shapes)"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 594098,
+   "sha256": "a93f1a3db417e5d99a51d6e48d99fe5416c5d344f4007ce3416aa23011a99341"
+  },
+  {
+   "id": "osrtc",
+   "name": "OSRTC (Odisha, statewide)",
+   "state": "Odisha",
+   "path": null,
+   "download": "https://maps.reclaim.city/osrtc/rt/gtfs.zip",
+   "mirror": "https://maps.reclaim.city/osrtc/rt/gtfs.zip",
+   "map": "https://maps.reclaim.city/osrtc/",
+   "modes": [
+    "bus"
+   ],
+   "source": {
+    "name": "OSRTC Track a Bus, as seen by the reclaim.city live poller",
+    "url": "https://osrtc.org/",
+    "licence": null
+   },
+   "note": "Built live, rebuilt hourly from the services the tracker has shown (OSRTC publishes no GTFS); stop order exact, times indicative.",
+   "realtime": {
+    "vehicle_positions": "https://maps.reclaim.city/osrtc/rt/vehicle_positions.pb",
+    "trip_updates": "https://maps.reclaim.city/osrtc/rt/trip_updates.pb",
+    "status": "https://maps.reclaim.city/osrtc/rt/status.json"
+   }
+  },
+  {
+   "id": "amritsar",
+   "name": "Amritsar",
+   "state": "Punjab",
+   "path": null,
+   "download": null,
+   "mirror": null,
+   "map": "https://maps.reclaim.city/amritsar/",
+   "modes": [
+    "bus"
+   ],
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": "No timetable: the source holds routes and stops only, so there is no GTFS feed; the routes and their stops are in the CSV.",
+   "routes_without_timetable": "punjab/amritsar/bus.routes_without_timetable.csv",
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "75 stops served only by those routes moved with them",
+    "6 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes.txt left out (header only, no rows)"
+   ]
+  },
+  {
+   "id": "jaipur",
+   "name": "Jaipur",
+   "state": "Rajasthan",
+   "path": "rajasthan/jaipur/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/rajasthan/jaipur/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/jaipur.zip",
+   "map": "https://maps.reclaim.city/jaipur/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "Jctsl"
+   ],
+   "routes": 60,
+   "stops": 903,
+   "trips": 1421,
+   "shapes": 60,
+   "trips_with_shape": 1421,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "97 stops served only by those routes moved with them",
+    "14 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes for 1307 of 1307 trips that had none: the map's road-snapped line for the route (53 shapes)",
+    "1 shapes no trip uses left out"
+   ],
+   "routes_without_timetable": "rajasthan/jaipur/bus.routes_without_timetable.csv",
+   "bytes": 487265,
+   "sha256": "055528cd7a5162aa46441d141d3a6ab63048c272d870f5f001eafef6f7d0fb0c"
+  },
+  {
+   "id": "udaipur",
+   "name": "Udaipur",
+   "state": "Rajasthan",
+   "path": "rajasthan/udaipur/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/rajasthan/udaipur/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/udaipur.zip",
+   "map": "https://maps.reclaim.city/udaipur/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "UCTSL"
+   ],
+   "routes": 28,
+   "stops": 243,
+   "trips": 303,
+   "shapes": 28,
+   "trips_with_shape": 303,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 303 of 303 trips that had none: the map's road-snapped line for the route (28 shapes)"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 221597,
+   "sha256": "413d5dd90ab635c82e448c56c37249ff283227aa1fa016fe72b6ac1a3fe66803"
+  },
+  {
+   "id": "chennai-metro",
+   "name": "Chennai Metro (CMRL)",
+   "state": "Tamil Nadu",
+   "path": "tamil-nadu/chennai/metro-cmrl.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/tamil-nadu/chennai/metro-cmrl.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/chennai-metro.zip",
+   "map": null,
+   "modes": [
+    "metro"
+   ],
+   "agencies": [
+    "Chennai Metro Rail Limited"
+   ],
+   "routes": 3,
+   "stops": 294,
+   "trips": 749,
+   "shapes": 34,
+   "trips_with_shape": 749,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "fare_attributes.txt",
+    "fare_rules.txt",
+    "feed_info.txt",
+    "pathways.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20260101",
+   "service_end": "20271231",
+   "source": {
+    "name": "reclaimchennai/ChennaiGTFS, Chennai One CMRL feed",
+    "url": "https://github.com/reclaimchennai/ChennaiGTFS/tree/chennai-one-feeds",
+    "licence": "ODbL"
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 153133,
+   "sha256": "0cbc930b021fb028d438e7e3fc04425b9620c2fa76a9340a7dbf2074a184bc3a"
+  },
+  {
+   "id": "mtc",
+   "name": "Chennai MTC",
+   "state": "Tamil Nadu",
+   "path": "tamil-nadu/chennai/mtc-bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/tamil-nadu/chennai/mtc-bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/mtc.zip",
+   "map": "https://maps.reclaim.city/mapsv2/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "Metropolitan Transport Corporation (Chennai)"
+   ],
+   "routes": 970,
+   "stops": 3393,
+   "trips": 48132,
+   "shapes": 3691,
+   "trips_with_shape": 48132,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20260101",
+   "service_end": "20271231",
+   "source": {
+    "name": "reclaimchennai/ChennaiGTFS, Chennai One MTC feed",
+    "url": "https://github.com/reclaimchennai/ChennaiGTFS/tree/chennai-one-feeds",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 16099573,
+   "sha256": "225f0894f1e3b21def27eb090d397c95251548b0058eb78a0c38beb9ff48a7ce",
+   "realtime": {
+    "vehicle_positions": "https://maps.reclaim.city/mapsv2/rt/vehicle_positions.pb",
+    "trip_updates": "https://maps.reclaim.city/mapsv2/rt/trip_updates.pb",
+    "status": "https://maps.reclaim.city/mapsv2/rt/status.json"
+   }
+  },
+  {
+   "id": "chennai-suburban",
+   "name": "Chennai suburban rail and MRTS (Southern Railway)",
+   "state": "Tamil Nadu",
+   "path": "tamil-nadu/chennai/suburban-rail-mrts.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/tamil-nadu/chennai/suburban-rail-mrts.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/chennai-suburban.zip",
+   "map": null,
+   "modes": [
+    "rail"
+   ],
+   "agencies": [
+    "Southern Railway (Chennai Suburban)"
+   ],
+   "routes": 753,
+   "stops": 388,
+   "trips": 756,
+   "shapes": 747,
+   "trips_with_shape": 756,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "pathways.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20260101",
+   "service_end": "20271231",
+   "source": {
+    "name": "reclaimchennai/ChennaiGTFS, Chennai One suburban feed (stations from CUMTA, Government Open Data Licence - India)",
+    "url": "https://github.com/reclaimchennai/ChennaiGTFS/tree/chennai-one-feeds",
+    "licence": "ODbL"
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 784445,
+   "sha256": "b19a5b5f97a4fb2e9bb65a85c6c98493dd54756ba2f56a8e254b5620c9216fbe"
+  },
+  {
+   "id": "hyderabad",
+   "name": "Hyderabad (TGSRTC city, official open data)",
+   "state": "Telangana",
+   "path": "telangana/hyderabad/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/telangana/hyderabad/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/hyderabad.zip",
+   "map": "https://maps.reclaim.city/hyderabad/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "Telangana State Road Transport Corporation"
+   ],
+   "routes": 1031,
+   "stops": 5028,
+   "trips": 44892,
+   "shapes": 1008,
+   "trips_with_shape": 16691,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20260201",
+   "service_end": "20310201",
+   "source": {
+    "name": "TGSRTC buses GTFS, Open Data Telangana (via OpenCity)",
+    "url": "https://data.opencity.in/dataset/hyderabad-bus-stops",
+    "licence": null,
+    "detail": "Official open data: telangana_opendata_gtfs_tgsrtc_08_february_2026.zip, feed valid 1 Feb 2026 to 1 Feb 2031; 1,031 routes, 5,028 stops, 44,892 trips. Route numbers only (no route names in the feed); no shapes. Read 3 Nov 2026."
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "shapes for 16691 of 44892 trips that had none: the map's road-snapped line for the route (1008 shapes)"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 12292799,
+   "sha256": "ca38b2b684435556601766cefb6dbedcece85da87eb05262d43cd8bdd4309d33"
+  },
+  {
+   "id": "tgsrtc",
+   "name": "TGSRTC (Telangana, statewide)",
+   "state": "Telangana",
+   "path": "telangana/tgsrtc.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/telangana/tgsrtc.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/tgsrtc.zip",
+   "map": "https://maps.reclaim.city/tgsrtc/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "Telangana State Road Transport Corporation"
+   ],
+   "routes": 7881,
+   "stops": 14811,
+   "trips": 56977,
+   "shapes": 9122,
+   "trips_with_shape": 56975,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20260901",
+   "service_end": "20310901",
+   "source": {
+    "name": "reclaimchennai/tgsrtc",
+    "url": "https://github.com/reclaimchennai/tgsrtc",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "stop times in 20 trips: 0 past-midnight times written past 24:00, 12 intermediate times that ran backwards cleared (timepoint=0), 13 departures before their own arrival set to the arrival"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 59943292,
+   "sha256": "57697086976177a02ab494d3ab8526a28d44e437f8e4744b7715c6995ddae5c4",
+   "realtime": {
+    "vehicle_positions": "https://maps.reclaim.city/tgsrtc/rt/vehicle_positions.pb",
+    "trip_updates": "https://maps.reclaim.city/tgsrtc/rt/trip_updates.pb",
+    "status": "https://maps.reclaim.city/tgsrtc/rt/status.json"
+   }
+  },
+  {
+   "id": "agra",
+   "name": "Agra",
+   "state": "Uttar Pradesh",
+   "path": "uttar-pradesh/agra/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/uttar-pradesh/agra/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/agra.zip",
+   "map": "https://maps.reclaim.city/agra/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "AMCTSL"
+   ],
+   "routes": 44,
+   "stops": 384,
+   "trips": 451,
+   "shapes": 44,
+   "trips_with_shape": 451,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "115 stops served only by those routes moved with them",
+    "12 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 451 of 451 trips that had none: the map's road-snapped line for the route (44 shapes)"
+   ],
+   "routes_without_timetable": "uttar-pradesh/agra/bus.routes_without_timetable.csv",
+   "bytes": 224677,
+   "sha256": "b72351884a61b7a1bb5fba2ac6ce2e9744da96abfa958f835314879eed199a12"
+  },
+  {
+   "id": "ayodhya",
+   "name": "Ayodhya",
+   "state": "Uttar Pradesh",
+   "path": "uttar-pradesh/ayodhya/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/uttar-pradesh/ayodhya/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/ayodhya.zip",
+   "map": "https://maps.reclaim.city/ayodhya/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "CITY BUS AYODHYA"
+   ],
+   "routes": 10,
+   "stops": 123,
+   "trips": 150,
+   "shapes": 10,
+   "trips_with_shape": 150,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 150 of 150 trips that had none: the map's road-snapped line for the route (10 shapes)"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 78709,
+   "sha256": "053ff8dbb76d27311a20593056558256b98533c1cd2820537037d91d54309560"
+  },
+  {
+   "id": "bareilly",
+   "name": "Bareilly",
+   "state": "Uttar Pradesh",
+   "path": "uttar-pradesh/bareilly/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/uttar-pradesh/bareilly/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/bareilly.zip",
+   "map": "https://maps.reclaim.city/bareilly/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "BCTSL"
+   ],
+   "routes": 6,
+   "stops": 125,
+   "trips": 70,
+   "shapes": 6,
+   "trips_with_shape": 70,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 70 of 70 trips that had none: the map's road-snapped line for the route (6 shapes)"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 33352,
+   "sha256": "ded5ca9fb9bde791aaed83eb3e29c1b20c3fcab94473a58ec9dbc14aed995f9d"
+  },
+  {
+   "id": "ghaziabad",
+   "name": "Ghaziabad",
+   "state": "Uttar Pradesh",
+   "path": "uttar-pradesh/ghaziabad/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/uttar-pradesh/ghaziabad/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/ghaziabad.zip",
+   "map": null,
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "Ghaziabad City Transport Services Ltd"
+   ],
+   "routes": 32,
+   "stops": 224,
+   "trips": 471,
+   "shapes": 0,
+   "trips_with_shape": 0,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261001",
+   "service_end": "20271001",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "feed_info.txt added (none in the source)"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 65660,
+   "sha256": "4e1ed1ac548f6801bb650bcff8fd7b26189263a878ef9982fd21d7bbba7cd881"
+  },
+  {
+   "id": "gorakhpur",
+   "name": "Gorakhpur",
+   "state": "Uttar Pradesh",
+   "path": "uttar-pradesh/gorakhpur/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/uttar-pradesh/gorakhpur/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/gorakhpur.zip",
+   "map": "https://maps.reclaim.city/gorakhpur/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "GCTSL"
+   ],
+   "routes": 8,
+   "stops": 155,
+   "trips": 60,
+   "shapes": 8,
+   "trips_with_shape": 60,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 60 of 60 trips that had none: the map's road-snapped line for the route (8 shapes)"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 59772,
+   "sha256": "03e3612074088d64bc0a94cd729f306d7a2f0a9706d05400bc45985d91aa329c"
+  },
+  {
+   "id": "jhansi",
+   "name": "Jhansi",
+   "state": "Uttar Pradesh",
+   "path": "uttar-pradesh/jhansi/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/uttar-pradesh/jhansi/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/jhansi.zip",
+   "map": "https://maps.reclaim.city/jhansi/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "JCTSL"
+   ],
+   "routes": 21,
+   "stops": 82,
+   "trips": 260,
+   "shapes": 21,
+   "trips_with_shape": 260,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 260 of 260 trips that had none: the map's road-snapped line for the route (21 shapes)"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 100276,
+   "sha256": "12c5333e0f17ba72b1e1f37161c5c18c6218beec52413b2de35bef6470766a30"
+  },
+  {
+   "id": "kanpur",
+   "name": "Kanpur",
+   "state": "Uttar Pradesh",
+   "path": "uttar-pradesh/kanpur/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/uttar-pradesh/kanpur/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/kanpur.zip",
+   "map": "https://maps.reclaim.city/kanpur/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "KCTSL"
+   ],
+   "routes": 30,
+   "stops": 752,
+   "trips": 328,
+   "shapes": 15,
+   "trips_with_shape": 151,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "397 stops served only by those routes moved with them",
+    "81 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 151 of 328 trips that had none: the map's road-snapped line for the route (15 shapes)"
+   ],
+   "routes_without_timetable": "uttar-pradesh/kanpur/bus.routes_without_timetable.csv",
+   "bytes": 171276,
+   "sha256": "936232ab7a18a2933195f627a3f9dfaa7b7938af4abc5e24a16024a92303ab3d"
+  },
+  {
+   "id": "lucknow",
+   "name": "Lucknow",
+   "state": "Uttar Pradesh",
+   "path": "uttar-pradesh/lucknow/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/uttar-pradesh/lucknow/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/lucknow.zip",
+   "map": "https://maps.reclaim.city/lucknow/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "DIGITAL BUS",
+    "LCTSL"
+   ],
+   "routes": 32,
+   "stops": 707,
+   "trips": 444,
+   "shapes": 28,
+   "trips_with_shape": 250,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "129 stops served only by those routes moved with them",
+    "32 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 250 of 444 trips that had none: the map's road-snapped line for the route (28 shapes)"
+   ],
+   "routes_without_timetable": "uttar-pradesh/lucknow/bus.routes_without_timetable.csv",
+   "bytes": 194617,
+   "sha256": "ea6f5ea54939eb783865bd1f0c25c6f5c3140d13393c0a5997cbc2c3dac65763"
+  },
+  {
+   "id": "mathura",
+   "name": "Mathura",
+   "state": "Uttar Pradesh",
+   "path": "uttar-pradesh/mathura/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/uttar-pradesh/mathura/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/mathura.zip",
+   "map": "https://maps.reclaim.city/mathura/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "AMCTSL"
+   ],
+   "routes": 24,
+   "stops": 220,
+   "trips": 302,
+   "shapes": 24,
+   "trips_with_shape": 302,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "192 stops served only by those routes moved with them",
+    "18 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 302 of 302 trips that had none: the map's road-snapped line for the route (24 shapes)"
+   ],
+   "routes_without_timetable": "uttar-pradesh/mathura/bus.routes_without_timetable.csv",
+   "bytes": 196999,
+   "sha256": "7ff9ec0c3f0fd520a4cf88ff97be9885948ba6097281f4b5ba1286cef5467139"
+  },
+  {
+   "id": "meerut",
+   "name": "Meerut",
+   "state": "Uttar Pradesh",
+   "path": "uttar-pradesh/meerut/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/uttar-pradesh/meerut/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/meerut.zip",
+   "map": null,
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "Meerut City Transport Services Ltd"
+   ],
+   "routes": 28,
+   "stops": 260,
+   "trips": 293,
+   "shapes": 0,
+   "trips_with_shape": 0,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261001",
+   "service_end": "20271001",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "192 stops served only by those routes moved with them",
+    "51 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "feed_info.txt added (none in the source)"
+   ],
+   "routes_without_timetable": "uttar-pradesh/meerut/bus.routes_without_timetable.csv",
+   "bytes": 49219,
+   "sha256": "4284288540773b919a5fd2fdd89ef52faf31d8f15638b7aa6573da59dbc0055c"
+  },
+  {
+   "id": "noida",
+   "name": "Noida",
+   "state": "Uttar Pradesh",
+   "path": "uttar-pradesh/noida/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/uttar-pradesh/noida/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/noida.zip",
+   "map": null,
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "Noida e-bus (Noida Authority / UPSRTC, reported)",
+    "NMRC feeder bus",
+    "UPSRTC Noida region"
+   ],
+   "routes": 24,
+   "stops": 34,
+   "trips": 330,
+   "shapes": 0,
+   "trips_with_shape": 0,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261001",
+   "service_end": "20271001",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "24 stops served only by those routes moved with them",
+    "5 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "calendar.txt added (the build wrote none): the daily service of its sibling NCR feeds",
+    "feed_info.txt added (none in the source)"
+   ],
+   "routes_without_timetable": "uttar-pradesh/noida/bus.routes_without_timetable.csv",
+   "bytes": 11580,
+   "sha256": "4e6da83377861794184f6a9abeae8702a81145fe278f6e203fecd8cf01a881c4"
+  },
+  {
+   "id": "prayagraj",
+   "name": "Prayagraj",
+   "state": "Uttar Pradesh",
+   "path": "uttar-pradesh/prayagraj/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/uttar-pradesh/prayagraj/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/prayagraj.zip",
+   "map": "https://maps.reclaim.city/prayagraj/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "ACTSL"
+   ],
+   "routes": 15,
+   "stops": 238,
+   "trips": 115,
+   "shapes": 15,
+   "trips_with_shape": 115,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "672 stops served only by those routes moved with them",
+    "95 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 115 of 115 trips that had none: the map's road-snapped line for the route (15 shapes)"
+   ],
+   "routes_without_timetable": "uttar-pradesh/prayagraj/bus.routes_without_timetable.csv",
+   "bytes": 70360,
+   "sha256": "3818c24151faac8940e351e29cbe12bbd5d583757554c0558908480313163746"
+  },
+  {
+   "id": "varanasi",
+   "name": "Varanasi",
+   "state": "Uttar Pradesh",
+   "path": "uttar-pradesh/varanasi/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/uttar-pradesh/varanasi/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/varanasi.zip",
+   "map": "https://maps.reclaim.city/varanasi/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "VCTL"
+   ],
+   "routes": 123,
+   "stops": 358,
+   "trips": 688,
+   "shapes": 123,
+   "trips_with_shape": 688,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261102",
+   "service_end": "20271102",
+   "source": {
+    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "url": "https://chalo.com/",
+    "licence": null
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "58 stops served only by those routes moved with them",
+    "26 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "shapes.txt left out (header only, no rows)",
+    "shapes for 688 of 688 trips that had none: the map's road-snapped line for the route (123 shapes)"
+   ],
+   "routes_without_timetable": "uttar-pradesh/varanasi/bus.routes_without_timetable.csv",
+   "bytes": 230065,
+   "sha256": "3b5cbf8fa439155268f44b35068b6f9c9e366d809958e067ad6e93f929259c50"
+  },
+  {
+   "id": "kolkata",
+   "name": "Kolkata (bus, metro, suburban rail, ferry)",
+   "state": "West Bengal",
+   "path": "west-bengal/kolkata/all-modes.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/west-bengal/kolkata/all-modes.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/kolkata.zip",
+   "map": "https://maps.reclaim.city/kolkata/",
+   "modes": [
+    "bus",
+    "ferry",
+    "metro",
+    "rail"
+   ],
+   "agencies": [
+    "West Bengal Transport Corporation",
+    "Private route buses (Kolkata)",
+    "Private minibuses (Kolkata)",
+    "Other bus operators (as named in the Chalo app)",
+    "West Bengal Transport Corporation (Calcutta Tramways)",
+    "State transport routes (WBTC / SBSTC / NBSTC, community list)",
+    "Hooghly river ferries",
+    "Indian Railways suburban services (Eastern and South Eastern Railway)",
+    "Metro Railway, Kolkata"
+   ],
+   "routes": 2449,
+   "stops": 9208,
+   "trips": 6646,
+   "shapes": 4055,
+   "trips_with_shape": 6558,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "frequencies.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261101",
+   "service_end": "20271031",
+   "source": null,
+   "note": "Unofficial (no Kolkata operator publishes GTFS). Trams: the timetables are placeholders and most routes are suspended, so they are listed without times.",
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "71 stops served only by those routes moved with them",
+    "21 routes with no timetable (placeholder times, tram routes) moved to routes_without_timetable.csv",
+    "shapes for 1064 of 1152 trips that had none: the map's road-snapped line for the route (1064 shapes)",
+    "43 shapes no trip uses left out",
+    "feed_info.txt added (none in the source)"
+   ],
+   "routes_without_timetable": "west-bengal/kolkata/all-modes.routes_without_timetable.csv",
+   "bytes": 8800528,
+   "sha256": "cb71ee51aca31b394357be461ea13b29402101b1824ece3c29ad431b09d11114"
+  },
+  {
+   "id": "kolkata-ferry",
+   "name": "Kolkata Hooghly ferries",
+   "state": "West Bengal",
+   "path": "west-bengal/kolkata/ferry.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/west-bengal/kolkata/ferry.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/kolkata-ferry.zip",
+   "map": null,
+   "modes": [
+    "ferry"
+   ],
+   "agencies": [
+    "Hooghly river ferries"
+   ],
+   "routes": 20,
+   "stops": 30,
+   "trips": 40,
+   "shapes": 40,
+   "trips_with_shape": 40,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "frequencies.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261101",
+   "service_end": "20271031",
+   "source": null,
+   "note": "Unofficial: mostly headway-based services (frequencies.txt).",
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 7523,
+   "sha256": "8343c1545de878b28c60104e5866b03d63dad6be72975e2c73984495e51d9efc"
+  },
+  {
+   "id": "kolkata-metro",
+   "name": "Kolkata Metro",
+   "state": "West Bengal",
+   "path": "west-bengal/kolkata/metro.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/west-bengal/kolkata/metro.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/kolkata-metro.zip",
+   "map": null,
+   "modes": [
+    "metro"
+   ],
+   "agencies": [
+    "Metro Railway, Kolkata"
+   ],
+   "routes": 5,
+   "stops": 55,
+   "trips": 1704,
+   "shapes": 9,
+   "trips_with_shape": 1704,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261101",
+   "service_end": "20271031",
+   "source": null,
+   "note": "Unofficial: real first and last trains and headways; times at later stations estimated from distance.",
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "frequencies.txt left out (header only, no rows)",
+    "1 shapes no trip uses left out"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 195444,
+   "sha256": "cf1a445c86ec451bb4c3db359ed5280d74f2cfc5e12fe963519a8a235ab77a05"
+  },
+  {
+   "id": "kolkata-suburban",
+   "name": "Kolkata suburban rail (Eastern and South Eastern Railway)",
+   "state": "West Bengal",
+   "path": "west-bengal/kolkata/suburban-rail.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/west-bengal/kolkata/suburban-rail.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/kolkata-suburban.zip",
+   "map": null,
+   "modes": [
+    "rail"
+   ],
+   "agencies": [
+    "Indian Railways suburban services (Eastern and South Eastern Railway)"
+   ],
+   "routes": 25,
+   "stops": 406,
+   "trips": 2460,
+   "shapes": 1652,
+   "trips_with_shape": 2460,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261101",
+   "service_end": "20271031",
+   "source": null,
+   "note": "Unofficial: built from the national Indian Railways GTFS.",
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "frequencies.txt left out (header only, no rows)"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 758705,
+   "sha256": "ce8b14335b03c91fe8e887c927b9306e56ccc08b6f9f1e2ef33befd5a819535c"
+  }
+ ]
+}
