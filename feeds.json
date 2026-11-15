@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T10:51:37Z",
+ "generated": "2026-11-15T22:15:51Z",
  "repository": "https://github.com/reclaimchennai/India_GTFS",
  "spec": {
   "schedule": "https://gtfs.org/documentation/schedule/reference/",
@@ -2090,11 +2090,11 @@
    "agencies": [
     "Metropolitan Transport Corporation (Chennai)"
    ],
-   "routes": 970,
-   "stops": 3393,
-   "trips": 48132,
-   "shapes": 3691,
-   "trips_with_shape": 48132,
+   "routes": 1092,
+   "stops": 3768,
+   "trips": 51734,
+   "shapes": 4502,
+   "trips_with_shape": 51734,
    "files": [
     "agency.txt",
     "calendar.txt",
@@ -2117,8 +2117,8 @@
     "packaging: files at the zip root, GTFS reference files only"
    ],
    "routes_without_timetable": null,
-   "bytes": 16099573,
-   "sha256": "225f0894f1e3b21def27eb090d397c95251548b0058eb78a0c38beb9ff48a7ce",
+   "bytes": 18300927,
+   "sha256": "d896abbae9ddfb4836a2c711a20234dc6792dfcce5104d67f662ea162bc20b04",
    "realtime": {
     "vehicle_positions": "https://maps.reclaim.city/mapsv2/rt/vehicle_positions.pb",
     "trip_updates": "https://maps.reclaim.city/mapsv2/rt/trip_updates.pb",

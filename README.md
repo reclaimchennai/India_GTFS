@@ -2,7 +2,7 @@
 
 Public transit for India in [GTFS](https://gtfs.org/): **64 feeds** covering
 **20 states and union territories**: city buses, state transport corporations, suburban rail, MRTS, metro, RRTS and
-ferries. Together they hold 54,655 routes, 137,170 stops and 618,252 trips, with shapes on almost every trip.
+ferries. Together they hold 54,777 routes, 137,545 stops and 621,854 trips, with shapes on almost every trip.
 **7 networks also have live GTFS-Realtime feeds** (vehicle positions and trip updates).
 
 Every feed is the timetable behind a map on [maps.reclaim.city](https://maps.reclaim.city/), so the ids in the
@@ -70,7 +70,7 @@ changes we made.
 | [Punjab](punjab/README.md) | Amritsar | bus |  |  |  | |  | — |
 | [Rajasthan](rajasthan/README.md) | Jaipur | bus | 60 | 903 | 1,421 | 2026-11-02 – 2027-11-02 |  | [bus.zip](rajasthan/jaipur/bus.zip) |
 | [Rajasthan](rajasthan/README.md) | Udaipur | bus | 28 | 243 | 303 | 2026-11-02 – 2027-11-02 |  | [bus.zip](rajasthan/udaipur/bus.zip) |
-| [Tamil Nadu](tamil-nadu/README.md) | Chennai MTC | bus | 970 | 3,393 | 48,132 | 2026-01-01 – 2027-12-31 | ✓ | [mtc-bus.zip](tamil-nadu/chennai/mtc-bus.zip) |
+| [Tamil Nadu](tamil-nadu/README.md) | Chennai MTC | bus | 1,092 | 3,768 | 51,734 | 2026-01-01 – 2027-12-31 | ✓ | [mtc-bus.zip](tamil-nadu/chennai/mtc-bus.zip) |
 | [Tamil Nadu](tamil-nadu/README.md) | Chennai Metro (CMRL) | metro | 3 | 294 | 749 | 2026-01-01 – 2027-12-31 |  | [metro-cmrl.zip](tamil-nadu/chennai/metro-cmrl.zip) |
 | [Tamil Nadu](tamil-nadu/README.md) | Chennai suburban rail and MRTS (Southern Railway) | rail | 753 | 388 | 756 | 2026-01-01 – 2027-12-31 |  | [suburban-rail-mrts.zip](tamil-nadu/chennai/suburban-rail-mrts.zip) |
 | [Telangana](telangana/README.md) | Hyderabad (TGSRTC city, official open data) | bus | 1,031 | 5,028 | 44,892 | 2026-02-01 – 2031-02-01 |  | [bus.zip](telangana/hyderabad/bus.zip) |

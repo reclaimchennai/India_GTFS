@@ -27,17 +27,17 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 | | |
 |---|---|
 | Feed id | `mtc` |
-| Download | [chennai/mtc-bus.zip](chennai/mtc-bus.zip) (15.4 MB), mirror <https://maps.reclaim.city/gtfs/mtc.zip> |
+| Download | [chennai/mtc-bus.zip](chennai/mtc-bus.zip) (17.5 MB), mirror <https://maps.reclaim.city/gtfs/mtc.zip> |
 | Modes | bus |
 | Agencies | Metropolitan Transport Corporation (Chennai) |
-| Routes / stops / trips | 970 / 3,393 / 48,132 |
-| Trips with a shape | 48,132 (3,691 shapes) |
+| Routes / stops / trips | 1,092 / 3,768 / 51,734 |
+| Trips with a shape | 51,734 (4,502 shapes) |
 | Service | 2026-01-01 to 2027-12-31 |
 | Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
 | Map | <https://maps.reclaim.city/mapsv2/> |
 | Source | [reclaimchennai/ChennaiGTFS, Chennai One MTC feed](https://github.com/reclaimchennai/ChennaiGTFS/tree/chennai-one-feeds) |
 | Licence | none stated by the source |
-| sha256 | `225f0894f1e3b21def27eb090d397c95251548b0058eb78a0c38beb9ff48a7ce` |
+| sha256 | `d896abbae9ddfb4836a2c711a20234dc6792dfcce5104d67f662ea162bc20b04` |
 | GTFS-Realtime | [VehiclePositions](https://maps.reclaim.city/mapsv2/rt/vehicle_positions.pb), [TripUpdates](https://maps.reclaim.city/mapsv2/rt/trip_updates.pb), [status](https://maps.reclaim.city/mapsv2/rt/status.json) |
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
