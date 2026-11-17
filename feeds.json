@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T08:43:20Z",
+ "generated": "2026-11-17T13:46:49Z",
  "repository": "https://github.com/reclaimchennai/India_GTFS",
  "spec": {
   "schedule": "https://gtfs.org/documentation/schedule/reference/",
@@ -682,6 +682,56 @@
     "vehicle_positions": "https://maps.reclaim.city/gurugram/rt/vehicle_positions.pb",
     "trip_updates": "https://maps.reclaim.city/gurugram/rt/trip_updates.pb",
     "status": "https://maps.reclaim.city/gurugram/rt/status.json"
+   }
+  },
+  {
+   "id": "hr",
+   "name": "Haryana Roadways (Haryana, statewide)",
+   "state": "Haryana",
+   "path": "haryana/haryana-roadways.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/haryana/haryana-roadways.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/hr.zip",
+   "map": "https://maps.reclaim.city/hr/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "Haryana Roadways"
+   ],
+   "routes": 420,
+   "stops": 238,
+   "trips": 10447,
+   "shapes": 548,
+   "trips_with_shape": 10447,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261117",
+   "service_end": "20271117",
+   "source": {
+    "name": "Haryana Roadways' depot timetables (hartrans.gov.in) and its live tracking, built into GTFS by reclaim.city",
+    "url": "https://hartrans.gov.in/bus-time-table-depot-wise/",
+    "licence": null,
+    "detail": "Unofficial: Haryana Roadways publishes no GTFS, no stops and no route lines. Routes and stops from the route labels its buses carry on its live tracking (the official Haryana app's backend): each label read into its towns in order, placed by bus-stand aliases and OpenStreetMap place names, joined by OSRM's road (haryana_bus/places.py, network.py). Trips from the 25 official depot timetables (last updated 2 Dec 2024): every departure whose From and To are a route's two ends. Only the departure time is published: later towns are estimated from OSRM's driving time x 1.25 plus 3 min at each town (timepoint=0). Corridors with no timetabled departure, and private (kilometre scheme) and other states' departures with no live Haryana Roadways route, are left out (haryana_bus/gtfs_build.py)."
+   },
+   "note": "Unofficial: built from Haryana Roadways' depot timetables and live tracking; stops are towns and bus stands, times after the first are estimates (timepoint=0).",
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 856325,
+   "sha256": "2d07b233b75e27ab45eca98490b8752082c97eeb034e86a1c33cbd39dd7261ee",
+   "realtime": {
+    "vehicle_positions": "https://maps.reclaim.city/hr/rt/vehicle_positions.pb",
+    "trip_updates": "https://maps.reclaim.city/hr/rt/trip_updates.pb",
+    "status": "https://maps.reclaim.city/hr/rt/status.json"
    }
   },
   {

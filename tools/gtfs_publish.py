@@ -104,6 +104,18 @@ FEEDS += [
     F('tgsrtc', 'telangana/tgsrtc', 'TGSRTC (Telangana, statewide)', 'Telangana', f'{HOME}/rtc-open-data/gh-tgsrtc/data/tgsrtc-gtfs.zip', 'tgsrtc', rt='tgsrtc',
       source={'name': 'reclaimchennai/tgsrtc', 'url': 'https://github.com/reclaimchennai/tgsrtc', 'licence': None}),
     F('gurugram', 'haryana/gurugram/bus', 'Gurugram (GMCBL)', 'Haryana', f'{HOME}/ncr_bus/gtfs/gurugram', None, rt='gurugram', source=CHALO_SRC),
+    F('hr', 'haryana/haryana-roadways', 'Haryana Roadways (Haryana, statewide)', 'Haryana', f'{HOME}/haryana_bus/gtfs/hr_gtfs.zip', 'hr', rt='hr',
+      source={'name': "Haryana Roadways' depot timetables (hartrans.gov.in) and its live tracking, built into GTFS by reclaim.city",
+              'url': 'https://hartrans.gov.in/bus-time-table-depot-wise/', 'licence': None,
+              'detail': "Unofficial: Haryana Roadways publishes no GTFS, no stops and no route lines. Routes and stops from the route "
+                        "labels its buses carry on its live tracking (the official Haryana app's backend): each label read into its towns "
+                        "in order, placed by bus-stand aliases and OpenStreetMap place names, joined by OSRM's road (haryana_bus/places.py, "
+                        "network.py). Trips from the 25 official depot timetables (last updated 2 Dec 2024): every departure whose From and "
+                        "To are a route's two ends. Only the departure time is published: later towns are estimated from OSRM's driving "
+                        "time x 1.25 plus 3 min at each town (timepoint=0). Corridors with no timetabled departure, and private "
+                        "(kilometre scheme) and other states' departures with no live Haryana Roadways route, are left out "
+                        "(haryana_bus/gtfs_build.py)."},
+      note="Unofficial: built from Haryana Roadways' depot timetables and live tracking; stops are towns and bus stands, times after the first are estimates (timepoint=0)."),
     F('noida', 'uttar-pradesh/noida/bus', 'Noida', 'Uttar Pradesh', f'{HOME}/ncr_bus/gtfs/noida', None, source=CHALO_SRC),
     F('ghaziabad', 'uttar-pradesh/ghaziabad/bus', 'Ghaziabad', 'Uttar Pradesh', f'{HOME}/ncr_bus/gtfs/ghaziabad', None, source=CHALO_SRC),
     F('meerut', 'uttar-pradesh/meerut/bus', 'Meerut', 'Uttar Pradesh', f'{HOME}/ncr_bus/gtfs/meerut', None, source=CHALO_SRC),

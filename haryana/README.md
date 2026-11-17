@@ -1,6 +1,6 @@
 # Haryana
 
-Feeds in this folder: 1. Back to the [repository README](../README.md).
+Feeds in this folder: 2. Back to the [repository README](../README.md).
 
 ## Gurugram (GMCBL)
 
@@ -23,3 +23,27 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 
 - packaging: files at the zip root, GTFS reference files only
 - feed_info.txt added (none in the source)
+
+## Haryana Roadways (Haryana, statewide)
+
+| | |
+|---|---|
+| Feed id | `hr` |
+| Download | [haryana-roadways.zip](haryana-roadways.zip) (0.8 MB), mirror <https://maps.reclaim.city/gtfs/hr.zip> |
+| Modes | bus |
+| Agencies | Haryana Roadways |
+| Routes / stops / trips | 420 / 238 / 10,447 |
+| Trips with a shape | 10,447 (548 shapes) |
+| Service | 2026-11-17 to 2027-11-17 |
+| Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
+| Map | <https://maps.reclaim.city/hr/> |
+| Source | [Haryana Roadways' depot timetables (hartrans.gov.in) and its live tracking, built into GTFS by reclaim.city](https://hartrans.gov.in/bus-time-table-depot-wise/) |
+| Licence | none stated by the source |
+| sha256 | `2d07b233b75e27ab45eca98490b8752082c97eeb034e86a1c33cbd39dd7261ee` |
+| GTFS-Realtime | [VehiclePositions](https://maps.reclaim.city/hr/rt/vehicle_positions.pb), [TripUpdates](https://maps.reclaim.city/hr/rt/trip_updates.pb), [status](https://maps.reclaim.city/hr/rt/status.json) |
+
+> Unofficial: built from Haryana Roadways' depot timetables and live tracking; stops are towns and bus stands, times after the first are estimates (timepoint=0).
+
+Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
+
+- packaging: files at the zip root, GTFS reference files only

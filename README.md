@@ -1,9 +1,9 @@
 # India_GTFS
 
-Public transit for India in [GTFS](https://gtfs.org/): **65 feeds** covering
+Public transit for India in [GTFS](https://gtfs.org/): **66 feeds** covering
 **21 states and union territories**: city buses, state transport corporations, suburban rail, MRTS, metro, RRTS and
-ferries. Together they hold 55,142 routes, 138,140 stops and 632,854 trips, with shapes on almost every trip.
-**9 networks also have live GTFS-Realtime feeds** (vehicle positions and trip updates).
+ferries. Together they hold 55,562 routes, 138,378 stops and 643,301 trips, with shapes on almost every trip.
+**10 networks also have live GTFS-Realtime feeds** (vehicle positions and trip updates).
 
 Every feed is the timetable behind a map on [maps.reclaim.city](https://maps.reclaim.city/), so the ids in the
 static feeds are the ids the maps and the live feeds use. The full API reference, including the live feeds, is at
@@ -41,6 +41,7 @@ changes we made.
 | [Gujarat](gujarat/README.md) | Rajkot (RRL BRTS + city) | bus | 271 | 760 | 3,168 | 2026-10-16 – 2027-04-14 |  | [bus.zip](gujarat/rajkot/bus.zip) |
 | [Gujarat](gujarat/README.md) | Vapi (VCBS) | bus | 22 | 91 | 461 | 2026-01-01 – 2027-12-31 |  | [bus.zip](gujarat/vapi/bus.zip) |
 | [Haryana](haryana/README.md) | Gurugram (GMCBL) | bus | 137 | 1,086 | 1,807 | 2026-10-01 – 2027-10-01 | ✓ | [bus.zip](haryana/gurugram/bus.zip) |
+| [Haryana](haryana/README.md) | Haryana Roadways (Haryana, statewide) | bus | 420 | 238 | 10,447 | 2026-11-17 – 2027-11-17 | ✓ | [haryana-roadways.zip](haryana/haryana-roadways.zip) |
 | [India](india/README.md) | Indian Railways (all-India trains, incl. EMU/MEMU) | rail | 10,389 | 8,550 | 10,389 | 2025-01-01 – 2099-12-31 |  | [indian-railways.zip](india/indian-railways.zip) |
 | [Jammu and Kashmir](jammu-and-kashmir/README.md) | Jammu | bus | 248 | 850 | 1,880 | 2026-11-02 – 2027-11-02 |  | [bus.zip](jammu-and-kashmir/jammu/bus.zip) |
 | [Jammu and Kashmir](jammu-and-kashmir/README.md) | Srinagar | bus | 168 | 1,065 | 2,404 | 2026-11-02 – 2027-11-02 |  | [bus.zip](jammu-and-kashmir/srinagar/bus.zip) |
@@ -148,6 +149,7 @@ their source changing. The full reference is at [api.reclaim.city/docs](https://
 | Chandigarh tricity (CTU: Chandigarh, Mohali, Panchkula) | `https://maps.reclaim.city/tricity/rt/vehicle_positions.pb` | `https://maps.reclaim.city/tricity/rt/trip_updates.pb` | `tricity`: [bus.zip](chandigarh/tricity/bus.zip) |
 | Delhi (DTC and cluster buses) | `https://maps.reclaim.city/delhi/rt/vehicle_positions.pb` | `https://maps.reclaim.city/delhi/rt/trip_updates.pb` | `delhi`: [bus.zip](delhi/bus.zip) |
 | Gurugram (GMCBL) | `https://maps.reclaim.city/gurugram/rt/vehicle_positions.pb` | `https://maps.reclaim.city/gurugram/rt/trip_updates.pb` | `gurugram`: [bus.zip](haryana/gurugram/bus.zip) |
+| Haryana Roadways (Haryana, statewide) | `https://maps.reclaim.city/hr/rt/vehicle_positions.pb` | `https://maps.reclaim.city/hr/rt/trip_updates.pb` | `hr`: [haryana-roadways.zip](haryana/haryana-roadways.zip) |
 | Bengaluru (BMTC) | `https://maps.reclaim.city/bengaluru/rt/vehicle_positions.pb` | `https://maps.reclaim.city/bengaluru/rt/trip_updates.pb` | `bengaluru`: [bus.zip](karnataka/bengaluru/bus.zip) |
 | Mumbai region bus (BEST, TMT, KDMT, VVMT) | `https://maps.reclaim.city/mumbai/rt/vehicle_positions.pb` | `https://maps.reclaim.city/mumbai/rt/trip_updates.pb` | `mumbai`: [bus.zip](maharashtra/mumbai/bus.zip) |
 | OSRTC (Odisha, statewide) | `https://maps.reclaim.city/osrtc/rt/vehicle_positions.pb` | `https://maps.reclaim.city/osrtc/rt/trip_updates.pb` | `osrtc`: [gtfs.zip](https://maps.reclaim.city/osrtc/rt/gtfs.zip) |
@@ -162,7 +164,7 @@ GET https://maps.reclaim.city/<network>/rt/trip_updates.json
 GET https://maps.reclaim.city/<network>/rt/status.json            freshness and match rates
 ```
 
-`<network>` is one of: `apsrtc`, `tricity`, `delhi`, `gurugram`, `bengaluru`, `mumbai`, `osrtc`, `mapsv2`, `tgsrtc`.
+`<network>` is one of: `apsrtc`, `tricity`, `delhi`, `gurugram`, `hr`, `bengaluru`, `mumbai`, `osrtc`, `mapsv2`, `tgsrtc`.
 
 **Parameters.** There are none. Each response is the full dataset (`incrementality: FULL_DATASET`). There are no keys and
 no sign-up. Responses carry `Cache-Control: public, max-age=10` and `Access-Control-Allow-Origin: *`.
@@ -276,6 +278,7 @@ is. Check each source before commercial use.
 | Rajkot (RRL BRTS + city) |  | none stated |
 | Vapi (VCBS) | [shubhamvelani/VapiGTFS](https://github.com/shubhamvelani/VapiGTFS) | none stated |
 | Gurugram (GMCBL) | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
+| Haryana Roadways (Haryana, statewide) | [Haryana Roadways' depot timetables (hartrans.gov.in) and its live tracking, built into GTFS by reclaim.city](https://hartrans.gov.in/bus-time-table-depot-wise/) | none stated |
 | Indian Railways (all-India trains, incl. EMU/MEMU) | [Community GTFS of Indian Railways by P. Radha Krishna (github.com/Neo2308)](https://github.com/Neo2308) | none stated |
 | Jammu | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Srinagar | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
