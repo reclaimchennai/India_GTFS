@@ -72,6 +72,17 @@ FEEDS += [
                         "The five Namma Metro Pink Line feeders (MF-18J, MF-18JT, MF-18JP, MF-22HS, MF-18T, from 14 Nov 2026) run on "
                         "BMTC's notice. Directions with no BMTC timetable, and KSRTC intercity services BMTC's API lists with "
                         "placeholder run times, are left out (bengaluru_bus/pipeline/gtfs_plus.py)."}),
+    F('tricity', 'chandigarh/tricity/bus', 'Chandigarh tricity (CTU: Chandigarh, Mohali, Panchkula)', 'Chandigarh', f'{HOME}/chandigarh_bus/gtfs/ctu_gtfs.zip', 'tricity', rt='tricity',
+      source={'name': "CTU's published timetables and its trycityBUS tracker, built into GTFS by reclaim.city", 'url': 'https://ctucitybus.com/', 'licence': None,
+              'detail': "Unofficial: CTU publishes no GTFS. Routes and stops from CTU's trycityBUS backend (Amnex): its route list and "
+                        "route lines, stops in order from the trips its buses run, stop places from the GPS of buses standing at them "
+                        "and CTU's station list (chandigarh_bus/network.py). Trips from CTU's timetable of local and tricity routes "
+                        "as on 25 Jul 2026 (each direction's first and last bus and frequency; departures between are spread evenly) and "
+                        "the airport shuttles 38 AS (timetable board at ISBT-17) and 36 AS (May 2024 timetable). Only the first stop's "
+                        "time is published: later stops are estimated from CTU's running time for the route or the city speed for the "
+                        "hour (timepoint=0). Route directions CTU gives no times for, and its inter-state buses, are left out "
+                        "(chandigarh_bus/gtfs_build.py)."},
+      note='Unofficial: built from CTU\'s timetable PDF and live tracker; times after the first stop are estimates (timepoint=0).'),
     F('davangere', 'karnataka/davangere/bus', 'Davangere (KSRTC city)', 'Karnataka', f'{HOME}/davangere_bus/raw/dvg_gtfs.zip', 'davangere'),
     F('hubballi', 'karnataka/hubballi-dharwad/bus', 'Hubballi-Dharwad (HDBRTS + city)', 'Karnataka', f'{HOME}/hubli_bus/raw/hdbrts-gtfs/gtfs.zip', 'hubballi'),
     F('goa', 'goa/ktcl-bus', 'Goa (Kadamba Transport Corporation)', 'Goa', f'{HOME}/goa_bus/raw/goa_gtfs.zip', 'goa',

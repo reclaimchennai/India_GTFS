@@ -1,9 +1,9 @@
 # India_GTFS
 
-Public transit for India in [GTFS](https://gtfs.org/): **64 feeds** covering
-**20 states and union territories**: city buses, state transport corporations, suburban rail, MRTS, metro, RRTS and
-ferries. Together they hold 55,073 routes, 137,582 stops and 628,916 trips, with shapes on almost every trip.
-**8 networks also have live GTFS-Realtime feeds** (vehicle positions and trip updates).
+Public transit for India in [GTFS](https://gtfs.org/): **65 feeds** covering
+**21 states and union territories**: city buses, state transport corporations, suburban rail, MRTS, metro, RRTS and
+ferries. Together they hold 55,142 routes, 138,140 stops and 632,854 trips, with shapes on almost every trip.
+**9 networks also have live GTFS-Realtime feeds** (vehicle positions and trip updates).
 
 Every feed is the timetable behind a map on [maps.reclaim.city](https://maps.reclaim.city/), so the ids in the
 static feeds are the ids the maps and the live feeds use. The full API reference, including the live feeds, is at
@@ -31,6 +31,7 @@ changes we made.
 | [Andhra Pradesh](andhra-pradesh/README.md) | Vijayawada | bus | 331 | 1,525 | 3,171 | 2026-11-03 – 2027-11-03 |  | [bus.zip](andhra-pradesh/vijayawada/bus.zip) |
 | [Assam](assam/README.md) | Guwahati | bus | 522 | 2,283 | 4,272 | 2026-11-02 – 2027-11-02 |  | [bus.zip](assam/guwahati/bus.zip) |
 | [Bihar](bihar/README.md) | Patna | bus | 54 | 356 | 577 | 2026-11-02 – 2027-11-02 |  | [bus.zip](bihar/patna/bus.zip) |
+| [Chandigarh](chandigarh/README.md) | Chandigarh tricity (CTU: Chandigarh, Mohali, Panchkula) | bus | 69 | 558 | 3,938 | 2026-11-17 – 2027-11-17 | ✓ | [bus.zip](chandigarh/tricity/bus.zip) |
 | [Delhi](delhi/README.md) | Delhi (DTC and cluster buses) | bus | 2,554 | 6,812 | 65,322 | 2025-01-01 – 2040-01-01 | ✓ | [bus.zip](delhi/bus.zip) |
 | [Delhi](delhi/README.md) | Delhi Metro (DMRC, incl. Airport Express and Rapid Metro Gurugram) | metro | 36 | 262 | 5,438 | 2019-01-01 – 2025-12-31 |  | [metro-dmrc.zip](delhi/metro-dmrc.zip) |
 | [Delhi](delhi/README.md) | Delhi NCR suburban rail (Northern Railway EMU/MEMU) | rail | 14 | 140 | 400 | 2026-11-13 – 2027-11-13 |  | [suburban-rail.zip](delhi/suburban-rail.zip) |
@@ -144,6 +145,7 @@ their source changing. The full reference is at [api.reclaim.city/docs](https://
 | Network | VehiclePositions | TripUpdates | Static GTFS (ids match) |
 |---|---|---|---|
 | APSRTC (Andhra Pradesh, statewide) | `https://maps.reclaim.city/apsrtc/rt/vehicle_positions.pb` | `https://maps.reclaim.city/apsrtc/rt/trip_updates.pb` | `apsrtc`: [apsrtc.zip](andhra-pradesh/apsrtc.zip) |
+| Chandigarh tricity (CTU: Chandigarh, Mohali, Panchkula) | `https://maps.reclaim.city/tricity/rt/vehicle_positions.pb` | `https://maps.reclaim.city/tricity/rt/trip_updates.pb` | `tricity`: [bus.zip](chandigarh/tricity/bus.zip) |
 | Delhi (DTC and cluster buses) | `https://maps.reclaim.city/delhi/rt/vehicle_positions.pb` | `https://maps.reclaim.city/delhi/rt/trip_updates.pb` | `delhi`: [bus.zip](delhi/bus.zip) |
 | Gurugram (GMCBL) | `https://maps.reclaim.city/gurugram/rt/vehicle_positions.pb` | `https://maps.reclaim.city/gurugram/rt/trip_updates.pb` | `gurugram`: [bus.zip](haryana/gurugram/bus.zip) |
 | Bengaluru (BMTC) | `https://maps.reclaim.city/bengaluru/rt/vehicle_positions.pb` | `https://maps.reclaim.city/bengaluru/rt/trip_updates.pb` | `bengaluru`: [bus.zip](karnataka/bengaluru/bus.zip) |
@@ -160,7 +162,7 @@ GET https://maps.reclaim.city/<network>/rt/trip_updates.json
 GET https://maps.reclaim.city/<network>/rt/status.json            freshness and match rates
 ```
 
-`<network>` is one of: `apsrtc`, `delhi`, `gurugram`, `bengaluru`, `mumbai`, `osrtc`, `mapsv2`, `tgsrtc`.
+`<network>` is one of: `apsrtc`, `tricity`, `delhi`, `gurugram`, `bengaluru`, `mumbai`, `osrtc`, `mapsv2`, `tgsrtc`.
 
 **Parameters.** There are none. Each response is the full dataset (`incrementality: FULL_DATASET`). There are no keys and
 no sign-up. Responses carry `Cache-Control: public, max-age=10` and `Access-Control-Allow-Origin: *`.
@@ -264,6 +266,7 @@ is. Check each source before commercial use.
 | Vijayawada | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Guwahati | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Patna | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
+| Chandigarh tricity (CTU: Chandigarh, Mohali, Panchkula) | [CTU's published timetables and its trycityBUS tracker, built into GTFS by reclaim.city](https://ctucitybus.com/) | none stated |
 | Delhi (DTC and cluster buses) | [Delhi Transport Department / DTC, Delhi bus static GTFS v1 (Open Transit Data Delhi)](https://otd.delhi.gov.in/) | OTD Delhi terms |
 | Delhi Metro (DMRC, incl. Airport Express and Rapid Metro Gurugram) | [DMRC static GTFS v1 (Open Transit Data Delhi)](https://otd.delhi.gov.in/) | OTD Delhi terms |
 | Delhi NCR suburban rail (Northern Railway EMU/MEMU) | [National Indian Railways GTFS (github.com/Neo2308), cut to the Delhi suburban lines by India Metro's suburban map; built by tools/suburban_gtfs.py](https://github.com/Neo2308) | none stated |

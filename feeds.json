@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T07:12:53Z",
+ "generated": "2026-11-17T08:43:20Z",
  "repository": "https://github.com/reclaimchennai/India_GTFS",
  "spec": {
   "schedule": "https://gtfs.org/documentation/schedule/reference/",
@@ -203,6 +203,56 @@
    "routes_without_timetable": "bihar/patna/bus.routes_without_timetable.csv",
    "bytes": 125198,
    "sha256": "ff2ec09816611681d15d3788b736e0a4898f5e7d32974de79f930303deb0f058"
+  },
+  {
+   "id": "tricity",
+   "name": "Chandigarh tricity (CTU: Chandigarh, Mohali, Panchkula)",
+   "state": "Chandigarh",
+   "path": "chandigarh/tricity/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/chandigarh/tricity/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/tricity.zip",
+   "map": "https://maps.reclaim.city/tricity/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "Chandigarh Transport Undertaking"
+   ],
+   "routes": 69,
+   "stops": 558,
+   "trips": 3938,
+   "shapes": 118,
+   "trips_with_shape": 3938,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261117",
+   "service_end": "20271117",
+   "source": {
+    "name": "CTU's published timetables and its trycityBUS tracker, built into GTFS by reclaim.city",
+    "url": "https://ctucitybus.com/",
+    "licence": null,
+    "detail": "Unofficial: CTU publishes no GTFS. Routes and stops from CTU's trycityBUS backend (Amnex): its route list and route lines, stops in order from the trips its buses run, stop places from the GPS of buses standing at them and CTU's station list (chandigarh_bus/network.py). Trips from CTU's timetable of local and tricity routes as on 25 Jul 2026 (each direction's first and last bus and frequency; departures between are spread evenly) and the airport shuttles 38 AS (timetable board at ISBT-17) and 36 AS (May 2024 timetable). Only the first stop's time is published: later stops are estimated from CTU's running time for the route or the city speed for the hour (timepoint=0). Route directions CTU gives no times for, and its inter-state buses, are left out (chandigarh_bus/gtfs_build.py)."
+   },
+   "note": "Unofficial: built from CTU's timetable PDF and live tracker; times after the first stop are estimates (timepoint=0).",
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 813175,
+   "sha256": "a9c14c4d1f31463e01668d9f7658d05562f7ac80c7e0df40aed4dfb9731a4886",
+   "realtime": {
+    "vehicle_positions": "https://maps.reclaim.city/tricity/rt/vehicle_positions.pb",
+    "trip_updates": "https://maps.reclaim.city/tricity/rt/trip_updates.pb",
+    "status": "https://maps.reclaim.city/tricity/rt/status.json"
+   }
   },
   {
    "id": "delhi",
