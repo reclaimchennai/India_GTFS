@@ -2,7 +2,7 @@
 
 Public transit for India in [GTFS](https://gtfs.org/): **66 feeds** covering
 **21 states and union territories**: city buses, state transport corporations, suburban rail, MRTS, metro, RRTS and
-ferries. Together they hold 55,562 routes, 138,378 stops and 643,301 trips, with shapes on almost every trip.
+ferries. Together they hold 55,573 routes, 138,409 stops and 644,618 trips, with shapes on almost every trip.
 **10 networks also have live GTFS-Realtime feeds** (vehicle positions and trip updates).
 
 Every feed is the timetable behind a map on [maps.reclaim.city](https://maps.reclaim.city/), so the ids in the
@@ -40,7 +40,7 @@ changes we made.
 | [Gujarat](gujarat/README.md) | Ahmedabad (AMTS, Janmarg BRTS, Gandhinagar GTSL) | bus | 978 | 3,235 | 14,323 | 2026-09-30 – 2027-03-29 |  | [bus.zip](gujarat/ahmedabad/bus.zip) |
 | [Gujarat](gujarat/README.md) | Rajkot (RRL BRTS + city) | bus | 271 | 760 | 3,168 | 2026-10-16 – 2027-04-14 |  | [bus.zip](gujarat/rajkot/bus.zip) |
 | [Gujarat](gujarat/README.md) | Vapi (VCBS) | bus | 22 | 91 | 461 | 2026-01-01 – 2027-12-31 |  | [bus.zip](gujarat/vapi/bus.zip) |
-| [Haryana](haryana/README.md) | Gurugram (GMCBL) | bus | 137 | 1,086 | 1,807 | 2026-10-01 – 2027-10-01 | ✓ | [bus.zip](haryana/gurugram/bus.zip) |
+| [Haryana](haryana/README.md) | Gurugram (GMCBL) | bus | 148 | 1,117 | 3,124 | 2026-11-01 – 2027-11-01 | ✓ | [bus.zip](haryana/gurugram/bus.zip) |
 | [Haryana](haryana/README.md) | Haryana Roadways (Haryana, statewide) | bus | 420 | 238 | 10,447 | 2026-11-17 – 2027-11-17 | ✓ | [haryana-roadways.zip](haryana/haryana-roadways.zip) |
 | [India](india/README.md) | Indian Railways (all-India trains, incl. EMU/MEMU) | rail | 10,389 | 8,550 | 10,389 | 2025-01-01 – 2099-12-31 |  | [indian-railways.zip](india/indian-railways.zip) |
 | [Jammu and Kashmir](jammu-and-kashmir/README.md) | Jammu | bus | 248 | 850 | 1,880 | 2026-11-02 – 2027-11-02 |  | [bus.zip](jammu-and-kashmir/jammu/bus.zip) |
@@ -277,7 +277,7 @@ is. Check each source before commercial use.
 | Ahmedabad (AMTS, Janmarg BRTS, Gandhinagar GTSL) | [croyla/amd-gtfs](https://github.com/croyla/amd-gtfs) | MIT |
 | Rajkot (RRL BRTS + city) |  | none stated |
 | Vapi (VCBS) | [shubhamvelani/VapiGTFS](https://github.com/shubhamvelani/VapiGTFS) | none stated |
-| Gurugram (GMCBL) | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
+| Gurugram (GMCBL) | [Chalo's public scheduler (production.zophop.com, the backend of GMCBL's Gurugaman app): every route's details (stops in order, its line, every trip on a Monday and a Sunday, frequency windows expanded), Nov 2026, built into GTFS by reclaim.city (ncr_bus pipeline/routedetails_gtfs.py; times between the ends spread by distance, timepoint=0)](https://chalo.com/) | none stated |
 | Haryana Roadways (Haryana, statewide) | [Haryana Roadways' depot timetables (hartrans.gov.in) and its live tracking, built into GTFS by reclaim.city](https://hartrans.gov.in/bus-time-table-depot-wise/) | none stated |
 | Indian Railways (all-India trains, incl. EMU/MEMU) | [Community GTFS of Indian Railways by P. Radha Krishna (github.com/Neo2308)](https://github.com/Neo2308) | none stated |
 | Jammu | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |

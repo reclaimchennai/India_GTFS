@@ -7,16 +7,16 @@ Feeds in this folder: 2. Back to the [repository README](../README.md).
 | | |
 |---|---|
 | Feed id | `gurugram` |
-| Download | [gurugram/bus.zip](gurugram/bus.zip) (0.4 MB), mirror <https://maps.reclaim.city/gtfs/gurugram.zip> |
+| Download | [gurugram/bus.zip](gurugram/bus.zip) (0.8 MB), mirror <https://maps.reclaim.city/gtfs/gurugram.zip> |
 | Modes | bus |
 | Agencies | Gurugram Metropolitan City Bus Ltd |
-| Routes / stops / trips | 137 / 1,086 / 1,807 |
-| Trips with a shape | 0 (0 shapes) |
-| Service | 2026-10-01 to 2027-10-01 |
-| Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
-| Source | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) |
+| Routes / stops / trips | 148 / 1,117 / 3,124 |
+| Trips with a shape | 3,124 (148 shapes) |
+| Service | 2026-11-01 to 2027-11-01 |
+| Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
+| Source | [Chalo's public scheduler (production.zophop.com, the backend of GMCBL's Gurugaman app): every route's details (stops in order, its line, every trip on a Monday and a Sunday, frequency windows expanded), Nov 2026, built into GTFS by reclaim.city (ncr_bus pipeline/routedetails_gtfs.py; times between the ends spread by distance, timepoint=0)](https://chalo.com/) |
 | Licence | none stated by the source |
-| sha256 | `056ca67434a8cbf8a4f8a2e90c5cb2a8924ea62e54ccf15a69a01d84f49fbad2` |
+| sha256 | `9b7309ccee40e1d0d6182d0a6218335094ba75225ede84d0269ff1d9ab8830ac` |
 | GTFS-Realtime | [VehiclePositions](https://maps.reclaim.city/gurugram/rt/vehicle_positions.pb), [TripUpdates](https://maps.reclaim.city/gurugram/rt/trip_updates.pb), [status](https://maps.reclaim.city/gurugram/rt/status.json) |
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):

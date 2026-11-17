@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T13:46:49Z",
+ "generated": "2026-11-17T14:47:51Z",
  "repository": "https://github.com/reclaimchennai/India_GTFS",
  "spec": {
   "schedule": "https://gtfs.org/documentation/schedule/reference/",
@@ -649,24 +649,25 @@
    "agencies": [
     "Gurugram Metropolitan City Bus Ltd"
    ],
-   "routes": 137,
-   "stops": 1086,
-   "trips": 1807,
-   "shapes": 0,
-   "trips_with_shape": 0,
+   "routes": 148,
+   "stops": 1117,
+   "trips": 3124,
+   "shapes": 148,
+   "trips_with_shape": 3124,
    "files": [
     "agency.txt",
     "calendar.txt",
     "feed_info.txt",
     "routes.txt",
+    "shapes.txt",
     "stop_times.txt",
     "stops.txt",
     "trips.txt"
    ],
-   "service_start": "20261001",
-   "service_end": "20271001",
+   "service_start": "20261101",
+   "service_end": "20271101",
    "source": {
-    "name": "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city",
+    "name": "Chalo's public scheduler (production.zophop.com, the backend of GMCBL's Gurugaman app): every route's details (stops in order, its line, every trip on a Monday and a Sunday, frequency windows expanded), Nov 2026, built into GTFS by reclaim.city (ncr_bus pipeline/routedetails_gtfs.py; times between the ends spread by distance, timepoint=0)",
     "url": "https://chalo.com/",
     "licence": null
    },
@@ -676,8 +677,8 @@
     "feed_info.txt added (none in the source)"
    ],
    "routes_without_timetable": null,
-   "bytes": 375537,
-   "sha256": "056ca67434a8cbf8a4f8a2e90c5cb2a8924ea62e54ccf15a69a01d84f49fbad2",
+   "bytes": 855689,
+   "sha256": "9b7309ccee40e1d0d6182d0a6218335094ba75225ede84d0269ff1d9ab8830ac",
    "realtime": {
     "vehicle_positions": "https://maps.reclaim.city/gurugram/rt/vehicle_positions.pb",
     "trip_updates": "https://maps.reclaim.city/gurugram/rt/trip_updates.pb",
@@ -2885,7 +2886,7 @@
    ],
    "routes_without_timetable": "uttar-pradesh/noida/bus.routes_without_timetable.csv",
    "bytes": 11580,
-   "sha256": "4e6da83377861794184f6a9abeae8702a81145fe278f6e203fecd8cf01a881c4"
+   "sha256": "2e3030b7e6e77dc858b7410aba131f35e129769f1cbce7746573ad00fe18b458"
   },
   {
    "id": "prayagraj",

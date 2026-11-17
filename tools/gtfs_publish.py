@@ -33,6 +33,10 @@ MODES = {'0': 'tram', '1': 'metro', '2': 'rail', '3': 'bus', '4': 'ferry', '5': 
          '11': 'trolleybus', '12': 'monorail'}
 CHALO_SRC = {'name': "Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday "
                      "(Nov 2026), built into GTFS by reclaim.city", 'url': 'https://chalo.com/', 'licence': None}
+CHALO_RD_SRC = {'name': "Chalo's public scheduler (production.zophop.com, the backend of GMCBL's Gurugaman app): every route's details "
+                        "(stops in order, its line, every trip on a Monday and a Sunday, frequency windows expanded), Nov 2026, built into "
+                        "GTFS by reclaim.city (ncr_bus pipeline/routedetails_gtfs.py; times between the ends spread by distance, timepoint=0)",
+                'url': 'https://chalo.com/', 'licence': None}
 
 # ── the catalog: id, folder in the repo, display name, state, source, map folder, realtime, extra ──
 def F(fid, path, name, state, src, mapdir=None, rt=None, source=None, modes=None, note=None, kind='bus', route_type=None, drop_types=None):
@@ -103,7 +107,7 @@ FEEDS += [
       source={'name': 'reclaimchennai/apsrtc', 'url': 'https://github.com/reclaimchennai/apsrtc', 'licence': None}),
     F('tgsrtc', 'telangana/tgsrtc', 'TGSRTC (Telangana, statewide)', 'Telangana', f'{HOME}/rtc-open-data/gh-tgsrtc/data/tgsrtc-gtfs.zip', 'tgsrtc', rt='tgsrtc',
       source={'name': 'reclaimchennai/tgsrtc', 'url': 'https://github.com/reclaimchennai/tgsrtc', 'licence': None}),
-    F('gurugram', 'haryana/gurugram/bus', 'Gurugram (GMCBL)', 'Haryana', f'{HOME}/ncr_bus/gtfs/gurugram', None, rt='gurugram', source=CHALO_SRC),
+    F('gurugram', 'haryana/gurugram/bus', 'Gurugram (GMCBL)', 'Haryana', f'{HOME}/ncr_bus/gtfs/gurugram', None, rt='gurugram', source=CHALO_RD_SRC),
     F('hr', 'haryana/haryana-roadways', 'Haryana Roadways (Haryana, statewide)', 'Haryana', f'{HOME}/haryana_bus/gtfs/hr_gtfs.zip', 'hr', rt='hr',
       source={'name': "Haryana Roadways' depot timetables (hartrans.gov.in) and its live tracking, built into GTFS by reclaim.city",
               'url': 'https://hartrans.gov.in/bus-time-table-depot-wise/', 'licence': None,
@@ -123,7 +127,7 @@ FEEDS += [
 EXTRA = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'feeds_extra.json')     # rail, metro, ferry feeds
 for x in json.load(open(EXTRA)):
     x['src'] = os.path.abspath(os.path.expanduser(x['src'].replace('{build}', BUILD))); FEEDS.append(F(**x))
-SIBLING_CAL = {'noida': f'{HOME}/ncr_bus/gtfs/gurugram/calendar.txt'}
+SIBLING_CAL = {'noida': f'{HOME}/ncr_bus/gtfs/ghaziabad/calendar.txt'}   # one all-week WK row (Gurugram's now has MS/SU too)
 
 
 def read(src):

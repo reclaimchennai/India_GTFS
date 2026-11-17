@@ -257,7 +257,7 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 | Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
 | Source | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) |
 | Licence | none stated by the source |
-| sha256 | `4e6da83377861794184f6a9abeae8702a81145fe278f6e203fecd8cf01a881c4` |
+| sha256 | `2e3030b7e6e77dc858b7410aba131f35e129769f1cbce7746573ad00fe18b458` |
 | Routes without a timetable | [noida/bus.routes_without_timetable.csv](noida/bus.routes_without_timetable.csv) (route, stops in order; not in the GTFS) |
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
