@@ -2,8 +2,8 @@
 
 Public transit for India in [GTFS](https://gtfs.org/): **64 feeds** covering
 **20 states and union territories**: city buses, state transport corporations, suburban rail, MRTS, metro, RRTS and
-ferries. Together they hold 54,777 routes, 137,545 stops and 621,883 trips, with shapes on almost every trip.
-**7 networks also have live GTFS-Realtime feeds** (vehicle positions and trip updates).
+ferries. Together they hold 55,073 routes, 137,582 stops and 628,916 trips, with shapes on almost every trip.
+**8 networks also have live GTFS-Realtime feeds** (vehicle positions and trip updates).
 
 Every feed is the timetable behind a map on [maps.reclaim.city](https://maps.reclaim.city/), so the ids in the
 static feeds are the ids the maps and the live feeds use. The full API reference, including the live feeds, is at
@@ -44,7 +44,7 @@ changes we made.
 | [Jammu and Kashmir](jammu-and-kashmir/README.md) | Jammu | bus | 248 | 850 | 1,880 | 2026-11-02 – 2027-11-02 |  | [bus.zip](jammu-and-kashmir/jammu/bus.zip) |
 | [Jammu and Kashmir](jammu-and-kashmir/README.md) | Srinagar | bus | 168 | 1,065 | 2,404 | 2026-11-02 – 2027-11-02 |  | [bus.zip](jammu-and-kashmir/srinagar/bus.zip) |
 | [Karnataka](karnataka/README.md) | Belagavi | bus | 33 | 242 | 331 | 2026-11-02 – 2027-11-02 |  | [bus.zip](karnataka/belagavi/bus.zip) |
-| [Karnataka](karnataka/README.md) | Bengaluru (BMTC) | bus | 5,063 | 10,128 | 69,642 | 2026-11-09 – 2027-11-09 |  | [bus.zip](karnataka/bengaluru/bus.zip) |
+| [Karnataka](karnataka/README.md) | Bengaluru (BMTC) | bus | 5,359 | 10,165 | 76,675 | 2026-11-09 – 2027-11-09 | ✓ | [bus.zip](karnataka/bengaluru/bus.zip) |
 | [Karnataka](karnataka/README.md) | Davangere (KSRTC city) | bus | 93 | 146 | 586 | 2026-06-02 – 2026-11-29 |  | [bus.zip](karnataka/davangere/bus.zip) |
 | [Karnataka](karnataka/README.md) | Hubballi-Dharwad (HDBRTS + city) | bus | 632 | 2,332 | 8,669 | 2026-08-24 – 2027-02-20 |  | [bus.zip](karnataka/hubballi-dharwad/bus.zip) |
 | [Karnataka](karnataka/README.md) | Mangaluru | bus | 208 | 1,394 | 2,079 | 2026-11-02 – 2027-11-02 |  | [bus.zip](karnataka/mangaluru/bus.zip) |
@@ -146,6 +146,7 @@ their source changing. The full reference is at [api.reclaim.city/docs](https://
 | APSRTC (Andhra Pradesh, statewide) | `https://maps.reclaim.city/apsrtc/rt/vehicle_positions.pb` | `https://maps.reclaim.city/apsrtc/rt/trip_updates.pb` | `apsrtc`: [apsrtc.zip](andhra-pradesh/apsrtc.zip) |
 | Delhi (DTC and cluster buses) | `https://maps.reclaim.city/delhi/rt/vehicle_positions.pb` | `https://maps.reclaim.city/delhi/rt/trip_updates.pb` | `delhi`: [bus.zip](delhi/bus.zip) |
 | Gurugram (GMCBL) | `https://maps.reclaim.city/gurugram/rt/vehicle_positions.pb` | `https://maps.reclaim.city/gurugram/rt/trip_updates.pb` | `gurugram`: [bus.zip](haryana/gurugram/bus.zip) |
+| Bengaluru (BMTC) | `https://maps.reclaim.city/bengaluru/rt/vehicle_positions.pb` | `https://maps.reclaim.city/bengaluru/rt/trip_updates.pb` | `bengaluru`: [bus.zip](karnataka/bengaluru/bus.zip) |
 | Mumbai region bus (BEST, TMT, KDMT, VVMT) | `https://maps.reclaim.city/mumbai/rt/vehicle_positions.pb` | `https://maps.reclaim.city/mumbai/rt/trip_updates.pb` | `mumbai`: [bus.zip](maharashtra/mumbai/bus.zip) |
 | OSRTC (Odisha, statewide) | `https://maps.reclaim.city/osrtc/rt/vehicle_positions.pb` | `https://maps.reclaim.city/osrtc/rt/trip_updates.pb` | `osrtc`: [gtfs.zip](https://maps.reclaim.city/osrtc/rt/gtfs.zip) |
 | Chennai MTC | `https://maps.reclaim.city/mapsv2/rt/vehicle_positions.pb` | `https://maps.reclaim.city/mapsv2/rt/trip_updates.pb` | `mtc`: [mtc-bus.zip](tamil-nadu/chennai/mtc-bus.zip) |
@@ -159,7 +160,7 @@ GET https://maps.reclaim.city/<network>/rt/trip_updates.json
 GET https://maps.reclaim.city/<network>/rt/status.json            freshness and match rates
 ```
 
-`<network>` is one of: `apsrtc`, `delhi`, `gurugram`, `mumbai`, `osrtc`, `mapsv2`, `tgsrtc`.
+`<network>` is one of: `apsrtc`, `delhi`, `gurugram`, `bengaluru`, `mumbai`, `osrtc`, `mapsv2`, `tgsrtc`.
 
 **Parameters.** There are none. Each response is the full dataset (`incrementality: FULL_DATASET`). There are no keys and
 no sign-up. Responses carry `Cache-Control: public, max-age=10` and `Access-Control-Allow-Origin: *`.
@@ -276,7 +277,7 @@ is. Check each source before commercial use.
 | Jammu | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Srinagar | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Belagavi | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
-| Bengaluru (BMTC) | [Vonter/bmtc-gtfs](https://github.com/Vonter/bmtc-gtfs) | ODbL |
+| Bengaluru (BMTC) | [Vonter/bmtc-gtfs, plus the routes only BMTC's own app has (reclaim.city)](https://github.com/Vonter/bmtc-gtfs) | ODbL |
 | Davangere (KSRTC city) | [croyla/dvg-gtfs](https://github.com/croyla/dvg-gtfs) | MIT-0 |
 | Hubballi-Dharwad (HDBRTS + city) |  | none stated |
 | Mangaluru | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |

@@ -33,17 +33,18 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 | | |
 |---|---|
 | Feed id | `bengaluru` |
-| Download | [bengaluru/bus.zip](bengaluru/bus.zip) (88.7 MB), mirror <https://maps.reclaim.city/gtfs/bengaluru.zip> |
+| Download | [bengaluru/bus.zip](bengaluru/bus.zip) (89.2 MB), mirror <https://maps.reclaim.city/gtfs/bengaluru.zip> |
 | Modes | bus |
 | Agencies | BMTC |
-| Routes / stops / trips | 5,063 / 10,128 / 69,642 |
-| Trips with a shape | 69,642 (8,983 shapes) |
+| Routes / stops / trips | 5,359 / 10,165 / 76,675 |
+| Trips with a shape | 76,675 (9,416 shapes) |
 | Service | 2026-11-09 to 2027-11-09 |
 | Files | `agency.txt`, `attributions.txt`, `calendar.txt`, `fare_attributes.txt`, `fare_rules.txt`, `feed_info.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `translations.txt`, `trips.txt` |
 | Map | <https://maps.reclaim.city/bengaluru/> |
-| Source | [Vonter/bmtc-gtfs](https://github.com/Vonter/bmtc-gtfs) |
+| Source | [Vonter/bmtc-gtfs, plus the routes only BMTC's own app has (reclaim.city)](https://github.com/Vonter/bmtc-gtfs) |
 | Licence | ODbL |
-| sha256 | `2eba4a144e08a59106dcc3ffd6633ab8174fbed8ba2e359e5a60b69c29658c5f` |
+| sha256 | `88fe91216cd6c231cae38e207ec2343ad31272e7218367dc8a418d5f748cc747` |
+| GTFS-Realtime | [VehiclePositions](https://maps.reclaim.city/bengaluru/rt/vehicle_positions.pb), [TripUpdates](https://maps.reclaim.city/bengaluru/rt/trip_updates.pb), [status](https://maps.reclaim.city/bengaluru/rt/status.json) |
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
 

@@ -62,7 +62,16 @@ CHALO = {'agra': ('uttar-pradesh/agra', 'Agra', 'Uttar Pradesh'), 'amritsar': ('
 FEEDS = [F(c, f'{p}/bus', n, s, f'{HOME}/chalo_cities/gtfs/{c}', c, source=CHALO_SRC) for c, (p, n, s) in CHALO.items()]
 FEEDS += [
     F('ahmedabad', 'gujarat/ahmedabad/bus', 'Ahmedabad (AMTS, Janmarg BRTS, Gandhinagar GTSL)', 'Gujarat', f'{HOME}/ahmedabad_bus/raw/amd_gtfs.zip', 'ahmedabad'),
-    F('bengaluru', 'karnataka/bengaluru/bus', 'Bengaluru (BMTC)', 'Karnataka', f'{HOME}/bengaluru_bus/raw/bmtc.zip', 'bengaluru'),
+    F('bengaluru', 'karnataka/bengaluru/bus', 'Bengaluru (BMTC)', 'Karnataka', f'{HOME}/bengaluru_bus/raw/bmtc_plus.zip', 'bengaluru', rt='bengaluru',
+      source={'name': 'Vonter/bmtc-gtfs, plus the routes only BMTC\'s own app has (reclaim.city)', 'url': 'https://github.com/Vonter/bmtc-gtfs', 'licence': 'ODbL',
+              'detail': "Unofficial GTFS for BMTC built from the official Namma BMTC app (Vonter/bmtc-gtfs, feed version 9 Nov 2026, Mobility "
+                        "Database mdb-2595, ODbL; only routes with working live tracking in the app, whose timetables are known to be "
+                        "inaccurate), with 296 route parents it lacks added by reclaim.city from BMTC's own route data (Namma BMTC API, "
+                        "read 17 Nov 2026): route_id BMTC-API:<parent>, trip_id <working>:<HHMM>, BMTC's stations, path and one weekday's "
+                        "timetable (18 Nov 2026, stops between first and last timed by distance, timepoint=0), service bmtc-api. "
+                        "The five Namma Metro Pink Line feeders (MF-18J, MF-18JT, MF-18JP, MF-22HS, MF-18T, from 14 Nov 2026) run on "
+                        "BMTC's notice. Directions with no BMTC timetable, and KSRTC intercity services BMTC's API lists with "
+                        "placeholder run times, are left out (bengaluru_bus/pipeline/gtfs_plus.py)."}),
     F('davangere', 'karnataka/davangere/bus', 'Davangere (KSRTC city)', 'Karnataka', f'{HOME}/davangere_bus/raw/dvg_gtfs.zip', 'davangere'),
     F('hubballi', 'karnataka/hubballi-dharwad/bus', 'Hubballi-Dharwad (HDBRTS + city)', 'Karnataka', f'{HOME}/hubli_bus/raw/hdbrts-gtfs/gtfs.zip', 'hubballi'),
     F('goa', 'goa/ktcl-bus', 'Goa (Kadamba Transport Corporation)', 'Goa', f'{HOME}/goa_bus/raw/goa_gtfs.zip', 'goa',

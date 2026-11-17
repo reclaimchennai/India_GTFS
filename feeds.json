@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T15:34:20Z",
+ "generated": "2026-11-17T07:12:53Z",
  "repository": "https://github.com/reclaimchennai/India_GTFS",
  "spec": {
   "schedule": "https://gtfs.org/documentation/schedule/reference/",
@@ -835,11 +835,11 @@
    "agencies": [
     "BMTC"
    ],
-   "routes": 5063,
-   "stops": 10128,
-   "trips": 69642,
-   "shapes": 8983,
-   "trips_with_shape": 69642,
+   "routes": 5359,
+   "stops": 10165,
+   "trips": 76675,
+   "shapes": 9416,
+   "trips_with_shape": 76675,
    "files": [
     "agency.txt",
     "attributions.txt",
@@ -857,18 +857,23 @@
    "service_start": "20261109",
    "service_end": "20271109",
    "source": {
-    "name": "Vonter/bmtc-gtfs",
+    "name": "Vonter/bmtc-gtfs, plus the routes only BMTC's own app has (reclaim.city)",
     "url": "https://github.com/Vonter/bmtc-gtfs",
     "licence": "ODbL",
-    "detail": "Unofficial GTFS for BMTC built from the official Namma BMTC app; feed version 9 Nov 2026, valid to 9 Nov 2027 (the same file is Mobility Database feed mdb-2595); ODbL. Only routes with working live tracking in the app are included, and the app’s timetables are known to be inaccurate. 5,063 routes, 10,128 stops, 69,642 trips over the week, read 11 Nov 2026. The map counts a Monday's trips (65,339); 539 routes that do not run on Mondays show their busiest day, and their card says which days they run."
+    "detail": "Unofficial GTFS for BMTC built from the official Namma BMTC app (Vonter/bmtc-gtfs, feed version 9 Nov 2026, Mobility Database mdb-2595, ODbL; only routes with working live tracking in the app, whose timetables are known to be inaccurate), with 296 route parents it lacks added by reclaim.city from BMTC's own route data (Namma BMTC API, read 17 Nov 2026): route_id BMTC-API:<parent>, trip_id <working>:<HHMM>, BMTC's stations, path and one weekday's timetable (18 Nov 2026, stops between first and last timed by distance, timepoint=0), service bmtc-api. The five Namma Metro Pink Line feeders (MF-18J, MF-18JT, MF-18JP, MF-22HS, MF-18T, from 14 Nov 2026) run on BMTC's notice. Directions with no BMTC timetable, and KSRTC intercity services BMTC's API lists with placeholder run times, are left out (bengaluru_bus/pipeline/gtfs_plus.py)."
    },
    "note": null,
    "changes": [
     "packaging: files at the zip root, GTFS reference files only"
    ],
    "routes_without_timetable": null,
-   "bytes": 92988673,
-   "sha256": "2eba4a144e08a59106dcc3ffd6633ab8174fbed8ba2e359e5a60b69c29658c5f"
+   "bytes": 93541233,
+   "sha256": "88fe91216cd6c231cae38e207ec2343ad31272e7218367dc8a418d5f748cc747",
+   "realtime": {
+    "vehicle_positions": "https://maps.reclaim.city/bengaluru/rt/vehicle_positions.pb",
+    "trip_updates": "https://maps.reclaim.city/bengaluru/rt/trip_updates.pb",
+    "status": "https://maps.reclaim.city/bengaluru/rt/status.json"
+   }
   },
   {
    "id": "davangere",
