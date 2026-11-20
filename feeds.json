@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T11:58:48Z",
+ "generated": "2026-11-20T12:57:57Z",
  "repository": "https://github.com/reclaimchennai/India_GTFS",
  "spec": {
   "schedule": "https://gtfs.org/documentation/schedule/reference/",
@@ -939,7 +939,7 @@
    "routes": 5359,
    "stops": 10165,
    "trips": 76675,
-   "shapes": 9416,
+   "shapes": 9242,
    "trips_with_shape": 76675,
    "files": [
     "agency.txt",
@@ -965,11 +965,12 @@
    },
    "note": null,
    "changes": [
-    "packaging: files at the zip root, GTFS reference files only"
+    "packaging: files at the zip root, GTFS reference files only",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 4,270,317 -> 1,626,526 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 93541233,
-   "sha256": "88fe91216cd6c231cae38e207ec2343ad31272e7218367dc8a418d5f748cc747",
+   "bytes": 59865680,
+   "sha256": "dbd654f2307d3cb3c246a6115a936bae11086fb6466b0f280051e170027f279c",
    "realtime": {
     "vehicle_positions": "https://maps.reclaim.city/bengaluru/rt/vehicle_positions.pb",
     "trip_updates": "https://maps.reclaim.city/bengaluru/rt/trip_updates.pb",
