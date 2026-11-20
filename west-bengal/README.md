@@ -7,16 +7,16 @@ Feeds in this folder: 4. Back to the [repository README](../README.md).
 | | |
 |---|---|
 | Feed id | `kolkata` |
-| Download | [kolkata/all-modes.zip](kolkata/all-modes.zip) (8.4 MB), mirror <https://maps.reclaim.city/gtfs/kolkata.zip> |
+| Download | [kolkata/all-modes.zip](kolkata/all-modes.zip) (5.3 MB), mirror <https://maps.reclaim.city/gtfs/kolkata.zip> |
 | Modes | bus, ferry, metro, rail |
 | Agencies | West Bengal Transport Corporation, Private route buses (Kolkata), Private minibuses (Kolkata), Other bus operators (as named in the Chalo app), West Bengal Transport Corporation (Calcutta Tramways), State transport routes (WBTC / SBSTC / NBSTC, community list), Hooghly river ferries, Indian Railways suburban services (Eastern and South Eastern Railway), Metro Railway, Kolkata |
 | Routes / stops / trips | 2,449 / 9,208 / 6,646 |
-| Trips with a shape | 6,558 (4,055 shapes) |
+| Trips with a shape | 6,558 (2,577 shapes) |
 | Service | 2026-11-01 to 2027-10-31 |
 | Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `frequencies.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
 | Map | <https://maps.reclaim.city/kolkata/> |
 | Licence | none stated by the source |
-| sha256 | `cb71ee51aca31b394357be461ea13b29402101b1824ece3c29ad431b09d11114` |
+| sha256 | `c4f14ab0a6da671a1ffb2cf8d26790d8e457b68b7b843af5a4bf276da5215e76` |
 | Routes without a timetable | [kolkata/all-modes.routes_without_timetable.csv](kolkata/all-modes.routes_without_timetable.csv) (route, stops in order; not in the GTFS) |
 
 > Unofficial (no Kolkata operator publishes GTFS). Trams: the timetables are placeholders and most routes are suspended, so they are listed without times.
@@ -28,6 +28,7 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 - 21 routes with no timetable (placeholder times, tram routes) moved to routes_without_timetable.csv
 - shapes for 1064 of 1152 trips that had none: the map's road-snapped line for the route (1064 shapes)
 - 43 shapes no trip uses left out
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 935,796 -> 498,125 shape points
 - feed_info.txt added (none in the source)
 
 ## Kolkata Hooghly ferries
@@ -43,13 +44,14 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 | Service | 2026-11-01 to 2027-10-31 |
 | Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `frequencies.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
 | Licence | none stated by the source |
-| sha256 | `8343c1545de878b28c60104e5866b03d63dad6be72975e2c73984495e51d9efc` |
+| sha256 | `c999ada44b63c4abbce57997af8e040183979d172a2dbb48a3514db6116a8b5d` |
 
 > Unofficial: mostly headway-based services (frequencies.txt).
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
 
 - packaging: files at the zip root, GTFS reference files only
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 460 -> 450 shape points
 
 ## Kolkata Metro
 
@@ -64,7 +66,7 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 | Service | 2026-11-01 to 2027-10-31 |
 | Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
 | Licence | none stated by the source |
-| sha256 | `cf1a445c86ec451bb4c3db359ed5280d74f2cfc5e12fe963519a8a235ab77a05` |
+| sha256 | `d0abac6bbe080dae1bd02a1b0de8ba5655b67f85379f60a23d44eeb294fc4d30` |
 
 > Unofficial: real first and last trains and headways; times at later stations estimated from distance.
 
@@ -79,15 +81,15 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 | | |
 |---|---|
 | Feed id | `kolkata-suburban` |
-| Download | [kolkata/suburban-rail.zip](kolkata/suburban-rail.zip) (0.7 MB), mirror <https://maps.reclaim.city/gtfs/kolkata-suburban.zip> |
+| Download | [kolkata/suburban-rail.zip](kolkata/suburban-rail.zip) (0.4 MB), mirror <https://maps.reclaim.city/gtfs/kolkata-suburban.zip> |
 | Modes | rail |
 | Agencies | Indian Railways suburban services (Eastern and South Eastern Railway) |
 | Routes / stops / trips | 25 / 406 / 2,460 |
-| Trips with a shape | 2,460 (1,652 shapes) |
+| Trips with a shape | 2,460 (355 shapes) |
 | Service | 2026-11-01 to 2027-10-31 |
 | Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
 | Licence | none stated by the source |
-| sha256 | `ce8b14335b03c91fe8e887c927b9306e56ccc08b6f9f1e2ef33befd5a819535c` |
+| sha256 | `a66c0b1958e40da551a82976231551535e7f6fc1f66f7cb213e15598fb4152e6` |
 
 > Unofficial: built from the national Indian Railways GTFS.
 
@@ -95,3 +97,4 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 
 - packaging: files at the zip root, GTFS reference files only
 - frequencies.txt left out (header only, no rows)
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 97,523 -> 20,134 shape points

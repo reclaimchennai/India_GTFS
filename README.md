@@ -34,7 +34,7 @@ changes we made.
 | [Chandigarh](chandigarh/README.md) | Chandigarh tricity (CTU: Chandigarh, Mohali, Panchkula) | bus | 69 | 558 | 3,938 | 2026-11-17 – 2027-11-17 | ✓ | [bus.zip](chandigarh/tricity/bus.zip) |
 | [Delhi](delhi/README.md) | Delhi (DTC and cluster buses) | bus | 2,554 | 6,812 | 65,322 | 2025-01-01 – 2040-01-01 | ✓ | [bus.zip](delhi/bus.zip) |
 | [Delhi](delhi/README.md) | Delhi Metro (DMRC, incl. Airport Express and Rapid Metro Gurugram) | metro | 36 | 262 | 5,438 | 2019-01-01 – 2025-12-31 |  | [metro-dmrc.zip](delhi/metro-dmrc.zip) |
-| [Delhi](delhi/README.md) | Delhi NCR suburban rail (Northern Railway EMU/MEMU) | rail | 14 | 140 | 400 | 2026-11-13 – 2027-11-13 |  | [suburban-rail.zip](delhi/suburban-rail.zip) |
+| [Delhi](delhi/README.md) | Delhi NCR suburban rail (Northern Railway EMU/MEMU) | rail | 14 | 140 | 400 | 2026-11-16 – 2027-11-16 |  | [suburban-rail.zip](delhi/suburban-rail.zip) |
 | [Delhi](delhi/README.md) | Namo Bharat RRTS (NCRTC, Delhi-Meerut) | rail | 2 | 16 | 130 | 2024-01-01 – 2029-01-01 |  | [rrts-namo-bharat.zip](delhi/rrts-namo-bharat.zip) |
 | [Goa](goa/README.md) | Goa (Kadamba Transport Corporation) | bus | 476 | 3,255 | 3,130 | 2023-09-01 – 2025-08-01 |  | [ktcl-bus.zip](goa/ktcl-bus.zip) |
 | [Gujarat](gujarat/README.md) | Ahmedabad (AMTS, Janmarg BRTS, Gandhinagar GTSL) | bus | 978 | 3,235 | 14,323 | 2026-09-30 – 2027-03-29 |  | [bus.zip](gujarat/ahmedabad/bus.zip) |
@@ -64,7 +64,7 @@ changes we made.
 | [Madhya Pradesh](madhya-pradesh/README.md) | Jabalpur | bus | 43 | 445 | 880 | 2026-11-02 – 2027-11-02 |  | [bus.zip](madhya-pradesh/jabalpur/bus.zip) |
 | [Madhya Pradesh](madhya-pradesh/README.md) | Ujjain | bus | 3 | 26 | 45 | 2026-11-02 – 2027-11-02 |  | [bus.zip](madhya-pradesh/ujjain/bus.zip) |
 | [Maharashtra](maharashtra/README.md) | Mumbai region bus (BEST, TMT, KDMT, VVMT) | bus | 1,609 | 10,279 | 99,080 | 2026-08-19 – 2027-02-15 | ✓ | [bus.zip](maharashtra/mumbai/bus.zip) |
-| [Maharashtra](maharashtra/README.md) | Mumbai suburban rail (Western, Central, Harbour, Trans-Harbour, Uran) | rail | 9 | 123 | 3,721 | 2026-11-13 – 2027-11-13 |  | [suburban-rail.zip](maharashtra/mumbai/suburban-rail.zip) |
+| [Maharashtra](maharashtra/README.md) | Mumbai suburban rail (Western, Central, Harbour, Trans-Harbour, Uran) | rail | 9 | 123 | 3,721 | 2026-11-16 – 2027-11-16 |  | [suburban-rail.zip](maharashtra/mumbai/suburban-rail.zip) |
 | [Maharashtra](maharashtra/README.md) | Nagpur | bus | 900 | 3,896 | 8,619 | 2026-11-03 – 2027-11-03 |  | [bus.zip](maharashtra/nagpur/bus.zip) |
 | [Maharashtra](maharashtra/README.md) | Pune (PMPML) | bus | 628 | 6,745 | 10,128 | 2026-10-07 – 2027-04-05 |  | [bus.zip](maharashtra/pune/bus.zip) |
 | [Odisha](odisha/README.md) | OSRTC (Odisha, statewide) | bus |  |  |  | | ✓ | [gtfs.zip](https://maps.reclaim.city/osrtc/rt/gtfs.zip) |
@@ -279,7 +279,7 @@ is. Check each source before commercial use.
 | Namo Bharat RRTS (NCRTC, Delhi-Meerut) | [NCRTC static GTFS v1 (Open Transit Data Delhi)](https://otd.delhi.gov.in/) | OTD Delhi terms |
 | Goa (Kadamba Transport Corporation) | [Goa Transport Department: KTCL GTFS](https://goatransport.gov.in/GTFS) | none stated |
 | Ahmedabad (AMTS, Janmarg BRTS, Gandhinagar GTSL) | [croyla/amd-gtfs](https://github.com/croyla/amd-gtfs) | MIT |
-| Rajkot (RRL BRTS + city) |  | none stated |
+| Rajkot (RRL BRTS + city) | [croyla/rrl-gtfs](https://github.com/croyla/rrl-gtfs) | MIT-0 |
 | Vapi (VCBS) | [shubhamvelani/VapiGTFS](https://github.com/shubhamvelani/VapiGTFS) | none stated |
 | Gurugram (GMCBL) | [Chalo's public scheduler (production.zophop.com, the backend of GMCBL's Gurugaman app): every route's details (stops in order, its line, every trip on a Monday and a Sunday, frequency windows expanded), Nov 2026, built into GTFS by reclaim.city (ncr_bus pipeline/routedetails_gtfs.py; times between the ends spread by distance, timepoint=0)](https://chalo.com/) | none stated |
 | Haryana Roadways (Haryana, statewide) | [Haryana Roadways' depot timetables (hartrans.gov.in) and its live tracking, built into GTFS by reclaim.city](https://hartrans.gov.in/bus-time-table-depot-wise/) | none stated |
@@ -289,7 +289,7 @@ is. Check each source before commercial use.
 | Belagavi | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Bengaluru (BMTC) | [Vonter/bmtc-gtfs, plus the routes only BMTC's own app has (reclaim.city)](https://github.com/Vonter/bmtc-gtfs) | ODbL |
 | Davangere (KSRTC city) | [croyla/dvg-gtfs](https://github.com/croyla/dvg-gtfs) | MIT-0 |
-| Hubballi-Dharwad (HDBRTS + city) |  | none stated |
+| Hubballi-Dharwad (HDBRTS + city) | [croyla/hdbrts-gtfs](https://github.com/croyla/hdbrts-gtfs) | MIT-0 |
 | Mangaluru | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Udupi | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Kannur | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
@@ -307,7 +307,7 @@ is. Check each source before commercial use.
 | Mumbai region bus (BEST, TMT, KDMT, VVMT) | [croyla/mumbai-gtfs (BLRTransit)](https://github.com/croyla/mumbai-gtfs) | MIT-0 |
 | Mumbai suburban rail (Western, Central, Harbour, Trans-Harbour, Uran) | [Rush Hour's Mumbai timetable (railway working timetables: WR Feb 2026, Harbour Oct 2024, Trans-Harbour Jan 2024, Port line Dec 2025), via India Metro's suburban map; built by tools/suburban_gtfs.py](https://git.sr.ht/~sphericalkat/rush-hour) | MIT |
 | Nagpur | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
-| Pune (PMPML) |  | none stated |
+| Pune (PMPML) | [croyla/pmpml-gtfs](https://github.com/croyla/pmpml-gtfs) | MIT-0 |
 | OSRTC (Odisha, statewide) | [OSRTC Track a Bus, as seen by the reclaim.city live poller](https://osrtc.org/) | none stated |
 | Rourkela | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Amritsar | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
@@ -342,6 +342,21 @@ is. Check each source before commercial use.
 
 Shapes marked `map-` and all the changes listed above are © reclaim.city, under the same terms as the feed they are in.
 Base map data © OpenStreetMap contributors (ODbL).
+
+## Thanks
+
+These feeds stand on other people's work. Thank you:
+
+- **[croyla](https://github.com/croyla)** (BLRTransit) for the community GTFS feeds of Ahmedabad
+  ([amd-gtfs](https://github.com/croyla/amd-gtfs)), Davangere ([dvg-gtfs](https://github.com/croyla/dvg-gtfs)), the Mumbai
+  region ([mumbai-gtfs](https://github.com/croyla/mumbai-gtfs)), Pune ([pmpml-gtfs](https://github.com/croyla/pmpml-gtfs)),
+  Hubballi-Dharwad ([hdbrts-gtfs](https://github.com/croyla/hdbrts-gtfs)) and Rajkot ([rrl-gtfs](https://github.com/croyla/rrl-gtfs)),
+  all MIT-0. Corrections to those feeds are best sent to croyla's repositories.
+- **[@VizagBlogger](https://x.com/VizagBlogger)** for cleaning up the Visakhapatnam city bus data in the APSRTC feed. His live
+  Vizag bus tracker, [findmybus.live](https://findmybus.live/), is built on it.
+- **[@CityOrdinary](https://x.com/CityOrdinary)**, **[@SripadUllas](https://x.com/SripadUllas)** and the Hyd Transit team
+  for contributing their data and helping fix the TGSRTC feed.
+- **[av-j](https://github.com/av-j)** for the shape simplification (`scripts/simplify_shapes.py`) that made every feed smaller.
 
 ## Rebuilding
 

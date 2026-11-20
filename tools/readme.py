@@ -266,6 +266,21 @@ is. Check each source before commercial use.
 Shapes marked `map-` and all the changes listed above are © reclaim.city, under the same terms as the feed they are in.
 Base map data © OpenStreetMap contributors (ODbL).
 
+## Thanks
+
+These feeds stand on other people's work. Thank you:
+
+- **[croyla](https://github.com/croyla)** (BLRTransit) for the community GTFS feeds of Ahmedabad
+  ([amd-gtfs](https://github.com/croyla/amd-gtfs)), Davangere ([dvg-gtfs](https://github.com/croyla/dvg-gtfs)), the Mumbai
+  region ([mumbai-gtfs](https://github.com/croyla/mumbai-gtfs)), Pune ([pmpml-gtfs](https://github.com/croyla/pmpml-gtfs)),
+  Hubballi-Dharwad ([hdbrts-gtfs](https://github.com/croyla/hdbrts-gtfs)) and Rajkot ([rrl-gtfs](https://github.com/croyla/rrl-gtfs)),
+  all MIT-0. Corrections to those feeds are best sent to croyla's repositories.
+- **[@VizagBlogger](https://x.com/VizagBlogger)** for cleaning up the Visakhapatnam city bus data in the APSRTC feed. His live
+  Vizag bus tracker, [findmybus.live](https://findmybus.live/), is built on it.
+- **[@CityOrdinary](https://x.com/CityOrdinary)**, **[@SripadUllas](https://x.com/SripadUllas)** and the Hyd Transit team
+  for contributing their data and helping fix the TGSRTC feed.
+- **[av-j](https://github.com/av-j)** for the shape simplification (`scripts/simplify_shapes.py`) that made every feed smaller.
+
 ## Rebuilding
 
 ```bash

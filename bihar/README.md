@@ -17,7 +17,7 @@ Feeds in this folder: 1. Back to the [repository README](../README.md).
 | Map | <https://maps.reclaim.city/patna/> |
 | Source | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) |
 | Licence | none stated by the source |
-| sha256 | `ff2ec09816611681d15d3788b736e0a4898f5e7d32974de79f930303deb0f058` |
+| sha256 | `1f9a8da13072d88bbaf65f5cea57f363038a38ba6e1d9871f9cd4745d992b6c3` |
 | Routes without a timetable | [patna/bus.routes_without_timetable.csv](patna/bus.routes_without_timetable.csv) (route, stops in order; not in the GTFS) |
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
@@ -27,3 +27,4 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 - 92 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv
 - shapes.txt left out (header only, no rows)
 - shapes for 500 of 577 trips that had none: the map's road-snapped line for the route (45 shapes)
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 6,251 -> 5,439 shape points

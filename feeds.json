@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T13:05:22Z",
+ "generated": "2026-11-20T15:11:30Z",
  "repository": "https://github.com/reclaimchennai/India_GTFS",
  "spec": {
   "schedule": "https://gtfs.org/documentation/schedule/reference/",
@@ -591,7 +591,11 @@
    ],
    "service_start": "20261016",
    "service_end": "20270414",
-   "source": null,
+   "source": {
+    "name": "croyla/rrl-gtfs",
+    "url": "https://github.com/croyla/rrl-gtfs",
+    "licence": "MIT-0"
+   },
    "note": null,
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
@@ -1075,7 +1079,11 @@
    ],
    "service_start": "20260824",
    "service_end": "20270220",
-   "source": null,
+   "source": {
+    "name": "croyla/hdbrts-gtfs",
+    "url": "https://github.com/croyla/hdbrts-gtfs",
+    "licence": "MIT-0"
+   },
    "note": null,
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
@@ -1977,7 +1985,11 @@
    ],
    "service_start": "20261007",
    "service_end": "20270405",
-   "source": null,
+   "source": {
+    "name": "croyla/pmpml-gtfs",
+    "url": "https://github.com/croyla/pmpml-gtfs",
+    "licence": "MIT-0"
+   },
    "note": null,
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",

@@ -17,7 +17,7 @@ Feeds in this folder: 1. Back to the [repository README](../README.md).
 | Map | <https://maps.reclaim.city/tricity/> |
 | Source | [CTU's published timetables and its trycityBUS tracker, built into GTFS by reclaim.city](https://ctucitybus.com/) |
 | Licence | none stated by the source |
-| sha256 | `a9c14c4d1f31463e01668d9f7658d05562f7ac80c7e0df40aed4dfb9731a4886` |
+| sha256 | `260bc4a93f67e6e222b63066a7f018b2869b33777f3b2fda95fd5a8f605b9d93` |
 | GTFS-Realtime | [VehiclePositions](https://maps.reclaim.city/tricity/rt/vehicle_positions.pb), [TripUpdates](https://maps.reclaim.city/tricity/rt/trip_updates.pb), [status](https://maps.reclaim.city/tricity/rt/status.json) |
 
 > Unofficial: built from CTU's timetable PDF and live tracker; times after the first stop are estimates (timepoint=0).
@@ -25,3 +25,4 @@ Feeds in this folder: 1. Back to the [repository README](../README.md).
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
 
 - packaging: files at the zip root, GTFS reference files only
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 23,377 -> 23,085 shape points

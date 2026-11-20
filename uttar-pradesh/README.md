@@ -7,7 +7,7 @@ Feeds in this folder: 13. Back to the [repository README](../README.md).
 | | |
 |---|---|
 | Feed id | `agra` |
-| Download | [agra/bus.zip](agra/bus.zip) (0.2 MB), mirror <https://maps.reclaim.city/gtfs/agra.zip> |
+| Download | [agra/bus.zip](agra/bus.zip) (0.1 MB), mirror <https://maps.reclaim.city/gtfs/agra.zip> |
 | Modes | bus |
 | Agencies | AMCTSL |
 | Routes / stops / trips | 44 / 384 / 451 |
@@ -17,7 +17,7 @@ Feeds in this folder: 13. Back to the [repository README](../README.md).
 | Map | <https://maps.reclaim.city/agra/> |
 | Source | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) |
 | Licence | none stated by the source |
-| sha256 | `b72351884a61b7a1bb5fba2ac6ce2e9744da96abfa958f835314879eed199a12` |
+| sha256 | `33d829c33e7cc29e9ee1b3cbe4e8e91a028478f23f031376990a58cb6fe45b97` |
 | Routes without a timetable | [agra/bus.routes_without_timetable.csv](agra/bus.routes_without_timetable.csv) (route, stops in order; not in the GTFS) |
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
@@ -27,13 +27,14 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 - 12 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv
 - shapes.txt left out (header only, no rows)
 - shapes for 451 of 451 trips that had none: the map's road-snapped line for the route (44 shapes)
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 19,498 -> 5,502 shape points
 
 ## Ayodhya
 
 | | |
 |---|---|
 | Feed id | `ayodhya` |
-| Download | [ayodhya/bus.zip](ayodhya/bus.zip) (0.1 MB), mirror <https://maps.reclaim.city/gtfs/ayodhya.zip> |
+| Download | [ayodhya/bus.zip](ayodhya/bus.zip) (0.0 MB), mirror <https://maps.reclaim.city/gtfs/ayodhya.zip> |
 | Modes | bus |
 | Agencies | CITY BUS AYODHYA |
 | Routes / stops / trips | 10 / 123 / 150 |
@@ -43,13 +44,14 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 | Map | <https://maps.reclaim.city/ayodhya/> |
 | Source | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) |
 | Licence | none stated by the source |
-| sha256 | `053ff8dbb76d27311a20593056558256b98533c1cd2820537037d91d54309560` |
+| sha256 | `f70dcdc6ec55c9b966d82941a0081f990cfe1820199a7f3e6c960dff6dd9fd69` |
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
 
 - packaging: files at the zip root, GTFS reference files only
 - shapes.txt left out (header only, no rows)
 - shapes for 150 of 150 trips that had none: the map's road-snapped line for the route (10 shapes)
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 6,527 -> 1,642 shape points
 
 ## Bareilly
 
@@ -66,13 +68,14 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 | Map | <https://maps.reclaim.city/bareilly/> |
 | Source | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) |
 | Licence | none stated by the source |
-| sha256 | `ded5ca9fb9bde791aaed83eb3e29c1b20c3fcab94473a58ec9dbc14aed995f9d` |
+| sha256 | `238041e9995f8ee89b99a75a516429ac2c19fcc85d2a0bec1be1da287c86dc20` |
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
 
 - packaging: files at the zip root, GTFS reference files only
 - shapes.txt left out (header only, no rows)
 - shapes for 70 of 70 trips that had none: the map's road-snapped line for the route (6 shapes)
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 1,833 -> 613 shape points
 
 ## Ghaziabad
 
@@ -88,7 +91,7 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 | Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
 | Source | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) |
 | Licence | none stated by the source |
-| sha256 | `4e1ed1ac548f6801bb650bcff8fd7b26189263a878ef9982fd21d7bbba7cd881` |
+| sha256 | `c152a2badba4a07c0b830c492bbdbfb23e898ea7da359f25a049a59857e8e80a` |
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
 
@@ -100,7 +103,7 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 | | |
 |---|---|
 | Feed id | `gorakhpur` |
-| Download | [gorakhpur/bus.zip](gorakhpur/bus.zip) (0.1 MB), mirror <https://maps.reclaim.city/gtfs/gorakhpur.zip> |
+| Download | [gorakhpur/bus.zip](gorakhpur/bus.zip) (0.0 MB), mirror <https://maps.reclaim.city/gtfs/gorakhpur.zip> |
 | Modes | bus |
 | Agencies | GCTSL |
 | Routes / stops / trips | 8 / 155 / 60 |
@@ -110,36 +113,38 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 | Map | <https://maps.reclaim.city/gorakhpur/> |
 | Source | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) |
 | Licence | none stated by the source |
-| sha256 | `03e3612074088d64bc0a94cd729f306d7a2f0a9706d05400bc45985d91aa329c` |
+| sha256 | `12054859a7bb42ca4da95c049700b970de8d7d210237b91c65adbb48345e49ef` |
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
 
 - packaging: files at the zip root, GTFS reference files only
 - shapes.txt left out (header only, no rows)
 - shapes for 60 of 60 trips that had none: the map's road-snapped line for the route (8 shapes)
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 4,514 -> 1,287 shape points
 
 ## Jhansi
 
 | | |
 |---|---|
 | Feed id | `jhansi` |
-| Download | [jhansi/bus.zip](jhansi/bus.zip) (0.1 MB), mirror <https://maps.reclaim.city/gtfs/jhansi.zip> |
+| Download | [jhansi/bus.zip](jhansi/bus.zip) (0.0 MB), mirror <https://maps.reclaim.city/gtfs/jhansi.zip> |
 | Modes | bus |
 | Agencies | JCTSL |
 | Routes / stops / trips | 21 / 82 / 260 |
-| Trips with a shape | 260 (21 shapes) |
+| Trips with a shape | 260 (20 shapes) |
 | Service | 2026-11-02 to 2027-11-02 |
 | Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
 | Map | <https://maps.reclaim.city/jhansi/> |
 | Source | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) |
 | Licence | none stated by the source |
-| sha256 | `12c5333e0f17ba72b1e1f37161c5c18c6218beec52413b2de35bef6470766a30` |
+| sha256 | `1de01adfd4f36a597e882528c8e43f138f38eb2d9d7c4612815a6c50bd8e3485` |
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
 
 - packaging: files at the zip root, GTFS reference files only
 - shapes.txt left out (header only, no rows)
 - shapes for 260 of 260 trips that had none: the map's road-snapped line for the route (21 shapes)
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 8,968 -> 2,168 shape points
 
 ## Kanpur
 
@@ -156,7 +161,7 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 | Map | <https://maps.reclaim.city/kanpur/> |
 | Source | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) |
 | Licence | none stated by the source |
-| sha256 | `936232ab7a18a2933195f627a3f9dfaa7b7938af4abc5e24a16024a92303ab3d` |
+| sha256 | `da91c5dec9dce243225be1c34f52dbf6355be03fc1a6be573fd1707135199b60` |
 | Routes without a timetable | [kanpur/bus.routes_without_timetable.csv](kanpur/bus.routes_without_timetable.csv) (route, stops in order; not in the GTFS) |
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
@@ -166,6 +171,7 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 - 81 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv
 - shapes.txt left out (header only, no rows)
 - shapes for 151 of 328 trips that had none: the map's road-snapped line for the route (15 shapes)
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 3,141 -> 2,747 shape points
 
 ## Lucknow
 
@@ -182,7 +188,7 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 | Map | <https://maps.reclaim.city/lucknow/> |
 | Source | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) |
 | Licence | none stated by the source |
-| sha256 | `ea6f5ea54939eb783865bd1f0c25c6f5c3140d13393c0a5997cbc2c3dac65763` |
+| sha256 | `f74c0d8082f9ef0207002ccc2dbeae29fcf686d859b7b8c7bcf315978eb2336c` |
 | Routes without a timetable | [lucknow/bus.routes_without_timetable.csv](lucknow/bus.routes_without_timetable.csv) (route, stops in order; not in the GTFS) |
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
@@ -192,13 +198,14 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 - 32 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv
 - shapes.txt left out (header only, no rows)
 - shapes for 250 of 444 trips that had none: the map's road-snapped line for the route (28 shapes)
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 6,482 -> 5,650 shape points
 
 ## Mathura
 
 | | |
 |---|---|
 | Feed id | `mathura` |
-| Download | [mathura/bus.zip](mathura/bus.zip) (0.2 MB), mirror <https://maps.reclaim.city/gtfs/mathura.zip> |
+| Download | [mathura/bus.zip](mathura/bus.zip) (0.1 MB), mirror <https://maps.reclaim.city/gtfs/mathura.zip> |
 | Modes | bus |
 | Agencies | AMCTSL |
 | Routes / stops / trips | 24 / 220 / 302 |
@@ -208,7 +215,7 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 | Map | <https://maps.reclaim.city/mathura/> |
 | Source | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) |
 | Licence | none stated by the source |
-| sha256 | `7ff9ec0c3f0fd520a4cf88ff97be9885948ba6097281f4b5ba1286cef5467139` |
+| sha256 | `f233acfe7728941437591034508ee89990ddd01ec2e5e2dfca6336f26e10b62d` |
 | Routes without a timetable | [mathura/bus.routes_without_timetable.csv](mathura/bus.routes_without_timetable.csv) (route, stops in order; not in the GTFS) |
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
@@ -218,6 +225,7 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 - 18 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv
 - shapes.txt left out (header only, no rows)
 - shapes for 302 of 302 trips that had none: the map's road-snapped line for the route (24 shapes)
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 17,170 -> 4,594 shape points
 
 ## Meerut
 
@@ -233,7 +241,7 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 | Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
 | Source | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) |
 | Licence | none stated by the source |
-| sha256 | `4284288540773b919a5fd2fdd89ef52faf31d8f15638b7aa6573da59dbc0055c` |
+| sha256 | `86b103945485631ec63591b86cdab8b1cd4ffea3320e15fa53252c19b75e0091` |
 | Routes without a timetable | [meerut/bus.routes_without_timetable.csv](meerut/bus.routes_without_timetable.csv) (route, stops in order; not in the GTFS) |
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
@@ -257,7 +265,7 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 | Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
 | Source | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) |
 | Licence | none stated by the source |
-| sha256 | `2e3030b7e6e77dc858b7410aba131f35e129769f1cbce7746573ad00fe18b458` |
+| sha256 | `39642bad503891cfe2d24455eab8e650f0b9d7b815241f9d5bc26e18bed2df8c` |
 | Routes without a timetable | [noida/bus.routes_without_timetable.csv](noida/bus.routes_without_timetable.csv) (route, stops in order; not in the GTFS) |
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
@@ -283,7 +291,7 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 | Map | <https://maps.reclaim.city/prayagraj/> |
 | Source | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) |
 | Licence | none stated by the source |
-| sha256 | `3818c24151faac8940e351e29cbe12bbd5d583757554c0558908480313163746` |
+| sha256 | `1a7e0a901fca8c4d68e2e34705601bb8b4330751cbd0c7f84bc1463729b013c2` |
 | Routes without a timetable | [prayagraj/bus.routes_without_timetable.csv](prayagraj/bus.routes_without_timetable.csv) (route, stops in order; not in the GTFS) |
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
@@ -293,6 +301,7 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 - 95 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv
 - shapes.txt left out (header only, no rows)
 - shapes for 115 of 115 trips that had none: the map's road-snapped line for the route (15 shapes)
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 3,407 -> 2,946 shape points
 
 ## Varanasi
 
@@ -303,13 +312,13 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 | Modes | bus |
 | Agencies | VCTL |
 | Routes / stops / trips | 123 / 358 / 688 |
-| Trips with a shape | 688 (123 shapes) |
+| Trips with a shape | 688 (113 shapes) |
 | Service | 2026-11-02 to 2027-11-02 |
 | Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
 | Map | <https://maps.reclaim.city/varanasi/> |
 | Source | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) |
 | Licence | none stated by the source |
-| sha256 | `3b5cbf8fa439155268f44b35068b6f9c9e366d809958e067ad6e93f929259c50` |
+| sha256 | `0926d4979d99f87360ec1a06e1e5340dde15e038e255d9b541929e74374b451d` |
 | Routes without a timetable | [varanasi/bus.routes_without_timetable.csv](varanasi/bus.routes_without_timetable.csv) (route, stops in order; not in the GTFS) |
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
@@ -319,3 +328,4 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 - 26 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv
 - shapes.txt left out (header only, no rows)
 - shapes for 688 of 688 trips that had none: the map's road-snapped line for the route (123 shapes)
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 15,728 -> 12,741 shape points
