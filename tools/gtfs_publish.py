@@ -327,6 +327,25 @@ SIMPLIFY = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'scrip
 SIMPLIFY_ARGS = ['--tol', '4', '--turn-deg', '30']   # what av-j's PR #2 used for Bengaluru: line within 4 m, sharp turns kept
 
 
+# stop names as riders read them (chennai_one dataset/stop_names.py: title case keeping acronyms, certain abbreviations
+# spelt out, 'X or Y' -> X), for the feeds whose source names are in capitals or carry 'or' alternatives
+READABLE_NAMES = {'mtc'}
+
+
+def readable_names(f, data, changes):
+    if f['id'] not in READABLE_NAMES or 'stops.txt' not in data: return
+    sys.path.insert(0, os.path.join(HOME, 'chennai_one', 'dataset'))
+    import stop_names
+    hdr, rows = table(data, 'stops.txt')
+    N = stop_names.Names([r.get('stop_name', '') for r in rows]); n = 0
+    for r in rows:
+        new = N.display(r.get('stop_name', ''))
+        n += new != r.get('stop_name'); r['stop_name'] = new
+    if n:
+        put(data, 'stops.txt', hdr, rows)
+        changes.append(f'stop names made readable on {n:,} stops (title case, abbreviations spelt out, "X or Y" -> X)')
+
+
 def simplify_shapes(data, changes):
     """Route lines thinned (scripts/simplify_shapes.py: Douglas-Peucker at 4 m, turns over 30 deg and the vertex nearest
     each stop kept, identical results merged and trips repointed). Bengaluru: 4.27M -> 1.63M points, 93.5 -> 59.8 MB."""
@@ -395,6 +414,7 @@ def build(f, repo):
     fix_times(data, changes)
     add_shapes(f, data, changes)
     prune_shapes(data, changes)
+    readable_names(f, data, changes)
     simplify_shapes(data, changes)
     add_feed_info(f, data, changes)
     d = os.path.join(repo, os.path.dirname(f['path'])); os.makedirs(d, exist_ok=True)

@@ -38,12 +38,13 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 | Map | <https://maps.reclaim.city/mapsv2/> |
 | Source | [reclaimchennai/ChennaiGTFS, Chennai One MTC feed](https://github.com/reclaimchennai/ChennaiGTFS/tree/chennai-one-feeds) |
 | Licence | none stated by the source |
-| sha256 | `a51070f41a46ef34600bb2cc7f6a8afc6c5828e04b6b12dbc2c71c1fe16d95a9` |
+| sha256 | `6b1e75b4a88774ef9d7cf70a8e5167aecca1e0e189cf0f81b05f2a402e17e5eb` |
 | GTFS-Realtime | [VehiclePositions](https://maps.reclaim.city/mapsv2/rt/vehicle_positions.pb), [TripUpdates](https://maps.reclaim.city/mapsv2/rt/trip_updates.pb), [status](https://maps.reclaim.city/mapsv2/rt/status.json) |
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
 
 - packaging: files at the zip root, GTFS reference files only
+- stop names made readable on 2,422 stops (title case, abbreviations spelt out, "X or Y" -> X)
 - route lines thinned to within 4 m (scripts/simplify_shapes.py): 1,005,155 -> 554,923 shape points
 
 ## Chennai suburban rail and MRTS (Southern Railway)
