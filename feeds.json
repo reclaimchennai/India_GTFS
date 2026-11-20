@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T21:50:13Z",
+  "generated": "2026-11-20T22:23:34Z",
   "repository": "https://github.com/reclaimchennai/India_GTFS",
   "spec": {
     "schedule": "https://gtfs.org/documentation/schedule/reference/",
@@ -3537,6 +3537,52 @@
       "routes_without_timetable": "uttar-pradesh/varanasi/bus.routes_without_timetable.csv",
       "bytes": 206272,
       "sha256": "0926d4979d99f87360ec1a06e1e5340dde15e038e255d9b541929e74374b451d"
+    },
+    {
+      "id": "utc",
+      "name": "UTC (Uttarakhand Transport Corporation)",
+      "state": "Uttarakhand",
+      "path": "uttarakhand/utc/bus.zip",
+      "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/uttarakhand/utc/bus.zip",
+      "mirror": "https://maps.reclaim.city/gtfs/utc.zip",
+      "map": "https://maps.reclaim.city/utc/",
+      "modes": [
+        "bus"
+      ],
+      "agencies": [
+        "Uttarakhand Transport Corporation"
+      ],
+      "routes": 135,
+      "stops": 860,
+      "trips": 730,
+      "shapes": 285,
+      "trips_with_shape": 730,
+      "files": [
+        "agency.txt",
+        "calendar.txt",
+        "feed_info.txt",
+        "routes.txt",
+        "shapes.txt",
+        "stop_times.txt",
+        "stops.txt",
+        "trips.txt"
+      ],
+      "service_start": "20261121",
+      "service_end": "20270520",
+      "source": {
+        "name": "UTC's public online timetable (utconline.uk.gov.in/timetable.aspx), built into GTFS by reclaim.city (utc_bus)",
+        "url": "https://utconline.uk.gov.in/timetable.aspx",
+        "licence": null,
+        "detail": "Unofficial: UTC publishes no open GTFS. Every origin x destination pair of the timetable's 64 origins and 83 destinations was searched (station page method searchStations, service search by ASP.NET postback; no auth): each service's code and class, departure at the origin, arrival at the destination, and its Show Route stop list. Termini are hand-placed bus stands; other stops are matched to OpenStreetMap places and GeoNames (else Nominatim) along OSRM's road between the termini, ordered and snapped on that road, and joined by OSRM. Stops that could not be placed are left out (about 62% of listed stop calls are kept). Departure and arrival are UTC's (timepoint=1); times between are interpolated by road distance (timepoint=0). Daily calendar. Schedule only: UTC's Track My Bus needs a ticket PNR and a captcha, so there is no open live feed. Read Nov 2026."
+      },
+      "note": "Unofficial: services between the timetable's 83 stations only; stops between the ends are placed by name and timed by distance (timepoint=0).",
+      "changes": [
+        "packaging: files at the zip root, GTFS reference files only",
+        "route lines thinned to within 4 m (scripts/simplify_shapes.py): 307,194 -> 213,803 shape points"
+      ],
+      "routes_without_timetable": null,
+      "bytes": 1965872,
+      "sha256": "e869780f0aa37894f0c0397f93d67fb47a1979fb1bce6e7ae5bb227f9f7f93b3"
     },
     {
       "id": "kolkata",

@@ -311,5 +311,21 @@
     },
     "note": "Unofficial: online-sold trips only (mostly AC / Volvo), times as published at each town; ordinary buses absent.",
     "mapdir": "pepsu"
+  },
+  {
+    "fid": "utc",
+    "path": "uttarakhand/utc/bus",
+    "name": "UTC (Uttarakhand Transport Corporation)",
+    "state": "Uttarakhand",
+    "src": "~/Desktop/projects/utc_bus/gtfs/utc_gtfs.zip",
+    "kind": "bus",
+    "source": {
+      "name": "UTC's public online timetable (utconline.uk.gov.in/timetable.aspx), built into GTFS by reclaim.city (utc_bus)",
+      "url": "https://utconline.uk.gov.in/timetable.aspx",
+      "licence": null,
+      "detail": "Unofficial: UTC publishes no open GTFS. Every origin x destination pair of the timetable's 64 origins and 83 destinations was searched (station page method searchStations, service search by ASP.NET postback; no auth): each service's code and class, departure at the origin, arrival at the destination, and its Show Route stop list. Termini are hand-placed bus stands; other stops are matched to OpenStreetMap places and GeoNames (else Nominatim) along OSRM's road between the termini, ordered and snapped on that road, and joined by OSRM. Stops that could not be placed are left out (about 62% of listed stop calls are kept). Departure and arrival are UTC's (timepoint=1); times between are interpolated by road distance (timepoint=0). Daily calendar. Schedule only: UTC's Track My Bus needs a ticket PNR and a captcha, so there is no open live feed. Read Nov 2026."
+    },
+    "note": "Unofficial: services between the timetable's 83 stations only; stops between the ends are placed by name and timed by distance (timepoint=0).",
+    "mapdir": "utc"
   }
 ]

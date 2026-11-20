@@ -1,8 +1,8 @@
 # India_GTFS
 
-Public transit for India in [GTFS](https://gtfs.org/): **74 feeds** covering
-**22 states and union territories**: city buses, state transport corporations, suburban rail, MRTS, metro, RRTS and
-ferries. Together they hold 61,791 routes, 140,165 stops and 668,066 trips, with shapes on almost every trip.
+Public transit for India in [GTFS](https://gtfs.org/): **75 feeds** covering
+**23 states and union territories**: city buses, state transport corporations, suburban rail, MRTS, metro, RRTS and
+ferries. Together they hold 61,926 routes, 141,025 stops and 668,796 trips, with shapes on almost every trip.
 **10 networks also have live GTFS-Realtime feeds** (vehicle positions and trip updates).
 
 Every feed is the timetable behind a map on [maps.reclaim.city](https://maps.reclaim.city/), so the ids in the
@@ -102,6 +102,7 @@ changes we made.
 | [Uttar Pradesh](uttar-pradesh/README.md) | Noida | bus | 24 | 34 | 330 | 2026-10-01 – 2027-10-01 |  | [bus.zip](uttar-pradesh/noida/bus.zip) |
 | [Uttar Pradesh](uttar-pradesh/README.md) | Prayagraj | bus | 15 | 238 | 115 | 2026-11-02 – 2027-11-02 |  | [bus.zip](uttar-pradesh/prayagraj/bus.zip) |
 | [Uttar Pradesh](uttar-pradesh/README.md) | Varanasi | bus | 123 | 358 | 688 | 2026-11-02 – 2027-11-02 |  | [bus.zip](uttar-pradesh/varanasi/bus.zip) |
+| [Uttarakhand](uttarakhand/README.md) | UTC (Uttarakhand Transport Corporation) | bus | 135 | 860 | 730 | 2026-11-21 – 2027-05-20 |  | [bus.zip](uttarakhand/utc/bus.zip) |
 | [West Bengal](west-bengal/README.md) | Kolkata (bus, metro, suburban rail, ferry) | bus, ferry, metro, rail | 2,449 | 9,208 | 6,646 | 2026-11-01 – 2027-10-31 |  | [all-modes.zip](west-bengal/kolkata/all-modes.zip) |
 | [West Bengal](west-bengal/README.md) | Kolkata Hooghly ferries | ferry | 20 | 30 | 40 | 2026-11-01 – 2027-10-31 |  | [ferry.zip](west-bengal/kolkata/ferry.zip) |
 | [West Bengal](west-bengal/README.md) | Kolkata Metro | metro | 5 | 55 | 1,704 | 2026-11-01 – 2027-10-31 |  | [metro.zip](west-bengal/kolkata/metro.zip) |
@@ -351,6 +352,7 @@ is. Check each source before commercial use.
 | Noida | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Prayagraj | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Varanasi | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
+| UTC (Uttarakhand Transport Corporation) | [UTC's public online timetable (utconline.uk.gov.in/timetable.aspx), built into GTFS by reclaim.city (utc_bus)](https://utconline.uk.gov.in/timetable.aspx) | none stated |
 | Kolkata (bus, metro, suburban rail, ferry) |  | none stated |
 | Kolkata Hooghly ferries |  | none stated |
 | Kolkata Metro |  | none stated |
