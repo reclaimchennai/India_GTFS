@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T19:05:17Z",
+  "generated": "2026-11-20T21:47:32Z",
   "repository": "https://github.com/reclaimchennai/India_GTFS",
   "spec": {
     "schedule": "https://gtfs.org/documentation/schedule/reference/",
@@ -1943,6 +1943,52 @@
       "sha256": "eb0c40dbc315a29b77ad58d46386a605adc3a00fb6c0c2be3f5a1f9b9c9781de"
     },
     {
+      "id": "msrtc",
+      "name": "MSRTC (Maharashtra State Road Transport Corporation)",
+      "state": "Maharashtra",
+      "path": "maharashtra/msrtc/bus.zip",
+      "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/maharashtra/msrtc/bus.zip",
+      "mirror": "https://maps.reclaim.city/gtfs/msrtc.zip",
+      "map": "https://maps.reclaim.city/msrtc/",
+      "modes": [
+        "bus"
+      ],
+      "agencies": [
+        "Maharashtra State Road Transport Corporation"
+      ],
+      "routes": 2800,
+      "stops": 1050,
+      "trips": 13497,
+      "shapes": 2890,
+      "trips_with_shape": 13497,
+      "files": [
+        "agency.txt",
+        "calendar.txt",
+        "feed_info.txt",
+        "routes.txt",
+        "shapes.txt",
+        "stop_times.txt",
+        "stops.txt",
+        "trips.txt"
+      ],
+      "service_start": "20261121",
+      "service_end": "20270520",
+      "source": {
+        "name": "MSRTC bus-stand timetable boards (msrtc.maharashtra.gov.in Timetable PDFs), read by OCR and built into GTFS by reclaim.city (msrtc_bus)",
+        "url": "https://msrtc.maharashtra.gov.in/GeneralPages/Timetabel.aspx",
+        "licence": null,
+        "detail": "Unofficial: MSRTC publishes no open GTFS. Its Timetable page links one PDF per division (31 divisions, 614 pages); every page is an image of a bus stand's departure board in Marathi (outgoing times, destination, incoming times). Read by OCR (OpenCV table cells, Tesseract Marathi): 319 pages were legible (the rest are photographs of painted boards too small to read), giving 20,624 departures; destination and stand names matched to OpenStreetMap places (name:mr, else transliteration weighted by distance from the stand), 13,906 placed. One trip per departure on each stand -> destination corridor, both ends a town or its OSM bus station, joined by OSRM's road; times after the first stop are OSRM driving time x 1.3 (timepoint=0). Daily calendar. OCR can misread an odd time or town. Schedule only: MSRTC's vehicle tracking is not open. Read Nov 2026."
+      },
+      "note": "Unofficial: read by OCR from MSRTC's published bus-stand timetable boards; stops are towns and bus stands, times after the first are estimates (timepoint=0), and an odd time or town may be misread.",
+      "changes": [
+        "packaging: files at the zip root, GTFS reference files only",
+        "route lines thinned to within 4 m (scripts/simplify_shapes.py): 540,806 -> 540,598 shape points"
+      ],
+      "routes_without_timetable": null,
+      "bytes": 4648134,
+      "sha256": "21afd67b762380becaa4e74cfb35b2d88b463470ccf4bf171a138ff2e8a51d14"
+    },
+    {
       "id": "mumbai",
       "name": "Mumbai region bus (BEST, TMT, KDMT, VVMT)",
       "state": "Maharashtra",
@@ -2437,6 +2483,54 @@
       ]
     },
     {
+      "id": "snt",
+      "name": "SNT (Sikkim Nationalised Transport)",
+      "state": "Sikkim",
+      "path": "sikkim/snt/bus.zip",
+      "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/sikkim/snt/bus.zip",
+      "mirror": "https://maps.reclaim.city/gtfs/snt.zip",
+      "map": "https://maps.reclaim.city/sikkim/",
+      "modes": [
+        "bus"
+      ],
+      "agencies": [
+        "Sikkim Nationalised Transport (Transport Department, Government of Sikkim)"
+      ],
+      "routes": 10,
+      "stops": 9,
+      "trips": 23,
+      "shapes": 8,
+      "trips_with_shape": 23,
+      "files": [
+        "agency.txt",
+        "calendar.txt",
+        "fare_attributes.txt",
+        "fare_rules.txt",
+        "feed_info.txt",
+        "routes.txt",
+        "shapes.txt",
+        "stop_times.txt",
+        "stops.txt",
+        "trips.txt"
+      ],
+      "service_start": "20261120",
+      "service_end": "20270519",
+      "source": {
+        "name": "Sikkim Transport Department's published bus schedule and SNT's fare notification (Sikkim Government Gazette No. 325, 24 Jun 2024), built into GTFS by reclaim.city (sikkim_bus)",
+        "url": "https://transportdepartment.sikkim.gov.in/visitors/busschedules",
+        "licence": null,
+        "detail": "Unofficial: SNT publishes no GTFS. Departures (time, bus type) from the Transport Department's Bus Schedule page: SNT's services between Siliguri and Gangtok (Ordinary and A/C), Namchi, Jorethang and Pelling. Halts and fares from SNT's fare notification (Gazette No. 325, Annexure-A): the Gangtok buses stop at its fare stages Ranipool, Singtam, Rangpo and Melli (timed in proportion to its km), and fares are its stage fares by zone (fare_rules by route, origin and destination); the page's fares all equal the gazette's. Arrivals use SNT's own published journey times (timepoint=0). Stands from OpenStreetMap, joined by OSRM's road. Schedule only, no live positions. Read Nov 2026."
+      },
+      "note": "Unofficial: inter-state services to and from Siliguri only; Namchi, Jorethang and Pelling services are ends only, as published; times past the first stop are estimates (timepoint=0).",
+      "changes": [
+        "packaging: files at the zip root, GTFS reference files only",
+        "route lines thinned to within 4 m (scripts/simplify_shapes.py): 3,148 -> 2,436 shape points"
+      ],
+      "routes_without_timetable": null,
+      "bytes": 20773,
+      "sha256": "9efb44be353a8e55c4043c62325ae28590e4e0ec9cc2d6dcbb8a43fdce19e9fe"
+    },
+    {
       "id": "chennai-metro",
       "name": "Chennai Metro (CMRL)",
       "state": "Tamil Nadu",
@@ -2580,6 +2674,58 @@
       "routes_without_timetable": null,
       "bytes": 188588,
       "sha256": "9cbc5e6687a4c6f183631ea582df425c957b1432f06227cdeb59a56edbdd6e47"
+    },
+    {
+      "id": "tnstc",
+      "name": "TNSTC + SETC intercity (Tamil Nadu state transport)",
+      "state": "Tamil Nadu",
+      "path": "tamil-nadu/tnstc/bus.zip",
+      "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/tamil-nadu/tnstc/bus.zip",
+      "mirror": "https://maps.reclaim.city/gtfs/tnstc.zip",
+      "map": "https://maps.reclaim.city/tnstc/",
+      "modes": [
+        "bus"
+      ],
+      "agencies": [
+        "State Express Transport Corporation Tamil Nadu Ltd",
+        "Tamil Nadu State Transport Corporation (Coimbatore) Ltd",
+        "Tamil Nadu State Transport Corporation (Kumbakonam) Ltd",
+        "Tamil Nadu State Transport Corporation (Madurai) Ltd",
+        "Tamil Nadu State Transport Corporation (Salem) Ltd",
+        "Tamil Nadu State Transport Corporation (Tirunelveli) Ltd",
+        "Tamil Nadu State Transport Corporation (Villupuram) Ltd"
+      ],
+      "routes": 940,
+      "stops": 171,
+      "trips": 3424,
+      "shapes": 1095,
+      "trips_with_shape": 3424,
+      "files": [
+        "agency.txt",
+        "calendar.txt",
+        "feed_info.txt",
+        "routes.txt",
+        "shapes.txt",
+        "stop_times.txt",
+        "stops.txt",
+        "trips.txt"
+      ],
+      "service_start": "20261121",
+      "service_end": "20270520",
+      "source": {
+        "name": "TNSTC / SETC public booking timetables (tnstc.in OTRSOnline), built into GTFS by reclaim.city (tnstc_bus)",
+        "url": "https://www.tnstc.in/",
+        "licence": null,
+        "detail": "Unofficial: TNSTC and SETC publish no open GTFS. Trips are the reserved services the public booking site's from/to search returns between 53 hub towns for one weekday (place catalog LoadFromPlaceList, availability SearchService; no auth), one agency per corporation (SETC and the six TNSTC regional corporations). Each trip's towns are its origin (trip code), the hub towns it was searched at (with their times), its via towns and its terminus (start plus journey hours); towns geocoded (built-in gazetteer, else Nominatim) and joined by OSRM's road. Observed times are timepoints; towns between them are interpolated by driving time (timepoint=0). Daily calendar. Schedule only: there is no public live tracking. Only reserved services are on the booking site, not short unreserved town services. Read Nov 2026."
+      },
+      "note": "Unofficial: built from the TNSTC/SETC public booking timetables; stops are towns and bus stands, times between the searched hub towns are estimates (timepoint=0).",
+      "changes": [
+        "packaging: files at the zip root, GTFS reference files only",
+        "route lines thinned to within 4 m (scripts/simplify_shapes.py): 472,333 -> 453,666 shape points"
+      ],
+      "routes_without_timetable": null,
+      "bytes": 4343099,
+      "sha256": "7365f06a469ae813b43563eff2aec6ad1aeaa475e67a3f555f7981707511885b"
     },
     {
       "id": "hyderabad",
@@ -3484,106 +3630,6 @@
       "routes_without_timetable": null,
       "bytes": 397032,
       "sha256": "a66c0b1958e40da551a82976231551535e7f6fc1f66f7cb213e15598fb4152e6"
-    },
-    {
-      "id": "snt",
-      "name": "SNT (Sikkim Nationalised Transport)",
-      "state": "Sikkim",
-      "path": "sikkim/snt/bus.zip",
-      "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/sikkim/snt/bus.zip",
-      "mirror": "https://maps.reclaim.city/gtfs/snt.zip",
-      "map": "https://maps.reclaim.city/sikkim/",
-      "modes": [
-        "bus"
-      ],
-      "agencies": [
-        "Sikkim Nationalised Transport (Transport Department, Government of Sikkim)"
-      ],
-      "routes": 10,
-      "stops": 9,
-      "trips": 23,
-      "shapes": 8,
-      "trips_with_shape": 23,
-      "files": [
-        "agency.txt",
-        "calendar.txt",
-        "fare_attributes.txt",
-        "fare_rules.txt",
-        "feed_info.txt",
-        "routes.txt",
-        "shapes.txt",
-        "stop_times.txt",
-        "stops.txt",
-        "trips.txt"
-      ],
-      "service_start": "20261120",
-      "service_end": "20270519",
-      "source": {
-        "name": "Sikkim Transport Department's published bus schedule and SNT's fare notification (Sikkim Government Gazette No. 325, 24 Jun 2024), built into GTFS by reclaim.city (sikkim_bus)",
-        "url": "https://transportdepartment.sikkim.gov.in/visitors/busschedules",
-        "licence": null,
-        "detail": "Unofficial: SNT publishes no GTFS. Departures (time, bus type) from the Transport Department's Bus Schedule page: SNT's services between Siliguri and Gangtok (Ordinary and A/C), Namchi, Jorethang and Pelling. Halts and fares from SNT's fare notification (Gazette No. 325, Annexure-A): the Gangtok buses stop at its fare stages Ranipool, Singtam, Rangpo and Melli (timed in proportion to its km), and fares are its stage fares by zone (fare_rules by route, origin and destination); the page's fares all equal the gazette's. Arrivals use SNT's own published journey times (timepoint=0). Stands from OpenStreetMap, joined by OSRM's road. Schedule only, no live positions. Read Nov 2026."
-      },
-      "note": "Unofficial: inter-state services to and from Siliguri only; Namchi, Jorethang and Pelling services are ends only, as published; times past the first stop are estimates (timepoint=0).",
-      "changes": [
-        "packaging: files at the zip root, GTFS reference files only",
-        "route lines thinned to within 4 m (scripts/simplify_shapes.py): 3,148 -> 2,436 shape points"
-      ],
-      "routes_without_timetable": null,
-      "bytes": 20773,
-      "sha256": "9efb44be353a8e55c4043c62325ae28590e4e0ec9cc2d6dcbb8a43fdce19e9fe"
-    },
-    {
-      "id": "tnstc",
-      "name": "TNSTC + SETC intercity (Tamil Nadu state transport)",
-      "state": "Tamil Nadu",
-      "path": "tamil-nadu/tnstc/bus.zip",
-      "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/tamil-nadu/tnstc/bus.zip",
-      "mirror": "https://maps.reclaim.city/gtfs/tnstc.zip",
-      "map": "https://maps.reclaim.city/tnstc/",
-      "modes": [
-        "bus"
-      ],
-      "agencies": [
-        "State Express Transport Corporation Tamil Nadu Ltd",
-        "Tamil Nadu State Transport Corporation (Coimbatore) Ltd",
-        "Tamil Nadu State Transport Corporation (Kumbakonam) Ltd",
-        "Tamil Nadu State Transport Corporation (Madurai) Ltd",
-        "Tamil Nadu State Transport Corporation (Salem) Ltd",
-        "Tamil Nadu State Transport Corporation (Tirunelveli) Ltd",
-        "Tamil Nadu State Transport Corporation (Villupuram) Ltd"
-      ],
-      "routes": 940,
-      "stops": 171,
-      "trips": 3424,
-      "shapes": 1095,
-      "trips_with_shape": 3424,
-      "files": [
-        "agency.txt",
-        "calendar.txt",
-        "feed_info.txt",
-        "routes.txt",
-        "shapes.txt",
-        "stop_times.txt",
-        "stops.txt",
-        "trips.txt"
-      ],
-      "service_start": "20261121",
-      "service_end": "20270520",
-      "source": {
-        "name": "TNSTC / SETC public booking timetables (tnstc.in OTRSOnline), built into GTFS by reclaim.city (tnstc_bus)",
-        "url": "https://www.tnstc.in/",
-        "licence": null,
-        "detail": "Unofficial: TNSTC and SETC publish no open GTFS. Trips are the reserved services the public booking site's from/to search returns between 53 hub towns for one weekday (place catalog LoadFromPlaceList, availability SearchService; no auth), one agency per corporation (SETC and the six TNSTC regional corporations). Each trip's towns are its origin (trip code), the hub towns it was searched at (with their times), its via towns and its terminus (start plus journey hours); towns geocoded (built-in gazetteer, else Nominatim) and joined by OSRM's road. Observed times are timepoints; towns between them are interpolated by driving time (timepoint=0). Daily calendar. Schedule only: there is no public live tracking. Only reserved services are on the booking site, not short unreserved town services. Read Nov 2026."
-      },
-      "note": "Unofficial: built from the TNSTC/SETC public booking timetables; stops are towns and bus stands, times between the searched hub towns are estimates (timepoint=0).",
-      "changes": [
-        "packaging: files at the zip root, GTFS reference files only",
-        "route lines thinned to within 4 m (scripts/simplify_shapes.py): 472,333 -> 453,666 shape points"
-      ],
-      "routes_without_timetable": null,
-      "bytes": 4343099,
-      "sha256": "7365f06a469ae813b43563eff2aec6ad1aeaa475e67a3f555f7981707511885b"
     }
   ]
 }

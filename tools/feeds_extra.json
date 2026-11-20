@@ -263,5 +263,21 @@
     },
     "note": "Unofficial: built from the TNSTC/SETC public booking timetables; stops are towns and bus stands, times between the searched hub towns are estimates (timepoint=0).",
     "mapdir": "tnstc"
+  },
+  {
+    "fid": "msrtc",
+    "path": "maharashtra/msrtc/bus",
+    "name": "MSRTC (Maharashtra State Road Transport Corporation)",
+    "state": "Maharashtra",
+    "src": "~/Desktop/projects/msrtc_bus/gtfs/msrtc_gtfs.zip",
+    "kind": "bus",
+    "source": {
+      "name": "MSRTC bus-stand timetable boards (msrtc.maharashtra.gov.in Timetable PDFs), read by OCR and built into GTFS by reclaim.city (msrtc_bus)",
+      "url": "https://msrtc.maharashtra.gov.in/GeneralPages/Timetabel.aspx",
+      "licence": null,
+      "detail": "Unofficial: MSRTC publishes no open GTFS. Its Timetable page links one PDF per division (31 divisions, 614 pages); every page is an image of a bus stand's departure board in Marathi (outgoing times, destination, incoming times). Read by OCR (OpenCV table cells, Tesseract Marathi): 319 pages were legible (the rest are photographs of painted boards too small to read), giving 20,624 departures; destination and stand names matched to OpenStreetMap places (name:mr, else transliteration weighted by distance from the stand), 13,906 placed. One trip per departure on each stand -> destination corridor, both ends a town or its OSM bus station, joined by OSRM's road; times after the first stop are OSRM driving time x 1.3 (timepoint=0). Daily calendar. OCR can misread an odd time or town. Schedule only: MSRTC's vehicle tracking is not open. Read Nov 2026."
+    },
+    "note": "Unofficial: read by OCR from MSRTC's published bus-stand timetable boards; stops are towns and bus stands, times after the first are estimates (timepoint=0), and an odd time or town may be misread.",
+    "mapdir": "msrtc"
   }
 ]

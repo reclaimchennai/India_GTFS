@@ -1,6 +1,30 @@
 # Maharashtra
 
-Feeds in this folder: 4. Back to the [repository README](../README.md).
+Feeds in this folder: 5. Back to the [repository README](../README.md).
+
+## MSRTC (Maharashtra State Road Transport Corporation)
+
+| | |
+|---|---|
+| Feed id | `msrtc` |
+| Download | [msrtc/bus.zip](msrtc/bus.zip) (4.4 MB), mirror <https://maps.reclaim.city/gtfs/msrtc.zip> |
+| Modes | bus |
+| Agencies | Maharashtra State Road Transport Corporation |
+| Routes / stops / trips | 2,800 / 1,050 / 13,497 |
+| Trips with a shape | 13,497 (2,890 shapes) |
+| Service | 2026-11-21 to 2027-05-20 |
+| Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
+| Map | <https://maps.reclaim.city/msrtc/> |
+| Source | [MSRTC bus-stand timetable boards (msrtc.maharashtra.gov.in Timetable PDFs), read by OCR and built into GTFS by reclaim.city (msrtc_bus)](https://msrtc.maharashtra.gov.in/GeneralPages/Timetabel.aspx) |
+| Licence | none stated by the source |
+| sha256 | `21afd67b762380becaa4e74cfb35b2d88b463470ccf4bf171a138ff2e8a51d14` |
+
+> Unofficial: read by OCR from MSRTC's published bus-stand timetable boards; stops are towns and bus stands, times after the first are estimates (timepoint=0), and an odd time or town may be misread.
+
+Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
+
+- packaging: files at the zip root, GTFS reference files only
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 540,806 -> 540,598 shape points
 
 ## Mumbai region bus (BEST, TMT, KDMT, VVMT)
 

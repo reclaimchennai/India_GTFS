@@ -1,8 +1,8 @@
 # India_GTFS
 
-Public transit for India in [GTFS](https://gtfs.org/): **71 feeds** covering
+Public transit for India in [GTFS](https://gtfs.org/): **72 feeds** covering
 **22 states and union territories**: city buses, state transport corporations, suburban rail, MRTS, metro, RRTS and
-ferries. Together they hold 58,964 routes, 139,071 stops and 654,480 trips, with shapes on almost every trip.
+ferries. Together they hold 61,764 routes, 140,121 stops and 667,977 trips, with shapes on almost every trip.
 **10 networks also have live GTFS-Realtime feeds** (vehicle positions and trip updates).
 
 Every feed is the timetable behind a map on [maps.reclaim.city](https://maps.reclaim.city/), so the ids in the
@@ -66,6 +66,7 @@ changes we made.
 | [Madhya Pradesh](madhya-pradesh/README.md) | Indore | bus | 45 | 919 | 796 | 2026-11-02 – 2027-11-02 |  | [bus.zip](madhya-pradesh/indore/bus.zip) |
 | [Madhya Pradesh](madhya-pradesh/README.md) | Jabalpur | bus | 43 | 445 | 880 | 2026-11-02 – 2027-11-02 |  | [bus.zip](madhya-pradesh/jabalpur/bus.zip) |
 | [Madhya Pradesh](madhya-pradesh/README.md) | Ujjain | bus | 3 | 26 | 45 | 2026-11-02 – 2027-11-02 |  | [bus.zip](madhya-pradesh/ujjain/bus.zip) |
+| [Maharashtra](maharashtra/README.md) | MSRTC (Maharashtra State Road Transport Corporation) | bus | 2,800 | 1,050 | 13,497 | 2026-11-21 – 2027-05-20 |  | [bus.zip](maharashtra/msrtc/bus.zip) |
 | [Maharashtra](maharashtra/README.md) | Mumbai region bus (BEST, TMT, KDMT, VVMT) | bus | 1,609 | 10,279 | 99,080 | 2026-08-19 – 2027-02-15 | ✓ | [bus.zip](maharashtra/mumbai/bus.zip) |
 | [Maharashtra](maharashtra/README.md) | Mumbai suburban rail (Western, Central, Harbour, Trans-Harbour, Uran) | rail | 9 | 123 | 3,721 | 2026-11-16 – 2027-11-16 |  | [suburban-rail.zip](maharashtra/mumbai/suburban-rail.zip) |
 | [Maharashtra](maharashtra/README.md) | Nagpur | bus | 900 | 3,896 | 8,619 | 2026-11-03 – 2027-11-03 |  | [bus.zip](maharashtra/nagpur/bus.zip) |
@@ -312,6 +313,7 @@ is. Check each source before commercial use.
 | Indore | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Jabalpur | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Ujjain | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
+| MSRTC (Maharashtra State Road Transport Corporation) | [MSRTC bus-stand timetable boards (msrtc.maharashtra.gov.in Timetable PDFs), read by OCR and built into GTFS by reclaim.city (msrtc_bus)](https://msrtc.maharashtra.gov.in/GeneralPages/Timetabel.aspx) | none stated |
 | Mumbai region bus (BEST, TMT, KDMT, VVMT) | [croyla/mumbai-gtfs (BLRTransit)](https://github.com/croyla/mumbai-gtfs) | MIT-0 |
 | Mumbai suburban rail (Western, Central, Harbour, Trans-Harbour, Uran) | [Rush Hour's Mumbai timetable (railway working timetables: WR Feb 2026, Harbour Oct 2024, Trans-Harbour Jan 2024, Port line Dec 2025), via India Metro's suburban map; built by tools/suburban_gtfs.py](https://git.sr.ht/~sphericalkat/rush-hour) | MIT |
 | Nagpur | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
