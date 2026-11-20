@@ -121,5 +121,69 @@
    "url": "https://github.com/Neo2308",
    "licence": null
   }
+ },
+ {
+  "fid": "jodhpur",
+  "path": "rajasthan/jodhpur/bus",
+  "name": "Jodhpur (JBSL city e-buses, PM e-Bus Sewa)",
+  "state": "Rajasthan",
+  "src": "~/Desktop/projects/katch_bus/gtfs/jodhpur",
+  "kind": "bus",
+  "mapdir": "rjrtc",
+  "source": {
+   "name": "Katch city bus tracking (katchapp.in/bus_tracking): the cities' published route maps (KML) and live GPS, built into GTFS by reclaim.city",
+   "url": "https://katchapp.in/bus_tracking",
+   "licence": null,
+   "detail": "Unofficial: the PM e-Bus Sewa city operators publish no GTFS. Routes, stops in order and route lines from the route maps (KML) each city publishes on Katch's tracking pages (katch_bus/network_eb.py); departures from the buses seen starting each route on the live tracking, later stops timed from the median running times seen (timepoint=0); routes with no departure seen yet are listed without a timetable (katch_bus/gtfs_katch.py)."
+  },
+  "note": "Unofficial: built from the city's published route maps and live GPS; times after the first stop are estimates (timepoint=0)."
+ },
+ {
+  "fid": "kota",
+  "path": "rajasthan/kota/bus",
+  "name": "Kota (KBSL city e-buses, PM e-Bus Sewa)",
+  "state": "Rajasthan",
+  "src": "~/Desktop/projects/katch_bus/gtfs/kota",
+  "kind": "bus",
+  "mapdir": "rjrtc",
+  "source": {
+   "name": "Katch city bus tracking (katchapp.in/bus_tracking): the cities' published route maps (KML) and live GPS, built into GTFS by reclaim.city",
+   "url": "https://katchapp.in/bus_tracking",
+   "licence": null,
+   "detail": "Unofficial: the PM e-Bus Sewa city operators publish no GTFS. Routes, stops in order and route lines from the route maps (KML) each city publishes on Katch's tracking pages (katch_bus/network_eb.py); departures from the buses seen starting each route on the live tracking, later stops timed from the median running times seen (timepoint=0); routes with no departure seen yet are listed without a timetable (katch_bus/gtfs_katch.py)."
+  },
+  "note": "Unofficial: built from the city's published route maps and live GPS; times after the first stop are estimates (timepoint=0)."
+ },
+ {
+  "fid": "bhilwara",
+  "path": "rajasthan/bhilwara/bus",
+  "name": "Bhilwara (city e-buses, PM e-Bus Sewa)",
+  "state": "Rajasthan",
+  "src": "~/Desktop/projects/katch_bus/gtfs/bhilwara",
+  "kind": "bus",
+  "mapdir": "rjrtc",
+  "source": {
+   "name": "Katch city bus tracking (katchapp.in/bus_tracking): the cities' published route maps (KML) and live GPS, built into GTFS by reclaim.city",
+   "url": "https://katchapp.in/bus_tracking",
+   "licence": null,
+   "detail": "Unofficial: the PM e-Bus Sewa city operators publish no GTFS. Routes, stops in order and route lines from the route maps (KML) each city publishes on Katch's tracking pages (katch_bus/network_eb.py); departures from the buses seen starting each route on the live tracking, later stops timed from the median running times seen (timepoint=0); routes with no departure seen yet are listed without a timetable (katch_bus/gtfs_katch.py)."
+  },
+  "note": "Unofficial: built from the city's published route maps and live GPS; times after the first stop are estimates (timepoint=0)."
+ },
+ {
+  "fid": "bikaner",
+  "path": "rajasthan/bikaner/bus",
+  "name": "Bikaner (BCTSL city e-buses, PM e-Bus Sewa)",
+  "state": "Rajasthan",
+  "src": "~/Desktop/projects/katch_bus/gtfs/bikaner",
+  "kind": "bus",
+  "mapdir": "rjrtc",
+  "source": {
+   "name": "Katch city bus tracking (katchapp.in/bus_tracking): the cities' published route maps (KML) and live GPS, built into GTFS by reclaim.city",
+   "url": "https://katchapp.in/bus_tracking",
+   "licence": null,
+   "detail": "Unofficial: the PM e-Bus Sewa city operators publish no GTFS. Routes, stops in order and route lines from the route maps (KML) each city publishes on Katch's tracking pages (katch_bus/network_eb.py); departures from the buses seen starting each route on the live tracking, later stops timed from the median running times seen (timepoint=0); routes with no departure seen yet are listed without a timetable (katch_bus/gtfs_katch.py)."
+  },
+  "note": "Unofficial: built from the city's published route maps and live GPS; times after the first stop are estimates (timepoint=0)."
  }
 ]

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T14:47:51Z",
+ "generated": "2026-11-20T11:58:48Z",
  "repository": "https://github.com/reclaimchennai/India_GTFS",
  "spec": {
   "schedule": "https://gtfs.org/documentation/schedule/reference/",
@@ -2134,6 +2134,114 @@
    "routes_without_timetable": null,
    "bytes": 221597,
    "sha256": "413d5dd90ab635c82e448c56c37249ff283227aa1fa016fe72b6ac1a3fe66803"
+  },
+  {
+   "id": "bhilwara",
+   "name": "Bhilwara (city e-buses, PM e-Bus Sewa)",
+   "state": "Rajasthan",
+   "path": null,
+   "download": null,
+   "mirror": null,
+   "map": "https://maps.reclaim.city/rjrtc/",
+   "modes": [
+    "bus"
+   ],
+   "source": {
+    "name": "Katch city bus tracking (katchapp.in/bus_tracking): the cities' published route maps (KML) and live GPS, built into GTFS by reclaim.city",
+    "url": "https://katchapp.in/bus_tracking",
+    "licence": null,
+    "detail": "Unofficial: the PM e-Bus Sewa city operators publish no GTFS. Routes, stops in order and route lines from the route maps (KML) each city publishes on Katch's tracking pages (katch_bus/network_eb.py); departures from the buses seen starting each route on the live tracking, later stops timed from the median running times seen (timepoint=0); routes with no departure seen yet are listed without a timetable (katch_bus/gtfs_katch.py)."
+   },
+   "note": "No timetable: the source holds routes and stops only, so there is no GTFS feed; the routes and their stops are in the CSV.",
+   "routes_without_timetable": "rajasthan/bhilwara/bus.routes_without_timetable.csv",
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "145 stops served only by those routes moved with them",
+    "11 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "11 shapes no trip uses left out",
+    "feed_info.txt added (none in the source)"
+   ]
+  },
+  {
+   "id": "bikaner",
+   "name": "Bikaner (BCTSL city e-buses, PM e-Bus Sewa)",
+   "state": "Rajasthan",
+   "path": null,
+   "download": null,
+   "mirror": null,
+   "map": "https://maps.reclaim.city/rjrtc/",
+   "modes": [
+    "bus"
+   ],
+   "source": {
+    "name": "Katch city bus tracking (katchapp.in/bus_tracking): the cities' published route maps (KML) and live GPS, built into GTFS by reclaim.city",
+    "url": "https://katchapp.in/bus_tracking",
+    "licence": null,
+    "detail": "Unofficial: the PM e-Bus Sewa city operators publish no GTFS. Routes, stops in order and route lines from the route maps (KML) each city publishes on Katch's tracking pages (katch_bus/network_eb.py); departures from the buses seen starting each route on the live tracking, later stops timed from the median running times seen (timepoint=0); routes with no departure seen yet are listed without a timetable (katch_bus/gtfs_katch.py)."
+   },
+   "note": "No timetable: the source holds routes and stops only, so there is no GTFS feed; the routes and their stops are in the CSV.",
+   "routes_without_timetable": "rajasthan/bikaner/bus.routes_without_timetable.csv",
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "70 stops served only by those routes moved with them",
+    "7 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "7 shapes no trip uses left out",
+    "feed_info.txt added (none in the source)"
+   ]
+  },
+  {
+   "id": "jodhpur",
+   "name": "Jodhpur (JBSL city e-buses, PM e-Bus Sewa)",
+   "state": "Rajasthan",
+   "path": null,
+   "download": null,
+   "mirror": null,
+   "map": "https://maps.reclaim.city/rjrtc/",
+   "modes": [
+    "bus"
+   ],
+   "source": {
+    "name": "Katch city bus tracking (katchapp.in/bus_tracking): the cities' published route maps (KML) and live GPS, built into GTFS by reclaim.city",
+    "url": "https://katchapp.in/bus_tracking",
+    "licence": null,
+    "detail": "Unofficial: the PM e-Bus Sewa city operators publish no GTFS. Routes, stops in order and route lines from the route maps (KML) each city publishes on Katch's tracking pages (katch_bus/network_eb.py); departures from the buses seen starting each route on the live tracking, later stops timed from the median running times seen (timepoint=0); routes with no departure seen yet are listed without a timetable (katch_bus/gtfs_katch.py)."
+   },
+   "note": "No timetable: the source holds routes and stops only, so there is no GTFS feed; the routes and their stops are in the CSV.",
+   "routes_without_timetable": "rajasthan/jodhpur/bus.routes_without_timetable.csv",
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "108 stops served only by those routes moved with them",
+    "5 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "5 shapes no trip uses left out",
+    "feed_info.txt added (none in the source)"
+   ]
+  },
+  {
+   "id": "kota",
+   "name": "Kota (KBSL city e-buses, PM e-Bus Sewa)",
+   "state": "Rajasthan",
+   "path": null,
+   "download": null,
+   "mirror": null,
+   "map": "https://maps.reclaim.city/rjrtc/",
+   "modes": [
+    "bus"
+   ],
+   "source": {
+    "name": "Katch city bus tracking (katchapp.in/bus_tracking): the cities' published route maps (KML) and live GPS, built into GTFS by reclaim.city",
+    "url": "https://katchapp.in/bus_tracking",
+    "licence": null,
+    "detail": "Unofficial: the PM e-Bus Sewa city operators publish no GTFS. Routes, stops in order and route lines from the route maps (KML) each city publishes on Katch's tracking pages (katch_bus/network_eb.py); departures from the buses seen starting each route on the live tracking, later stops timed from the median running times seen (timepoint=0); routes with no departure seen yet are listed without a timetable (katch_bus/gtfs_katch.py)."
+   },
+   "note": "No timetable: the source holds routes and stops only, so there is no GTFS feed; the routes and their stops are in the CSV.",
+   "routes_without_timetable": "rajasthan/kota/bus.routes_without_timetable.csv",
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "166 stops served only by those routes moved with them",
+    "8 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
+    "8 shapes no trip uses left out",
+    "feed_info.txt added (none in the source)"
+   ]
   },
   {
    "id": "chennai-metro",

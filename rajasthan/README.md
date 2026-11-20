@@ -1,6 +1,6 @@
 # Rajasthan
 
-Feeds in this folder: 2. Back to the [repository README](../README.md).
+Feeds in this folder: 6. Back to the [repository README](../README.md).
 
 ## Jaipur
 
@@ -50,3 +50,91 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 - packaging: files at the zip root, GTFS reference files only
 - shapes.txt left out (header only, no rows)
 - shapes for 303 of 303 trips that had none: the map's road-snapped line for the route (28 shapes)
+
+## Bhilwara (city e-buses, PM e-Bus Sewa)
+
+| | |
+|---|---|
+| Feed id | `bhilwara` |
+| Download | no GTFS (no timetable) |
+| Modes | bus |
+| Map | <https://maps.reclaim.city/rjrtc/> |
+| Source | [Katch city bus tracking (katchapp.in/bus_tracking): the cities' published route maps (KML) and live GPS, built into GTFS by reclaim.city](https://katchapp.in/bus_tracking) |
+| Licence | none stated by the source |
+| Routes without a timetable | [bhilwara/bus.routes_without_timetable.csv](bhilwara/bus.routes_without_timetable.csv) (route, stops in order; not in the GTFS) |
+
+> No timetable: the source holds routes and stops only, so there is no GTFS feed; the routes and their stops are in the CSV.
+
+Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
+
+- packaging: files at the zip root, GTFS reference files only
+- 145 stops served only by those routes moved with them
+- 11 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv
+- 11 shapes no trip uses left out
+- feed_info.txt added (none in the source)
+
+## Bikaner (BCTSL city e-buses, PM e-Bus Sewa)
+
+| | |
+|---|---|
+| Feed id | `bikaner` |
+| Download | no GTFS (no timetable) |
+| Modes | bus |
+| Map | <https://maps.reclaim.city/rjrtc/> |
+| Source | [Katch city bus tracking (katchapp.in/bus_tracking): the cities' published route maps (KML) and live GPS, built into GTFS by reclaim.city](https://katchapp.in/bus_tracking) |
+| Licence | none stated by the source |
+| Routes without a timetable | [bikaner/bus.routes_without_timetable.csv](bikaner/bus.routes_without_timetable.csv) (route, stops in order; not in the GTFS) |
+
+> No timetable: the source holds routes and stops only, so there is no GTFS feed; the routes and their stops are in the CSV.
+
+Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
+
+- packaging: files at the zip root, GTFS reference files only
+- 70 stops served only by those routes moved with them
+- 7 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv
+- 7 shapes no trip uses left out
+- feed_info.txt added (none in the source)
+
+## Jodhpur (JBSL city e-buses, PM e-Bus Sewa)
+
+| | |
+|---|---|
+| Feed id | `jodhpur` |
+| Download | no GTFS (no timetable) |
+| Modes | bus |
+| Map | <https://maps.reclaim.city/rjrtc/> |
+| Source | [Katch city bus tracking (katchapp.in/bus_tracking): the cities' published route maps (KML) and live GPS, built into GTFS by reclaim.city](https://katchapp.in/bus_tracking) |
+| Licence | none stated by the source |
+| Routes without a timetable | [jodhpur/bus.routes_without_timetable.csv](jodhpur/bus.routes_without_timetable.csv) (route, stops in order; not in the GTFS) |
+
+> No timetable: the source holds routes and stops only, so there is no GTFS feed; the routes and their stops are in the CSV.
+
+Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
+
+- packaging: files at the zip root, GTFS reference files only
+- 108 stops served only by those routes moved with them
+- 5 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv
+- 5 shapes no trip uses left out
+- feed_info.txt added (none in the source)
+
+## Kota (KBSL city e-buses, PM e-Bus Sewa)
+
+| | |
+|---|---|
+| Feed id | `kota` |
+| Download | no GTFS (no timetable) |
+| Modes | bus |
+| Map | <https://maps.reclaim.city/rjrtc/> |
+| Source | [Katch city bus tracking (katchapp.in/bus_tracking): the cities' published route maps (KML) and live GPS, built into GTFS by reclaim.city](https://katchapp.in/bus_tracking) |
+| Licence | none stated by the source |
+| Routes without a timetable | [kota/bus.routes_without_timetable.csv](kota/bus.routes_without_timetable.csv) (route, stops in order; not in the GTFS) |
+
+> No timetable: the source holds routes and stops only, so there is no GTFS feed; the routes and their stops are in the CSV.
+
+Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
+
+- packaging: files at the zip root, GTFS reference files only
+- 166 stops served only by those routes moved with them
+- 8 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv
+- 8 shapes no trip uses left out
+- feed_info.txt added (none in the source)

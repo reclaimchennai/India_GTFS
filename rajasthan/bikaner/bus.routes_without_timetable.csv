@@ -1,0 +1,87 @@
+route_id,route_short_name,route_long_name,stop_sequence,stop_id,stop_name
+bikaner-BTU-MJ,BTU-MJ,BTU To Murti Circle JNV,1,eb-bikaner-1,BTU
+bikaner-BTU-MJ,BTU-MJ,BTU To Murti Circle JNV,2,eb-bikaner-2,Pugal Road Over Bridge
+bikaner-BTU-MJ,BTU-MJ,BTU To Murti Circle JNV,3,eb-bikaner-3,Pugal Sabzi Mandi
+bikaner-BTU-MJ,BTU-MJ,BTU To Murti Circle JNV,4,eb-bikaner-4,Untitled placemark
+bikaner-BTU-MJ,BTU-MJ,BTU To Murti Circle JNV,5,eb-bikaner-5,Bhimsen Circle
+bikaner-BTU-MJ,BTU-MJ,BTU To Murti Circle JNV,6,eb-bikaner-6,Museum Circle
+bikaner-BTU-MJ,BTU-MJ,BTU To Murti Circle JNV,7,eb-bikaner-7,Major Purnasingh Circle
+bikaner-BTU-MJ,BTU-MJ,BTU To Murti Circle JNV,8,eb-bikaner-8,Panchshati Circle
+bikaner-BTU-MJ,BTU-MJ,BTU To Murti Circle JNV,9,eb-bikaner-9,Murti Circle JNV
+bikaner-GC-UDA,GC-UDA,Ganganagar Chouraha To Udaramser Gau,1,eb-bikaner-10,Ganganagar Chouraha
+bikaner-GC-UDA,GC-UDA,Ganganagar Chouraha To Udaramser Gau,2,eb-bikaner-11,Museum Circle
+bikaner-GC-UDA,GC-UDA,Ganganagar Chouraha To Udaramser Gau,3,eb-bikaner-12,Mejor Purn Singh
+bikaner-GC-UDA,GC-UDA,Ganganagar Chouraha To Udaramser Gau,4,eb-bikaner-13,PBM Ambedkar Circle
+bikaner-GC-UDA,GC-UDA,Ganganagar Chouraha To Udaramser Gau,5,eb-bikaner-14,Rani Bazar Over Bridge
+bikaner-GC-UDA,GC-UDA,Ganganagar Chouraha To Udaramser Gau,6,eb-bikaner-15,Rani Bazar Circle
+bikaner-GC-UDA,GC-UDA,Ganganagar Chouraha To Udaramser Gau,7,eb-bikaner-16,Gogagate Circle
+bikaner-GC-UDA,GC-UDA,Ganganagar Chouraha To Udaramser Gau,8,eb-bikaner-17,RIICO 05 no. Road
+bikaner-GC-UDA,GC-UDA,Ganganagar Chouraha To Udaramser Gau,9,eb-bikaner-18,Gangashahar New Bus Stand
+bikaner-GC-UDA,GC-UDA,Ganganagar Chouraha To Udaramser Gau,10,eb-bikaner-19,Gharsisar Road Ganshahar Old Bus Stand
+bikaner-GC-UDA,GC-UDA,Ganganagar Chouraha To Udaramser Gau,11,eb-bikaner-20,Bhinasar Chowki
+bikaner-GC-UDA,GC-UDA,Ganganagar Chouraha To Udaramser Gau,12,eb-bikaner-21,Bypaas Jaipur
+bikaner-GC-UDA,GC-UDA,Ganganagar Chouraha To Udaramser Gau,13,eb-bikaner-22,Manglam Colony Mode
+bikaner-GC-UDA,GC-UDA,Ganganagar Chouraha To Udaramser Gau,14,eb-bikaner-23,Udairamsar
+bikaner-DES-GU,DES-GU,Gangasingh University To Deshnok Bikaner,1,eb-bikaner-24,Gangasingh University
+bikaner-DES-GU,DES-GU,Gangasingh University To Deshnok Bikaner,2,eb-bikaner-25,Pugal Phanta
+bikaner-DES-GU,DES-GU,Gangasingh University To Deshnok Bikaner,3,eb-bikaner-26,Kothari Hospital
+bikaner-DES-GU,DES-GU,Gangasingh University To Deshnok Bikaner,4,eb-bikaner-27,Urmool Circle
+bikaner-DES-GU,DES-GU,Gangasingh University To Deshnok Bikaner,5,eb-bikaner-6,Museum Circle
+bikaner-DES-GU,DES-GU,Gangasingh University To Deshnok Bikaner,6,eb-bikaner-28,Major Purna Singh Circle
+bikaner-DES-GU,DES-GU,Gangasingh University To Deshnok Bikaner,7,eb-bikaner-29,Ambedkar Circle
+bikaner-DES-GU,DES-GU,Gangasingh University To Deshnok Bikaner,8,eb-bikaner-30,Rani Bazar Over Bridge
+bikaner-DES-GU,DES-GU,Gangasingh University To Deshnok Bikaner,9,eb-bikaner-15,Rani Bazar Circle
+bikaner-DES-GU,DES-GU,Gangasingh University To Deshnok Bikaner,10,eb-bikaner-16,Gogagate Circle
+bikaner-DES-GU,DES-GU,Gangasingh University To Deshnok Bikaner,11,eb-bikaner-31,Jain PG College
+bikaner-DES-GU,DES-GU,Gangasingh University To Deshnok Bikaner,12,eb-bikaner-32,Ganga Sher Bus Stand
+bikaner-DES-GU,DES-GU,Gangasingh University To Deshnok Bikaner,13,eb-bikaner-33,Bheenasar
+bikaner-DES-GU,DES-GU,Gangasingh University To Deshnok Bikaner,14,eb-bikaner-34,Udram Sir
+bikaner-DES-GU,DES-GU,Gangasingh University To Deshnok Bikaner,15,eb-bikaner-35,Udram Sir Tiraha (Police Choki)
+bikaner-DES-GU,DES-GU,Gangasingh University To Deshnok Bikaner,16,eb-bikaner-36,Palana
+bikaner-DES-GU,DES-GU,Gangasingh University To Deshnok Bikaner,17,eb-bikaner-37,Deshnok
+bikaner-R04,R04,Gangasingh University To Jodhpur Bypass Chauraha,1,eb-bikaner-38,Gangasingh University
+bikaner-R04,R04,Gangasingh University To Jodhpur Bypass Chauraha,2,eb-bikaner-39,Karmisar Tiraha
+bikaner-R04,R04,Gangasingh University To Jodhpur Bypass Chauraha,3,eb-bikaner-26,Kothari Hospital
+bikaner-R04,R04,Gangasingh University To Jodhpur Bypass Chauraha,4,eb-bikaner-40,Police Line Chauraha
+bikaner-R04,R04,Gangasingh University To Jodhpur Bypass Chauraha,5,eb-bikaner-27,Urmool Circle
+bikaner-R04,R04,Gangasingh University To Jodhpur Bypass Chauraha,6,eb-bikaner-41,Haldiram Pyau
+bikaner-R04,R04,Gangasingh University To Jodhpur Bypass Chauraha,7,eb-bikaner-42,Vrindavan Eklave
+bikaner-R04,R04,Gangasingh University To Jodhpur Bypass Chauraha,8,eb-bikaner-43,Jodhpur Bypass Chauraha
+bikaner-GU-MGS,GU-MGS,Gangasingh University To Nal,1,eb-bikaner-24,Gangasingh University
+bikaner-GU-MGS,GU-MGS,Gangasingh University To Nal,2,eb-bikaner-44,Nal
+bikaner-GU-MGS,GU-MGS,Gangasingh University To Nal,3,eb-bikaner-45,Nal Kodamdesar
+bikaner-GU-MGS,GU-MGS,Gangasingh University To Nal,4,eb-bikaner-46,Nal Return
+bikaner-GU-MGS,GU-MGS,Gangasingh University To Nal,5,eb-bikaner-47,MGSU
+bikaner-GU-MGS,GU-MGS,Gangasingh University To Nal,6,eb-bikaner-39,Karmisar Tiraha
+bikaner-GU-MGS,GU-MGS,Gangasingh University To Nal,7,eb-bikaner-25,Pugal Phanta
+bikaner-GU-MGS,GU-MGS,Gangasingh University To Nal,8,eb-bikaner-48,Dudi Petrol Pump
+bikaner-GU-MGS,GU-MGS,Gangasingh University To Nal,9,eb-bikaner-49,Naya Shahar Police Station
+bikaner-GU-MGS,GU-MGS,Gangasingh University To Nal,10,eb-bikaner-50,Gokul Circle
+bikaner-GU-MGS,GU-MGS,Gangasingh University To Nal,11,eb-bikaner-51,Mausam Vibhag Tiraha
+bikaner-GU-MGS,GU-MGS,Gangasingh University To Nal,12,eb-bikaner-39,Karmisar Tiraha
+bikaner-GU-MGS,GU-MGS,Gangasingh University To Nal,13,eb-bikaner-52,MGSU Return
+bikaner-MC-MM,MC-MM,Mukhya Mandi To Mahaveer Chowk,1,eb-bikaner-53,Mukhya Mandi
+bikaner-MC-MM,MC-MM,Mukhya Mandi To Mahaveer Chowk,2,eb-bikaner-54,Bus Stand
+bikaner-MC-MM,MC-MM,Mukhya Mandi To Mahaveer Chowk,3,eb-bikaner-27,Urmool Circle
+bikaner-MC-MM,MC-MM,Mukhya Mandi To Mahaveer Chowk,4,eb-bikaner-6,Museum Circle
+bikaner-MC-MM,MC-MM,Mukhya Mandi To Mahaveer Chowk,5,eb-bikaner-29,Ambedkar Circle
+bikaner-MC-MM,MC-MM,Mukhya Mandi To Mahaveer Chowk,6,eb-bikaner-15,Rani Bazar Circle
+bikaner-MC-MM,MC-MM,Mukhya Mandi To Mahaveer Chowk,7,eb-bikaner-16,Gogagate Circle
+bikaner-MC-MM,MC-MM,Mukhya Mandi To Mahaveer Chowk,8,eb-bikaner-55,Jain School
+bikaner-MC-MM,MC-MM,Mukhya Mandi To Mahaveer Chowk,9,eb-bikaner-56,Kochar Circle
+bikaner-MC-MM,MC-MM,Mukhya Mandi To Mahaveer Chowk,10,eb-bikaner-57,Kumharo Ki Mod
+bikaner-MC-MM,MC-MM,Mukhya Mandi To Mahaveer Chowk,11,eb-bikaner-58,Jain Mandir
+bikaner-MC-MM,MC-MM,Mukhya Mandi To Mahaveer Chowk,12,eb-bikaner-59,Mahaveer Chowk
+bikaner-ANF-RSG,ANF-RSG,Railway Station Gate No. 2 To Ashok Nagar Flate,1,eb-bikaner-60,Railway Station Gate No. 2
+bikaner-ANF-RSG,ANF-RSG,Railway Station Gate No. 2 To Ashok Nagar Flate,2,eb-bikaner-61,Bothra Complex
+bikaner-ANF-RSG,ANF-RSG,Railway Station Gate No. 2 To Ashok Nagar Flate,3,eb-bikaner-62,Agarsen Circle
+bikaner-ANF-RSG,ANF-RSG,Railway Station Gate No. 2 To Ashok Nagar Flate,4,eb-bikaner-63,Tulsi Circle
+bikaner-ANF-RSG,ANF-RSG,Railway Station Gate No. 2 To Ashok Nagar Flate,5,eb-bikaner-29,Ambedkar Circle
+bikaner-ANF-RSG,ANF-RSG,Railway Station Gate No. 2 To Ashok Nagar Flate,6,eb-bikaner-64,Purn Singh Circle
+bikaner-ANF-RSG,ANF-RSG,Railway Station Gate No. 2 To Ashok Nagar Flate,7,eb-bikaner-8,Panchshati Circle
+bikaner-ANF-RSG,ANF-RSG,Railway Station Gate No. 2 To Ashok Nagar Flate,8,eb-bikaner-65,Gautam Chauraha
+bikaner-ANF-RSG,ANF-RSG,Railway Station Gate No. 2 To Ashok Nagar Flate,9,eb-bikaner-66,Law College
+bikaner-ANF-RSG,ANF-RSG,Railway Station Gate No. 2 To Ashok Nagar Flate,10,eb-bikaner-67,Hemu Colony Circle
+bikaner-ANF-RSG,ANF-RSG,Railway Station Gate No. 2 To Ashok Nagar Flate,11,eb-bikaner-68,JNV Police Station
+bikaner-ANF-RSG,ANF-RSG,Railway Station Gate No. 2 To Ashok Nagar Flate,12,eb-bikaner-69,Ashok Nagar Road
+bikaner-ANF-RSG,ANF-RSG,Railway Station Gate No. 2 To Ashok Nagar Flate,13,eb-bikaner-70,Ashok Nagar Flate

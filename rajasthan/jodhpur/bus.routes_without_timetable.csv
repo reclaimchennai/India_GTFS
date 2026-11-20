@@ -1,0 +1,161 @@
+route_id,route_short_name,route_long_name,stop_sequence,stop_id,stop_name
+jodhpur-AII-RTO,AII-RTO,AIIMS To RTO,1,eb-jodhpur-1,AIIMS
+jodhpur-AII-RTO,AII-RTO,AIIMS To RTO,2,eb-jodhpur-2,ITI Chauraha
+jodhpur-AII-RTO,AII-RTO,AIIMS To RTO,3,eb-jodhpur-3,Shastri Circle
+jodhpur-AII-RTO,AII-RTO,AIIMS To RTO,4,eb-jodhpur-4,MDM Hospital
+jodhpur-AII-RTO,AII-RTO,AIIMS To RTO,5,eb-jodhpur-5,Medical Chauraha
+jodhpur-AII-RTO,AII-RTO,AIIMS To RTO,6,eb-jodhpur-6,Jaljog Chauraha
+jodhpur-AII-RTO,AII-RTO,AIIMS To RTO,7,eb-jodhpur-7,12th Road
+jodhpur-AII-RTO,AII-RTO,AIIMS To RTO,8,eb-jodhpur-8,5th Road
+jodhpur-AII-RTO,AII-RTO,AIIMS To RTO,9,eb-jodhpur-9,Gita Bhawan
+jodhpur-AII-RTO,AII-RTO,AIIMS To RTO,10,eb-jodhpur-10,Ummed Hospital
+jodhpur-AII-RTO,AII-RTO,AIIMS To RTO,11,eb-jodhpur-11,Sanichar Ji Than
+jodhpur-AII-RTO,AII-RTO,AIIMS To RTO,12,eb-jodhpur-12,Jalori Gate
+jodhpur-AII-RTO,AII-RTO,AIIMS To RTO,13,eb-jodhpur-13,Olampic Chauraha
+jodhpur-AII-RTO,AII-RTO,AIIMS To RTO,14,eb-jodhpur-14,Railway Station
+jodhpur-AII-RTO,AII-RTO,AIIMS To RTO,15,eb-jodhpur-15,Puri Tiraha
+jodhpur-AII-RTO,AII-RTO,AIIMS To RTO,16,eb-jodhpur-16,Sojati Gate
+jodhpur-AII-RTO,AII-RTO,AIIMS To RTO,17,eb-jodhpur-17,Darpan Cinema
+jodhpur-AII-RTO,AII-RTO,AIIMS To RTO,18,eb-jodhpur-18,Collectoret
+jodhpur-AII-RTO,AII-RTO,AIIMS To RTO,19,eb-jodhpur-19,Poata Chuaraha
+jodhpur-AII-RTO,AII-RTO,AIIMS To RTO,20,eb-jodhpur-20,Poata B Road
+jodhpur-AII-RTO,AII-RTO,AIIMS To RTO,21,eb-jodhpur-21,Hanwant Gad
+jodhpur-AII-RTO,AII-RTO,AIIMS To RTO,22,eb-jodhpur-22,Income Tex
+jodhpur-AII-RTO,AII-RTO,AIIMS To RTO,23,eb-jodhpur-23,Matki Chuaraha
+jodhpur-AII-RTO,AII-RTO,AIIMS To RTO,24,eb-jodhpur-24,RTO
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,1,eb-jodhpur-25,Banad
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,2,eb-jodhpur-26,Bhopalgarh Phanta
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,3,eb-jodhpur-27,Prem Nagar
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,4,eb-jodhpur-28,Khokhariya
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,5,eb-jodhpur-29,Shree Ram Hospital
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,6,eb-jodhpur-30,Nandri Phanta
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,7,eb-jodhpur-31,Ramzan Hattha
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,8,eb-jodhpur-32,Saran Nagar
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,9,eb-jodhpur-33,Digari Phanta
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,10,eb-jodhpur-34,Army School
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,11,eb-jodhpur-35,RTO Crossing
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,12,eb-jodhpur-36,Kalyan Singh Kalvi Pyau
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,13,eb-jodhpur-37,Army Tiraha
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,14,eb-jodhpur-38,Surya nagri avasiya colony
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,15,eb-jodhpur-39,Pavta Chauraha
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,16,eb-jodhpur-40,Tarachandra Circle
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,17,eb-jodhpur-41,Circuit House
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,18,eb-jodhpur-42,Bhati Chauraha
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,19,eb-jodhpur-43,Panch Batti
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,20,eb-jodhpur-44,Green Gates
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,21,eb-jodhpur-45,Mahendra Nath Arora Circle
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,22,eb-jodhpur-46,JDA Circle
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,23,eb-jodhpur-14,Railway Station
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,24,eb-jodhpur-47,Rotary Circle
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,25,eb-jodhpur-48,MDM Circle
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,26,eb-jodhpur-49,Jal Jog Circle
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,27,eb-jodhpur-50,Barahvi Road Crossing
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,28,eb-jodhpur-51,Bombay Motors
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,29,eb-jodhpur-52,Aakhaliya Chauraha
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,30,eb-jodhpur-53,First Puliya
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,31,eb-jodhpur-54,Teesra Puliya
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,32,eb-jodhpur-55,Bhatti Bawdi
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,33,eb-jodhpur-56,Siddhinath Crossing
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,34,eb-jodhpur-57,Pathan Kot
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,35,eb-jodhpur-58,Choupasni School
+jodhpur-R03,R03,Banad To Jaisalmer Bypass Under bridge,36,eb-jodhpur-59,Jaisalmer Bypass Under bridge
+jodhpur-AKS-PAO,AKS-PAO,Paota To Akshardham,1,eb-jodhpur-60,Paota
+jodhpur-AKS-PAO,AKS-PAO,Paota To Akshardham,2,eb-jodhpur-61,New Sadak
+jodhpur-AKS-PAO,AKS-PAO,Paota To Akshardham,3,eb-jodhpur-14,Railway Station
+jodhpur-AKS-PAO,AKS-PAO,Paota To Akshardham,4,eb-jodhpur-12,Jalori Gate
+jodhpur-AKS-PAO,AKS-PAO,Paota To Akshardham,5,eb-jodhpur-8,5th Road
+jodhpur-AKS-PAO,AKS-PAO,Paota To Akshardham,6,eb-jodhpur-62,Bombay Motor
+jodhpur-AKS-PAO,AKS-PAO,Paota To Akshardham,7,eb-jodhpur-63,Aakhliya Circle
+jodhpur-AKS-PAO,AKS-PAO,Paota To Akshardham,8,eb-jodhpur-64,Pratapnagar Chauraha
+jodhpur-AKS-PAO,AKS-PAO,Paota To Akshardham,9,eb-jodhpur-65,National Handloom
+jodhpur-AKS-PAO,AKS-PAO,Paota To Akshardham,10,eb-jodhpur-66,Kaylana Circle
+jodhpur-AKS-PAO,AKS-PAO,Paota To Akshardham,11,eb-jodhpur-67,Kabir Nagar
+jodhpur-AKS-PAO,AKS-PAO,Paota To Akshardham,12,eb-jodhpur-68,Raja Ram Circle
+jodhpur-AKS-PAO,AKS-PAO,Paota To Akshardham,13,eb-jodhpur-69,Baori
+jodhpur-AKS-PAO,AKS-PAO,Paota To Akshardham,14,eb-jodhpur-70,Ridiya Fanta
+jodhpur-AKS-PAO,AKS-PAO,Paota To Akshardham,15,eb-jodhpur-71,Chaupad
+jodhpur-AKS-PAO,AKS-PAO,Paota To Akshardham,16,eb-jodhpur-72,Kali Beri
+jodhpur-AKS-PAO,AKS-PAO,Paota To Akshardham,17,eb-jodhpur-73,Akshardham
+jodhpur-PAO-PEP,PAO-PEP,Paota To Pepsi Chauraha,1,eb-jodhpur-60,Paota
+jodhpur-PAO-PEP,PAO-PEP,Paota To Pepsi Chauraha,2,eb-jodhpur-61,New Sadak
+jodhpur-PAO-PEP,PAO-PEP,Paota To Pepsi Chauraha,3,eb-jodhpur-14,Railway Station
+jodhpur-PAO-PEP,PAO-PEP,Paota To Pepsi Chauraha,4,eb-jodhpur-12,Jalori Gate
+jodhpur-PAO-PEP,PAO-PEP,Paota To Pepsi Chauraha,5,eb-jodhpur-74,Sanichar Ji Ka Than
+jodhpur-PAO-PEP,PAO-PEP,Paota To Pepsi Chauraha,6,eb-jodhpur-8,5th Road
+jodhpur-PAO-PEP,PAO-PEP,Paota To Pepsi Chauraha,7,eb-jodhpur-7,12th Road
+jodhpur-PAO-PEP,PAO-PEP,Paota To Pepsi Chauraha,8,eb-jodhpur-75,Dalle Khan Chhaki
+jodhpur-PAO-PEP,PAO-PEP,Paota To Pepsi Chauraha,9,eb-jodhpur-76,Milkmen Colony
+jodhpur-PAO-PEP,PAO-PEP,Paota To Pepsi Chauraha,10,eb-jodhpur-77,Kheme Ka Kua
+jodhpur-PAO-PEP,PAO-PEP,Paota To Pepsi Chauraha,11,eb-jodhpur-78,Ashok Udhyan
+jodhpur-PAO-PEP,PAO-PEP,Paota To Pepsi Chauraha,12,eb-jodhpur-79,Nehar Chauraha
+jodhpur-PAO-PEP,PAO-PEP,Paota To Pepsi Chauraha,13,eb-jodhpur-80,Pal Balaji
+jodhpur-PAO-PEP,PAO-PEP,Paota To Pepsi Chauraha,14,eb-jodhpur-81,DPS
+jodhpur-PAO-PEP,PAO-PEP,Paota To Pepsi Chauraha,15,eb-jodhpur-82,Thar DPO
+jodhpur-PAO-PEP,PAO-PEP,Paota To Pepsi Chauraha,16,eb-jodhpur-83,Boranada
+jodhpur-PAO-PEP,PAO-PEP,Paota To Pepsi Chauraha,17,eb-jodhpur-84,Jhanwar Fata
+jodhpur-PAO-PEP,PAO-PEP,Paota To Pepsi Chauraha,18,eb-jodhpur-85,Pepsi Chauraha
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,1,eb-jodhpur-86,Salawas
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,2,eb-jodhpur-87,Tanawda
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,3,eb-jodhpur-88,Bhomyaji Than
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,4,eb-jodhpur-89,Sangriya Fata
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,5,eb-jodhpur-90,Sangriya Bypass
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,6,eb-jodhpur-91,5 Star Bijali Ghar
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,7,eb-jodhpur-92,Pashu Aahar
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,8,eb-jodhpur-93,Basni Thana
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,9,eb-jodhpur-94,AIIMS
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,10,eb-jodhpur-95,Dauji Hotel
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,11,eb-jodhpur-96,Diesel Shed
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,12,eb-jodhpur-97,New Power House
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,13,eb-jodhpur-98,ITI
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,14,eb-jodhpur-3,Shastri Circle
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,15,eb-jodhpur-4,MDM Hospital
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,16,eb-jodhpur-47,Rotary Circle
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,17,eb-jodhpur-14,Railway Station
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,18,eb-jodhpur-61,New Sadak
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,19,eb-jodhpur-99,Ummed Stadium
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,20,eb-jodhpur-60,Paota
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,21,eb-jodhpur-100,Khet Singh Bangla
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,22,eb-jodhpur-101,C Road
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,23,eb-jodhpur-102,Mahamandir
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,24,eb-jodhpur-103,Bhadwasiya Fatak
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,25,eb-jodhpur-104,Krisha Mandi
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,26,eb-jodhpur-105,Kishore Bagh
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,27,eb-jodhpur-106,RPT (Raj Police)
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,28,eb-jodhpur-107,BSF Tiraya
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,29,eb-jodhpur-108,Mandore
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,30,eb-jodhpur-25,Banad
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,31,eb-jodhpur-26,Bhopalgarh Phanta
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,32,eb-jodhpur-27,Prem Nagar
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,33,eb-jodhpur-28,Khokhariya
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,34,eb-jodhpur-29,Shree Ram Hospital
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,35,eb-jodhpur-30,Nandri Phanta
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,36,eb-jodhpur-31,Ramzan Hattha
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,37,eb-jodhpur-32,Saran Nagar
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,38,eb-jodhpur-33,Digari Phanta
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,39,eb-jodhpur-34,Army School
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,40,eb-jodhpur-35,RTO Crossing
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,41,eb-jodhpur-36,Kalyan Singh Kalvi Pyau
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,42,eb-jodhpur-37,Army Tiraha
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,43,eb-jodhpur-38,Surya nagri avasiya colony
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,44,eb-jodhpur-39,Pavta Chauraha
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,45,eb-jodhpur-40,Tarachandra Circle
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,46,eb-jodhpur-41,Circuit House
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,47,eb-jodhpur-42,Bhati Chauraha
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,48,eb-jodhpur-43,Panch Batti
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,49,eb-jodhpur-44,Green Gates
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,50,eb-jodhpur-45,Mahendra Nath Arora Circle
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,51,eb-jodhpur-46,JDA Circle
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,52,eb-jodhpur-14,Railway Station
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,53,eb-jodhpur-47,Rotary Circle
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,54,eb-jodhpur-48,MDM Circle
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,55,eb-jodhpur-49,Jal Jog Circle
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,56,eb-jodhpur-50,Barahvi Road Crossing
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,57,eb-jodhpur-51,Bombay Motors
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,58,eb-jodhpur-52,Aakhaliya Chauraha
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,59,eb-jodhpur-53,First Puliya
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,60,eb-jodhpur-54,Teesra Puliya
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,61,eb-jodhpur-55,Bhatti Bawdi
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,62,eb-jodhpur-56,Siddhinath Crossing
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,63,eb-jodhpur-57,Pathan Kot
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,64,eb-jodhpur-58,Choupasni School
+jodhpur-JBU-SAL,JBU-SAL,SALAWAS To MANDORE,65,eb-jodhpur-59,Jaisalmer Bypass Under bridge

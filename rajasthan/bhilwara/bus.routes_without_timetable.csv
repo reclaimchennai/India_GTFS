@@ -1,0 +1,200 @@
+route_id,route_short_name,route_long_name,stop_sequence,stop_id,stop_name
+bhilwara-MT-PUR,MT-PUR,Maharana Tokiz To Pur,1,eb-bhilwara-1,Maharana Tokiz
+bhilwara-MT-PUR,MT-PUR,Maharana Tokiz To Pur,2,eb-bhilwara-2,Roadways Bus Stand
+bhilwara-MT-PUR,MT-PUR,Maharana Tokiz To Pur,3,eb-bhilwara-3,Ajmer Chauraha
+bhilwara-MT-PUR,MT-PUR,Maharana Tokiz To Pur,4,eb-bhilwara-4,Gangapur Choraha
+bhilwara-MT-PUR,MT-PUR,Maharana Tokiz To Pur,5,eb-bhilwara-5,Legend Choraha
+bhilwara-MT-PUR,MT-PUR,Maharana Tokiz To Pur,6,eb-bhilwara-6,Pansal Choraha
+bhilwara-MT-PUR,MT-PUR,Maharana Tokiz To Pur,7,eb-bhilwara-7,Bapunagar Choraha
+bhilwara-MT-PUR,MT-PUR,Maharana Tokiz To Pur,8,eb-bhilwara-8,Aavri Mata Choraha
+bhilwara-MT-PUR,MT-PUR,Maharana Tokiz To Pur,9,eb-bhilwara-9,Biliya
+bhilwara-MT-PUR,MT-PUR,Maharana Tokiz To Pur,10,eb-bhilwara-10,Riico Choraha
+bhilwara-MT-PUR,MT-PUR,Maharana Tokiz To Pur,11,eb-bhilwara-11,RTO Office
+bhilwara-MT-PUR,MT-PUR,Maharana Tokiz To Pur,12,eb-bhilwara-12,Pur Baypas
+bhilwara-MT-PUR,MT-PUR,Maharana Tokiz To Pur,13,eb-bhilwara-13,Pur
+bhilwara-AAM-TKB,AAM-TKB,Tanki Ke Balaji To Aama,1,eb-bhilwara-14,Tanki Ke Balaji
+bhilwara-AAM-TKB,AAM-TKB,Tanki Ke Balaji To Aama,2,eb-bhilwara-15,Keshav Hospital
+bhilwara-AAM-TKB,AAM-TKB,Tanki Ke Balaji To Aama,3,eb-bhilwara-16,Private Bus Stand
+bhilwara-AAM-TKB,AAM-TKB,Tanki Ke Balaji To Aama,4,eb-bhilwara-2,Roadways Bus Stand
+bhilwara-AAM-TKB,AAM-TKB,Tanki Ke Balaji To Aama,5,eb-bhilwara-17,Maharana Tokiz
+bhilwara-AAM-TKB,AAM-TKB,Tanki Ke Balaji To Aama,6,eb-bhilwara-18,Badla Choraha
+bhilwara-AAM-TKB,AAM-TKB,Tanki Ke Balaji To Aama,7,eb-bhilwara-19,Bhavani Nagar Choraha
+bhilwara-AAM-TKB,AAM-TKB,Tanki Ke Balaji To Aama,8,eb-bhilwara-20,Tej Singh Circle
+bhilwara-AAM-TKB,AAM-TKB,Tanki Ke Balaji To Aama,9,eb-bhilwara-21,Badi Harni
+bhilwara-AAM-TKB,AAM-TKB,Tanki Ke Balaji To Aama,10,eb-bhilwara-22,Harni Mahadev
+bhilwara-AAM-TKB,AAM-TKB,Tanki Ke Balaji To Aama,11,eb-bhilwara-23,Sabalpura
+bhilwara-AAM-TKB,AAM-TKB,Tanki Ke Balaji To Aama,12,eb-bhilwara-24,Bholi Choraha
+bhilwara-AAM-TKB,AAM-TKB,Tanki Ke Balaji To Aama,13,eb-bhilwara-25,Kumhariya
+bhilwara-AAM-TKB,AAM-TKB,Tanki Ke Balaji To Aama,14,eb-bhilwara-26,Mangrop
+bhilwara-AAM-TKB,AAM-TKB,Tanki Ke Balaji To Aama,15,eb-bhilwara-27,fagna Ka Kheda
+bhilwara-AAM-TKB,AAM-TKB,Tanki Ke Balaji To Aama,16,eb-bhilwara-28,Khati Kheda
+bhilwara-AAM-TKB,AAM-TKB,Tanki Ke Balaji To Aama,17,eb-bhilwara-29,Siyar
+bhilwara-AAM-TKB,AAM-TKB,Tanki Ke Balaji To Aama,18,eb-bhilwara-30,Kali Radiya
+bhilwara-AAM-TKB,AAM-TKB,Tanki Ke Balaji To Aama,19,eb-bhilwara-31,Aama
+bhilwara-BAG-TKB,BAG-TKB,Tanki Ke Balaji To Bagor,1,eb-bhilwara-14,Tanki Ke Balaji
+bhilwara-BAG-TKB,BAG-TKB,Tanki Ke Balaji To Bagor,2,eb-bhilwara-15,Keshav Hospital
+bhilwara-BAG-TKB,BAG-TKB,Tanki Ke Balaji To Bagor,3,eb-bhilwara-16,Private Bus Stand
+bhilwara-BAG-TKB,BAG-TKB,Tanki Ke Balaji To Bagor,4,eb-bhilwara-2,Roadways Bus Stand
+bhilwara-BAG-TKB,BAG-TKB,Tanki Ke Balaji To Bagor,5,eb-bhilwara-32,Ajmer Choraha
+bhilwara-BAG-TKB,BAG-TKB,Tanki Ke Balaji To Bagor,6,eb-bhilwara-4,Gangapur Choraha
+bhilwara-BAG-TKB,BAG-TKB,Tanki Ke Balaji To Bagor,7,eb-bhilwara-6,Pansal Choraha
+bhilwara-BAG-TKB,BAG-TKB,Tanki Ke Balaji To Bagor,8,eb-bhilwara-33,Ahinsha Banglows
+bhilwara-BAG-TKB,BAG-TKB,Tanki Ke Balaji To Bagor,9,eb-bhilwara-34,Maratha Colony
+bhilwara-BAG-TKB,BAG-TKB,Tanki Ke Balaji To Bagor,10,eb-bhilwara-35,Pansal
+bhilwara-BAG-TKB,BAG-TKB,Tanki Ke Balaji To Bagor,11,eb-bhilwara-36,Jindal Choraha
+bhilwara-BAG-TKB,BAG-TKB,Tanki Ke Balaji To Bagor,12,eb-bhilwara-37,Kotdi
+bhilwara-BAG-TKB,BAG-TKB,Tanki Ke Balaji To Bagor,13,eb-bhilwara-38,Pithas
+bhilwara-BAG-TKB,BAG-TKB,Tanki Ke Balaji To Bagor,14,eb-bhilwara-39,Ghodas
+bhilwara-BAG-TKB,BAG-TKB,Tanki Ke Balaji To Bagor,15,eb-bhilwara-40,Karanwas
+bhilwara-BAG-TKB,BAG-TKB,Tanki Ke Balaji To Bagor,16,eb-bhilwara-41,Bagor
+bhilwara-BHA-TKB,BHA-TKB,Tanki Ke Balaji To Bhadu,1,eb-bhilwara-42,Tanki Ke Bajaji
+bhilwara-BHA-TKB,BHA-TKB,Tanki Ke Balaji To Bhadu,2,eb-bhilwara-15,Keshav Hospital
+bhilwara-BHA-TKB,BHA-TKB,Tanki Ke Balaji To Bhadu,3,eb-bhilwara-43,Private Stand
+bhilwara-BHA-TKB,BHA-TKB,Tanki Ke Balaji To Bhadu,4,eb-bhilwara-2,Roadways Bus Stand
+bhilwara-BHA-TKB,BHA-TKB,Tanki Ke Balaji To Bhadu,5,eb-bhilwara-3,Ajmer Chauraha
+bhilwara-BHA-TKB,BHA-TKB,Tanki Ke Balaji To Bhadu,6,eb-bhilwara-44,Gayatri Ashram
+bhilwara-BHA-TKB,BHA-TKB,Tanki Ke Balaji To Bhadu,7,eb-bhilwara-45,UIT
+bhilwara-BHA-TKB,BHA-TKB,Tanki Ke Balaji To Bhadu,8,eb-bhilwara-46,Sukhadiya Circle
+bhilwara-BHA-TKB,BHA-TKB,Tanki Ke Balaji To Bhadu,9,eb-bhilwara-47,Jodhraj Fatak
+bhilwara-BHA-TKB,BHA-TKB,Tanki Ke Balaji To Bhadu,10,eb-bhilwara-48,Saras Dairy
+bhilwara-BHA-TKB,BHA-TKB,Tanki Ke Balaji To Bhadu,11,eb-bhilwara-49,Arjiya Chauraha
+bhilwara-BHA-TKB,BHA-TKB,Tanki Ke Balaji To Bhadu,12,eb-bhilwara-50,Bhadali Kheda Chauraha
+bhilwara-BHA-TKB,BHA-TKB,Tanki Ke Balaji To Bhadu,13,eb-bhilwara-51,Mandal Chauraha
+bhilwara-BHA-TKB,BHA-TKB,Tanki Ke Balaji To Bhadu,14,eb-bhilwara-52,SDM Office
+bhilwara-BHA-TKB,BHA-TKB,Tanki Ke Balaji To Bhadu,15,eb-bhilwara-53,Mandal Gaon
+bhilwara-BHA-TKB,BHA-TKB,Tanki Ke Balaji To Bhadu,16,eb-bhilwara-54,Meja
+bhilwara-BHA-TKB,BHA-TKB,Tanki Ke Balaji To Bhadu,17,eb-bhilwara-55,Chakki Chauraha
+bhilwara-BHA-TKB,BHA-TKB,Tanki Ke Balaji To Bhadu,18,eb-bhilwara-56,Bhadu
+bhilwara-GAD-TKB,GAD-TKB,Tanki Ke Balaji To Gadarmala,1,eb-bhilwara-14,Tanki Ke Balaji
+bhilwara-GAD-TKB,GAD-TKB,Tanki Ke Balaji To Gadarmala,2,eb-bhilwara-15,Keshav Hospital
+bhilwara-GAD-TKB,GAD-TKB,Tanki Ke Balaji To Gadarmala,3,eb-bhilwara-57,Privet Bus Stand
+bhilwara-GAD-TKB,GAD-TKB,Tanki Ke Balaji To Gadarmala,4,eb-bhilwara-2,Roadways Bus Stand
+bhilwara-GAD-TKB,GAD-TKB,Tanki Ke Balaji To Gadarmala,5,eb-bhilwara-58,Ajmer chauhara
+bhilwara-GAD-TKB,GAD-TKB,Tanki Ke Balaji To Gadarmala,6,eb-bhilwara-4,Gangapur Choraha
+bhilwara-GAD-TKB,GAD-TKB,Tanki Ke Balaji To Gadarmala,7,eb-bhilwara-59,S.K Plaza
+bhilwara-GAD-TKB,GAD-TKB,Tanki Ke Balaji To Gadarmala,8,eb-bhilwara-6,Pansal Choraha
+bhilwara-GAD-TKB,GAD-TKB,Tanki Ke Balaji To Gadarmala,9,eb-bhilwara-60,Aavri Mata Chauraha
+bhilwara-GAD-TKB,GAD-TKB,Tanki Ke Balaji To Gadarmala,10,eb-bhilwara-9,Biliya
+bhilwara-GAD-TKB,GAD-TKB,Tanki Ke Balaji To Gadarmala,11,eb-bhilwara-61,Ricco Choraha
+bhilwara-GAD-TKB,GAD-TKB,Tanki Ke Balaji To Gadarmala,12,eb-bhilwara-11,RTO Office
+bhilwara-GAD-TKB,GAD-TKB,Tanki Ke Balaji To Gadarmala,13,eb-bhilwara-13,Pur
+bhilwara-GAD-TKB,GAD-TKB,Tanki Ke Balaji To Gadarmala,14,eb-bhilwara-62,Roleksh
+bhilwara-GAD-TKB,GAD-TKB,Tanki Ke Balaji To Gadarmala,15,eb-bhilwara-63,Nogava Get
+bhilwara-GAD-TKB,GAD-TKB,Tanki Ke Balaji To Gadarmala,16,eb-bhilwara-64,Savariya Sheth Mandir
+bhilwara-GAD-TKB,GAD-TKB,Tanki Ke Balaji To Gadarmala,17,eb-bhilwara-65,Nogava Gav
+bhilwara-GAD-TKB,GAD-TKB,Tanki Ke Balaji To Gadarmala,18,eb-bhilwara-66,Gadarmala
+bhilwara-HAM-TKB,HAM-TKB,Tanki ke Balaji To Hamirgadh,1,eb-bhilwara-96,Tanki Ka balaji
+bhilwara-HAM-TKB,HAM-TKB,Tanki ke Balaji To Hamirgadh,2,eb-bhilwara-15,Keshav Hospital
+bhilwara-HAM-TKB,HAM-TKB,Tanki ke Balaji To Hamirgadh,3,eb-bhilwara-16,Private Bus Stand
+bhilwara-HAM-TKB,HAM-TKB,Tanki ke Balaji To Hamirgadh,4,eb-bhilwara-2,Roadways Bus Stand
+bhilwara-HAM-TKB,HAM-TKB,Tanki ke Balaji To Hamirgadh,5,eb-bhilwara-3,Ajmer Chauraha
+bhilwara-HAM-TKB,HAM-TKB,Tanki ke Balaji To Hamirgadh,6,eb-bhilwara-97,Circet House
+bhilwara-HAM-TKB,HAM-TKB,Tanki ke Balaji To Hamirgadh,7,eb-bhilwara-98,Ramdham chouraya
+bhilwara-HAM-TKB,HAM-TKB,Tanki ke Balaji To Hamirgadh,8,eb-bhilwara-99,Transport Nagar
+bhilwara-HAM-TKB,HAM-TKB,Tanki ke Balaji To Hamirgadh,9,eb-bhilwara-100,Chandrashekhar Azad Nagar
+bhilwara-HAM-TKB,HAM-TKB,Tanki ke Balaji To Hamirgadh,10,eb-bhilwara-101,Aatun Chauraha
+bhilwara-HAM-TKB,HAM-TKB,Tanki ke Balaji To Hamirgadh,11,eb-bhilwara-102,Sangam House
+bhilwara-HAM-TKB,HAM-TKB,Tanki ke Balaji To Hamirgadh,12,eb-bhilwara-103,Mandpiya
+bhilwara-HAM-TKB,HAM-TKB,Tanki ke Balaji To Hamirgadh,13,eb-bhilwara-104,Mandpiya Choraha
+bhilwara-HAM-TKB,HAM-TKB,Tanki ke Balaji To Hamirgadh,14,eb-bhilwara-105,Guvaradi
+bhilwara-HAM-TKB,HAM-TKB,Tanki ke Balaji To Hamirgadh,15,eb-bhilwara-106,Swaroop Gunj
+bhilwara-HAM-TKB,HAM-TKB,Tanki ke Balaji To Hamirgadh,16,eb-bhilwara-107,Kanya Khedi
+bhilwara-HAM-TKB,HAM-TKB,Tanki ke Balaji To Hamirgadh,17,eb-bhilwara-108,Hamirgarh Station
+bhilwara-HAM-TKB,HAM-TKB,Tanki ke Balaji To Hamirgadh,18,eb-bhilwara-109,Hamirgarh
+bhilwara-KAR-TKB,KAR-TKB,Tanki Ke Balaji To Karoi,1,eb-bhilwara-14,Tanki Ke Balaji
+bhilwara-KAR-TKB,KAR-TKB,Tanki Ke Balaji To Karoi,2,eb-bhilwara-15,Keshav Hospital
+bhilwara-KAR-TKB,KAR-TKB,Tanki Ke Balaji To Karoi,3,eb-bhilwara-16,Private Bus Stand
+bhilwara-KAR-TKB,KAR-TKB,Tanki Ke Balaji To Karoi,4,eb-bhilwara-2,Roadways Bus Stand
+bhilwara-KAR-TKB,KAR-TKB,Tanki Ke Balaji To Karoi,5,eb-bhilwara-32,Ajmer Choraha
+bhilwara-KAR-TKB,KAR-TKB,Tanki Ke Balaji To Karoi,6,eb-bhilwara-4,Gangapur Choraha
+bhilwara-KAR-TKB,KAR-TKB,Tanki Ke Balaji To Karoi,7,eb-bhilwara-59,S.K Plaza
+bhilwara-KAR-TKB,KAR-TKB,Tanki Ke Balaji To Karoi,8,eb-bhilwara-6,Pansal Choraha
+bhilwara-KAR-TKB,KAR-TKB,Tanki Ke Balaji To Karoi,9,eb-bhilwara-125,Aavri Mata Chowk
+bhilwara-KAR-TKB,KAR-TKB,Tanki Ke Balaji To Karoi,10,eb-bhilwara-9,Biliya
+bhilwara-KAR-TKB,KAR-TKB,Tanki Ke Balaji To Karoi,11,eb-bhilwara-126,Riko Choraha
+bhilwara-KAR-TKB,KAR-TKB,Tanki Ke Balaji To Karoi,12,eb-bhilwara-127,RTO Circle
+bhilwara-KAR-TKB,KAR-TKB,Tanki Ke Balaji To Karoi,13,eb-bhilwara-13,Pur
+bhilwara-KAR-TKB,KAR-TKB,Tanki Ke Balaji To Karoi,14,eb-bhilwara-62,Roleksh
+bhilwara-KAR-TKB,KAR-TKB,Tanki Ke Balaji To Karoi,15,eb-bhilwara-128,Nogava Choraha
+bhilwara-KAR-TKB,KAR-TKB,Tanki Ke Balaji To Karoi,16,eb-bhilwara-129,Gurla
+bhilwara-KAR-TKB,KAR-TKB,Tanki Ke Balaji To Karoi,17,eb-bhilwara-130,Karoi
+bhilwara-KOT-TKB,KOT-TKB,Tanki ke Balaji To Kotri,1,eb-bhilwara-14,Tanki Ke Balaji
+bhilwara-KOT-TKB,KOT-TKB,Tanki ke Balaji To Kotri,2,eb-bhilwara-15,Keshav Hospital
+bhilwara-KOT-TKB,KOT-TKB,Tanki ke Balaji To Kotri,3,eb-bhilwara-110,Rajiv Gandhi Auditorium
+bhilwara-KOT-TKB,KOT-TKB,Tanki ke Balaji To Kotri,4,eb-bhilwara-111,Moti Bawji Chauraha
+bhilwara-KOT-TKB,KOT-TKB,Tanki ke Balaji To Kotri,5,eb-bhilwara-112,Sanganeri Gate
+bhilwara-KOT-TKB,KOT-TKB,Tanki ke Balaji To Kotri,6,eb-bhilwara-113,Odisha Circle
+bhilwara-KOT-TKB,KOT-TKB,Tanki ke Balaji To Kotri,7,eb-bhilwara-114,Iras Chauraha
+bhilwara-KOT-TKB,KOT-TKB,Tanki ke Balaji To Kotri,8,eb-bhilwara-115,Suwana
+bhilwara-KOT-TKB,KOT-TKB,Tanki ke Balaji To Kotri,9,eb-bhilwara-116,Aypura Chauraha
+bhilwara-KOT-TKB,KOT-TKB,Tanki ke Balaji To Kotri,10,eb-bhilwara-117,Kokunda
+bhilwara-KOT-TKB,KOT-TKB,Tanki ke Balaji To Kotri,11,eb-bhilwara-118,Satola Kheda
+bhilwara-KOT-TKB,KOT-TKB,Tanki ke Balaji To Kotri,12,eb-bhilwara-119,Hamesh Mata
+bhilwara-KOT-TKB,KOT-TKB,Tanki ke Balaji To Kotri,13,eb-bhilwara-120,Kodia
+bhilwara-KOT-TKB,KOT-TKB,Tanki ke Balaji To Kotri,14,eb-bhilwara-121,Rit Chauraha
+bhilwara-KOT-TKB,KOT-TKB,Tanki ke Balaji To Kotri,15,eb-bhilwara-122,Kholpura
+bhilwara-KOT-TKB,KOT-TKB,Tanki ke Balaji To Kotri,16,eb-bhilwara-123,Nehru Nagar
+bhilwara-KOT-TKB,KOT-TKB,Tanki ke Balaji To Kotri,17,eb-bhilwara-124,Kotri
+bhilwara-RAY-TKB,RAY-TKB,Tanki Ke Balaji To Rayla,1,eb-bhilwara-14,Tanki Ke Balaji
+bhilwara-RAY-TKB,RAY-TKB,Tanki Ke Balaji To Rayla,2,eb-bhilwara-15,Keshav Hospital
+bhilwara-RAY-TKB,RAY-TKB,Tanki Ke Balaji To Rayla,3,eb-bhilwara-16,Private Bus Stand
+bhilwara-RAY-TKB,RAY-TKB,Tanki Ke Balaji To Rayla,4,eb-bhilwara-2,Roadways Bus Stand
+bhilwara-RAY-TKB,RAY-TKB,Tanki Ke Balaji To Rayla,5,eb-bhilwara-32,Ajmer Choraha
+bhilwara-RAY-TKB,RAY-TKB,Tanki Ke Balaji To Rayla,6,eb-bhilwara-44,Gayatri Ashram
+bhilwara-RAY-TKB,RAY-TKB,Tanki Ke Balaji To Rayla,7,eb-bhilwara-45,UIT
+bhilwara-RAY-TKB,RAY-TKB,Tanki Ke Balaji To Rayla,8,eb-bhilwara-46,Sukhadiya Circle
+bhilwara-RAY-TKB,RAY-TKB,Tanki Ke Balaji To Rayla,9,eb-bhilwara-67,Jodhraj Fatak
+bhilwara-RAY-TKB,RAY-TKB,Tanki Ke Balaji To Rayla,10,eb-bhilwara-48,Saras Dairy
+bhilwara-RAY-TKB,RAY-TKB,Tanki Ke Balaji To Rayla,11,eb-bhilwara-68,Aarjiya Choraha
+bhilwara-RAY-TKB,RAY-TKB,Tanki Ke Balaji To Rayla,12,eb-bhilwara-69,Mandali Kheda Chauraha
+bhilwara-RAY-TKB,RAY-TKB,Tanki Ke Balaji To Rayla,13,eb-bhilwara-51,Mandal Chauraha
+bhilwara-RAY-TKB,RAY-TKB,Tanki Ke Balaji To Rayla,14,eb-bhilwara-70,Shahpur Choraha
+bhilwara-RAY-TKB,RAY-TKB,Tanki Ke Balaji To Rayla,15,eb-bhilwara-71,Nanakpura
+bhilwara-RAY-TKB,RAY-TKB,Tanki Ke Balaji To Rayla,16,eb-bhilwara-72,Jashvantpura
+bhilwara-RAY-TKB,RAY-TKB,Tanki Ke Balaji To Rayla,17,eb-bhilwara-73,Lambiya
+bhilwara-RAY-TKB,RAY-TKB,Tanki Ke Balaji To Rayla,18,eb-bhilwara-74,Rayla
+bhilwara-SIN-TKB,SIN-TKB,Tanki Ke Balaji To Singoli,1,eb-bhilwara-14,Tanki Ke Balaji
+bhilwara-SIN-TKB,SIN-TKB,Tanki Ke Balaji To Singoli,2,eb-bhilwara-15,Keshav Hospital
+bhilwara-SIN-TKB,SIN-TKB,Tanki Ke Balaji To Singoli,3,eb-bhilwara-16,Private Bus Stand
+bhilwara-SIN-TKB,SIN-TKB,Tanki Ke Balaji To Singoli,4,eb-bhilwara-75,Maharana Pratap tokij
+bhilwara-SIN-TKB,SIN-TKB,Tanki Ke Balaji To Singoli,5,eb-bhilwara-76,Girls College
+bhilwara-SIN-TKB,SIN-TKB,Tanki Ke Balaji To Singoli,6,eb-bhilwara-18,Badla Choraha
+bhilwara-SIN-TKB,SIN-TKB,Tanki Ke Balaji To Singoli,7,eb-bhilwara-77,Bhavani Nagar Chauraha
+bhilwara-SIN-TKB,SIN-TKB,Tanki Ke Balaji To Singoli,8,eb-bhilwara-78,Haled Choraha
+bhilwara-SIN-TKB,SIN-TKB,Tanki Ke Balaji To Singoli,9,eb-bhilwara-79,Haled Gav
+bhilwara-SIN-TKB,SIN-TKB,Tanki Ke Balaji To Singoli,10,eb-bhilwara-80,Danthal
+bhilwara-SIN-TKB,SIN-TKB,Tanki Ke Balaji To Singoli,11,eb-bhilwara-81,Jitya Khedi
+bhilwara-SIN-TKB,SIN-TKB,Tanki Ke Balaji To Singoli,12,eb-bhilwara-82,Batko Ka Kheda
+bhilwara-SIN-TKB,SIN-TKB,Tanki Ke Balaji To Singoli,13,eb-bhilwara-83,Hasiyas
+bhilwara-SIN-TKB,SIN-TKB,Tanki Ke Balaji To Singoli,14,eb-bhilwara-84,Mahesh Pura
+bhilwara-SIN-TKB,SIN-TKB,Tanki Ke Balaji To Singoli,15,eb-bhilwara-85,Ven Chauraha
+bhilwara-SIN-TKB,SIN-TKB,Tanki Ke Balaji To Singoli,16,eb-bhilwara-86,Gendliya
+bhilwara-SIN-TKB,SIN-TKB,Tanki Ke Balaji To Singoli,17,eb-bhilwara-87,Jitya
+bhilwara-SIN-TKB,SIN-TKB,Tanki Ke Balaji To Singoli,18,eb-bhilwara-88,Badalivas
+bhilwara-SIN-TKB,SIN-TKB,Tanki Ke Balaji To Singoli,19,eb-bhilwara-89,Chavra Hanuman
+bhilwara-SIN-TKB,SIN-TKB,Tanki Ke Balaji To Singoli,20,eb-bhilwara-90,Bada Kheda Chauraha
+bhilwara-SIN-TKB,SIN-TKB,Tanki Ke Balaji To Singoli,21,eb-bhilwara-91,Bilod
+bhilwara-SIN-TKB,SIN-TKB,Tanki Ke Balaji To Singoli,22,eb-bhilwara-92,Bhareduni
+bhilwara-SIN-TKB,SIN-TKB,Tanki Ke Balaji To Singoli,23,eb-bhilwara-93,Ved Vidyalaya Chauraha
+bhilwara-SIN-TKB,SIN-TKB,Tanki Ke Balaji To Singoli,24,eb-bhilwara-94,Devliya
+bhilwara-SIN-TKB,SIN-TKB,Tanki Ke Balaji To Singoli,25,eb-bhilwara-95,Singoli
+bhilwara-TKB-TRI,TKB-TRI,Tanki Ke Balaji To Triveni,1,eb-bhilwara-14,Tanki Ke Balaji
+bhilwara-TKB-TRI,TKB-TRI,Tanki Ke Balaji To Triveni,2,eb-bhilwara-131,Keshv Hospital
+bhilwara-TKB-TRI,TKB-TRI,Tanki Ke Balaji To Triveni,3,eb-bhilwara-16,Private Bus Stand
+bhilwara-TKB-TRI,TKB-TRI,Tanki Ke Balaji To Triveni,4,eb-bhilwara-2,Roadways Bus Stand
+bhilwara-TKB-TRI,TKB-TRI,Tanki Ke Balaji To Triveni,5,eb-bhilwara-132,Sanganeri Circle
+bhilwara-TKB-TRI,TKB-TRI,Tanki Ke Balaji To Triveni,6,eb-bhilwara-133,Ahinsha Circle
+bhilwara-TKB-TRI,TKB-TRI,Tanki Ke Balaji To Triveni,7,eb-bhilwara-114,Iras Chauraha
+bhilwara-TKB-TRI,TKB-TRI,Tanki Ke Balaji To Triveni,8,eb-bhilwara-115,Suwana
+bhilwara-TKB-TRI,TKB-TRI,Tanki Ke Balaji To Triveni,9,eb-bhilwara-134,Kotri Chauraha
+bhilwara-TKB-TRI,TKB-TRI,Tanki Ke Balaji To Triveni,10,eb-bhilwara-135,Agarpura
+bhilwara-TKB-TRI,TKB-TRI,Tanki Ke Balaji To Triveni,11,eb-bhilwara-136,Rupaheli
+bhilwara-TKB-TRI,TKB-TRI,Tanki Ke Balaji To Triveni,12,eb-bhilwara-137,Chavandiya
+bhilwara-TKB-TRI,TKB-TRI,Tanki Ke Balaji To Triveni,13,eb-bhilwara-138,Banka kheda
+bhilwara-TKB-TRI,TKB-TRI,Tanki Ke Balaji To Triveni,14,eb-bhilwara-139,Savaipur
+bhilwara-TKB-TRI,TKB-TRI,Tanki Ke Balaji To Triveni,15,eb-bhilwara-140,Aakola Choraha
+bhilwara-TKB-TRI,TKB-TRI,Tanki Ke Balaji To Triveni,16,eb-bhilwara-141,Kudi
+bhilwara-TKB-TRI,TKB-TRI,Tanki Ke Balaji To Triveni,17,eb-bhilwara-142,Sopura
+bhilwara-TKB-TRI,TKB-TRI,Tanki Ke Balaji To Triveni,18,eb-bhilwara-143,Naya Gav
+bhilwara-TKB-TRI,TKB-TRI,Tanki Ke Balaji To Triveni,19,eb-bhilwara-144,Bigod
+bhilwara-TKB-TRI,TKB-TRI,Tanki Ke Balaji To Triveni,20,eb-bhilwara-145,Triveni

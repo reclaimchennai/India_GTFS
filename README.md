@@ -70,7 +70,11 @@ changes we made.
 | [Odisha](odisha/README.md) | OSRTC (Odisha, statewide) | bus |  |  |  | | ✓ | [gtfs.zip](https://maps.reclaim.city/osrtc/rt/gtfs.zip) |
 | [Odisha](odisha/README.md) | Rourkela | bus | 160 | 1,081 | 1,042 | 2026-11-02 – 2027-11-02 |  | [bus.zip](odisha/rourkela/bus.zip) |
 | [Punjab](punjab/README.md) | Amritsar | bus |  |  |  | |  | — |
+| [Rajasthan](rajasthan/README.md) | Bhilwara (city e-buses, PM e-Bus Sewa) | bus |  |  |  | |  | — |
+| [Rajasthan](rajasthan/README.md) | Bikaner (BCTSL city e-buses, PM e-Bus Sewa) | bus |  |  |  | |  | — |
 | [Rajasthan](rajasthan/README.md) | Jaipur | bus | 60 | 903 | 1,421 | 2026-11-02 – 2027-11-02 |  | [bus.zip](rajasthan/jaipur/bus.zip) |
+| [Rajasthan](rajasthan/README.md) | Jodhpur (JBSL city e-buses, PM e-Bus Sewa) | bus |  |  |  | |  | — |
+| [Rajasthan](rajasthan/README.md) | Kota (KBSL city e-buses, PM e-Bus Sewa) | bus |  |  |  | |  | — |
 | [Rajasthan](rajasthan/README.md) | Udaipur | bus | 28 | 243 | 303 | 2026-11-02 – 2027-11-02 |  | [bus.zip](rajasthan/udaipur/bus.zip) |
 | [Tamil Nadu](tamil-nadu/README.md) | Chennai MTC | bus | 1,092 | 3,768 | 51,763 | 2026-01-01 – 2027-12-31 | ✓ | [mtc-bus.zip](tamil-nadu/chennai/mtc-bus.zip) |
 | [Tamil Nadu](tamil-nadu/README.md) | Chennai Metro (CMRL) | metro | 3 | 294 | 749 | 2026-01-01 – 2027-12-31 |  | [metro-cmrl.zip](tamil-nadu/chennai/metro-cmrl.zip) |
@@ -307,7 +311,11 @@ is. Check each source before commercial use.
 | OSRTC (Odisha, statewide) | [OSRTC Track a Bus, as seen by the reclaim.city live poller](https://osrtc.org/) | none stated |
 | Rourkela | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Amritsar | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
+| Bhilwara (city e-buses, PM e-Bus Sewa) | [Katch city bus tracking (katchapp.in/bus_tracking): the cities' published route maps (KML) and live GPS, built into GTFS by reclaim.city](https://katchapp.in/bus_tracking) | none stated |
+| Bikaner (BCTSL city e-buses, PM e-Bus Sewa) | [Katch city bus tracking (katchapp.in/bus_tracking): the cities' published route maps (KML) and live GPS, built into GTFS by reclaim.city](https://katchapp.in/bus_tracking) | none stated |
 | Jaipur | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
+| Jodhpur (JBSL city e-buses, PM e-Bus Sewa) | [Katch city bus tracking (katchapp.in/bus_tracking): the cities' published route maps (KML) and live GPS, built into GTFS by reclaim.city](https://katchapp.in/bus_tracking) | none stated |
+| Kota (KBSL city e-buses, PM e-Bus Sewa) | [Katch city bus tracking (katchapp.in/bus_tracking): the cities' published route maps (KML) and live GPS, built into GTFS by reclaim.city](https://katchapp.in/bus_tracking) | none stated |
 | Udaipur | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Chennai MTC | [reclaimchennai/ChennaiGTFS, Chennai One MTC feed](https://github.com/reclaimchennai/ChennaiGTFS/tree/chennai-one-feeds) | none stated |
 | Chennai Metro (CMRL) | [reclaimchennai/ChennaiGTFS, Chennai One CMRL feed](https://github.com/reclaimchennai/ChennaiGTFS/tree/chennai-one-feeds) | ODbL |

@@ -1,0 +1,197 @@
+route_id,route_short_name,route_long_name,stop_sequence,stop_id,stop_name
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,1,eb-kota-1,Arandkheda
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,2,eb-kota-2,Balapura
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,3,eb-kota-3,Galana Gaon
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,4,eb-kota-4,Gandifali
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,5,eb-kota-5,Abhaypura
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,6,eb-kota-6,Kaithoon Bus Stand
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,7,eb-kota-7,Kheda Rampura
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,8,eb-kota-8,Dhakad khedi
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,9,eb-kota-9,Dhakad Khedi Over Bridge
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,10,eb-kota-10,Raipura
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,11,eb-kota-11,DCM Circle
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,12,eb-kota-12,Kansuwa
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,13,eb-kota-13,Sanjay Nagar ITI
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,14,eb-kota-14,Aerodrame Circle
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,15,eb-kota-15,Chawani Circle
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,16,eb-kota-16,Gumanpura
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,17,eb-kota-17,Sabjimandi  New  Cloth Market
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,18,eb-kota-18,Jaipur Golden
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,19,eb-kota-19,Nayapura Vivekanand Circle
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,20,eb-kota-20,SP Office Circle
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,21,eb-kota-21,Borkheda Cannal Road
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,22,eb-kota-22,Borkheda
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,23,eb-kota-23,Agriculture University Kota
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,24,eb-kota-24,Manpura
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,25,eb-kota-25,Coral Park Naya Nohara
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,26,eb-kota-26,Jagannathpura
+kota-R07,R07,07 ArandkhedaAC To Jhalipura Kota,27,eb-kota-27,Jhalipura
+kota-R08,R08,08 Simliya To Badgaon Kota,1,eb-kota-28,Simliya
+kota-R08,R08,08 Simliya To Badgaon Kota,2,eb-kota-29,Simliya Baipas
+kota-R08,R08,08 Simliya To Badgaon Kota,3,eb-kota-30,Karadiya Gaon
+kota-R08,R08,08 Simliya To Badgaon Kota,4,eb-kota-31,Polai kalan Baipas
+kota-R08,R08,08 Simliya To Badgaon Kota,5,eb-kota-32,Polai kalan Gaon Inside
+kota-R08,R08,08 Simliya To Badgaon Kota,6,eb-kota-33,Dahara Gaon
+kota-R08,R08,08 Simliya To Badgaon Kota,7,eb-kota-34,Kaithodi Gaon
+kota-R08,R08,08 Simliya To Badgaon Kota,8,eb-kota-35,Tathed Gaon Inside
+kota-R08,R08,08 Simliya To Badgaon Kota,9,eb-kota-36,Manas Gaon
+kota-R08,R08,08 Simliya To Badgaon Kota,10,eb-kota-37,Jhalipura Baipas
+kota-R08,R08,08 Simliya To Badgaon Kota,11,eb-kota-38,Jagannath Baipas
+kota-R08,R08,08 Simliya To Badgaon Kota,12,eb-kota-39,Borkhandi
+kota-R08,R08,08 Simliya To Badgaon Kota,13,eb-kota-40,Naya Nohra
+kota-R08,R08,08 Simliya To Badgaon Kota,14,eb-kota-24,Manpura
+kota-R08,R08,08 Simliya To Badgaon Kota,15,eb-kota-23,Agriculture University Kota
+kota-R08,R08,08 Simliya To Badgaon Kota,16,eb-kota-22,Borkheda
+kota-R08,R08,08 Simliya To Badgaon Kota,17,eb-kota-20,SP Office Circle
+kota-R08,R08,08 Simliya To Badgaon Kota,18,eb-kota-41,Antaghar JDB Link Road
+kota-R08,R08,08 Simliya To Badgaon Kota,19,eb-kota-19,Nayapura Vivekanand Circle
+kota-R08,R08,08 Simliya To Badgaon Kota,20,eb-kota-42,Maharana Pratap Circle
+kota-R08,R08,08 Simliya To Badgaon Kota,21,eb-kota-43,Thermal Circle
+kota-R08,R08,08 Simliya To Badgaon Kota,22,eb-kota-44,Nanta Circle
+kota-R08,R08,08 Simliya To Badgaon Kota,23,eb-kota-45,Abheda Mahal
+kota-R08,R08,08 Simliya To Badgaon Kota,24,eb-kota-46,Pathar Mandi Circle
+kota-R08,R08,08 Simliya To Badgaon Kota,25,eb-kota-47,Mohanlal Sukhadiya Awasiya Yojana
+kota-R08,R08,08 Simliya To Badgaon Kota,26,eb-kota-48,Badgaon
+kota-R09,R09,09 Kolipura Gaon To Gawadi Kota,1,eb-kota-49,Kolipura Gaon
+kota-R09,R09,09 Kolipura Gaon To Gawadi Kota,2,eb-kota-50,Borabans
+kota-R09,R09,09 Kolipura Gaon To Gawadi Kota,3,eb-kota-51,Jamuniya
+kota-R09,R09,09 Kolipura Gaon To Gawadi Kota,4,eb-kota-52,Balinda Gaon
+kota-R09,R09,09 Kolipura Gaon To Gawadi Kota,5,eb-kota-53,Rath Kankara
+kota-R09,R09,09 Kolipura Gaon To Gawadi Kota,6,eb-kota-54,Daulatganj
+kota-R09,R09,09 Kolipura Gaon To Gawadi Kota,7,eb-kota-55,Naya Gaon
+kota-R09,R09,09 Kolipura Gaon To Gawadi Kota,8,eb-kota-56,Vardhaman Open University Kota
+kota-R09,R09,09 Kolipura Gaon To Gawadi Kota,9,eb-kota-57,RTU Kota
+kota-R09,R09,09 Kolipura Gaon To Gawadi Kota,10,eb-kota-58,Shivpura
+kota-R09,R09,09 Kolipura Gaon To Gawadi Kota,11,eb-kota-59,Godavari Dham Balaji Mandir
+kota-R09,R09,09 Kolipura Gaon To Gawadi Kota,12,eb-kota-60,Chamble Garden
+kota-R09,R09,09 Kolipura Gaon To Gawadi Kota,13,eb-kota-61,CAD Circle
+kota-R09,R09,09 Kolipura Gaon To Gawadi Kota,14,eb-kota-62,Aerodrome Circle
+kota-R09,R09,09 Kolipura Gaon To Gawadi Kota,15,eb-kota-15,Chawani Circle
+kota-R09,R09,09 Kolipura Gaon To Gawadi Kota,16,eb-kota-63,Kotari Circle
+kota-R09,R09,09 Kolipura Gaon To Gawadi Kota,17,eb-kota-64,Bad Tiraha New Private Bus Stand
+kota-R09,R09,09 Kolipura Gaon To Gawadi Kota,18,eb-kota-65,JDB College
+kota-R09,R09,09 Kolipura Gaon To Gawadi Kota,19,eb-kota-66,Nayapura Vivekanad Circle
+kota-R09,R09,09 Kolipura Gaon To Gawadi Kota,20,eb-kota-67,J K Lone Hospital
+kota-R09,R09,09 Kolipura Gaon To Gawadi Kota,21,eb-kota-68,MBS Hospital
+kota-R09,R09,09 Kolipura Gaon To Gawadi Kota,22,eb-kota-69,Collectrate Circle
+kota-R09,R09,09 Kolipura Gaon To Gawadi Kota,23,eb-kota-70,Gawadi
+kota-R09,R09,09 Kolipura Gaon To Gawadi Kota,24,eb-kota-71,Khedali Fatak
+kota-R09,R09,09 Kolipura Gaon To Gawadi Kota,25,eb-kota-72,Railway	Station	Platform No.1
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,1,eb-kota-73,New Bus Stand RSRTC
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,2,eb-kota-74,Polytechnic College
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,3,eb-kota-75,Aerodrame Circle/New Dhan Mandi
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,4,eb-kota-76,Ghode Wala Circle
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,5,eb-kota-77,Bakara Mandi
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,6,eb-kota-61,CAD Circle
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,7,eb-kota-78,Kishorepura/Dhar ke Balaji ke paas
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,8,eb-kota-79,Garh Palace/Chamble River front
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,9,eb-kota-80,Thermal Circle/Jahaz Circle
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,10,eb-kota-81,Thermal Colony/CRF West Gate
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,11,eb-kota-82,Nakachungi/LED Circle
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,12,eb-kota-83,Nanta Cannal Circle
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,13,eb-kota-84,Nanta Circle
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,14,eb-kota-45,Abheda Mahal
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,15,eb-kota-85,Karani Mata Mandir
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,16,eb-kota-86,Power Grid/Mohanlal Sukhadiya
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,17,eb-kota-46,Pathar Mandi Circle
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,18,eb-kota-87,Mohanlal Sukhadiya Aavasiya Yojana
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,19,eb-kota-88,Badgaon Tiraha
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,20,eb-kota-89,Gurudwara
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,21,eb-kota-90,Girdharpura Road
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,22,eb-kota-91,Harble Park
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,23,eb-kota-92,Ganesh Pal
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,24,eb-kota-93,Maa Trikuta
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,25,eb-kota-94,Balita Cannal 60 feet Road
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,26,eb-kota-95,Land Mark Circle/Clark Hotel
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,27,eb-kota-96,Maharana Pratap Circle Kunhadi
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,28,eb-kota-97,Nayapura Bus stand
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,29,eb-kota-98,Nayapura Ratan Circle
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,30,eb-kota-99,Antaghar/Glob Circle
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,31,eb-kota-20,SP Office Circle
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,32,eb-kota-100,80 Feet Circle
+kota-R12,R12,12 New Bus Stand RSRTC To New Bus Stand RSRTC,33,eb-kota-73,New Bus Stand RSRTC
+kota-R13,R13,13 Taleda To Nayapura Ratan Circle Kota,1,eb-kota-101,Taleda
+kota-R13,R13,13 Taleda To Nayapura Ratan Circle Kota,2,eb-kota-102,Khedla Gaon
+kota-R13,R13,13 Taleda To Nayapura Ratan Circle Kota,3,eb-kota-103,Notada Gaon
+kota-R13,R13,13 Taleda To Nayapura Ratan Circle Kota,4,eb-kota-104,Ballop Gaon
+kota-R13,R13,13 Taleda To Nayapura Ratan Circle Kota,5,eb-kota-105,Vedant College Ballop Circle
+kota-R13,R13,13 Taleda To Nayapura Ratan Circle Kota,6,eb-kota-106,Govindpura Bawadi
+kota-R13,R13,13 Taleda To Nayapura Ratan Circle Kota,7,eb-kota-107,Bad Gaon Bawadi Circle
+kota-R13,R13,13 Taleda To Nayapura Ratan Circle Kota,8,eb-kota-48,Badgaon
+kota-R13,R13,13 Taleda To Nayapura Ratan Circle Kota,9,eb-kota-89,Gurudwara
+kota-R13,R13,13 Taleda To Nayapura Ratan Circle Kota,10,eb-kota-108,Ganeshpal Maheshwari Hotel
+kota-R13,R13,13 Taleda To Nayapura Ratan Circle Kota,11,eb-kota-109,"""Maa Trikuta K Patan Tiraha"""
+kota-R13,R13,13 Taleda To Nayapura Ratan Circle Kota,12,eb-kota-110,Landmark City
+kota-R13,R13,13 Taleda To Nayapura Ratan Circle Kota,13,eb-kota-96,Maharana Pratap Circle Kunhadi
+kota-R13,R13,13 Taleda To Nayapura Ratan Circle Kota,14,eb-kota-111,Nayapura Ratan Circle
+kota-R14,R14,14 Nayapura Vivekanand Circle To Radichadi fatak Kota,1,eb-kota-19,Nayapura Vivekanand Circle
+kota-R14,R14,14 Nayapura Vivekanand Circle To Radichadi fatak Kota,2,eb-kota-96,Maharana Pratap Circle Kunhadi
+kota-R14,R14,14 Nayapura Vivekanand Circle To Radichadi fatak Kota,3,eb-kota-110,Landmark City
+kota-R14,R14,14 Nayapura Vivekanand Circle To Radichadi fatak Kota,4,eb-kota-93,Maa Trikuta
+kota-R14,R14,14 Nayapura Vivekanand Circle To Radichadi fatak Kota,5,eb-kota-112,Girdharpura
+kota-R14,R14,14 Nayapura Vivekanand Circle To Radichadi fatak Kota,6,eb-kota-113,"""Delunda Road/Sinata Balita"""
+kota-R14,R14,14 Nayapura Vivekanand Circle To Radichadi fatak Kota,7,eb-kota-114,Meharana Gaon
+kota-R14,R14,14 Nayapura Vivekanand Circle To Radichadi fatak Kota,8,eb-kota-115,Tirath Gaon
+kota-R14,R14,14 Nayapura Vivekanand Circle To Radichadi fatak Kota,9,eb-kota-116,Bhawanipura
+kota-R14,R14,14 Nayapura Vivekanand Circle To Radichadi fatak Kota,10,eb-kota-117,Gamanch Tiraha
+kota-R14,R14,14 Nayapura Vivekanand Circle To Radichadi fatak Kota,11,eb-kota-118,Gudali Gaon
+kota-R14,R14,14 Nayapura Vivekanand Circle To Radichadi fatak Kota,12,eb-kota-119,Keshavrai Patan Tiraha
+kota-R14,R14,14 Nayapura Vivekanand Circle To Radichadi fatak Kota,13,eb-kota-120,Keshavrai Patan Bus Stand Ander
+kota-R14,R14,14 Nayapura Vivekanand Circle To Radichadi fatak Kota,14,eb-kota-121,Keshavrai Patan Junction
+kota-R14,R14,14 Nayapura Vivekanand Circle To Radichadi fatak Kota,15,eb-kota-122,Radichadi Fatak
+kota-R16,R16,16 Dara Junction To Aerodram Circle Kota,1,eb-kota-123,Dara Junction
+kota-R16,R16,16 Dara Junction To Aerodram Circle Kota,2,eb-kota-124,Kalyakhedi Gaon
+kota-R16,R16,16 Dara Junction To Aerodram Circle Kota,3,eb-kota-125,Singh pura
+kota-R16,R16,16 Dara Junction To Aerodram Circle Kota,4,eb-kota-126,Gopalpura Gaon
+kota-R16,R16,16 Dara Junction To Aerodram Circle Kota,5,eb-kota-127,Fatakheda Gaon
+kota-R16,R16,16 Dara Junction To Aerodram Circle Kota,6,eb-kota-128,Raauta Road
+kota-R16,R16,16 Dara Junction To Aerodram Circle Kota,7,eb-kota-129,Mandana
+kota-R16,R16,16 Dara Junction To Aerodram Circle Kota,8,eb-kota-130,Techno Park
+kota-R16,R16,16 Dara Junction To Aerodram Circle Kota,9,eb-kota-131,Kasar Gaon
+kota-R16,R16,16 Dara Junction To Aerodram Circle Kota,10,eb-kota-132,"""Carrier Point University Alaniya"
+kota-R16,R16,16 Dara Junction To Aerodram Circle Kota,11,eb-kota-133,Kewal Nagar
+kota-R16,R16,16 Dara Junction To Aerodram Circle Kota,12,eb-kota-134,Sudha Hospital Jagpura Bypass
+kota-R16,R16,16 Dara Junction To Aerodram Circle Kota,13,eb-kota-135,Jagpura
+kota-R16,R16,16 Dara Junction To Aerodram Circle Kota,14,eb-kota-136,RTO Office Jagpura
+kota-R16,R16,16 Dara Junction To Aerodram Circle Kota,15,eb-kota-137,Lakhawa Mod
+kota-R16,R16,16 Dara Junction To Aerodram Circle Kota,16,eb-kota-138,Ananatpura
+kota-R16,R16,16 Dara Junction To Aerodram Circle Kota,17,eb-kota-139,Gobariya Bawadi Circle
+kota-R16,R16,16 Dara Junction To Aerodram Circle Kota,18,eb-kota-140,City Mall
+kota-R16,R16,16 Dara Junction To Aerodram Circle Kota,19,eb-kota-141,Oxygen Park/City Park
+kota-R16,R16,16 Dara Junction To Aerodram Circle Kota,20,eb-kota-142,Commerce College Circle
+kota-R16,R16,16 Dara Junction To Aerodram Circle Kota,21,eb-kota-143,Sheela Chaudhary Road
+kota-R16,R16,16 Dara Junction To Aerodram Circle Kota,22,eb-kota-62,Aerodrome Circle
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,1,eb-kota-144,Mukundra Vihar
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,2,eb-kota-145,Hare Krishna Mandir
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,3,eb-kota-146,GST Office
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,4,eb-kota-147,Hadoti Colony Circle
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,5,eb-kota-148,Khade Ganesh Ji
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,6,eb-kota-149,Medical College
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,7,eb-kota-150,Kali Mata Mandir
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,8,eb-kota-151,Rangbari Circle
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,9,eb-kota-152,Kitab Circle/Subhash Nagar Circle
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,10,eb-kota-153,Subhash Nagar Pratham
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,11,eb-kota-154,Bhagwan Vishawkarma Circle/Glob Circle
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,12,eb-kota-155,Mahaveer Nagar Pratham
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,13,eb-kota-156,Rajiv Gandhi Nagar
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,14,eb-kota-157,Opera Hospital
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,15,eb-kota-158,Talwandi Circle
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,16,eb-kota-159,Aayurvedic Hospital
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,17,eb-kota-160,Commerce College
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,18,eb-kota-161,Vigyan Nagar/Sheela Chaudhary Road
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,19,eb-kota-162,ESI Hospital
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,20,eb-kota-62,Aerodrome Circle
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,21,eb-kota-15,Chawani Circle
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,22,eb-kota-63,Kotari Circle
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,23,eb-kota-163,Seven Wonder Park
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,24,eb-kota-64,Bad Tiraha New Private Bus Stand
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,25,eb-kota-65,JDB College
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,26,eb-kota-98,Nayapura Ratan Circle
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,27,eb-kota-67,J K Lone Hospital
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,28,eb-kota-68,MBS Hospital
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,29,eb-kota-69,Collectrate Circle
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,30,eb-kota-70,Gawadi
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,31,eb-kota-71,Khedali Fatak
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,32,eb-kota-164,Hat Road
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,33,eb-kota-165,Bhimganj Mandi Police Station
+kota-R18,R18,18 Mukundra Vihar To Railway Station Platform No.1 kota,34,eb-kota-166,Railway Station Platform No.1
