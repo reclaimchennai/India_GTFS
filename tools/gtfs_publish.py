@@ -16,7 +16,7 @@ listed per feed in feeds.json ("changes") and in the folder's README:
     first and last stops lie within 300 m of the line's ends
   - feed_info.txt added when missing (publisher reclaim.city, the validity window from the calendar)
 """
-import collections, csv, datetime as dt, hashlib, io, json, math, os, re, shutil, sys, zipfile
+import collections, csv, datetime as dt, hashlib, io, json, math, os, re, shutil, subprocess, sys, tempfile, zipfile
 
 HOME = os.path.expanduser(os.environ.get('SOURCES', '~/Desktop/projects'))           # the project checkouts the feeds come from
 SITE = os.path.expanduser(os.environ.get('MAPS_SITE', '~/Desktop/projects/maps-site'))  # the maps (route lines for shapes)
@@ -320,6 +320,31 @@ def prune_shapes(data, changes):
         changes.append(f'{gone} shapes no trip uses left out')
 
 
+SIMPLIFY = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'scripts', 'simplify_shapes.py')
+SIMPLIFY_ARGS = ['--tol', '4', '--turn-deg', '30']   # what av-j's PR #2 used for Bengaluru: line within 4 m, sharp turns kept
+
+
+def simplify_shapes(data, changes):
+    """Route lines thinned (scripts/simplify_shapes.py: Douglas-Peucker at 4 m, turns over 30 deg and the vertex nearest
+    each stop kept, identical results merged and trips repointed). Bengaluru: 4.27M -> 1.63M points, 93.5 -> 59.8 MB."""
+    if 'shapes.txt' not in data: return
+    need = [n for n in ('shapes.txt', 'trips.txt', 'stops.txt', 'stop_times.txt') if n in data]
+    with tempfile.TemporaryDirectory() as td:
+        a, b = os.path.join(td, 'in.zip'), os.path.join(td, 'out.zip')
+        with zipfile.ZipFile(a, 'w', zipfile.ZIP_STORED) as z:
+            for n in need: z.writestr(n, data[n])
+        r = subprocess.run([sys.executable, '-I', SIMPLIFY, a, b, *SIMPLIFY_ARGS], capture_output=True, text=True)
+        if r.returncode:
+            raise RuntimeError('simplify_shapes.py failed: ' + (r.stderr or r.stdout)[-400:])
+        z = zipfile.ZipFile(b)
+        before = len(table(data, 'shapes.txt')[1])
+        data['shapes.txt'] = z.read('shapes.txt')
+        if 'trips.txt' in z.namelist(): data['trips.txt'] = z.read('trips.txt')
+    after = len(table(data, 'shapes.txt')[1])
+    if after < before:
+        changes.append(f'route lines thinned to within 4 m (scripts/simplify_shapes.py): {before:,} -> {after:,} shape points')
+
+
 def window(data):
     _, cal = table(data, 'calendar.txt'); _, cd = table(data, 'calendar_dates.txt')
     ds = [r[k] for r in cal for k in ('start_date', 'end_date') if r.get(k)] + [r['date'] for r in cd if r.get('exception_type') == '1']
@@ -367,6 +392,7 @@ def build(f, repo):
     fix_times(data, changes)
     add_shapes(f, data, changes)
     prune_shapes(data, changes)
+    simplify_shapes(data, changes)
     add_feed_info(f, data, changes)
     d = os.path.join(repo, os.path.dirname(f['path'])); os.makedirs(d, exist_ok=True)
     if not table(data, 'routes.txt')[1]:
