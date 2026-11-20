@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T16:58:58Z",
+ "generated": "2026-11-20T17:41:28Z",
  "repository": "https://github.com/reclaimchennai/India_GTFS",
  "spec": {
   "schedule": "https://gtfs.org/documentation/schedule/reference/",
@@ -156,6 +156,52 @@
    "routes_without_timetable": "assam/guwahati/bus.routes_without_timetable.csv",
    "bytes": 1325680,
    "sha256": "789a16a79c52cf3eba56f10520336b62cd609cab8b4f3b7d017afe4e76e38c87"
+  },
+  {
+   "id": "bsrtc",
+   "name": "BSRTC (Bihar State Road Transport Corporation)",
+   "state": "Bihar",
+   "path": "bihar/bsrtc/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/bihar/bsrtc/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/bsrtc.zip",
+   "map": "https://maps.reclaim.city/bsrtc/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "Bihar State Road Transport Corporation"
+   ],
+   "routes": 48,
+   "stops": 40,
+   "trips": 323,
+   "shapes": 95,
+   "trips_with_shape": 323,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261120",
+   "service_end": "20270519",
+   "source": {
+    "name": "BSRTC depot timetables (bsrtc.co.in/schedules, one PDF per depot), built into GTFS by reclaim.city (bsrtc_bus)",
+    "url": "https://bsrtc.co.in/schedules",
+    "licence": null,
+    "detail": "Unofficial: BSRTC publishes no open GTFS. Every service in the 12 depot timetable PDFs linked from the official Schedule page (origin, destination, departure, and where given BSRTC's service id and bus type); towns geocoded (built-in gazetteer, else Nominatim) and joined by OSRM's road. The PDFs give no via stops or arrival times, so each trip is origin to destination and the arrival is an estimate from OSRM driving time (timepoint=0). Schedule only, no live positions. Read Nov 2026."
+   },
+   "note": "Unofficial: origin and destination only, as published; arrival times are estimates (timepoint=0).",
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 19,070 -> 19,065 shape points"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 172438,
+   "sha256": "7d5312c4a63df4621c6fb2b8a0dc8f643923d30b8c276d527e1d21148d9f4b1e"
   },
   {
    "id": "patna",

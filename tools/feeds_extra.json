@@ -199,5 +199,21 @@
    "licence": null,
    "detail": "Unofficial: GSRTC publishes no open GTFS. Routes are the state intercity corridors returned by the public booking site's from/to search (origin, the via towns, destination, by place code), towns geocoded (built-in gazetteer, else Nominatim) and joined by OSRM's road; departures and classes from the same search. Schedule only - no live positions (the live app is device-attestation gated). Stop times are OSRM driving time from the origin (timepoint=0). Read Nov 2026."
   }
+ },
+ {
+  "fid": "bsrtc",
+  "path": "bihar/bsrtc/bus",
+  "name": "BSRTC (Bihar State Road Transport Corporation)",
+  "state": "Bihar",
+  "src": "~/Desktop/projects/bsrtc_bus/gtfs/bsrtc_gtfs.zip",
+  "kind": "bus",
+  "source": {
+   "name": "BSRTC depot timetables (bsrtc.co.in/schedules, one PDF per depot), built into GTFS by reclaim.city (bsrtc_bus)",
+   "url": "https://bsrtc.co.in/schedules",
+   "licence": null,
+   "detail": "Unofficial: BSRTC publishes no open GTFS. Every service in the 12 depot timetable PDFs linked from the official Schedule page (origin, destination, departure, and where given BSRTC's service id and bus type); towns geocoded (built-in gazetteer, else Nominatim) and joined by OSRM's road. The PDFs give no via stops or arrival times, so each trip is origin to destination and the arrival is an estimate from OSRM driving time (timepoint=0). Schedule only, no live positions. Read Nov 2026."
+  },
+  "note": "Unofficial: origin and destination only, as published; arrival times are estimates (timepoint=0).",
+  "mapdir": "bsrtc"
  }
 ]

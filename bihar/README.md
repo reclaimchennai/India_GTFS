@@ -1,6 +1,30 @@
 # Bihar
 
-Feeds in this folder: 1. Back to the [repository README](../README.md).
+Feeds in this folder: 2. Back to the [repository README](../README.md).
+
+## BSRTC (Bihar State Road Transport Corporation)
+
+| | |
+|---|---|
+| Feed id | `bsrtc` |
+| Download | [bsrtc/bus.zip](bsrtc/bus.zip) (0.2 MB), mirror <https://maps.reclaim.city/gtfs/bsrtc.zip> |
+| Modes | bus |
+| Agencies | Bihar State Road Transport Corporation |
+| Routes / stops / trips | 48 / 40 / 323 |
+| Trips with a shape | 323 (95 shapes) |
+| Service | 2026-11-20 to 2027-05-19 |
+| Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
+| Map | <https://maps.reclaim.city/bsrtc/> |
+| Source | [BSRTC depot timetables (bsrtc.co.in/schedules, one PDF per depot), built into GTFS by reclaim.city (bsrtc_bus)](https://bsrtc.co.in/schedules) |
+| Licence | none stated by the source |
+| sha256 | `7d5312c4a63df4621c6fb2b8a0dc8f643923d30b8c276d527e1d21148d9f4b1e` |
+
+> Unofficial: origin and destination only, as published; arrival times are estimates (timepoint=0).
+
+Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
+
+- packaging: files at the zip root, GTFS reference files only
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 19,070 -> 19,065 shape points
 
 ## Patna
 
