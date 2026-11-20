@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T12:57:57Z",
+ "generated": "2026-11-20T13:05:22Z",
  "repository": "https://github.com/reclaimchennai/India_GTFS",
  "spec": {
   "schedule": "https://gtfs.org/documentation/schedule/reference/",
@@ -23,7 +23,7 @@
    "routes": 5095,
    "stops": 11156,
    "trips": 54812,
-   "shapes": 11609,
+   "shapes": 11543,
    "trips_with_shape": 54350,
    "files": [
     "agency.txt",
@@ -46,11 +46,12 @@
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
     "stop times in 806 trips: 91 past-midnight times written past 24:00, 1728 intermediate times that ran backwards cleared (timepoint=0), 201 departures before their own arrival set to the arrival",
-    "22 shapes no trip uses left out"
+    "22 shapes no trip uses left out",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 2,444,603 -> 2,431,708 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 22464943,
-   "sha256": "be2e1a3286de819ef9229a1615543d4c431556122b80bbe69497e054a1ed87c2",
+   "bytes": 22381233,
+   "sha256": "c72742e4dcb45d7e3b5de25a603545eba95ff1ed558e7d11321bedb8642ad5f9",
    "realtime": {
     "vehicle_positions": "https://maps.reclaim.city/apsrtc/rt/vehicle_positions.pb",
     "trip_updates": "https://maps.reclaim.city/apsrtc/rt/trip_updates.pb",
@@ -74,7 +75,7 @@
    "routes": 331,
    "stops": 1525,
    "trips": 3171,
-   "shapes": 331,
+   "shapes": 327,
    "trips_with_shape": 3171,
    "files": [
     "agency.txt",
@@ -98,11 +99,12 @@
     "packaging: files at the zip root, GTFS reference files only",
     "223 stops served only by those routes moved with them",
     "299 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
-    "shapes for 3061 of 3061 trips that had none: the map's road-snapped line for the route (329 shapes)"
+    "shapes for 3061 of 3061 trips that had none: the map's road-snapped line for the route (329 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 59,238 -> 50,628 shape points"
    ],
    "routes_without_timetable": "andhra-pradesh/vijayawada/bus.routes_without_timetable.csv",
-   "bytes": 1391227,
-   "sha256": "3e88994861f8e7cf5ac486a9d36cd0351f146a3352d83cd4b42adaec021983ce"
+   "bytes": 1313850,
+   "sha256": "d66b2c34bc7cc398dc909622894a11b94d72ac1d194918ebf7368b8f1f11efcf"
   },
   {
    "id": "guwahati",
@@ -123,7 +125,7 @@
    "routes": 522,
    "stops": 2283,
    "trips": 4272,
-   "shapes": 326,
+   "shapes": 322,
    "trips_with_shape": 2628,
    "files": [
     "agency.txt",
@@ -148,11 +150,12 @@
     "275 stops served only by those routes moved with them",
     "168 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 2628 of 4272 trips that had none: the map's road-snapped line for the route (326 shapes)"
+    "shapes for 2628 of 4272 trips that had none: the map's road-snapped line for the route (326 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 81,773 -> 70,329 shape points"
    ],
    "routes_without_timetable": "assam/guwahati/bus.routes_without_timetable.csv",
-   "bytes": 1426598,
-   "sha256": "dc35ae786efc043f6686ccaae739053c913728d8c97ef96d82930541ba827a36"
+   "bytes": 1325680,
+   "sha256": "789a16a79c52cf3eba56f10520336b62cd609cab8b4f3b7d017afe4e76e38c87"
   },
   {
    "id": "patna",
@@ -198,11 +201,12 @@
     "355 stops served only by those routes moved with them",
     "92 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 500 of 577 trips that had none: the map's road-snapped line for the route (45 shapes)"
+    "shapes for 500 of 577 trips that had none: the map's road-snapped line for the route (45 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 6,251 -> 5,439 shape points"
    ],
    "routes_without_timetable": "bihar/patna/bus.routes_without_timetable.csv",
-   "bytes": 125198,
-   "sha256": "ff2ec09816611681d15d3788b736e0a4898f5e7d32974de79f930303deb0f058"
+   "bytes": 118825,
+   "sha256": "1f9a8da13072d88bbaf65f5cea57f363038a38ba6e1d9871f9cd4745d992b6c3"
   },
   {
    "id": "tricity",
@@ -243,11 +247,12 @@
    },
    "note": "Unofficial: built from CTU's timetable PDF and live tracker; times after the first stop are estimates (timepoint=0).",
    "changes": [
-    "packaging: files at the zip root, GTFS reference files only"
+    "packaging: files at the zip root, GTFS reference files only",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 23,377 -> 23,085 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 813175,
-   "sha256": "a9c14c4d1f31463e01668d9f7658d05562f7ac80c7e0df40aed4dfb9731a4886",
+   "bytes": 811389,
+   "sha256": "260bc4a93f67e6e222b63066a7f018b2869b33777f3b2fda95fd5a8f605b9d93",
    "realtime": {
     "vehicle_positions": "https://maps.reclaim.city/tricity/rt/vehicle_positions.pb",
     "trip_updates": "https://maps.reclaim.city/tricity/rt/trip_updates.pb",
@@ -272,7 +277,7 @@
    "routes": 2554,
    "stops": 6812,
    "trips": 65322,
-   "shapes": 2554,
+   "shapes": 2525,
    "trips_with_shape": 65322,
    "files": [
     "agency.txt",
@@ -293,11 +298,12 @@
    },
    "note": null,
    "changes": [
-    "packaging: files at the zip root, GTFS reference files only"
+    "packaging: files at the zip root, GTFS reference files only",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 765,633 -> 319,888 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 26161967,
-   "sha256": "25030b23d46ea430af2f4e31ff90daabd97224a53fce79df6583ff2a7336fabc",
+   "bytes": 20792041,
+   "sha256": "32ce0d8465b479e8454ed2060ca3289519fdf39365b660eaf5baeca425ace988",
    "realtime": {
     "vehicle_positions": "https://maps.reclaim.city/delhi/rt/vehicle_positions.pb",
     "trip_updates": "https://maps.reclaim.city/delhi/rt/trip_updates.pb",
@@ -343,11 +349,12 @@
    "note": "The official feed's calendar ended on 31 Dec 2025; republished as it is (the times are the current timetable pattern).",
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 6,643 -> 3,493 shape points",
     "feed_info.txt added (none in the source)"
    ],
    "routes_without_timetable": null,
-   "bytes": 1132729,
-   "sha256": "ede43926bcf2e5937d7f50c899373cf2d777a739565b5e15b088674b6270acb8"
+   "bytes": 1093613,
+   "sha256": "e39010572ee86ace785d43cb4fd1b74b7115101c63a9e36f124139af73b7e544"
   },
   {
    "id": "delhi-rrts",
@@ -390,11 +397,12 @@
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
     "route_type corrected on 2 routes (rail)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 419 -> 160 shape points",
     "feed_info.txt added (none in the source)"
    ],
    "routes_without_timetable": null,
-   "bytes": 15480,
-   "sha256": "b768c743e12913c33db32b97c149a9f73320355ac84d7dc81488ebb3e8efafca"
+   "bytes": 11805,
+   "sha256": "3ebe3435a7fb1a52e0c2d8c109226de7e4e237acd0509cb0d7339726e0f22e61"
   },
   {
    "id": "delhi-suburban",
@@ -413,7 +421,7 @@
    "routes": 14,
    "stops": 140,
    "trips": 400,
-   "shapes": 337,
+   "shapes": 67,
    "trips_with_shape": 400,
    "files": [
     "agency.txt",
@@ -426,8 +434,8 @@
     "translations.txt",
     "trips.txt"
    ],
-   "service_start": "20261113",
-   "service_end": "20271113",
+   "service_start": "20261116",
+   "service_end": "20271116",
    "source": {
     "name": "National Indian Railways GTFS (github.com/Neo2308), cut to the Delhi suburban lines by India Metro's suburban map; built by tools/suburban_gtfs.py",
     "url": "https://github.com/Neo2308",
@@ -436,11 +444,12 @@
    "note": null,
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 11,105 -> 2,288 shape points",
     "feed_info.txt added (none in the source)"
    ],
    "routes_without_timetable": null,
-   "bytes": 80664,
-   "sha256": "ef7c69ba9de4e155735ccc629ec05b3038496621d70b908a5b63710b9f1b8803"
+   "bytes": 47572,
+   "sha256": "151a306a977a1e671b56e34636f3e8ea280a4b6f374e4241d93ed8819f4a1c9a"
   },
   {
    "id": "goa",
@@ -459,7 +468,7 @@
    "routes": 476,
    "stops": 3255,
    "trips": 3130,
-   "shapes": 464,
+   "shapes": 457,
    "trips_with_shape": 1927,
    "files": [
     "agency.txt",
@@ -490,11 +499,12 @@
     "shapes.txt left out (header only, no rows)",
     "transfers.txt left out (header only, no rows)",
     "shapes for 1927 of 3130 trips that had none: the map's road-snapped line for the route (464 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 337,241 -> 292,540 shape points",
     "feed_info.txt added (none in the source)"
    ],
    "routes_without_timetable": null,
-   "bytes": 6442542,
-   "sha256": "5ca8f9d8752544102d1f85a7c4d436b802d7fef6fc09a1b9e40bb995eea7eb6f"
+   "bytes": 6083094,
+   "sha256": "76317c750c2d375733297f8d70a6193e475f8eb7ce102fd17937ef9c425080d4"
   },
   {
    "id": "ahmedabad",
@@ -515,7 +525,7 @@
    "routes": 978,
    "stops": 3235,
    "trips": 14323,
-   "shapes": 972,
+   "shapes": 944,
    "trips_with_shape": 14316,
    "files": [
     "agency.txt",
@@ -543,11 +553,12 @@
    "note": null,
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
-    "shapes for 14316 of 14323 trips that had none: the map's road-snapped line for the route (972 shapes)"
+    "shapes for 14316 of 14323 trips that had none: the map's road-snapped line for the route (972 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 283,752 -> 247,111 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 6480777,
-   "sha256": "e9448197d660d1987fb0425c924254acc3046d41fdffa54d7e45297380974836"
+   "bytes": 6232042,
+   "sha256": "2ab7ff9586231f8302304224281abfb31104d8e54e9a8ef0b2ea0a07fdcd5154"
   },
   {
    "id": "rajkot",
@@ -566,7 +577,7 @@
    "routes": 271,
    "stops": 760,
    "trips": 3168,
-   "shapes": 265,
+   "shapes": 257,
    "trips_with_shape": 3168,
    "files": [
     "agency.txt",
@@ -584,11 +595,12 @@
    "note": null,
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
-    "shapes for 3168 of 3168 trips that had none: the map's road-snapped line for the route (265 shapes)"
+    "shapes for 3168 of 3168 trips that had none: the map's road-snapped line for the route (265 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 136,419 -> 43,097 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 1475102,
-   "sha256": "22a5654b8dbc3e231b47dd75f470f2d33c0f15712385002776b3b2bc760fcbab"
+   "bytes": 804601,
+   "sha256": "620a94c9e5f45c012299169a2c2ec5bd709f2dce25c51697bdeb14264f5bf269"
   },
   {
    "id": "vapi",
@@ -629,11 +641,12 @@
    },
    "note": null,
    "changes": [
-    "packaging: files at the zip root, GTFS reference files only"
+    "packaging: files at the zip root, GTFS reference files only",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 2,336 -> 1,052 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 60982,
-   "sha256": "937471dc530ac5bd96a79364a2ba673f24e0fe16a470f609da25416db95d86d0"
+   "bytes": 39159,
+   "sha256": "8b88c3ed69979a6a7f1a3c927c6bca90b6670e72f229e709aba8d3639d6b535a"
   },
   {
    "id": "gurugram",
@@ -652,7 +665,7 @@
    "routes": 148,
    "stops": 1117,
    "trips": 3124,
-   "shapes": 148,
+   "shapes": 147,
    "trips_with_shape": 3124,
    "files": [
     "agency.txt",
@@ -674,11 +687,12 @@
    "note": null,
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 29,012 -> 13,507 shape points",
     "feed_info.txt added (none in the source)"
    ],
    "routes_without_timetable": null,
-   "bytes": 855689,
-   "sha256": "9b7309ccee40e1d0d6182d0a6218335094ba75225ede84d0269ff1d9ab8830ac",
+   "bytes": 729464,
+   "sha256": "beba4d26f0e73fa86421bca70295de0c5c5b11c851b919769bd604a61e68fc16",
    "realtime": {
     "vehicle_positions": "https://maps.reclaim.city/gurugram/rt/vehicle_positions.pb",
     "trip_updates": "https://maps.reclaim.city/gurugram/rt/trip_updates.pb",
@@ -724,11 +738,12 @@
    },
    "note": "Unofficial: built from Haryana Roadways' depot timetables and live tracking; stops are towns and bus stands, times after the first are estimates (timepoint=0).",
    "changes": [
-    "packaging: files at the zip root, GTFS reference files only"
+    "packaging: files at the zip root, GTFS reference files only",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 69,408 -> 69,402 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 856325,
-   "sha256": "2d07b233b75e27ab45eca98490b8752082c97eeb034e86a1c33cbd39dd7261ee",
+   "bytes": 855906,
+   "sha256": "1a96dc3d07eb53ebd4a81861788da0dffca19e7ff91d5cd75368aae1b051edb2",
    "realtime": {
     "vehicle_positions": "https://maps.reclaim.city/hr/rt/vehicle_positions.pb",
     "trip_updates": "https://maps.reclaim.city/hr/rt/trip_updates.pb",
@@ -752,7 +767,7 @@
    "routes": 10389,
    "stops": 8550,
    "trips": 10389,
-   "shapes": 10389,
+   "shapes": 7136,
    "trips_with_shape": 10389,
    "files": [
     "agency.txt",
@@ -775,11 +790,12 @@
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
     "205 trips with a service_id in no calendar (they never run) left out",
-    "205 shapes no trip uses left out"
+    "205 shapes no trip uses left out",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 204,155 -> 151,449 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 3853329,
-   "sha256": "495b23034426edb985c2bab73343ef44c1af68df2a4e3f0f6868d8ef1daf00c6"
+   "bytes": 3647930,
+   "sha256": "69dea85654b37462385d617fa0b904e61a9ba03817db297510beee7ba3ef1b48"
   },
   {
    "id": "jammu",
@@ -798,7 +814,7 @@
    "routes": 248,
    "stops": 850,
    "trips": 1880,
-   "shapes": 240,
+   "shapes": 221,
    "trips_with_shape": 1804,
    "files": [
     "agency.txt",
@@ -821,11 +837,12 @@
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 1804 of 1880 trips that had none: the map's road-snapped line for the route (240 shapes)"
+    "shapes for 1804 of 1880 trips that had none: the map's road-snapped line for the route (240 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 43,442 -> 37,214 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 688058,
-   "sha256": "e358ec63c57dafc7fd4f6e610199567e56d8eb7f3872d0885632088b90b49f11"
+   "bytes": 637702,
+   "sha256": "b0bd401f5e3da26d3d01fdd192b26759373f4b2536c7f9ca784235a37df8c9ff"
   },
   {
    "id": "srinagar",
@@ -844,7 +861,7 @@
    "routes": 168,
    "stops": 1065,
    "trips": 2404,
-   "shapes": 168,
+   "shapes": 165,
    "trips_with_shape": 2404,
    "files": [
     "agency.txt",
@@ -868,11 +885,12 @@
     "packaging: files at the zip root, GTFS reference files only",
     "1 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 2404 of 2404 trips that had none: the map's road-snapped line for the route (168 shapes)"
+    "shapes for 2404 of 2404 trips that had none: the map's road-snapped line for the route (168 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 27,538 -> 23,459 shape points"
    ],
    "routes_without_timetable": "jammu-and-kashmir/srinagar/bus.routes_without_timetable.csv",
-   "bytes": 805523,
-   "sha256": "a49d4d51a4d9c96fcd636142eb74b273c9c6ef71da19d0e8cbcc286d5a68df7d"
+   "bytes": 771180,
+   "sha256": "a1d54a66f548b3a755a1902fe7e38c4eb74420b7b617602ff736124169b8f4c6"
   },
   {
    "id": "belgaum",
@@ -916,11 +934,12 @@
     "121 stops served only by those routes moved with them",
     "30 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 331 of 331 trips that had none: the map's road-snapped line for the route (33 shapes)"
+    "shapes for 331 of 331 trips that had none: the map's road-snapped line for the route (33 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 6,832 -> 2,613 shape points"
    ],
    "routes_without_timetable": "karnataka/belagavi/bus.routes_without_timetable.csv",
-   "bytes": 96283,
-   "sha256": "1a02aee7997626c8992b993d03108964f08a0ca64eee18583b8f7e993633248c"
+   "bytes": 64178,
+   "sha256": "9c8eb921939209e3f30d4428b67ac32dd508f19a7625043cde7074ddf9d97864"
   },
   {
    "id": "bengaluru",
@@ -1018,11 +1037,12 @@
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
     "stop times in 120 trips: 0 past-midnight times written past 24:00, 417 intermediate times that ran backwards cleared (timepoint=0), 0 departures before their own arrival set to the arrival",
-    "shapes for 586 of 586 trips that had none: the map's road-snapped line for the route (14 shapes)"
+    "shapes for 586 of 586 trips that had none: the map's road-snapped line for the route (14 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 1,315 -> 1,203 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 115455,
-   "sha256": "ef0bdc2a397d0c252c59cde44b704fca7fddd88c705791a8733c543e984e9800"
+   "bytes": 114732,
+   "sha256": "8d11df1cbedcfdb16914aebb43612acf7d8e4c3d4066454820684fd0d4739c14"
   },
   {
    "id": "hubballi",
@@ -1041,7 +1061,7 @@
    "routes": 632,
    "stops": 2332,
    "trips": 8669,
-   "shapes": 630,
+   "shapes": 626,
    "trips_with_shape": 8669,
    "files": [
     "agency.txt",
@@ -1059,11 +1079,12 @@
    "note": null,
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
-    "shapes for 8669 of 8669 trips that had none: the map's road-snapped line for the route (630 shapes)"
+    "shapes for 8669 of 8669 trips that had none: the map's road-snapped line for the route (630 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 171,203 -> 63,584 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 2575611,
-   "sha256": "fb0ff87a4805d348bc3221cd7ccaf09055791c4e41df2f031248ecb92bb5642f"
+   "bytes": 1792023,
+   "sha256": "f8727682894c454845dce9eefa92e08933b85df4e82470f4b78c61e0fa653790"
   },
   {
    "id": "mangaluru",
@@ -1115,11 +1136,12 @@
     "1355 stops served only by those routes moved with them",
     "514 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 2026 of 2079 trips that had none: the map's road-snapped line for the route (198 shapes)"
+    "shapes for 2026 of 2079 trips that had none: the map's road-snapped line for the route (198 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 88,770 -> 76,633 shape points"
    ],
    "routes_without_timetable": "karnataka/mangaluru/bus.routes_without_timetable.csv",
-   "bytes": 1065786,
-   "sha256": "5c9bae2a15fd62a06ef6e601f85eb13bcdbf3d69f0cd6d470b81f1c0ad0e925e"
+   "bytes": 962718,
+   "sha256": "1c04e32e3600c8df92af771bfb72b23456af67b77902c08c124e5fe878619f41"
   },
   {
    "id": "udupi",
@@ -1142,7 +1164,7 @@
    "routes": 191,
    "stops": 1392,
    "trips": 2561,
-   "shapes": 174,
+   "shapes": 172,
    "trips_with_shape": 2318,
    "files": [
     "agency.txt",
@@ -1167,11 +1189,12 @@
     "459 stops served only by those routes moved with them",
     "114 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 2318 of 2561 trips that had none: the map's road-snapped line for the route (174 shapes)"
+    "shapes for 2318 of 2561 trips that had none: the map's road-snapped line for the route (174 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 84,291 -> 69,870 shape points"
    ],
    "routes_without_timetable": "karnataka/udupi/bus.routes_without_timetable.csv",
-   "bytes": 1120450,
-   "sha256": "e2bcbfa7638525050343f38a68200c9d273e7c3fce3eb629ae82cec06860c1f1"
+   "bytes": 994391,
+   "sha256": "d43093bff5182178e89ef40538e864641060af82a9e905e41cde5544df37389c"
   },
   {
    "id": "kannur",
@@ -1191,7 +1214,7 @@
    "routes": 510,
    "stops": 1808,
    "trips": 2995,
-   "shapes": 510,
+   "shapes": 487,
    "trips_with_shape": 2995,
    "files": [
     "agency.txt",
@@ -1216,11 +1239,12 @@
     "33 stops served only by those routes moved with them",
     "13 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 2995 of 2995 trips that had none: the map's road-snapped line for the route (510 shapes)"
+    "shapes for 2995 of 2995 trips that had none: the map's road-snapped line for the route (510 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 126,278 -> 103,146 shape points"
    ],
    "routes_without_timetable": "kerala/kannur/bus.routes_without_timetable.csv",
-   "bytes": 1625075,
-   "sha256": "84228e6f760ba83dab2f2e6a4f2007b61797a5ec2bf3454fe0dd039cbf8ae4cf"
+   "bytes": 1436216,
+   "sha256": "e61ca8ea6ac5312a3de97c575f37ea96b2ae43418a769a4d990fa6dda458b2b8"
   },
   {
    "id": "kasaragod",
@@ -1240,7 +1264,7 @@
    "routes": 302,
    "stops": 1920,
    "trips": 1760,
-   "shapes": 302,
+   "shapes": 299,
    "trips_with_shape": 1760,
    "files": [
     "agency.txt",
@@ -1265,11 +1289,12 @@
     "80 stops served only by those routes moved with them",
     "8 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 1760 of 1760 trips that had none: the map's road-snapped line for the route (302 shapes)"
+    "shapes for 1760 of 1760 trips that had none: the map's road-snapped line for the route (302 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 123,256 -> 106,552 shape points"
    ],
    "routes_without_timetable": "kerala/kasaragod/bus.routes_without_timetable.csv",
-   "bytes": 1476705,
-   "sha256": "d2d6df897bf2215f2971d068dca1cdf4f7e15f9c37053d95cf903386cc6e0fb6"
+   "bytes": 1333993,
+   "sha256": "1da1abf33d0528f8ddfae9c28b0e89a46c2dc36194bfaadc9f708db02cfd2fb5"
   },
   {
    "id": "kochi",
@@ -1291,7 +1316,7 @@
    "routes": 1005,
    "stops": 548,
    "trips": 3528,
-   "shapes": 1005,
+   "shapes": 699,
    "trips_with_shape": 3528,
    "files": [
     "agency.txt",
@@ -1316,11 +1341,12 @@
     "59 stops served only by those routes moved with them",
     "370 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 3528 of 3528 trips that had none: the map's road-snapped line for the route (1005 shapes)"
+    "shapes for 3528 of 3528 trips that had none: the map's road-snapped line for the route (1005 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 99,377 -> 63,309 shape points"
    ],
    "routes_without_timetable": "kerala/kochi/bus.routes_without_timetable.csv",
-   "bytes": 1284019,
-   "sha256": "43d6dd7ecad5cf77d0908dd98a550c96a996372ea0a782b6235ddf7c94642ef1"
+   "bytes": 1045899,
+   "sha256": "46a134b4384bfd517d5f86be0850ee3c9082654bec4eaebc8061688a3d111bfe"
   },
   {
    "id": "kottayam",
@@ -1340,7 +1366,7 @@
    "routes": 1380,
    "stops": 2063,
    "trips": 9512,
-   "shapes": 1379,
+   "shapes": 1287,
    "trips_with_shape": 9497,
    "files": [
     "agency.txt",
@@ -1365,11 +1391,12 @@
     "12 stops served only by those routes moved with them",
     "27 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 9497 of 9512 trips that had none: the map's road-snapped line for the route (1379 shapes)"
+    "shapes for 9497 of 9512 trips that had none: the map's road-snapped line for the route (1379 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 339,787 -> 269,909 shape points"
    ],
    "routes_without_timetable": "kerala/kottayam/bus.routes_without_timetable.csv",
-   "bytes": 4138931,
-   "sha256": "c6f12249e8d4994e666b88b0b1d9d768ecdc487885c4a33ef7ef2a374d380329"
+   "bytes": 3609610,
+   "sha256": "4a09562e54adde2799d0c0cd0354590d1047f3d5f6de3520464acc2d148694f7"
   },
   {
    "id": "kozhikode",
@@ -1389,7 +1416,7 @@
    "routes": 1103,
    "stops": 2144,
    "trips": 7331,
-   "shapes": 1103,
+   "shapes": 1054,
    "trips_with_shape": 7331,
    "files": [
     "agency.txt",
@@ -1414,11 +1441,12 @@
     "52 stops served only by those routes moved with them",
     "27 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 7331 of 7331 trips that had none: the map's road-snapped line for the route (1103 shapes)"
+    "shapes for 7331 of 7331 trips that had none: the map's road-snapped line for the route (1103 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 270,018 -> 220,275 shape points"
    ],
    "routes_without_timetable": "kerala/kozhikode/bus.routes_without_timetable.csv",
-   "bytes": 3349806,
-   "sha256": "eef0b5f35e707310a8eb1fb7cc0834a7324d4055f048cc896ffe55ae07f48ac6"
+   "bytes": 2920543,
+   "sha256": "8652e3b7df1c8673bd770bc074d1688f7fe5620ee12c9a047e818f01d0ae4db5"
   },
   {
    "id": "thiruvananthapuram",
@@ -1437,7 +1465,7 @@
    "routes": 3247,
    "stops": 2579,
    "trips": 26519,
-   "shapes": 3247,
+   "shapes": 2909,
    "trips_with_shape": 26519,
    "files": [
     "agency.txt",
@@ -1462,11 +1490,12 @@
     "239 stops served only by those routes moved with them",
     "135 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 26519 of 26519 trips that had none: the map's road-snapped line for the route (3247 shapes)"
+    "shapes for 26519 of 26519 trips that had none: the map's road-snapped line for the route (3247 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 346,989 -> 276,615 shape points"
    ],
    "routes_without_timetable": "kerala/thiruvananthapuram/bus.routes_without_timetable.csv",
-   "bytes": 6357296,
-   "sha256": "2d4ea4a4db89bd6c9d1e177669ef221c6b985d20c2a3567f6d8a3be16f56b942"
+   "bytes": 5816786,
+   "sha256": "297425638c67b609c1cd253eee7d7f17a9b56e3516f95b9955e2044612568702"
   },
   {
    "id": "thrissur",
@@ -1486,7 +1515,7 @@
    "routes": 1571,
    "stops": 2122,
    "trips": 11209,
-   "shapes": 1571,
+   "shapes": 1399,
    "trips_with_shape": 11209,
    "files": [
     "agency.txt",
@@ -1511,11 +1540,12 @@
     "50 stops served only by those routes moved with them",
     "26 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 11209 of 11209 trips that had none: the map's road-snapped line for the route (1571 shapes)"
+    "shapes for 11209 of 11209 trips that had none: the map's road-snapped line for the route (1571 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 348,350 -> 270,278 shape points"
    ],
    "routes_without_timetable": "kerala/thrissur/bus.routes_without_timetable.csv",
-   "bytes": 4123054,
-   "sha256": "c03b57851a0ce1ffff2725e970408ea46a000eeeca2e8e94bc8ca2f3f301d2d0"
+   "bytes": 3495815,
+   "sha256": "ff2b79d95c43f9b48c7abc78c37ac5ab389c8e7c7f2b40f03ef2f91298d13558"
   },
   {
    "id": "wayanad",
@@ -1535,7 +1565,7 @@
    "routes": 969,
    "stops": 4483,
    "trips": 6895,
-   "shapes": 969,
+   "shapes": 947,
    "trips_with_shape": 6895,
    "files": [
     "agency.txt",
@@ -1560,11 +1590,12 @@
     "88 stops served only by those routes moved with them",
     "30 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 6895 of 6895 trips that had none: the map's road-snapped line for the route (969 shapes)"
+    "shapes for 6895 of 6895 trips that had none: the map's road-snapped line for the route (969 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 558,656 -> 479,706 shape points"
    ],
    "routes_without_timetable": "kerala/wayanad/bus.routes_without_timetable.csv",
-   "bytes": 6513283,
-   "sha256": "37bd28a457edbe23efa15cbb4adf19ab198508a40d18318756b02831249a15a7"
+   "bytes": 5835759,
+   "sha256": "00eaf85dc2fc43a75318d63e4a5fee560aa73c06420f670b7788812bb0bb3c2e"
   },
   {
    "id": "bhopal",
@@ -1586,7 +1617,7 @@
    "routes": 32,
    "stops": 492,
    "trips": 598,
-   "shapes": 28,
+   "shapes": 27,
    "trips_with_shape": 502,
    "files": [
     "agency.txt",
@@ -1611,11 +1642,12 @@
     "386 stops served only by those routes moved with them",
     "37 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 502 of 598 trips that had none: the map's road-snapped line for the route (28 shapes)"
+    "shapes for 502 of 598 trips that had none: the map's road-snapped line for the route (28 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 16,067 -> 13,677 shape points"
    ],
    "routes_without_timetable": "madhya-pradesh/bhopal/bus.routes_without_timetable.csv",
-   "bytes": 272224,
-   "sha256": "273d89fae5f05cbb84eb9770a5aa35046855aa8305e0088cf074abaef5b33490"
+   "bytes": 250576,
+   "sha256": "aa3edfad5b2aa714a21eb210d2d98b0605d67d6b044ba6b9e17a16bd6982a96e"
   },
   {
    "id": "indore",
@@ -1659,11 +1691,12 @@
     "175 stops served only by those routes moved with them",
     "18 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 796 of 796 trips that had none: the map's road-snapped line for the route (45 shapes)"
+    "shapes for 796 of 796 trips that had none: the map's road-snapped line for the route (45 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 8,132 -> 7,106 shape points"
    ],
    "routes_without_timetable": "madhya-pradesh/indore/bus.routes_without_timetable.csv",
-   "bytes": 288149,
-   "sha256": "1929e3930431489f71b0abef9a60bd3f4045f131ff829bfb819e4f6c8ad3e669"
+   "bytes": 279842,
+   "sha256": "ea944f7d12c5bc93f6f5282b98aafef7c615909149e709c14c34afe7d6dae8ed"
   },
   {
    "id": "jabalpur",
@@ -1709,11 +1742,12 @@
     "446 stops served only by those routes moved with them",
     "79 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 850 of 880 trips that had none: the map's road-snapped line for the route (41 shapes)"
+    "shapes for 850 of 880 trips that had none: the map's road-snapped line for the route (41 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 7,820 -> 6,705 shape points"
    ],
    "routes_without_timetable": "madhya-pradesh/jabalpur/bus.routes_without_timetable.csv",
-   "bytes": 241935,
-   "sha256": "0fea6ec9bfa7b48a1c7f658db977afad7e7fec872a543387d772dfb0e9801e74"
+   "bytes": 232231,
+   "sha256": "68a84ed122de6101e0648b7bc6c4eeac7559a7b4c83913318412e0b6cff0fa46"
   },
   {
    "id": "ujjain",
@@ -1755,11 +1789,12 @@
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 45 of 45 trips that had none: the map's road-snapped line for the route (3 shapes)"
+    "shapes for 45 of 45 trips that had none: the map's road-snapped line for the route (3 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 2,128 -> 769 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 23504,
-   "sha256": "47cb83528a015bf5e615776e0285f7e8e4451106a250527c621da17d40940923"
+   "bytes": 12516,
+   "sha256": "eb0c40dbc315a29b77ad58d46386a605adc3a00fb6c0c2be3f5a1f9b9c9781de"
   },
   {
    "id": "mumbai",
@@ -1781,7 +1816,7 @@
    "routes": 1609,
    "stops": 10279,
    "trips": 99080,
-   "shapes": 1115,
+   "shapes": 1110,
    "trips_with_shape": 98878,
    "files": [
     "agency.txt",
@@ -1803,11 +1838,12 @@
    "note": null,
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
-    "shapes for 98878 of 99080 trips that had none: the map's road-snapped line for the route (1115 shapes)"
+    "shapes for 98878 of 99080 trips that had none: the map's road-snapped line for the route (1115 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 488,755 -> 172,645 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 17287451,
-   "sha256": "76d82ea119b5cf869e44857fa9431618887934d3166cb16f7a5d205c9379fa69",
+   "bytes": 14879546,
+   "sha256": "d5b4a7df54a773fa2c42709dd69153286ab326304ff26ea8e0aab8341fe6cd02",
    "realtime": {
     "vehicle_positions": "https://maps.reclaim.city/mumbai/rt/vehicle_positions.pb",
     "trip_updates": "https://maps.reclaim.city/mumbai/rt/trip_updates.pb",
@@ -1831,7 +1867,7 @@
    "routes": 9,
    "stops": 123,
    "trips": 3721,
-   "shapes": 1926,
+   "shapes": 208,
    "trips_with_shape": 3721,
    "files": [
     "agency.txt",
@@ -1844,8 +1880,8 @@
     "translations.txt",
     "trips.txt"
    ],
-   "service_start": "20261113",
-   "service_end": "20271113",
+   "service_start": "20261116",
+   "service_end": "20271116",
    "source": {
     "name": "Rush Hour's Mumbai timetable (railway working timetables: WR Feb 2026, Harbour Oct 2024, Trans-Harbour Jan 2024, Port line Dec 2025), via India Metro's suburban map; built by tools/suburban_gtfs.py",
     "url": "https://git.sr.ht/~sphericalkat/rush-hour",
@@ -1854,11 +1890,12 @@
    "note": null,
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 138,760 -> 14,409 shape points",
     "feed_info.txt added (none in the source)"
    ],
    "routes_without_timetable": null,
-   "bytes": 981746,
-   "sha256": "9e7d4d64b245698e2d560d61ae02fc3e8b1337e43c83aae13d37ffba626ca272"
+   "bytes": 459469,
+   "sha256": "e311e42deefefca0d45aff10a9b596576dfe5726af2b44561064b3687fceaac1"
   },
   {
    "id": "nagpur",
@@ -1877,7 +1914,7 @@
    "routes": 900,
    "stops": 3896,
    "trips": 8619,
-   "shapes": 899,
+   "shapes": 895,
    "trips_with_shape": 8618,
    "files": [
     "agency.txt",
@@ -1902,11 +1939,12 @@
     "124 stops served only by those routes moved with them",
     "115 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 8618 of 8619 trips that had none: the map's road-snapped line for the route (899 shapes)"
+    "shapes for 8618 of 8619 trips that had none: the map's road-snapped line for the route (899 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 107,909 -> 94,895 shape points"
    ],
    "routes_without_timetable": "maharashtra/nagpur/bus.routes_without_timetable.csv",
-   "bytes": 3175785,
-   "sha256": "c723694f137ec1915f5837f83e710fb4a23b508e0e4fb72f07fe9a8f0217ddbf"
+   "bytes": 3063922,
+   "sha256": "935d26dddbb637551eb368c81ffbbb7e54650f39102c0ca7cc61f41beb526b3d"
   },
   {
    "id": "pune",
@@ -1942,11 +1980,12 @@
    "source": null,
    "note": null,
    "changes": [
-    "packaging: files at the zip root, GTFS reference files only"
+    "packaging: files at the zip root, GTFS reference files only",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 256,823 -> 106,052 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 4949578,
-   "sha256": "ec7a8ec794aac7633e34bcada1ab4de56d1cf45098369f27e7a02245526d0d7d"
+   "bytes": 3923765,
+   "sha256": "c32d515fd87786d8129f082816624d0a7bbf3a4f81d1a4885ece2095a9aaf4f3"
   },
   {
    "id": "rourkela",
@@ -1965,7 +2004,7 @@
    "routes": 160,
    "stops": 1081,
    "trips": 1042,
-   "shapes": 142,
+   "shapes": 113,
    "trips_with_shape": 966,
    "files": [
     "agency.txt",
@@ -1988,11 +2027,12 @@
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 966 of 1042 trips that had none: the map's road-snapped line for the route (142 shapes)"
+    "shapes for 966 of 1042 trips that had none: the map's road-snapped line for the route (142 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 22,508 -> 15,043 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 594098,
-   "sha256": "a93f1a3db417e5d99a51d6e48d99fe5416c5d344f4007ce3416aa23011a99341"
+   "bytes": 532092,
+   "sha256": "d6655d310656a26f13db28dee91b3740387c341a322efc9dbe565475dc7a450a"
   },
   {
    "id": "osrtc",
@@ -2059,7 +2099,7 @@
    "routes": 60,
    "stops": 903,
    "trips": 1421,
-   "shapes": 60,
+   "shapes": 59,
    "trips_with_shape": 1421,
    "files": [
     "agency.txt",
@@ -2084,11 +2124,12 @@
     "97 stops served only by those routes moved with them",
     "14 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
     "shapes for 1307 of 1307 trips that had none: the map's road-snapped line for the route (53 shapes)",
-    "1 shapes no trip uses left out"
+    "1 shapes no trip uses left out",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 13,698 -> 8,850 shape points"
    ],
    "routes_without_timetable": "rajasthan/jaipur/bus.routes_without_timetable.csv",
-   "bytes": 487265,
-   "sha256": "055528cd7a5162aa46441d141d3a6ab63048c272d870f5f001eafef6f7d0fb0c"
+   "bytes": 444994,
+   "sha256": "249c8350dc23d43fcb279d345eadb867101039f033ae6660d49d5d7f2478ea55"
   },
   {
    "id": "udaipur",
@@ -2130,11 +2171,12 @@
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 303 of 303 trips that had none: the map's road-snapped line for the route (28 shapes)"
+    "shapes for 303 of 303 trips that had none: the map's road-snapped line for the route (28 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 17,899 -> 6,610 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 221597,
-   "sha256": "413d5dd90ab635c82e448c56c37249ff283227aa1fa016fe72b6ac1a3fe66803"
+   "bytes": 125577,
+   "sha256": "4bb0a13a1fd6c325185c1e0a12299750fbcb3ca926b407a19a43dabdacd5ebf7"
   },
   {
    "id": "bhilwara",
@@ -2285,11 +2327,12 @@
    },
    "note": null,
    "changes": [
-    "packaging: files at the zip root, GTFS reference files only"
+    "packaging: files at the zip root, GTFS reference files only",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 4,787 -> 2,621 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 153133,
-   "sha256": "0cbc930b021fb028d438e7e3fc04425b9620c2fa76a9340a7dbf2074a184bc3a"
+   "bytes": 139709,
+   "sha256": "66670912e1e42533485993795e6504bd849618e60ec05132e5ee4cb6bcd97805"
   },
   {
    "id": "mtc",
@@ -2308,7 +2351,7 @@
    "routes": 1092,
    "stops": 3768,
    "trips": 51763,
-   "shapes": 4504,
+   "shapes": 4287,
    "trips_with_shape": 51763,
    "files": [
     "agency.txt",
@@ -2329,11 +2372,12 @@
    },
    "note": null,
    "changes": [
-    "packaging: files at the zip root, GTFS reference files only"
+    "packaging: files at the zip root, GTFS reference files only",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 1,005,155 -> 554,923 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 18183852,
-   "sha256": "2d0671aad04f47cfc864e11bd85ec6e69f4cf22d30d34cac1eef88d2b7ea1fc8",
+   "bytes": 14468824,
+   "sha256": "a51070f41a46ef34600bb2cc7f6a8afc6c5828e04b6b12dbc2c71c1fe16d95a9",
    "realtime": {
     "vehicle_positions": "https://maps.reclaim.city/mapsv2/rt/vehicle_positions.pb",
     "trip_updates": "https://maps.reclaim.city/mapsv2/rt/trip_updates.pb",
@@ -2357,7 +2401,7 @@
    "routes": 753,
    "stops": 388,
    "trips": 756,
-   "shapes": 747,
+   "shapes": 107,
    "trips_with_shape": 756,
    "files": [
     "agency.txt",
@@ -2379,11 +2423,12 @@
    },
    "note": null,
    "changes": [
-    "packaging: files at the zip root, GTFS reference files only"
+    "packaging: files at the zip root, GTFS reference files only",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 160,847 -> 13,748 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 784445,
-   "sha256": "b19a5b5f97a4fb2e9bb65a85c6c98493dd54756ba2f56a8e254b5620c9216fbe"
+   "bytes": 188588,
+   "sha256": "9cbc5e6687a4c6f183631ea582df425c957b1432f06227cdeb59a56edbdd6e47"
   },
   {
    "id": "hyderabad",
@@ -2402,7 +2447,7 @@
    "routes": 1031,
    "stops": 5028,
    "trips": 44892,
-   "shapes": 1008,
+   "shapes": 981,
    "trips_with_shape": 16691,
    "files": [
     "agency.txt",
@@ -2425,11 +2470,12 @@
    "note": null,
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
-    "shapes for 16691 of 44892 trips that had none: the map's road-snapped line for the route (1008 shapes)"
+    "shapes for 16691 of 44892 trips that had none: the map's road-snapped line for the route (1008 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 222,016 -> 188,338 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 12292799,
-   "sha256": "ca38b2b684435556601766cefb6dbedcece85da87eb05262d43cd8bdd4309d33"
+   "bytes": 12026431,
+   "sha256": "136ce91d0e114f60c2b39d36f6c77d80a37c15f1a85a65eb7d788db0b112e914"
   },
   {
    "id": "tgsrtc",
@@ -2448,7 +2494,7 @@
    "routes": 7881,
    "stops": 14811,
    "trips": 56977,
-   "shapes": 9122,
+   "shapes": 6589,
    "trips_with_shape": 56975,
    "files": [
     "agency.txt",
@@ -2470,11 +2516,12 @@
    "note": null,
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
-    "stop times in 20 trips: 0 past-midnight times written past 24:00, 12 intermediate times that ran backwards cleared (timepoint=0), 13 departures before their own arrival set to the arrival"
+    "stop times in 20 trips: 0 past-midnight times written past 24:00, 12 intermediate times that ran backwards cleared (timepoint=0), 13 departures before their own arrival set to the arrival",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 5,568,409 -> 1,534,112 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 59943292,
-   "sha256": "57697086976177a02ab494d3ab8526a28d44e437f8e4744b7715c6995ddae5c4",
+   "bytes": 25841270,
+   "sha256": "11b1164914ad1d6480df7911d68a04f05e9e16788ab048547feb38343edc0c9c",
    "realtime": {
     "vehicle_positions": "https://maps.reclaim.city/tgsrtc/rt/vehicle_positions.pb",
     "trip_updates": "https://maps.reclaim.city/tgsrtc/rt/trip_updates.pb",
@@ -2523,11 +2570,12 @@
     "115 stops served only by those routes moved with them",
     "12 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 451 of 451 trips that had none: the map's road-snapped line for the route (44 shapes)"
+    "shapes for 451 of 451 trips that had none: the map's road-snapped line for the route (44 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 19,498 -> 5,502 shape points"
    ],
    "routes_without_timetable": "uttar-pradesh/agra/bus.routes_without_timetable.csv",
-   "bytes": 224677,
-   "sha256": "b72351884a61b7a1bb5fba2ac6ce2e9744da96abfa958f835314879eed199a12"
+   "bytes": 113626,
+   "sha256": "33d829c33e7cc29e9ee1b3cbe4e8e91a028478f23f031376990a58cb6fe45b97"
   },
   {
    "id": "ayodhya",
@@ -2569,11 +2617,12 @@
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 150 of 150 trips that had none: the map's road-snapped line for the route (10 shapes)"
+    "shapes for 150 of 150 trips that had none: the map's road-snapped line for the route (10 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 6,527 -> 1,642 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 78709,
-   "sha256": "053ff8dbb76d27311a20593056558256b98533c1cd2820537037d91d54309560"
+   "bytes": 38759,
+   "sha256": "f70dcdc6ec55c9b966d82941a0081f990cfe1820199a7f3e6c960dff6dd9fd69"
   },
   {
    "id": "bareilly",
@@ -2615,11 +2664,12 @@
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 70 of 70 trips that had none: the map's road-snapped line for the route (6 shapes)"
+    "shapes for 70 of 70 trips that had none: the map's road-snapped line for the route (6 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 1,833 -> 613 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 33352,
-   "sha256": "ded5ca9fb9bde791aaed83eb3e29c1b20c3fcab94473a58ec9dbc14aed995f9d"
+   "bytes": 23053,
+   "sha256": "238041e9995f8ee89b99a75a516429ac2c19fcc85d2a0bec1be1da287c86dc20"
   },
   {
    "id": "ghaziabad",
@@ -2663,7 +2713,7 @@
    ],
    "routes_without_timetable": null,
    "bytes": 65660,
-   "sha256": "4e1ed1ac548f6801bb650bcff8fd7b26189263a878ef9982fd21d7bbba7cd881"
+   "sha256": "c152a2badba4a07c0b830c492bbdbfb23e898ea7da359f25a049a59857e8e80a"
   },
   {
    "id": "gorakhpur",
@@ -2705,11 +2755,12 @@
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 60 of 60 trips that had none: the map's road-snapped line for the route (8 shapes)"
+    "shapes for 60 of 60 trips that had none: the map's road-snapped line for the route (8 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 4,514 -> 1,287 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 59772,
-   "sha256": "03e3612074088d64bc0a94cd729f306d7a2f0a9706d05400bc45985d91aa329c"
+   "bytes": 32958,
+   "sha256": "12054859a7bb42ca4da95c049700b970de8d7d210237b91c65adbb48345e49ef"
   },
   {
    "id": "jhansi",
@@ -2728,7 +2779,7 @@
    "routes": 21,
    "stops": 82,
    "trips": 260,
-   "shapes": 21,
+   "shapes": 20,
    "trips_with_shape": 260,
    "files": [
     "agency.txt",
@@ -2751,11 +2802,12 @@
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 260 of 260 trips that had none: the map's road-snapped line for the route (21 shapes)"
+    "shapes for 260 of 260 trips that had none: the map's road-snapped line for the route (21 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 8,968 -> 2,168 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 100276,
-   "sha256": "12c5333e0f17ba72b1e1f37161c5c18c6218beec52413b2de35bef6470766a30"
+   "bytes": 41972,
+   "sha256": "1de01adfd4f36a597e882528c8e43f138f38eb2d9d7c4612815a6c50bd8e3485"
   },
   {
    "id": "kanpur",
@@ -2799,11 +2851,12 @@
     "397 stops served only by those routes moved with them",
     "81 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 151 of 328 trips that had none: the map's road-snapped line for the route (15 shapes)"
+    "shapes for 151 of 328 trips that had none: the map's road-snapped line for the route (15 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 3,141 -> 2,747 shape points"
    ],
    "routes_without_timetable": "uttar-pradesh/kanpur/bus.routes_without_timetable.csv",
-   "bytes": 171276,
-   "sha256": "936232ab7a18a2933195f627a3f9dfaa7b7938af4abc5e24a16024a92303ab3d"
+   "bytes": 167883,
+   "sha256": "da91c5dec9dce243225be1c34f52dbf6355be03fc1a6be573fd1707135199b60"
   },
   {
    "id": "lucknow",
@@ -2848,11 +2901,12 @@
     "129 stops served only by those routes moved with them",
     "32 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 250 of 444 trips that had none: the map's road-snapped line for the route (28 shapes)"
+    "shapes for 250 of 444 trips that had none: the map's road-snapped line for the route (28 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 6,482 -> 5,650 shape points"
    ],
    "routes_without_timetable": "uttar-pradesh/lucknow/bus.routes_without_timetable.csv",
-   "bytes": 194617,
-   "sha256": "ea6f5ea54939eb783865bd1f0c25c6f5c3140d13393c0a5997cbc2c3dac65763"
+   "bytes": 186931,
+   "sha256": "f74c0d8082f9ef0207002ccc2dbeae29fcf686d859b7b8c7bcf315978eb2336c"
   },
   {
    "id": "mathura",
@@ -2896,11 +2950,12 @@
     "192 stops served only by those routes moved with them",
     "18 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 302 of 302 trips that had none: the map's road-snapped line for the route (24 shapes)"
+    "shapes for 302 of 302 trips that had none: the map's road-snapped line for the route (24 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 17,170 -> 4,594 shape points"
    ],
    "routes_without_timetable": "uttar-pradesh/mathura/bus.routes_without_timetable.csv",
-   "bytes": 196999,
-   "sha256": "7ff9ec0c3f0fd520a4cf88ff97be9885948ba6097281f4b5ba1286cef5467139"
+   "bytes": 88641,
+   "sha256": "f233acfe7728941437591034508ee89990ddd01ec2e5e2dfca6336f26e10b62d"
   },
   {
    "id": "meerut",
@@ -2946,7 +3001,7 @@
    ],
    "routes_without_timetable": "uttar-pradesh/meerut/bus.routes_without_timetable.csv",
    "bytes": 49219,
-   "sha256": "4284288540773b919a5fd2fdd89ef52faf31d8f15638b7aa6573da59dbc0055c"
+   "sha256": "86b103945485631ec63591b86cdab8b1cd4ffea3320e15fa53252c19b75e0091"
   },
   {
    "id": "noida",
@@ -2995,7 +3050,7 @@
    ],
    "routes_without_timetable": "uttar-pradesh/noida/bus.routes_without_timetable.csv",
    "bytes": 11580,
-   "sha256": "2e3030b7e6e77dc858b7410aba131f35e129769f1cbce7746573ad00fe18b458"
+   "sha256": "39642bad503891cfe2d24455eab8e650f0b9d7b815241f9d5bc26e18bed2df8c"
   },
   {
    "id": "prayagraj",
@@ -3039,11 +3094,12 @@
     "672 stops served only by those routes moved with them",
     "95 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 115 of 115 trips that had none: the map's road-snapped line for the route (15 shapes)"
+    "shapes for 115 of 115 trips that had none: the map's road-snapped line for the route (15 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 3,407 -> 2,946 shape points"
    ],
    "routes_without_timetable": "uttar-pradesh/prayagraj/bus.routes_without_timetable.csv",
-   "bytes": 70360,
-   "sha256": "3818c24151faac8940e351e29cbe12bbd5d583757554c0558908480313163746"
+   "bytes": 66499,
+   "sha256": "1a7e0a901fca8c4d68e2e34705601bb8b4330751cbd0c7f84bc1463729b013c2"
   },
   {
    "id": "varanasi",
@@ -3062,7 +3118,7 @@
    "routes": 123,
    "stops": 358,
    "trips": 688,
-   "shapes": 123,
+   "shapes": 113,
    "trips_with_shape": 688,
    "files": [
     "agency.txt",
@@ -3087,11 +3143,12 @@
     "58 stops served only by those routes moved with them",
     "26 routes with no timetable (one placeholder trip at midnight each) moved to routes_without_timetable.csv",
     "shapes.txt left out (header only, no rows)",
-    "shapes for 688 of 688 trips that had none: the map's road-snapped line for the route (123 shapes)"
+    "shapes for 688 of 688 trips that had none: the map's road-snapped line for the route (123 shapes)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 15,728 -> 12,741 shape points"
    ],
    "routes_without_timetable": "uttar-pradesh/varanasi/bus.routes_without_timetable.csv",
-   "bytes": 230065,
-   "sha256": "3b5cbf8fa439155268f44b35068b6f9c9e366d809958e067ad6e93f929259c50"
+   "bytes": 206272,
+   "sha256": "0926d4979d99f87360ec1a06e1e5340dde15e038e255d9b541929e74374b451d"
   },
   {
    "id": "kolkata",
@@ -3121,7 +3178,7 @@
    "routes": 2449,
    "stops": 9208,
    "trips": 6646,
-   "shapes": 4055,
+   "shapes": 2577,
    "trips_with_shape": 6558,
    "files": [
     "agency.txt",
@@ -3144,11 +3201,12 @@
     "21 routes with no timetable (placeholder times, tram routes) moved to routes_without_timetable.csv",
     "shapes for 1064 of 1152 trips that had none: the map's road-snapped line for the route (1064 shapes)",
     "43 shapes no trip uses left out",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 935,796 -> 498,125 shape points",
     "feed_info.txt added (none in the source)"
    ],
    "routes_without_timetable": "west-bengal/kolkata/all-modes.routes_without_timetable.csv",
-   "bytes": 8800528,
-   "sha256": "cb71ee51aca31b394357be461ea13b29402101b1824ece3c29ad431b09d11114"
+   "bytes": 5596573,
+   "sha256": "c4f14ab0a6da671a1ffb2cf8d26790d8e457b68b7b843af5a4bf276da5215e76"
   },
   {
    "id": "kolkata-ferry",
@@ -3185,11 +3243,12 @@
    "source": null,
    "note": "Unofficial: mostly headway-based services (frequencies.txt).",
    "changes": [
-    "packaging: files at the zip root, GTFS reference files only"
+    "packaging: files at the zip root, GTFS reference files only",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 460 -> 450 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 7523,
-   "sha256": "8343c1545de878b28c60104e5866b03d63dad6be72975e2c73984495e51d9efc"
+   "bytes": 7407,
+   "sha256": "c999ada44b63c4abbce57997af8e040183979d172a2dbb48a3514db6116a8b5d"
   },
   {
    "id": "kolkata-metro",
@@ -3230,8 +3289,8 @@
     "1 shapes no trip uses left out"
    ],
    "routes_without_timetable": null,
-   "bytes": 195444,
-   "sha256": "cf1a445c86ec451bb4c3db359ed5280d74f2cfc5e12fe963519a8a235ab77a05"
+   "bytes": 195405,
+   "sha256": "d0abac6bbe080dae1bd02a1b0de8ba5655b67f85379f60a23d44eeb294fc4d30"
   },
   {
    "id": "kolkata-suburban",
@@ -3250,7 +3309,7 @@
    "routes": 25,
    "stops": 406,
    "trips": 2460,
-   "shapes": 1652,
+   "shapes": 355,
    "trips_with_shape": 2460,
    "files": [
     "agency.txt",
@@ -3268,11 +3327,12 @@
    "note": "Unofficial: built from the national Indian Railways GTFS.",
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
-    "frequencies.txt left out (header only, no rows)"
+    "frequencies.txt left out (header only, no rows)",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 97,523 -> 20,134 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 758705,
-   "sha256": "ce8b14335b03c91fe8e887c927b9306e56ccc08b6f9f1e2ef33befd5a819535c"
+   "bytes": 397032,
+   "sha256": "a66c0b1958e40da551a82976231551535e7f6fc1f66f7cb213e15598fb4152e6"
   }
  ]
 }
