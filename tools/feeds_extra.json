@@ -215,5 +215,21 @@
   },
   "note": "Unofficial: origin and destination only, as published; arrival times are estimates (timepoint=0).",
   "mapdir": "bsrtc"
+ },
+ {
+  "fid": "astc",
+  "path": "assam/astc/bus",
+  "name": "ASTC (Assam State Transport Corporation)",
+  "state": "Assam",
+  "src": "~/Desktop/projects/astc_bus/gtfs/astc_gtfs.zip",
+  "kind": "bus",
+  "source": {
+   "name": "ASTC division timetables (astcbus.in/schedules, one PDF per division), built into GTFS by reclaim.city (astc_bus)",
+   "url": "https://astcbus.in/schedules",
+   "licence": null,
+   "detail": "Unofficial: ASTC publishes no open GTFS. Every service in the 9 division timetable PDFs linked from ASTC's Schedules page, each a list of stations with km, arrival and departure. Clock typos in the PDFs (AM/PM slips, a departure before its arrival) are repaired against the timetable km. Towns geocoded (built-in gazetteer for the trunk towns and Guwahati's terminals, else Nominatim checked against the timetable km; villages it does not know are placed on the road at their km) and joined by OSRM's road. Stop times are the PDFs' own (timepoint=1; halts listed without a time are interpolated, timepoint=0). Every service runs daily (the PDFs give no day pattern). Schedule only, no live positions. Read Nov 2026."
+  },
+  "note": "Unofficial: the PDFs' own times; stop positions are town or stand level (some villages approximate, on the road at their timetable km).",
+  "mapdir": "astc"
  }
 ]

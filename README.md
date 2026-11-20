@@ -1,8 +1,8 @@
 # India_GTFS
 
-Public transit for India in [GTFS](https://gtfs.org/): **68 feeds** covering
+Public transit for India in [GTFS](https://gtfs.org/): **69 feeds** covering
 **21 states and union territories**: city buses, state transport corporations, suburban rail, MRTS, metro, RRTS and
-ferries. Together they hold 57,879 routes, 138,667 stops and 650,729 trips, with shapes on almost every trip.
+ferries. Together they hold 58,014 routes, 138,891 stops and 651,033 trips, with shapes on almost every trip.
 **10 networks also have live GTFS-Realtime feeds** (vehicle positions and trip updates).
 
 Every feed is the timetable behind a map on [maps.reclaim.city](https://maps.reclaim.city/), so the ids in the
@@ -29,6 +29,7 @@ changes we made.
 |---|---|---|--:|--:|--:|---|:-:|---|
 | [Andhra Pradesh](andhra-pradesh/README.md) | APSRTC (Andhra Pradesh, statewide) | bus | 5,095 | 11,156 | 54,812 | 2026-11-01 – 2027-10-31 | ✓ | [apsrtc.zip](andhra-pradesh/apsrtc.zip) |
 | [Andhra Pradesh](andhra-pradesh/README.md) | Vijayawada | bus | 331 | 1,525 | 3,171 | 2026-11-03 – 2027-11-03 |  | [bus.zip](andhra-pradesh/vijayawada/bus.zip) |
+| [Assam](assam/README.md) | ASTC (Assam State Transport Corporation) | bus | 135 | 224 | 304 | 2026-11-20 – 2027-05-19 |  | [bus.zip](assam/astc/bus.zip) |
 | [Assam](assam/README.md) | Guwahati | bus | 522 | 2,283 | 4,272 | 2026-11-02 – 2027-11-02 |  | [bus.zip](assam/guwahati/bus.zip) |
 | [Bihar](bihar/README.md) | BSRTC (Bihar State Road Transport Corporation) | bus | 48 | 40 | 323 | 2026-11-20 – 2027-05-19 |  | [bus.zip](bihar/bsrtc/bus.zip) |
 | [Bihar](bihar/README.md) | Patna | bus | 54 | 356 | 577 | 2026-11-02 – 2027-11-02 |  | [bus.zip](bihar/patna/bus.zip) |
@@ -272,6 +273,7 @@ is. Check each source before commercial use.
 |---|---|---|
 | APSRTC (Andhra Pradesh, statewide) | [reclaimchennai/apsrtc](https://github.com/reclaimchennai/apsrtc) | none stated |
 | Vijayawada | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
+| ASTC (Assam State Transport Corporation) | [ASTC division timetables (astcbus.in/schedules, one PDF per division), built into GTFS by reclaim.city (astc_bus)](https://astcbus.in/schedules) | none stated |
 | Guwahati | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | BSRTC (Bihar State Road Transport Corporation) | [BSRTC depot timetables (bsrtc.co.in/schedules, one PDF per depot), built into GTFS by reclaim.city (bsrtc_bus)](https://bsrtc.co.in/schedules) | none stated |
 | Patna | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T18:07:52Z",
+ "generated": "2026-11-20T18:12:30Z",
  "repository": "https://github.com/reclaimchennai/India_GTFS",
  "spec": {
   "schedule": "https://gtfs.org/documentation/schedule/reference/",
@@ -105,6 +105,52 @@
    "routes_without_timetable": "andhra-pradesh/vijayawada/bus.routes_without_timetable.csv",
    "bytes": 1313850,
    "sha256": "d66b2c34bc7cc398dc909622894a11b94d72ac1d194918ebf7368b8f1f11efcf"
+  },
+  {
+   "id": "astc",
+   "name": "ASTC (Assam State Transport Corporation)",
+   "state": "Assam",
+   "path": "assam/astc/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/assam/astc/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/astc.zip",
+   "map": "https://maps.reclaim.city/astc/",
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "Assam State Transport Corporation"
+   ],
+   "routes": 135,
+   "stops": 224,
+   "trips": 304,
+   "shapes": 258,
+   "trips_with_shape": 304,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261120",
+   "service_end": "20270519",
+   "source": {
+    "name": "ASTC division timetables (astcbus.in/schedules, one PDF per division), built into GTFS by reclaim.city (astc_bus)",
+    "url": "https://astcbus.in/schedules",
+    "licence": null,
+    "detail": "Unofficial: ASTC publishes no open GTFS. Every service in the 9 division timetable PDFs linked from ASTC's Schedules page, each a list of stations with km, arrival and departure. Clock typos in the PDFs (AM/PM slips, a departure before its arrival) are repaired against the timetable km. Towns geocoded (built-in gazetteer for the trunk towns and Guwahati's terminals, else Nominatim checked against the timetable km; villages it does not know are placed on the road at their km) and joined by OSRM's road. Stop times are the PDFs' own (timepoint=1; halts listed without a time are interpolated, timepoint=0). Every service runs daily (the PDFs give no day pattern). Schedule only, no live positions. Read Nov 2026."
+   },
+   "note": "Unofficial: the PDFs' own times; stop positions are town or stand level (some villages approximate, on the road at their timetable km).",
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 77,858 -> 70,013 shape points"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 540929,
+   "sha256": "74da1983f0e6048fe1edaf3e82f2e0a7d5389500e3b9beb98265b8be55440b1d"
   },
   {
    "id": "guwahati",

@@ -1,6 +1,30 @@
 # Assam
 
-Feeds in this folder: 1. Back to the [repository README](../README.md).
+Feeds in this folder: 2. Back to the [repository README](../README.md).
+
+## ASTC (Assam State Transport Corporation)
+
+| | |
+|---|---|
+| Feed id | `astc` |
+| Download | [astc/bus.zip](astc/bus.zip) (0.5 MB), mirror <https://maps.reclaim.city/gtfs/astc.zip> |
+| Modes | bus |
+| Agencies | Assam State Transport Corporation |
+| Routes / stops / trips | 135 / 224 / 304 |
+| Trips with a shape | 304 (258 shapes) |
+| Service | 2026-11-20 to 2027-05-19 |
+| Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
+| Map | <https://maps.reclaim.city/astc/> |
+| Source | [ASTC division timetables (astcbus.in/schedules, one PDF per division), built into GTFS by reclaim.city (astc_bus)](https://astcbus.in/schedules) |
+| Licence | none stated by the source |
+| sha256 | `74da1983f0e6048fe1edaf3e82f2e0a7d5389500e3b9beb98265b8be55440b1d` |
+
+> Unofficial: the PDFs' own times; stop positions are town or stand level (some villages approximate, on the road at their timetable km).
+
+Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
+
+- packaging: files at the zip root, GTFS reference files only
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 77,858 -> 70,013 shape points
 
 ## Guwahati
 
