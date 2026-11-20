@@ -1,6 +1,6 @@
 # Gujarat
 
-Feeds in this folder: 3. Back to the [repository README](../README.md).
+Feeds in this folder: 4. Back to the [repository README](../README.md).
 
 ## Ahmedabad (AMTS, Janmarg BRTS, Gandhinagar GTSL)
 
@@ -24,6 +24,27 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 - packaging: files at the zip root, GTFS reference files only
 - shapes for 14316 of 14323 trips that had none: the map's road-snapped line for the route (972 shapes)
 - route lines thinned to within 4 m (scripts/simplify_shapes.py): 283,752 -> 247,111 shape points
+
+## GSRTC intercity (Gujarat State Road Transport Corporation)
+
+| | |
+|---|---|
+| Feed id | `gsrtc` |
+| Download | [gsrtc/bus.zip](gsrtc/bus.zip) (4.3 MB), mirror <https://maps.reclaim.city/gtfs/gsrtc.zip> |
+| Modes | bus |
+| Agencies | Gujarat State Road Transport Corporation |
+| Routes / stops / trips | 2,258 / 218 / 5,788 |
+| Trips with a shape | 5,788 (2,249 shapes) |
+| Service | 2026-11-20 to 2027-05-19 |
+| Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
+| Source | [GSRTC public booking timetables (gsrtc.in OPRS), built into GTFS by reclaim.city (gsrtc_bus)](https://gsrtc.in/) |
+| Licence | none stated by the source |
+| sha256 | `a363138a79aa83f7dbdb625f1448db29f56aee64871123cbc015dc18415382d4` |
+
+Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
+
+- packaging: files at the zip root, GTFS reference files only
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 613,113 -> 611,889 shape points
 
 ## Rajkot (RRL BRTS + city)
 

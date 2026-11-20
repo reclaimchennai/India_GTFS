@@ -185,5 +185,19 @@
    "detail": "Unofficial: the PM e-Bus Sewa city operators publish no GTFS. Routes, stops in order and route lines from the route maps (KML) each city publishes on Katch's tracking pages (katch_bus/network_eb.py); departures from the buses seen starting each route on the live tracking, later stops timed from the median running times seen (timepoint=0); routes with no departure seen yet are listed without a timetable (katch_bus/gtfs_katch.py)."
   },
   "note": "Unofficial: built from the city's published route maps and live GPS; times after the first stop are estimates (timepoint=0)."
+ },
+ {
+  "fid": "gsrtc",
+  "path": "gujarat/gsrtc/bus",
+  "name": "GSRTC intercity (Gujarat State Road Transport Corporation)",
+  "state": "Gujarat",
+  "src": "~/Desktop/projects/gsrtc_bus/gtfs/gsrtc_gtfs.zip",
+  "kind": "bus",
+  "source": {
+   "name": "GSRTC public booking timetables (gsrtc.in OPRS), built into GTFS by reclaim.city (gsrtc_bus)",
+   "url": "https://gsrtc.in/",
+   "licence": null,
+   "detail": "Unofficial: GSRTC publishes no open GTFS. Routes are the state intercity corridors returned by the public booking site's from/to search (origin, the via towns, destination, by place code), towns geocoded (built-in gazetteer, else Nominatim) and joined by OSRM's road; departures and classes from the same search. Schedule only - no live positions (the live app is device-attestation gated). Stop times are OSRM driving time from the origin (timepoint=0). Read Nov 2026."
+  }
  }
 ]

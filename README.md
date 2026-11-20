@@ -1,8 +1,8 @@
 # India_GTFS
 
-Public transit for India in [GTFS](https://gtfs.org/): **66 feeds** covering
+Public transit for India in [GTFS](https://gtfs.org/): **67 feeds** covering
 **21 states and union territories**: city buses, state transport corporations, suburban rail, MRTS, metro, RRTS and
-ferries. Together they hold 55,573 routes, 138,409 stops and 644,618 trips, with shapes on almost every trip.
+ferries. Together they hold 57,831 routes, 138,627 stops and 650,406 trips, with shapes on almost every trip.
 **10 networks also have live GTFS-Realtime feeds** (vehicle positions and trip updates).
 
 Every feed is the timetable behind a map on [maps.reclaim.city](https://maps.reclaim.city/), so the ids in the
@@ -38,6 +38,7 @@ changes we made.
 | [Delhi](delhi/README.md) | Namo Bharat RRTS (NCRTC, Delhi-Meerut) | rail | 2 | 16 | 130 | 2024-01-01 – 2029-01-01 |  | [rrts-namo-bharat.zip](delhi/rrts-namo-bharat.zip) |
 | [Goa](goa/README.md) | Goa (Kadamba Transport Corporation) | bus | 476 | 3,255 | 3,130 | 2023-09-01 – 2025-08-01 |  | [ktcl-bus.zip](goa/ktcl-bus.zip) |
 | [Gujarat](gujarat/README.md) | Ahmedabad (AMTS, Janmarg BRTS, Gandhinagar GTSL) | bus | 978 | 3,235 | 14,323 | 2026-09-30 – 2027-03-29 |  | [bus.zip](gujarat/ahmedabad/bus.zip) |
+| [Gujarat](gujarat/README.md) | GSRTC intercity (Gujarat State Road Transport Corporation) | bus | 2,258 | 218 | 5,788 | 2026-11-20 – 2027-05-19 |  | [bus.zip](gujarat/gsrtc/bus.zip) |
 | [Gujarat](gujarat/README.md) | Rajkot (RRL BRTS + city) | bus | 271 | 760 | 3,168 | 2026-10-16 – 2027-04-14 |  | [bus.zip](gujarat/rajkot/bus.zip) |
 | [Gujarat](gujarat/README.md) | Vapi (VCBS) | bus | 22 | 91 | 461 | 2026-01-01 – 2027-12-31 |  | [bus.zip](gujarat/vapi/bus.zip) |
 | [Haryana](haryana/README.md) | Gurugram (GMCBL) | bus | 148 | 1,117 | 3,124 | 2026-11-01 – 2027-11-01 | ✓ | [bus.zip](haryana/gurugram/bus.zip) |
@@ -279,6 +280,7 @@ is. Check each source before commercial use.
 | Namo Bharat RRTS (NCRTC, Delhi-Meerut) | [NCRTC static GTFS v1 (Open Transit Data Delhi)](https://otd.delhi.gov.in/) | OTD Delhi terms |
 | Goa (Kadamba Transport Corporation) | [Goa Transport Department: KTCL GTFS](https://goatransport.gov.in/GTFS) | none stated |
 | Ahmedabad (AMTS, Janmarg BRTS, Gandhinagar GTSL) | [croyla/amd-gtfs](https://github.com/croyla/amd-gtfs) | MIT |
+| GSRTC intercity (Gujarat State Road Transport Corporation) | [GSRTC public booking timetables (gsrtc.in OPRS), built into GTFS by reclaim.city (gsrtc_bus)](https://gsrtc.in/) | none stated |
 | Rajkot (RRL BRTS + city) | [croyla/rrl-gtfs](https://github.com/croyla/rrl-gtfs) | MIT-0 |
 | Vapi (VCBS) | [shubhamvelani/VapiGTFS](https://github.com/shubhamvelani/VapiGTFS) | none stated |
 | Gurugram (GMCBL) | [Chalo's public scheduler (production.zophop.com, the backend of GMCBL's Gurugaman app): every route's details (stops in order, its line, every trip on a Monday and a Sunday, frequency windows expanded), Nov 2026, built into GTFS by reclaim.city (ncr_bus pipeline/routedetails_gtfs.py; times between the ends spread by distance, timepoint=0)](https://chalo.com/) | none stated |

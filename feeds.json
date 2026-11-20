@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T15:11:30Z",
+ "generated": "2026-11-20T16:58:58Z",
  "repository": "https://github.com/reclaimchennai/India_GTFS",
  "spec": {
   "schedule": "https://gtfs.org/documentation/schedule/reference/",
@@ -559,6 +559,52 @@
    "routes_without_timetable": null,
    "bytes": 6232042,
    "sha256": "2ab7ff9586231f8302304224281abfb31104d8e54e9a8ef0b2ea0a07fdcd5154"
+  },
+  {
+   "id": "gsrtc",
+   "name": "GSRTC intercity (Gujarat State Road Transport Corporation)",
+   "state": "Gujarat",
+   "path": "gujarat/gsrtc/bus.zip",
+   "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/gujarat/gsrtc/bus.zip",
+   "mirror": "https://maps.reclaim.city/gtfs/gsrtc.zip",
+   "map": null,
+   "modes": [
+    "bus"
+   ],
+   "agencies": [
+    "Gujarat State Road Transport Corporation"
+   ],
+   "routes": 2258,
+   "stops": 218,
+   "trips": 5788,
+   "shapes": 2249,
+   "trips_with_shape": 5788,
+   "files": [
+    "agency.txt",
+    "calendar.txt",
+    "feed_info.txt",
+    "routes.txt",
+    "shapes.txt",
+    "stop_times.txt",
+    "stops.txt",
+    "trips.txt"
+   ],
+   "service_start": "20261120",
+   "service_end": "20270519",
+   "source": {
+    "name": "GSRTC public booking timetables (gsrtc.in OPRS), built into GTFS by reclaim.city (gsrtc_bus)",
+    "url": "https://gsrtc.in/",
+    "licence": null,
+    "detail": "Unofficial: GSRTC publishes no open GTFS. Routes are the state intercity corridors returned by the public booking site's from/to search (origin, the via towns, destination, by place code), towns geocoded (built-in gazetteer, else Nominatim) and joined by OSRM's road; departures and classes from the same search. Schedule only - no live positions (the live app is device-attestation gated). Stop times are OSRM driving time from the origin (timepoint=0). Read Nov 2026."
+   },
+   "note": null,
+   "changes": [
+    "packaging: files at the zip root, GTFS reference files only",
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 613,113 -> 611,889 shape points"
+   ],
+   "routes_without_timetable": null,
+   "bytes": 4503734,
+   "sha256": "a363138a79aa83f7dbdb625f1448db29f56aee64871123cbc015dc18415382d4"
   },
   {
    "id": "rajkot",
