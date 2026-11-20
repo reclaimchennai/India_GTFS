@@ -1,8 +1,8 @@
 # India_GTFS
 
-Public transit for India in [GTFS](https://gtfs.org/): **75 feeds** covering
-**23 states and union territories**: city buses, state transport corporations, suburban rail, MRTS, metro, RRTS and
-ferries. Together they hold 61,926 routes, 141,025 stops and 668,796 trips, with shapes on almost every trip.
+Public transit for India in [GTFS](https://gtfs.org/): **77 feeds** covering
+**24 states and union territories**: city buses, state transport corporations, suburban rail, MRTS, metro, RRTS and
+ferries. Together they hold 62,289 routes, 149,370 stops and 669,652 trips, with shapes on almost every trip.
 **10 networks also have live GTFS-Realtime feeds** (vehicle positions and trip updates).
 
 Every feed is the timetable behind a map on [maps.reclaim.city](https://maps.reclaim.city/), so the ids in the
@@ -45,6 +45,7 @@ changes we made.
 | [Gujarat](gujarat/README.md) | Vapi (VCBS) | bus | 22 | 91 | 461 | 2026-01-01 – 2027-12-31 |  | [bus.zip](gujarat/vapi/bus.zip) |
 | [Haryana](haryana/README.md) | Gurugram (GMCBL) | bus | 148 | 1,117 | 3,124 | 2026-11-01 – 2027-11-01 | ✓ | [bus.zip](haryana/gurugram/bus.zip) |
 | [Haryana](haryana/README.md) | Haryana Roadways (Haryana, statewide) | bus | 420 | 238 | 10,447 | 2026-11-17 – 2027-11-17 | ✓ | [haryana-roadways.zip](haryana/haryana-roadways.zip) |
+| [Himachal Pradesh](himachal-pradesh/README.md) | HRTC (Himachal Road Transport Corporation) | bus | 313 | 8,294 | 614 | 2026-11-21 – 2027-05-20 |  | [bus.zip](himachal-pradesh/hrtc/bus.zip) |
 | [India](india/README.md) | Indian Railways (all-India trains, incl. EMU/MEMU) | rail | 10,389 | 8,550 | 10,389 | 2025-01-01 – 2099-12-31 |  | [indian-railways.zip](india/indian-railways.zip) |
 | [Jammu and Kashmir](jammu-and-kashmir/README.md) | Jammu | bus | 248 | 850 | 1,880 | 2026-11-02 – 2027-11-02 |  | [bus.zip](jammu-and-kashmir/jammu/bus.zip) |
 | [Jammu and Kashmir](jammu-and-kashmir/README.md) | Srinagar | bus | 168 | 1,065 | 2,404 | 2026-11-02 – 2027-11-02 |  | [bus.zip](jammu-and-kashmir/srinagar/bus.zip) |
@@ -107,6 +108,7 @@ changes we made.
 | [West Bengal](west-bengal/README.md) | Kolkata Hooghly ferries | ferry | 20 | 30 | 40 | 2026-11-01 – 2027-10-31 |  | [ferry.zip](west-bengal/kolkata/ferry.zip) |
 | [West Bengal](west-bengal/README.md) | Kolkata Metro | metro | 5 | 55 | 1,704 | 2026-11-01 – 2027-10-31 |  | [metro.zip](west-bengal/kolkata/metro.zip) |
 | [West Bengal](west-bengal/README.md) | Kolkata suburban rail (Eastern and South Eastern Railway) | rail | 25 | 406 | 2,460 | 2026-11-01 – 2027-10-31 |  | [suburban-rail.zip](west-bengal/kolkata/suburban-rail.zip) |
+| [West Bengal](west-bengal/README.md) | WBTC (West Bengal Transport Corporation) | bus | 50 | 51 | 242 | 2026-11-21 – 2027-05-20 |  | [bus.zip](west-bengal/wbtc/bus.zip) |
 
 ## Using the feeds
 
@@ -295,6 +297,7 @@ is. Check each source before commercial use.
 | Vapi (VCBS) | [shubhamvelani/VapiGTFS](https://github.com/shubhamvelani/VapiGTFS) | none stated |
 | Gurugram (GMCBL) | [Chalo's public scheduler (production.zophop.com, the backend of GMCBL's Gurugaman app): every route's details (stops in order, its line, every trip on a Monday and a Sunday, frequency windows expanded), Nov 2026, built into GTFS by reclaim.city (ncr_bus pipeline/routedetails_gtfs.py; times between the ends spread by distance, timepoint=0)](https://chalo.com/) | none stated |
 | Haryana Roadways (Haryana, statewide) | [Haryana Roadways' depot timetables (hartrans.gov.in) and its live tracking, built into GTFS by reclaim.city](https://hartrans.gov.in/bus-time-table-depot-wise/) | none stated |
+| HRTC (Himachal Road Transport Corporation) | [HRTC's public booking site (online.hrtchp.com, OPRS guest search and Service Route Details), built into GTFS by reclaim.city (hrtc_bus)](https://online.hrtchp.com/oprs-web/guest/home.do) | none stated |
 | Indian Railways (all-India trains, incl. EMU/MEMU) | [Community GTFS of Indian Railways by P. Radha Krishna (github.com/Neo2308)](https://github.com/Neo2308) | none stated |
 | Jammu | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Srinagar | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
@@ -357,6 +360,7 @@ is. Check each source before commercial use.
 | Kolkata Hooghly ferries |  | none stated |
 | Kolkata Metro |  | none stated |
 | Kolkata suburban rail (Eastern and South Eastern Railway) |  | none stated |
+| WBTC (West Bengal Transport Corporation) | [WBTC online booking site (wbtconline.in: route list and the departures sold from each boarding point), built into GTFS by reclaim.city (wbtc_bus)](https://wbtconline.in/) | none stated |
 
 Shapes marked `map-` and all the changes listed above are © reclaim.city, under the same terms as the feed they are in.
 Base map data © OpenStreetMap contributors (ODbL).

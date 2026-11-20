@@ -1,6 +1,6 @@
 # West Bengal
 
-Feeds in this folder: 4. Back to the [repository README](../README.md).
+Feeds in this folder: 5. Back to the [repository README](../README.md).
 
 ## Kolkata (bus, metro, suburban rail, ferry)
 
@@ -98,3 +98,27 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 - packaging: files at the zip root, GTFS reference files only
 - frequencies.txt left out (header only, no rows)
 - route lines thinned to within 4 m (scripts/simplify_shapes.py): 97,523 -> 20,134 shape points
+
+## WBTC (West Bengal Transport Corporation)
+
+| | |
+|---|---|
+| Feed id | `wbtc` |
+| Download | [wbtc/bus.zip](wbtc/bus.zip) (0.1 MB), mirror <https://maps.reclaim.city/gtfs/wbtc.zip> |
+| Modes | bus |
+| Agencies | West Bengal Transport Corporation |
+| Routes / stops / trips | 50 / 51 / 242 |
+| Trips with a shape | 242 (83 shapes) |
+| Service | 2026-11-21 to 2027-05-20 |
+| Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
+| Map | <https://maps.reclaim.city/wbtc/> |
+| Source | [WBTC online booking site (wbtconline.in: route list and the departures sold from each boarding point), built into GTFS by reclaim.city (wbtc_bus)](https://wbtconline.in/) |
+| Licence | none stated by the source |
+| sha256 | `3922e7b3035520184330eee138e3e468706cf95de8ba051c3f657c1fc6bc75ea` |
+
+> Unofficial: departures by boarding point as sold on wbtconline.in; arrivals and unsold points are estimates (timepoint=0). Long-distance only; city routes are in west-bengal/kolkata.
+
+Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
+
+- packaging: files at the zip root, GTFS reference files only
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 20,832 -> 17,277 shape points

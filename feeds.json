@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T22:23:34Z",
+  "generated": "2026-11-20T22:29:38Z",
   "repository": "https://github.com/reclaimchennai/India_GTFS",
   "spec": {
     "schedule": "https://gtfs.org/documentation/schedule/reference/",
@@ -3767,6 +3767,98 @@
       "routes_without_timetable": null,
       "bytes": 397032,
       "sha256": "a66c0b1958e40da551a82976231551535e7f6fc1f66f7cb213e15598fb4152e6"
+    },
+    {
+      "id": "wbtc",
+      "name": "WBTC (West Bengal Transport Corporation)",
+      "state": "West Bengal",
+      "path": "west-bengal/wbtc/bus.zip",
+      "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/west-bengal/wbtc/bus.zip",
+      "mirror": "https://maps.reclaim.city/gtfs/wbtc.zip",
+      "map": "https://maps.reclaim.city/wbtc/",
+      "modes": [
+        "bus"
+      ],
+      "agencies": [
+        "West Bengal Transport Corporation"
+      ],
+      "routes": 50,
+      "stops": 51,
+      "trips": 242,
+      "shapes": 83,
+      "trips_with_shape": 242,
+      "files": [
+        "agency.txt",
+        "calendar.txt",
+        "feed_info.txt",
+        "routes.txt",
+        "shapes.txt",
+        "stop_times.txt",
+        "stops.txt",
+        "trips.txt"
+      ],
+      "service_start": "20261121",
+      "service_end": "20270520",
+      "source": {
+        "name": "WBTC online booking site (wbtconline.in: route list and the departures sold from each boarding point), built into GTFS by reclaim.city (wbtc_bus)",
+        "url": "https://wbtconline.in/",
+        "licence": null,
+        "detail": "Unofficial: WBTC publishes no open GTFS. Every long-distance route on the booking site's route list (58 routes, 50 sold route codes) with its booking points in order; every ordered pair of booking points searched for one travel date, giving each bus's departure from each point it is sold from. Those times are published (timepoint=1); times at other points and the terminus arrival are estimates from OSRM driving time (timepoint=0). Booking points geocoded (built-in gazetteer, else Nominatim) and joined by OSRM's road. WBTC's Kolkata city routes are in the Kolkata feed. Schedule only: no open live positions (WB's bus tracking is inside the login-gated Yatri Sathi app). Read Nov 2026."
+      },
+      "note": "Unofficial: departures by boarding point as sold on wbtconline.in; arrivals and unsold points are estimates (timepoint=0). Long-distance only; city routes are in west-bengal/kolkata.",
+      "changes": [
+        "packaging: files at the zip root, GTFS reference files only",
+        "route lines thinned to within 4 m (scripts/simplify_shapes.py): 20,832 -> 17,277 shape points"
+      ],
+      "routes_without_timetable": null,
+      "bytes": 123474,
+      "sha256": "3922e7b3035520184330eee138e3e468706cf95de8ba051c3f657c1fc6bc75ea"
+    },
+    {
+      "id": "hrtc",
+      "name": "HRTC (Himachal Road Transport Corporation)",
+      "state": "Himachal Pradesh",
+      "path": "himachal-pradesh/hrtc/bus.zip",
+      "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/himachal-pradesh/hrtc/bus.zip",
+      "mirror": "https://maps.reclaim.city/gtfs/hrtc.zip",
+      "map": "https://maps.reclaim.city/hrtc/",
+      "modes": [
+        "bus"
+      ],
+      "agencies": [
+        "Himachal Road Transport Corporation"
+      ],
+      "routes": 313,
+      "stops": 8294,
+      "trips": 614,
+      "shapes": 611,
+      "trips_with_shape": 614,
+      "files": [
+        "agency.txt",
+        "calendar.txt",
+        "feed_info.txt",
+        "routes.txt",
+        "shapes.txt",
+        "stop_times.txt",
+        "stops.txt",
+        "trips.txt"
+      ],
+      "service_start": "20261121",
+      "service_end": "20270520",
+      "source": {
+        "name": "HRTC's public booking site (online.hrtchp.com, OPRS guest search and Service Route Details), built into GTFS by reclaim.city (hrtc_bus)",
+        "url": "https://online.hrtchp.com/oprs-web/guest/home.do",
+        "licence": null,
+        "detail": "Unofficial: HRTC publishes no open GTFS. Every service bookable online for one weekday (25 Nov 2026), found by searching between HRTC's booking stations, each with its Service Route Details: every stop in order with HRTC's scheduled time (timepoint=1). The booking site carries the reserved long-distance and inter-state services (Shimla, Delhi, Chandigarh, Haridwar, Jammu, Manali...), not the many local and village services sold only on the bus. Stops have no coordinates at source: each is matched to an OpenStreetMap place, bus stop or bus station, choosing among same-name places by consistency with the trip's times, snapped to the road; stops with no match are put on the road between placed neighbours at the timetable's fraction. Joined by OSRM's road. One all-week calendar (one weekday read). Schedule only, no live positions. Read Nov 2026."
+      },
+      "note": "Unofficial: HRTC's own stop times for the services sold online; local village services are not on the booking site. Some stop positions are approximate (on the road between neighbours).",
+      "changes": [
+        "packaging: files at the zip root, GTFS reference files only",
+        "route lines thinned to within 4 m (scripts/simplify_shapes.py): 735,508 -> 733,178 shape points"
+      ],
+      "routes_without_timetable": null,
+      "bytes": 6852357,
+      "sha256": "58be90cb58f8c17517f2ee9a689953268df75a706d18e6a6a6705f8eca3a9147"
     }
   ]
 }
