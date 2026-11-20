@@ -1,8 +1,8 @@
 # India_GTFS
 
-Public transit for India in [GTFS](https://gtfs.org/): **69 feeds** covering
-**21 states and union territories**: city buses, state transport corporations, suburban rail, MRTS, metro, RRTS and
-ferries. Together they hold 58,014 routes, 138,891 stops and 651,033 trips, with shapes on almost every trip.
+Public transit for India in [GTFS](https://gtfs.org/): **71 feeds** covering
+**22 states and union territories**: city buses, state transport corporations, suburban rail, MRTS, metro, RRTS and
+ferries. Together they hold 58,964 routes, 139,071 stops and 654,480 trips, with shapes on almost every trip.
 **10 networks also have live GTFS-Realtime feeds** (vehicle positions and trip updates).
 
 Every feed is the timetable behind a map on [maps.reclaim.city](https://maps.reclaim.city/), so the ids in the
@@ -79,9 +79,11 @@ changes we made.
 | [Rajasthan](rajasthan/README.md) | Jodhpur (JBSL city e-buses, PM e-Bus Sewa) | bus |  |  |  | |  | — |
 | [Rajasthan](rajasthan/README.md) | Kota (KBSL city e-buses, PM e-Bus Sewa) | bus |  |  |  | |  | — |
 | [Rajasthan](rajasthan/README.md) | Udaipur | bus | 28 | 243 | 303 | 2026-11-02 – 2027-11-02 |  | [bus.zip](rajasthan/udaipur/bus.zip) |
+| [Sikkim](sikkim/README.md) | SNT (Sikkim Nationalised Transport) | bus | 10 | 9 | 23 | 2026-11-20 – 2027-05-19 |  | [bus.zip](sikkim/snt/bus.zip) |
 | [Tamil Nadu](tamil-nadu/README.md) | Chennai MTC | bus | 1,092 | 3,768 | 51,763 | 2026-01-01 – 2027-12-31 | ✓ | [mtc-bus.zip](tamil-nadu/chennai/mtc-bus.zip) |
 | [Tamil Nadu](tamil-nadu/README.md) | Chennai Metro (CMRL) | metro | 3 | 294 | 749 | 2026-01-01 – 2027-12-31 |  | [metro-cmrl.zip](tamil-nadu/chennai/metro-cmrl.zip) |
 | [Tamil Nadu](tamil-nadu/README.md) | Chennai suburban rail and MRTS (Southern Railway) | rail | 753 | 388 | 756 | 2026-01-01 – 2027-12-31 |  | [suburban-rail-mrts.zip](tamil-nadu/chennai/suburban-rail-mrts.zip) |
+| [Tamil Nadu](tamil-nadu/README.md) | TNSTC + SETC intercity (Tamil Nadu state transport) | bus | 940 | 171 | 3,424 | 2026-11-21 – 2027-05-20 |  | [bus.zip](tamil-nadu/tnstc/bus.zip) |
 | [Telangana](telangana/README.md) | Hyderabad (TGSRTC city, official open data) | bus | 1,031 | 5,028 | 44,892 | 2026-02-01 – 2031-02-01 |  | [bus.zip](telangana/hyderabad/bus.zip) |
 | [Telangana](telangana/README.md) | TGSRTC (Telangana, statewide) | bus | 7,881 | 14,811 | 56,977 | 2026-09-01 – 2031-09-01 | ✓ | [tgsrtc.zip](telangana/tgsrtc.zip) |
 | [Uttar Pradesh](uttar-pradesh/README.md) | Agra | bus | 44 | 384 | 451 | 2026-11-02 – 2027-11-02 |  | [bus.zip](uttar-pradesh/agra/bus.zip) |
@@ -323,9 +325,11 @@ is. Check each source before commercial use.
 | Jodhpur (JBSL city e-buses, PM e-Bus Sewa) | [Katch city bus tracking (katchapp.in/bus_tracking): the cities' published route maps (KML) and live GPS, built into GTFS by reclaim.city](https://katchapp.in/bus_tracking) | none stated |
 | Kota (KBSL city e-buses, PM e-Bus Sewa) | [Katch city bus tracking (katchapp.in/bus_tracking): the cities' published route maps (KML) and live GPS, built into GTFS by reclaim.city](https://katchapp.in/bus_tracking) | none stated |
 | Udaipur | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
+| SNT (Sikkim Nationalised Transport) | [Sikkim Transport Department's published bus schedule and SNT's fare notification (Sikkim Government Gazette No. 325, 24 Jun 2024), built into GTFS by reclaim.city (sikkim_bus)](https://transportdepartment.sikkim.gov.in/visitors/busschedules) | none stated |
 | Chennai MTC | [reclaimchennai/ChennaiGTFS, Chennai One MTC feed](https://github.com/reclaimchennai/ChennaiGTFS/tree/chennai-one-feeds) | none stated |
 | Chennai Metro (CMRL) | [reclaimchennai/ChennaiGTFS, Chennai One CMRL feed](https://github.com/reclaimchennai/ChennaiGTFS/tree/chennai-one-feeds) | ODbL |
 | Chennai suburban rail and MRTS (Southern Railway) | [reclaimchennai/ChennaiGTFS, Chennai One suburban feed (stations from CUMTA, Government Open Data Licence - India)](https://github.com/reclaimchennai/ChennaiGTFS/tree/chennai-one-feeds) | ODbL |
+| TNSTC + SETC intercity (Tamil Nadu state transport) | [TNSTC / SETC public booking timetables (tnstc.in OTRSOnline), built into GTFS by reclaim.city (tnstc_bus)](https://www.tnstc.in/) | none stated |
 | Hyderabad (TGSRTC city, official open data) | [TGSRTC buses GTFS, Open Data Telangana (via OpenCity)](https://data.opencity.in/dataset/hyderabad-bus-stops) | none stated |
 | TGSRTC (Telangana, statewide) | [reclaimchennai/tgsrtc](https://github.com/reclaimchennai/tgsrtc) | none stated |
 | Agra | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |

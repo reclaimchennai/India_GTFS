@@ -1,6 +1,6 @@
 # Tamil Nadu
 
-Feeds in this folder: 3. Back to the [repository README](../README.md).
+Feeds in this folder: 4. Back to the [repository README](../README.md).
 
 ## Chennai Metro (CMRL)
 
@@ -67,3 +67,27 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 
 - packaging: files at the zip root, GTFS reference files only
 - route lines thinned to within 4 m (scripts/simplify_shapes.py): 160,847 -> 13,748 shape points
+
+## TNSTC + SETC intercity (Tamil Nadu state transport)
+
+| | |
+|---|---|
+| Feed id | `tnstc` |
+| Download | [tnstc/bus.zip](tnstc/bus.zip) (4.1 MB), mirror <https://maps.reclaim.city/gtfs/tnstc.zip> |
+| Modes | bus |
+| Agencies | State Express Transport Corporation Tamil Nadu Ltd, Tamil Nadu State Transport Corporation (Coimbatore) Ltd, Tamil Nadu State Transport Corporation (Kumbakonam) Ltd, Tamil Nadu State Transport Corporation (Madurai) Ltd, Tamil Nadu State Transport Corporation (Salem) Ltd, Tamil Nadu State Transport Corporation (Tirunelveli) Ltd, Tamil Nadu State Transport Corporation (Villupuram) Ltd |
+| Routes / stops / trips | 940 / 171 / 3,424 |
+| Trips with a shape | 3,424 (1,095 shapes) |
+| Service | 2026-11-21 to 2027-05-20 |
+| Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
+| Map | <https://maps.reclaim.city/tnstc/> |
+| Source | [TNSTC / SETC public booking timetables (tnstc.in OTRSOnline), built into GTFS by reclaim.city (tnstc_bus)](https://www.tnstc.in/) |
+| Licence | none stated by the source |
+| sha256 | `7365f06a469ae813b43563eff2aec6ad1aeaa475e67a3f555f7981707511885b` |
+
+> Unofficial: built from the TNSTC/SETC public booking timetables; stops are towns and bus stands, times between the searched hub towns are estimates (timepoint=0).
+
+Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
+
+- packaging: files at the zip root, GTFS reference files only
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 472,333 -> 453,666 shape points
