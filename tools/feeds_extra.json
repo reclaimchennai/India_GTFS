@@ -279,5 +279,37 @@
     },
     "note": "Unofficial: read by OCR from MSRTC's published bus-stand timetable boards; stops are towns and bus stands, times after the first are estimates (timepoint=0), and an odd time or town may be misread.",
     "mapdir": "msrtc"
+  },
+  {
+    "fid": "pepsu",
+    "path": "punjab/pepsu/bus",
+    "name": "PRTC (PEPSU Road Transport Corporation)",
+    "state": "Punjab",
+    "src": "~/Desktop/projects/pepsu_bus/gtfs/prtc_gtfs.zip",
+    "kind": "bus",
+    "source": {
+      "name": "PRTC online booking timetable (pepsuonline.com), built into GTFS by reclaim.city (pepsu_bus)",
+      "url": "https://www.pepsuonline.com/",
+      "licence": null,
+      "detail": "Unofficial: PRTC publishes no open GTFS. Every trip sold online on pepsuonline.com for one weekday (Tue 24 Nov 2026), from the site's public town catalog and from/to search (no auth): every bookable pair in the site's catalog (173). A trip searched between several pairs of its towns gives the operator's time at each, so trips are ordered runs of towns with published times (timepoint=1). Towns are bus stands / town centres (OSM gazetteer + overrides), joined by OSRM's road. Only online-sold trips (almost all AC / Volvo): ordinary buses are not sold online and are absent. Schedule only, no live positions. Read Nov 2026."
+    },
+    "note": "Unofficial: online-sold trips only (mostly AC / Volvo), times as published at each town; ordinary buses absent.",
+    "mapdir": "pepsu"
+  },
+  {
+    "fid": "punbus",
+    "path": "punjab/punbus/bus",
+    "name": "PUNBUS / Punjab Roadways",
+    "state": "Punjab",
+    "src": "~/Desktop/projects/pepsu_bus/gtfs/punbus_gtfs.zip",
+    "kind": "bus",
+    "source": {
+      "name": "PUNBUS online booking timetable (punbusonline.com), built into GTFS by reclaim.city (pepsu_bus)",
+      "url": "https://www.punbusonline.com/",
+      "licence": null,
+      "detail": "Unofficial: PUNBUS publishes no open GTFS. Every trip sold online on punbusonline.com for one weekday (Tue 24 Nov 2026), from the site's public town catalog and from/to search (no auth): every ordered pair of its 56 towns (3080). A trip searched between several pairs of its towns gives the operator's time at each, so trips are ordered runs of towns with published times (timepoint=1). Towns are bus stands / town centres (OSM gazetteer + overrides), joined by OSRM's road. Only online-sold trips (almost all AC / Volvo): ordinary buses are not sold online and are absent. Schedule only, no live positions. Read Nov 2026."
+    },
+    "note": "Unofficial: online-sold trips only (mostly AC / Volvo), times as published at each town; ordinary buses absent.",
+    "mapdir": "pepsu"
   }
 ]

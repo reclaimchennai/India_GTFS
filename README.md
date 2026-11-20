@@ -1,8 +1,8 @@
 # India_GTFS
 
-Public transit for India in [GTFS](https://gtfs.org/): **72 feeds** covering
+Public transit for India in [GTFS](https://gtfs.org/): **74 feeds** covering
 **22 states and union territories**: city buses, state transport corporations, suburban rail, MRTS, metro, RRTS and
-ferries. Together they hold 61,764 routes, 140,121 stops and 667,977 trips, with shapes on almost every trip.
+ferries. Together they hold 61,791 routes, 140,165 stops and 668,066 trips, with shapes on almost every trip.
 **10 networks also have live GTFS-Realtime feeds** (vehicle positions and trip updates).
 
 Every feed is the timetable behind a map on [maps.reclaim.city](https://maps.reclaim.city/), so the ids in the
@@ -74,6 +74,8 @@ changes we made.
 | [Odisha](odisha/README.md) | OSRTC (Odisha, statewide) | bus |  |  |  | | ✓ | [gtfs.zip](https://maps.reclaim.city/osrtc/rt/gtfs.zip) |
 | [Odisha](odisha/README.md) | Rourkela | bus | 160 | 1,081 | 1,042 | 2026-11-02 – 2027-11-02 |  | [bus.zip](odisha/rourkela/bus.zip) |
 | [Punjab](punjab/README.md) | Amritsar | bus |  |  |  | |  | — |
+| [Punjab](punjab/README.md) | PRTC (PEPSU Road Transport Corporation) | bus | 8 | 12 | 26 | 2026-11-21 – 2027-05-20 |  | [bus.zip](punjab/pepsu/bus.zip) |
+| [Punjab](punjab/README.md) | PUNBUS / Punjab Roadways | bus | 19 | 32 | 63 | 2026-11-21 – 2027-05-20 |  | [bus.zip](punjab/punbus/bus.zip) |
 | [Rajasthan](rajasthan/README.md) | Bhilwara (city e-buses, PM e-Bus Sewa) | bus |  |  |  | |  | — |
 | [Rajasthan](rajasthan/README.md) | Bikaner (BCTSL city e-buses, PM e-Bus Sewa) | bus |  |  |  | |  | — |
 | [Rajasthan](rajasthan/README.md) | Jaipur | bus | 60 | 903 | 1,421 | 2026-11-02 – 2027-11-02 |  | [bus.zip](rajasthan/jaipur/bus.zip) |
@@ -321,6 +323,8 @@ is. Check each source before commercial use.
 | OSRTC (Odisha, statewide) | [OSRTC Track a Bus, as seen by the reclaim.city live poller](https://osrtc.org/) | none stated |
 | Rourkela | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Amritsar | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
+| PRTC (PEPSU Road Transport Corporation) | [PRTC online booking timetable (pepsuonline.com), built into GTFS by reclaim.city (pepsu_bus)](https://www.pepsuonline.com/) | none stated |
+| PUNBUS / Punjab Roadways | [PUNBUS online booking timetable (punbusonline.com), built into GTFS by reclaim.city (pepsu_bus)](https://www.punbusonline.com/) | none stated |
 | Bhilwara (city e-buses, PM e-Bus Sewa) | [Katch city bus tracking (katchapp.in/bus_tracking): the cities' published route maps (KML) and live GPS, built into GTFS by reclaim.city](https://katchapp.in/bus_tracking) | none stated |
 | Bikaner (BCTSL city e-buses, PM e-Bus Sewa) | [Katch city bus tracking (katchapp.in/bus_tracking): the cities' published route maps (KML) and live GPS, built into GTFS by reclaim.city](https://katchapp.in/bus_tracking) | none stated |
 | Jaipur | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |

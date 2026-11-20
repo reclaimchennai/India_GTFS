@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T21:47:32Z",
+  "generated": "2026-11-20T21:50:13Z",
   "repository": "https://github.com/reclaimchennai/India_GTFS",
   "spec": {
     "schedule": "https://gtfs.org/documentation/schedule/reference/",
@@ -2252,6 +2252,97 @@
         "trip_updates": "https://maps.reclaim.city/osrtc/rt/trip_updates.pb",
         "status": "https://maps.reclaim.city/osrtc/rt/status.json"
       }
+    },
+    {
+      "id": "pepsu",
+      "name": "PRTC (PEPSU Road Transport Corporation)",
+      "state": "Punjab",
+      "path": "punjab/pepsu/bus.zip",
+      "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/punjab/pepsu/bus.zip",
+      "mirror": "https://maps.reclaim.city/gtfs/pepsu.zip",
+      "map": "https://maps.reclaim.city/pepsu/",
+      "modes": [
+        "bus"
+      ],
+      "agencies": [
+        "PEPSU Road Transport Corporation"
+      ],
+      "routes": 8,
+      "stops": 12,
+      "trips": 26,
+      "shapes": 15,
+      "trips_with_shape": 26,
+      "files": [
+        "agency.txt",
+        "calendar.txt",
+        "feed_info.txt",
+        "routes.txt",
+        "shapes.txt",
+        "stop_times.txt",
+        "stops.txt",
+        "trips.txt"
+      ],
+      "service_start": "20261121",
+      "service_end": "20270520",
+      "source": {
+        "name": "PRTC online booking timetable (pepsuonline.com), built into GTFS by reclaim.city (pepsu_bus)",
+        "url": "https://www.pepsuonline.com/",
+        "licence": null,
+        "detail": "Unofficial: PRTC publishes no open GTFS. Every trip sold online on pepsuonline.com for one weekday (Tue 24 Nov 2026), from the site's public town catalog and from/to search (no auth): every bookable pair in the site's catalog (173). A trip searched between several pairs of its towns gives the operator's time at each, so trips are ordered runs of towns with published times (timepoint=1). Towns are bus stands / town centres (OSM gazetteer + overrides), joined by OSRM's road. Only online-sold trips (almost all AC / Volvo): ordinary buses are not sold online and are absent. Schedule only, no live positions. Read Nov 2026."
+      },
+      "note": "Unofficial: online-sold trips only (mostly AC / Volvo), times as published at each town; ordinary buses absent.",
+      "changes": [
+        "packaging: files at the zip root, GTFS reference files only"
+      ],
+      "routes_without_timetable": null,
+      "bytes": 21816,
+      "sha256": "a668b175d72e2a05cf884d8ae115b6bde633ca3137ab84634b4bab1873651f2b"
+    },
+    {
+      "id": "punbus",
+      "name": "PUNBUS / Punjab Roadways",
+      "state": "Punjab",
+      "path": "punjab/punbus/bus.zip",
+      "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/punjab/punbus/bus.zip",
+      "mirror": "https://maps.reclaim.city/gtfs/punbus.zip",
+      "map": "https://maps.reclaim.city/pepsu/",
+      "modes": [
+        "bus"
+      ],
+      "agencies": [
+        "PUNBUS / Punjab Roadways"
+      ],
+      "routes": 19,
+      "stops": 32,
+      "trips": 63,
+      "shapes": 36,
+      "trips_with_shape": 63,
+      "files": [
+        "agency.txt",
+        "calendar.txt",
+        "feed_info.txt",
+        "routes.txt",
+        "shapes.txt",
+        "stop_times.txt",
+        "stops.txt",
+        "trips.txt"
+      ],
+      "service_start": "20261121",
+      "service_end": "20270520",
+      "source": {
+        "name": "PUNBUS online booking timetable (punbusonline.com), built into GTFS by reclaim.city (pepsu_bus)",
+        "url": "https://www.punbusonline.com/",
+        "licence": null,
+        "detail": "Unofficial: PUNBUS publishes no open GTFS. Every trip sold online on punbusonline.com for one weekday (Tue 24 Nov 2026), from the site's public town catalog and from/to search (no auth): every ordered pair of its 56 towns (3080). A trip searched between several pairs of its towns gives the operator's time at each, so trips are ordered runs of towns with published times (timepoint=1). Towns are bus stands / town centres (OSM gazetteer + overrides), joined by OSRM's road. Only online-sold trips (almost all AC / Volvo): ordinary buses are not sold online and are absent. Schedule only, no live positions. Read Nov 2026."
+      },
+      "note": "Unofficial: online-sold trips only (mostly AC / Volvo), times as published at each town; ordinary buses absent.",
+      "changes": [
+        "packaging: files at the zip root, GTFS reference files only",
+        "route lines thinned to within 4 m (scripts/simplify_shapes.py): 6,617 -> 6,615 shape points"
+      ],
+      "routes_without_timetable": null,
+      "bytes": 55699,
+      "sha256": "28e8edb0050548f97420521c891170bb4a4a07d8b87ed0cadef4c85f046012a6"
     },
     {
       "id": "amritsar",
