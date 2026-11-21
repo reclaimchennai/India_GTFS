@@ -1,8 +1,8 @@
 # India_GTFS
 
-Public transit for India in [GTFS](https://gtfs.org/): **77 feeds** covering
+Public transit for India in [GTFS](https://gtfs.org/): **78 feeds** covering
 **24 states and union territories**: city buses, state transport corporations, suburban rail, MRTS, metro, RRTS and
-ferries. Together they hold 62,289 routes, 149,370 stops and 669,652 trips, with shapes on almost every trip.
+ferries. Together they hold 63,037 routes, 149,892 stops and 671,502 trips, with shapes on almost every trip.
 **10 networks also have live GTFS-Realtime feeds** (vehicle positions and trip updates).
 
 Every feed is the timetable behind a map on [maps.reclaim.city](https://maps.reclaim.city/), so the ids in the
@@ -53,6 +53,7 @@ changes we made.
 | [Karnataka](karnataka/README.md) | Bengaluru (BMTC) | bus | 5,359 | 10,165 | 76,675 | 2026-11-09 – 2027-11-09 | ✓ | [bus.zip](karnataka/bengaluru/bus.zip) |
 | [Karnataka](karnataka/README.md) | Davangere (KSRTC city) | bus | 93 | 146 | 586 | 2026-06-02 – 2026-11-29 |  | [bus.zip](karnataka/davangere/bus.zip) |
 | [Karnataka](karnataka/README.md) | Hubballi-Dharwad (HDBRTS + city) | bus | 632 | 2,332 | 8,669 | 2026-08-24 – 2027-02-20 |  | [bus.zip](karnataka/hubballi-dharwad/bus.zip) |
+| [Karnataka](karnataka/README.md) | KSRTC + NWKRTC + KKRTC intercity (Karnataka state transport) | bus | 748 | 522 | 1,850 | 2026-11-21 – 2027-05-20 |  | [bus.zip](karnataka/ksrtc/bus.zip) |
 | [Karnataka](karnataka/README.md) | Mangaluru | bus | 208 | 1,394 | 2,079 | 2026-11-02 – 2027-11-02 |  | [bus.zip](karnataka/mangaluru/bus.zip) |
 | [Karnataka](karnataka/README.md) | Udupi | bus | 191 | 1,392 | 2,561 | 2026-11-02 – 2027-11-02 |  | [bus.zip](karnataka/udupi/bus.zip) |
 | [Kerala](kerala/README.md) | Kannur | bus | 510 | 1,808 | 2,995 | 2026-11-03 – 2027-11-03 |  | [bus.zip](kerala/kannur/bus.zip) |
@@ -305,6 +306,7 @@ is. Check each source before commercial use.
 | Bengaluru (BMTC) | [Vonter/bmtc-gtfs, plus the routes only BMTC's own app has (reclaim.city)](https://github.com/Vonter/bmtc-gtfs) | ODbL |
 | Davangere (KSRTC city) | [croyla/dvg-gtfs](https://github.com/croyla/dvg-gtfs) | MIT-0 |
 | Hubballi-Dharwad (HDBRTS + city) | [croyla/hdbrts-gtfs](https://github.com/croyla/hdbrts-gtfs) | MIT-0 |
+| KSRTC + NWKRTC + KKRTC intercity (Karnataka state transport) | [KSRTC public booking site timetables (www.ksrtc.in), built into GTFS by reclaim.city (ksrtc_ka_bus)](https://www.ksrtc.in/) | none stated |
 | Mangaluru | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Udupi | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Kannur | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |

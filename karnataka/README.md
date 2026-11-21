@@ -1,6 +1,6 @@
 # Karnataka
 
-Feeds in this folder: 6. Back to the [repository README](../README.md).
+Feeds in this folder: 7. Back to the [repository README](../README.md).
 
 ## Belagavi
 
@@ -98,6 +98,30 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 - packaging: files at the zip root, GTFS reference files only
 - shapes for 8669 of 8669 trips that had none: the map's road-snapped line for the route (630 shapes)
 - route lines thinned to within 4 m (scripts/simplify_shapes.py): 171,203 -> 63,584 shape points
+
+## KSRTC + NWKRTC + KKRTC intercity (Karnataka state transport)
+
+| | |
+|---|---|
+| Feed id | `ksrtc` |
+| Download | [ksrtc/bus.zip](ksrtc/bus.zip) (5.3 MB), mirror <https://maps.reclaim.city/gtfs/ksrtc.zip> |
+| Modes | bus |
+| Agencies | Kalyana Karnataka Road Transport Corporation, Karnataka State Road Transport Corporation, North Western Karnataka Road Transport Corporation |
+| Routes / stops / trips | 748 / 522 / 1,850 |
+| Trips with a shape | 1,850 (1,169 shapes) |
+| Service | 2026-11-21 to 2027-05-20 |
+| Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
+| Map | <https://maps.reclaim.city/ksrtc/> |
+| Source | [KSRTC public booking site timetables (www.ksrtc.in), built into GTFS by reclaim.city (ksrtc_ka_bus)](https://www.ksrtc.in/) |
+| Licence | none stated by the source |
+| sha256 | `3e92516440752e51e50e2e2ae409893b6645ad3aeee4af3b8221b7704b6d6e87` |
+
+> Unofficial: built from the reserved services on the KSRTC public booking site (ksrtc.in) for one weekday; stops are towns, times as published by the site.
+
+Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
+
+- packaging: files at the zip root, GTFS reference files only
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 590,489 -> 583,858 shape points
 
 ## Mangaluru
 

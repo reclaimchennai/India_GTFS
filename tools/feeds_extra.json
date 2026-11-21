@@ -359,5 +359,21 @@
     },
     "note": "Unofficial: HRTC's own stop times for the services sold online; local village services are not on the booking site. Some stop positions are approximate (on the road between neighbours).",
     "mapdir": "hrtc"
+  },
+  {
+    "fid": "ksrtc",
+    "kind": "bus",
+    "mapdir": "ksrtc",
+    "name": "KSRTC + NWKRTC + KKRTC intercity (Karnataka state transport)",
+    "note": "Unofficial: built from the reserved services on the KSRTC public booking site (ksrtc.in) for one weekday; stops are towns, times as published by the site.",
+    "path": "karnataka/ksrtc/bus",
+    "source": {
+      "detail": "Unofficial: KSRTC, NWKRTC and KKRTC publish no open GTFS. Trips are the reserved services the public booking site (www.ksrtc.in, an open JSON API at ksrtcapi.iamgds.com; no auth) lists for Wed 25 Nov 2026: every ordered pair of the 60 busiest places in its city graph, then a cover pass over pairs no trip served yet (searchRoutesV4), and for each trip its summary of every boarding and alighting point with its time (APIMSTripsSummaryPkpDrp), which is the trip's run of towns and its timetable. One agency per corporation, from the trip's depot (NWKRTC: Dharwad, Belagavi, Uttara Kannada, Gadag, Haveri, Bagalkot; KKRTC: Kalaburagi, Bidar, Raichur, Koppal, Ballari, Vijayanagara, Yadgir, Vijayapura; KSRTC: the rest). Towns placed by a gazetteer, Nominatim and OpenStreetMap place names, chosen by their trip neighbours; joined by OSRM's road. Daily calendar. Schedule only: there is no open live tracking. Only reserved services are on the booking site, not unreserved ordinary services. Read Nov 2026.",
+      "licence": null,
+      "name": "KSRTC public booking site timetables (www.ksrtc.in), built into GTFS by reclaim.city (ksrtc_ka_bus)",
+      "url": "https://www.ksrtc.in/"
+    },
+    "src": "~/Desktop/projects/ksrtc_ka_bus/gtfs/ksrtc_ka_gtfs.zip",
+    "state": "Karnataka"
   }
 ]
