@@ -1,8 +1,8 @@
 # India_GTFS
 
-Public transit for India in [GTFS](https://gtfs.org/): **82 feeds** covering
+Public transit for India in [GTFS](https://gtfs.org/): **85 feeds** covering
 **27 states and union territories**: city buses, state transport corporations, suburban rail, MRTS, metro, RRTS and
-ferries. Together they hold 63,221 routes, 150,211 stops and 672,146 trips, with shapes on almost every trip.
+ferries. Together they hold 79,199 routes, 216,472 stops and 743,564 trips, with shapes on almost every trip.
 **10 networks also have live GTFS-Realtime feeds** (vehicle positions and trip updates).
 
 Every feed is the timetable behind a map on [maps.reclaim.city](https://maps.reclaim.city/), so the ids in the
@@ -60,6 +60,7 @@ changes we made.
 | [Karnataka](karnataka/README.md) | Udupi | bus | 191 | 1,392 | 2,561 | 2026-11-02 – 2027-11-02 |  | [bus.zip](karnataka/udupi/bus.zip) |
 | [Kerala](kerala/README.md) | Kannur | bus | 510 | 1,808 | 2,995 | 2026-11-03 – 2027-11-03 |  | [bus.zip](kerala/kannur/bus.zip) |
 | [Kerala](kerala/README.md) | Kasaragod | bus | 302 | 1,920 | 1,760 | 2026-11-02 – 2027-11-02 |  | [bus.zip](kerala/kasaragod/bus.zip) |
+| [Kerala](kerala/README.md) | Kerala KSRTC (intercity and mofussil) | bus | 6,784 | 56,325 | 20,533 | 2026-11-21 – 2027-12-31 |  | [bus.zip](kerala/ksrtc/bus.zip) |
 | [Kerala](kerala/README.md) | Kochi | bus | 1,005 | 548 | 3,528 | 2026-11-03 – 2027-11-03 |  | [bus.zip](kerala/kochi/bus.zip) |
 | [Kerala](kerala/README.md) | Kottayam | bus | 1,380 | 2,063 | 9,512 | 2026-11-03 – 2027-11-03 |  | [bus.zip](kerala/kottayam/bus.zip) |
 | [Kerala](kerala/README.md) | Kozhikode | bus | 1,103 | 2,144 | 7,331 | 2026-11-02 – 2027-11-02 |  | [bus.zip](kerala/kozhikode/bus.zip) |
@@ -87,6 +88,7 @@ changes we made.
 | [Rajasthan](rajasthan/README.md) | Jaipur | bus | 60 | 903 | 1,421 | 2026-11-02 – 2027-11-02 |  | [bus.zip](rajasthan/jaipur/bus.zip) |
 | [Rajasthan](rajasthan/README.md) | Jodhpur (JBSL city e-buses, PM e-Bus Sewa) | bus |  |  |  | |  | — |
 | [Rajasthan](rajasthan/README.md) | Kota (KBSL city e-buses, PM e-Bus Sewa) | bus |  |  |  | |  | — |
+| [Rajasthan](rajasthan/README.md) | RSRTC (Rajasthan State Road Transport Corporation, intercity) | bus | 1,964 | 2,000 | 96 | 2026-11-21 – 2027-12-31 |  | [bus.zip](rajasthan/rsrtc/bus.zip) |
 | [Rajasthan](rajasthan/README.md) | Udaipur | bus | 28 | 243 | 303 | 2026-11-02 – 2027-11-02 |  | [bus.zip](rajasthan/udaipur/bus.zip) |
 | [Sikkim](sikkim/README.md) | SNT (Sikkim Nationalised Transport) | bus | 10 | 9 | 23 | 2026-11-20 – 2027-05-19 |  | [bus.zip](sikkim/snt/bus.zip) |
 | [Tamil Nadu](tamil-nadu/README.md) | Chennai MTC | bus | 1,092 | 3,768 | 51,763 | 2026-01-01 – 2027-12-31 | ✓ | [mtc-bus.zip](tamil-nadu/chennai/mtc-bus.zip) |
@@ -107,6 +109,7 @@ changes we made.
 | [Uttar Pradesh](uttar-pradesh/README.md) | Meerut | bus | 28 | 260 | 293 | 2026-10-01 – 2027-10-01 |  | [bus.zip](uttar-pradesh/meerut/bus.zip) |
 | [Uttar Pradesh](uttar-pradesh/README.md) | Noida | bus | 24 | 34 | 330 | 2026-10-01 – 2027-10-01 |  | [bus.zip](uttar-pradesh/noida/bus.zip) |
 | [Uttar Pradesh](uttar-pradesh/README.md) | Prayagraj | bus | 15 | 238 | 115 | 2026-11-02 – 2027-11-02 |  | [bus.zip](uttar-pradesh/prayagraj/bus.zip) |
+| [Uttar Pradesh](uttar-pradesh/README.md) | UPSRTC (Uttar Pradesh State Road Transport Corporation, intercity) | bus | 7,230 | 7,936 | 50,789 | 2026-11-21 – 2027-12-31 |  | [bus.zip](uttar-pradesh/upsrtc/bus.zip) |
 | [Uttar Pradesh](uttar-pradesh/README.md) | Varanasi | bus | 123 | 358 | 688 | 2026-11-02 – 2027-11-02 |  | [bus.zip](uttar-pradesh/varanasi/bus.zip) |
 | [Uttarakhand](uttarakhand/README.md) | UTC (Uttarakhand Transport Corporation) | bus | 135 | 860 | 730 | 2026-11-21 – 2027-05-20 |  | [bus.zip](uttarakhand/utc/bus.zip) |
 | [West Bengal](west-bengal/README.md) | Kolkata (bus, metro, suburban rail, ferry) | bus, ferry, metro, rail | 2,449 | 9,208 | 6,646 | 2026-11-01 – 2027-10-31 |  | [all-modes.zip](west-bengal/kolkata/all-modes.zip) |
@@ -317,6 +320,7 @@ is. Check each source before commercial use.
 | Udupi | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Kannur | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Kasaragod | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
+| Kerala KSRTC (intercity and mofussil) | [busz, the Kerala state journey planner (klotp2.busz.in OTP GTFS, kl.busz.in), KSRTC services only, built into GTFS by reclaim.city (kerala_bus)](https://www.keralartc.com/) | none stated |
 | Kochi | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Kottayam | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Kozhikode | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
@@ -344,6 +348,7 @@ is. Check each source before commercial use.
 | Jaipur | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Jodhpur (JBSL city e-buses, PM e-Bus Sewa) | [Katch city bus tracking (katchapp.in/bus_tracking): the cities' published route maps (KML) and live GPS, built into GTFS by reclaim.city](https://katchapp.in/bus_tracking) | none stated |
 | Kota (KBSL city e-buses, PM e-Bus Sewa) | [Katch city bus tracking (katchapp.in/bus_tracking): the cities' published route maps (KML) and live GPS, built into GTFS by reclaim.city](https://katchapp.in/bus_tracking) | none stated |
+| RSRTC (Rajasthan State Road Transport Corporation, intercity) | [RSRTC's Intalia VTS tracker (vts.intaliatech.com): its route catalogue and the schedule tuples its buses carry, built into GTFS by reclaim.city (rajasthan_bus)](https://rsrtc.rajasthan.gov.in/) | none stated |
 | Udaipur | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | SNT (Sikkim Nationalised Transport) | [Sikkim Transport Department's published bus schedule and SNT's fare notification (Sikkim Government Gazette No. 325, 24 Jun 2024), built into GTFS by reclaim.city (sikkim_bus)](https://transportdepartment.sikkim.gov.in/visitors/busschedules) | none stated |
 | Chennai MTC | [reclaimchennai/ChennaiGTFS, Chennai One MTC feed](https://github.com/reclaimchennai/ChennaiGTFS/tree/chennai-one-feeds) | none stated |
@@ -364,6 +369,7 @@ is. Check each source before commercial use.
 | Meerut | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Noida | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Prayagraj | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
+| UPSRTC (Uttar Pradesh State Road Transport Corporation, intercity) | [UPSRTC's Margdarshi tracking backend (margdarshi.upsrtcvlt.com): its line list and route timetables, built into GTFS by reclaim.city (up_bus)](https://www.upsrtc.com/) | none stated |
 | Varanasi | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | UTC (Uttarakhand Transport Corporation) | [UTC's public online timetable (utconline.uk.gov.in/timetable.aspx), built into GTFS by reclaim.city (utc_bus)](https://utconline.uk.gov.in/timetable.aspx) | none stated |
 | Kolkata (bus, metro, suburban rail, ferry) |  | none stated |

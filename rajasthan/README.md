@@ -1,6 +1,6 @@
 # Rajasthan
 
-Feeds in this folder: 6. Back to the [repository README](../README.md).
+Feeds in this folder: 7. Back to the [repository README](../README.md).
 
 ## Jaipur
 
@@ -28,6 +28,32 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 - shapes for 1307 of 1307 trips that had none: the map's road-snapped line for the route (53 shapes)
 - 1 shapes no trip uses left out
 - route lines thinned to within 4 m (scripts/simplify_shapes.py): 13,698 -> 8,850 shape points
+
+## RSRTC (Rajasthan State Road Transport Corporation, intercity)
+
+| | |
+|---|---|
+| Feed id | `rjrtc` |
+| Download | [rsrtc/bus.zip](rsrtc/bus.zip) (0.4 MB), mirror <https://maps.reclaim.city/gtfs/rjrtc.zip> |
+| Modes | bus |
+| Agencies | Rajasthan State Road Transport Corporation |
+| Routes / stops / trips | 1,964 / 2,000 / 96 |
+| Trips with a shape | 94 (79 shapes) |
+| Service | 2026-11-21 to 2027-12-31 |
+| Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
+| Map | <https://maps.reclaim.city/rjrtc/> |
+| Source | [RSRTC's Intalia VTS tracker (vts.intaliatech.com): its route catalogue and the schedule tuples its buses carry, built into GTFS by reclaim.city (rajasthan_bus)](https://rsrtc.rajasthan.gov.in/) |
+| Licence | none stated by the source |
+| sha256 | `bdfde72fdc2d050a994463feb42145d038f7da6c466f136ab8578658c16b585f` |
+
+> Unofficial and partial: the routes are RSRTC's whole intercity catalogue, but trips are only the scheduled runs observed on the live tracker so far (origin to destination, with start and end times).
+
+Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
+
+- packaging: files at the zip root, GTFS reference files only
+- stop times in 13 trips: 2 past-midnight times written past 24:00, 0 intermediate times that ran backwards cleared (timepoint=0), 11 departures before their own arrival set to the arrival
+- 1864 shapes no trip uses left out
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 47,563 -> 39,251 shape points
 
 ## Udaipur
 

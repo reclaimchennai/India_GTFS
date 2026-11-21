@@ -439,5 +439,53 @@
     },
     "note": "Unofficial: the site's approximate stop times; weekday-numbered services merged into daily trips; small villages missing.",
     "mapdir": "apsts"
+  },
+  {
+    "fid": "rjrtc",
+    "path": "rajasthan/rsrtc/bus",
+    "name": "RSRTC (Rajasthan State Road Transport Corporation, intercity)",
+    "state": "Rajasthan",
+    "src": "~/Desktop/projects/rajasthan_bus/gtfs/rajasthan-rsrtc.zip",
+    "kind": "bus",
+    "source": {
+      "name": "RSRTC's Intalia VTS tracker (vts.intaliatech.com): its route catalogue and the schedule tuples its buses carry, built into GTFS by reclaim.city (rajasthan_bus)",
+      "url": "https://rsrtc.rajasthan.gov.in/",
+      "licence": null,
+      "detail": "Unofficial and partial: RSRTC publishes no open GTFS and no downloadable timetable. The route network (route names 'A TO B VIA C' and depots) is from RSRTC's Intalia VTS backend (vts.intaliatech.com); stop places are the route ends, joined by OSRM's road. Trips and times are observed, not published: every RSRTC bus on the live tracker carries its own scheduled run (service no., schedule no., trip no., scheduled start and end, source, destination, via), and the distinct scheduled trips seen across archived snapshots are emitted as GTFS trips (origin -> destination, scheduled start and end times; no published intermediate times). Only the trips observed so far are present, so the trip set is a small sample of the catalogued network. Daily calendar. Schedule only; live positions are login-gated. Read Nov 2026."
+    },
+    "note": "Unofficial and partial: the routes are RSRTC's whole intercity catalogue, but trips are only the scheduled runs observed on the live tracker so far (origin to destination, with start and end times).",
+    "mapdir": "rjrtc"
+  },
+  {
+    "fid": "upsrtc",
+    "path": "uttar-pradesh/upsrtc/bus",
+    "name": "UPSRTC (Uttar Pradesh State Road Transport Corporation, intercity)",
+    "state": "Uttar Pradesh",
+    "src": "~/Desktop/projects/up_bus/gtfs/uttar-pradesh-upsrtc.zip",
+    "kind": "bus",
+    "source": {
+      "name": "UPSRTC's Margdarshi tracking backend (margdarshi.upsrtcvlt.com): its line list and route timetables, built into GTFS by reclaim.city (up_bus)",
+      "url": "https://www.upsrtc.com/",
+      "licence": null,
+      "detail": "Unofficial: UPSRTC publishes no open GTFS. Lines, stop patterns and every scheduled trip with per-stop times come from the Margdarshi VLT backend (margdarshi.upsrtcvlt.com: getLineList, getRouteTimetable; no login, Referer + X-Requested-With only). One GTFS route per line's stop pattern; trips are the timetabled vehicle journeys with their published stop times. Stop places are Margdarshi's, with coordinates the running times make impossible dropped and re-placed from OpenStreetMap (up_bus/network.py). Daily calendar. Schedule only; live GPS is a separate feed. Read Nov 2026."
+    },
+    "note": "Unofficial: UPSRTC's own Margdarshi route timetables; daily calendar.",
+    "mapdir": "upsrtc"
+  },
+  {
+    "fid": "kerala-ksrtc",
+    "path": "kerala/ksrtc/bus",
+    "name": "Kerala KSRTC (intercity and mofussil)",
+    "state": "Kerala",
+    "src": "~/Desktop/projects/kerala_bus/gtfs/kerala-ksrtc.zip",
+    "kind": "bus",
+    "source": {
+      "name": "busz, the Kerala state journey planner (klotp2.busz.in OTP GTFS, kl.busz.in), KSRTC services only, built into GTFS by reclaim.city (kerala_bus)",
+      "url": "https://www.keralartc.com/",
+      "licence": null,
+      "detail": "Unofficial: Kerala KSRTC publishes no open GTFS of its own. Routes, stops, stop patterns and timetables are the KSRTC services in busz (the official Kerala journey planner): its OpenTripPlanner 2.11 GTFS GraphQL endpoint (klotp2.busz.in) gives every route, its ordered stops and its scheduled departures; the private operators busz also carries are excluded. One GTFS route per KSRTC service pattern; one trip per listed departure, stop times from the pattern's per-stop offsets. Road lines joined by OSRM. Daily calendar. Schedule only; KSRTC live positions are a separate feed. Read Nov 2026."
+    },
+    "note": "Unofficial: KSRTC services from the busz journey planner; private operators excluded; daily calendar.",
+    "mapdir": "kerala"
   }
 ]

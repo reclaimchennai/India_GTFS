@@ -1,6 +1,6 @@
 # Uttar Pradesh
 
-Feeds in this folder: 13. Back to the [repository README](../README.md).
+Feeds in this folder: 14. Back to the [repository README](../README.md).
 
 ## Agra
 
@@ -302,6 +302,31 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 - shapes.txt left out (header only, no rows)
 - shapes for 115 of 115 trips that had none: the map's road-snapped line for the route (15 shapes)
 - route lines thinned to within 4 m (scripts/simplify_shapes.py): 3,407 -> 2,946 shape points
+
+## UPSRTC (Uttar Pradesh State Road Transport Corporation, intercity)
+
+| | |
+|---|---|
+| Feed id | `upsrtc` |
+| Download | [upsrtc/bus.zip](upsrtc/bus.zip) (13.5 MB), mirror <https://maps.reclaim.city/gtfs/upsrtc.zip> |
+| Modes | bus |
+| Agencies | Uttar Pradesh State Road Transport Corporation |
+| Routes / stops / trips | 7,230 / 7,936 / 50,789 |
+| Trips with a shape | 50,789 (6,926 shapes) |
+| Service | 2026-11-21 to 2027-12-31 |
+| Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
+| Map | <https://maps.reclaim.city/upsrtc/> |
+| Source | [UPSRTC's Margdarshi tracking backend (margdarshi.upsrtcvlt.com): its line list and route timetables, built into GTFS by reclaim.city (up_bus)](https://www.upsrtc.com/) |
+| Licence | none stated by the source |
+| sha256 | `858ab1da769734a7f40a19a1c13790a163940edbd87288754383482ebbfa0f00` |
+
+> Unofficial: UPSRTC's own Margdarshi route timetables; daily calendar.
+
+Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
+
+- packaging: files at the zip root, GTFS reference files only
+- stop times in 18431 trips: 7 past-midnight times written past 24:00, 99 intermediate times that ran backwards cleared (timepoint=0), 211984 departures before their own arrival set to the arrival
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 839,321 -> 819,084 shape points
 
 ## Varanasi
 

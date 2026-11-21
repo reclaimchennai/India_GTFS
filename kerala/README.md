@@ -1,6 +1,6 @@
 # Kerala
 
-Feeds in this folder: 8. Back to the [repository README](../README.md).
+Feeds in this folder: 9. Back to the [repository README](../README.md).
 
 ## Kannur
 
@@ -136,6 +136,31 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 - shapes.txt left out (header only, no rows)
 - shapes for 7331 of 7331 trips that had none: the map's road-snapped line for the route (1103 shapes)
 - route lines thinned to within 4 m (scripts/simplify_shapes.py): 270,018 -> 220,275 shape points
+
+## Kerala KSRTC (intercity and mofussil)
+
+| | |
+|---|---|
+| Feed id | `kerala-ksrtc` |
+| Download | [ksrtc/bus.zip](ksrtc/bus.zip) (31.4 MB), mirror <https://maps.reclaim.city/gtfs/kerala-ksrtc.zip> |
+| Modes | bus |
+| Agencies | Kerala State Road Transport Corporation |
+| Routes / stops / trips | 6,784 / 56,325 / 20,533 |
+| Trips with a shape | 20,533 (6,696 shapes) |
+| Service | 2026-11-21 to 2027-12-31 |
+| Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
+| Map | <https://maps.reclaim.city/kerala/> |
+| Source | [busz, the Kerala state journey planner (klotp2.busz.in OTP GTFS, kl.busz.in), KSRTC services only, built into GTFS by reclaim.city (kerala_bus)](https://www.keralartc.com/) |
+| Licence | none stated by the source |
+| sha256 | `1ba3f2e56ea8247eadf4743fac21064d419beff9fd53af5f14dbdea0ddcc4483` |
+
+> Unofficial: KSRTC services from the busz journey planner; private operators excluded; daily calendar.
+
+Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
+
+- packaging: files at the zip root, GTFS reference files only
+- stop times in 6672 trips: 0 past-midnight times written past 24:00, 0 intermediate times that ran backwards cleared (timepoint=0), 363177 departures before their own arrival set to the arrival
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 2,246,563 -> 2,232,030 shape points
 
 ## Thiruvananthapuram
 
