@@ -26,6 +26,30 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 - shapes for 1804 of 1880 trips that had none: the map's road-snapped line for the route (240 shapes)
 - route lines thinned to within 4 m (scripts/simplify_shapes.py): 43,442 -> 37,214 shape points
 
+## JKRTC (Jammu & Kashmir Road Transport Corporation)
+
+| | |
+|---|---|
+| Feed id | `jksrtc` |
+| Download | [jksrtc/bus.zip](jksrtc/bus.zip) (0.7 MB), mirror <https://maps.reclaim.city/gtfs/jksrtc.zip> |
+| Modes | bus |
+| Agencies | Jammu & Kashmir Road Transport Corporation |
+| Routes / stops / trips | 112 / 111 / 442 |
+| Trips with a shape | 442 (210 shapes) |
+| Service | 2026-11-21 to 2027-05-20 |
+| Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
+| Map | <https://maps.reclaim.city/jkrtc/> |
+| Source | [JKRTC division timetables (jksrtc.co.in, the Jammu and Kashmir division PDFs, Dec 2021), built into GTFS by reclaim.city (ne_states_bus)](https://jksrtc.co.in/timetable.php) |
+| Licence | none stated by the source |
+| sha256 | `ea3982cdae27e374a31d435ee17a92dcdefa4baa57fb19d42ff082d8c1b3a2f8` |
+
+> Unofficial: JKRTC's Dec 2021 timetables (times may have changed); stops are bus stands and town or locality points.
+
+Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
+
+- packaging: files at the zip root, GTFS reference files only
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 59,244 -> 59,236 shape points
+
 ## Srinagar
 
 | | |
@@ -51,27 +75,3 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 - shapes.txt left out (header only, no rows)
 - shapes for 2404 of 2404 trips that had none: the map's road-snapped line for the route (168 shapes)
 - route lines thinned to within 4 m (scripts/simplify_shapes.py): 27,538 -> 23,459 shape points
-
-## JKRTC (Jammu & Kashmir Road Transport Corporation)
-
-| | |
-|---|---|
-| Feed id | `jksrtc` |
-| Download | [jksrtc/bus.zip](jksrtc/bus.zip) (0.7 MB), mirror <https://maps.reclaim.city/gtfs/jksrtc.zip> |
-| Modes | bus |
-| Agencies | Jammu & Kashmir Road Transport Corporation |
-| Routes / stops / trips | 112 / 111 / 442 |
-| Trips with a shape | 442 (210 shapes) |
-| Service | 2026-11-21 to 2027-05-20 |
-| Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
-| Map | <https://maps.reclaim.city/jkrtc/> |
-| Source | [JKRTC division timetables (jksrtc.co.in, the Jammu and Kashmir division PDFs, Dec 2021), built into GTFS by reclaim.city (ne_states_bus)](https://jksrtc.co.in/timetable.php) |
-| Licence | none stated by the source |
-| sha256 | `e8ee8ee867d7264113ed6ea13aa6a5f3b135f6897bef04c2e70ae5a190794bf9` |
-
-> Unofficial: JKRTC's Dec 2021 timetables (times may have changed); stops are bus stands and town or locality points.
-
-Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
-
-- packaging: files at the zip root, GTFS reference files only
-- route lines thinned to within 4 m (scripts/simplify_shapes.py): 59,026 -> 59,017 shape points

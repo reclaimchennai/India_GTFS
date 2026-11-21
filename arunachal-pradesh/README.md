@@ -17,11 +17,11 @@ Feeds in this folder: 1. Back to the [repository README](../README.md).
 | Map | <https://maps.reclaim.city/apsts/> |
 | Source | [APSTS online timetable (apsts.arunachal.gov.in, NIC StarBus), built into GTFS by reclaim.city (ne_states_bus)](https://apsts.arunachal.gov.in/timetable.aspx) |
 | Licence | none stated by the source |
-| sha256 | `96ffe0325a368a4f7a63e5ef02a163c18f8e649099de755655291e4ef1934641` |
+| sha256 | `81e73f3ada4e06d8519be15461132a4b4eb48fc703d9f9a213898ad22e5b84dd` |
 
 > Unofficial: the site's approximate stop times; weekday-numbered services merged into daily trips; small villages missing.
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
 
 - packaging: files at the zip root, GTFS reference files only
-- route lines thinned to within 4 m (scripts/simplify_shapes.py): 110,053 -> 110,012 shape points
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 105,960 -> 105,925 shape points
