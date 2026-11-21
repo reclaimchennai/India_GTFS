@@ -2,7 +2,7 @@
 
 Public transit for India in [GTFS](https://gtfs.org/): **82 feeds** covering
 **27 states and union territories**: city buses, state transport corporations, suburban rail, MRTS, metro, RRTS and
-ferries. Together they hold 63,215 routes, 150,195 stops and 672,138 trips, with shapes on almost every trip.
+ferries. Together they hold 63,221 routes, 150,211 stops and 672,146 trips, with shapes on almost every trip.
 **10 networks also have live GTFS-Realtime feeds** (vehicle positions and trip updates).
 
 Every feed is the timetable behind a map on [maps.reclaim.city](https://maps.reclaim.city/), so the ids in the
@@ -76,7 +76,7 @@ changes we made.
 | [Maharashtra](maharashtra/README.md) | Nagpur | bus | 900 | 3,896 | 8,619 | 2026-11-03 – 2027-11-03 |  | [bus.zip](maharashtra/nagpur/bus.zip) |
 | [Maharashtra](maharashtra/README.md) | Pune (PMPML) | bus | 628 | 6,745 | 10,128 | 2026-10-07 – 2027-04-05 |  | [bus.zip](maharashtra/pune/bus.zip) |
 | [Manipur](manipur/README.md) | Manipur State Transport (MST) | bus | 2 | 17 | 6 | 2026-11-21 – 2027-05-20 |  | [bus.zip](manipur/mst/bus.zip) |
-| [Mizoram](mizoram/README.md) | Mizoram State Transport (MST): Aizawl - Sairang railway station | bus | 1 | 2 | 10 | 2026-11-21 – 2027-05-20 |  | [bus.zip](mizoram/mst/bus.zip) |
+| [Mizoram](mizoram/README.md) | Mizoram State Transport (MST) | bus | 7 | 18 | 18 | 2026-11-21 – 2027-05-20 |  | [bus.zip](mizoram/mst/bus.zip) |
 | [Odisha](odisha/README.md) | OSRTC (Odisha, statewide) | bus |  |  |  | | ✓ | [gtfs.zip](https://maps.reclaim.city/osrtc/rt/gtfs.zip) |
 | [Odisha](odisha/README.md) | Rourkela | bus | 160 | 1,081 | 1,042 | 2026-11-02 – 2027-11-02 |  | [bus.zip](odisha/rourkela/bus.zip) |
 | [Punjab](punjab/README.md) | Amritsar | bus |  |  |  | |  | — |
@@ -333,7 +333,7 @@ is. Check each source before commercial use.
 | Nagpur | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Pune (PMPML) | [croyla/pmpml-gtfs](https://github.com/croyla/pmpml-gtfs) | MIT-0 |
 | Manipur State Transport (MST) | [Manipur State Transport online timetable (manipurstatetransport.mn.gov.in, NIC StarBus), built into GTFS by reclaim.city (ne_states_bus)](https://manipurstatetransport.mn.gov.in/timetable.aspx) | none stated |
-| Mizoram State Transport (MST): Aizawl - Sairang railway station | [Mizoram Transport Department: Aizawl (Transport Complex, Chaltlang) - Sairang (Railway Station) daily MST bus timings w.e.f. 12-11-2026 (transport.mizoram.gov.in), built into GTFS by reclaim.city (ne_states_bus)](https://transport.mizoram.gov.in/page/aizawl-transport-complex-chaltlang-to-sairang-railway-station-daily-mst-bus-service-timings) | none stated |
+| Mizoram State Transport (MST) | [Mizoram Transport Department: MST office orders and daily detailment sheets (transport.mizoram.gov.in), built into GTFS by reclaim.city (ne_states_bus)](https://transport.mizoram.gov.in/page/mst-bus-services) | none stated |
 | OSRTC (Odisha, statewide) | [OSRTC Track a Bus, as seen by the reclaim.city live poller](https://osrtc.org/) | none stated |
 | Rourkela | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Amritsar | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |

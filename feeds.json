@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21T09:00:16Z",
+  "generated": "2026-11-21T09:27:21Z",
   "repository": "https://github.com/reclaimchennai/India_GTFS",
   "spec": {
     "schedule": "https://gtfs.org/documentation/schedule/reference/",
@@ -2416,7 +2416,7 @@
     },
     {
       "id": "mizoram-mst",
-      "name": "Mizoram State Transport (MST): Aizawl - Sairang railway station",
+      "name": "Mizoram State Transport (MST)",
       "state": "Mizoram",
       "path": "mizoram/mst/bus.zip",
       "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/mizoram/mst/bus.zip",
@@ -2428,11 +2428,11 @@
       "agencies": [
         "Mizoram State Transport"
       ],
-      "routes": 1,
-      "stops": 2,
-      "trips": 10,
-      "shapes": 2,
-      "trips_with_shape": 10,
+      "routes": 7,
+      "stops": 18,
+      "trips": 18,
+      "shapes": 10,
+      "trips_with_shape": 18,
       "files": [
         "agency.txt",
         "calendar.txt",
@@ -2446,18 +2446,18 @@
       "service_start": "20261121",
       "service_end": "20270520",
       "source": {
-        "name": "Mizoram Transport Department: Aizawl (Transport Complex, Chaltlang) - Sairang (Railway Station) daily MST bus timings w.e.f. 12-11-2026 (transport.mizoram.gov.in), built into GTFS by reclaim.city (ne_states_bus)",
-        "url": "https://transport.mizoram.gov.in/page/aizawl-transport-complex-chaltlang-to-sairang-railway-station-daily-mst-bus-service-timings",
+        "name": "Mizoram Transport Department: MST office orders and daily detailment sheets (transport.mizoram.gov.in), built into GTFS by reclaim.city (ne_states_bus)",
+        "url": "https://transport.mizoram.gov.in/page/mst-bus-services",
         "licence": null,
-        "detail": "Unofficial: the only MST timetable the Transport Department publishes (an image, departures by weekday), transcribed. One route, two stops; departures are the published times, the arrival is OSRM driving time x 1.4 (timepoint=0). Calendar per weekday. Schedule only. Read Nov 2026."
+        "detail": "Unofficial: MST publishes no GTFS or timetable list. Built from the Transport Department's own scans and photos, read by hand: the Aizawl (Transport Complex, Chaltlang) - Sairang railway station order dt. 12-11-2026 (departures by weekday, Rs 80), and for the outstation routes from Aizawl the daily detailment sheets on the 'MST Bus services' page (21 and 23 Nov 2026, and archived sheets of Sep 2024, Apr and May 2025) plus the office orders on its posts archive (Mimbung resumed Mondays out / Tuesdays back from 9-12-2024; Khuangthing Thursdays out / Fridays back from 12-12-2024, normal running again from 2026; Farkawn). Routes: Sairang, Lunglei (daily), N. Hlimen (Mon, Thu), Marpara, Farkawn, Mimbung (Mon), Khuangthing (Thu), all 06:00 from Aizawl. Only published runs are built, so Lunglei, Marpara, N. Hlimen and Farkawn have no return trip. Villages on the Mimbung and Khuangthing roads are the village councils the orders were copied to (Dilkawn and Hrianghmun not placed). First departures are the published times (timepoint=1); the rest are OSRM road time x 2 (hill roads). Places: OpenStreetMap and Photon. The sheets also name drivers and conductors: not copied. A dated history of routes, timings and fares (2017-2026) is in mizoram/mst/history.json (each entry links the Transport Department file it was read from). Read Nov 2026."
       },
-      "note": "Unofficial: one route (the Sairang railway station link); weekday calendars.",
+      "note": "Unofficial: from the Transport Department orders and daily duty sheets; outstation routes one way where no return is published; weekday calendars.",
       "changes": [
         "packaging: files at the zip root, GTFS reference files only"
       ],
       "routes_without_timetable": null,
-      "bytes": 4920,
-      "sha256": "1d5066f4cb528784b75dd4566ec458e7c9cede4e5aae2a852b87f9c46ac802e2"
+      "bytes": 138553,
+      "sha256": "ebbb432e2718f53d41406e378cc0335c5c25e667cde0bb32eddd0ac1c7a83ba8"
     },
     {
       "id": "rourkela",
