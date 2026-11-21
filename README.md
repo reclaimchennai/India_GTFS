@@ -1,8 +1,8 @@
 # India_GTFS
 
-Public transit for India in [GTFS](https://gtfs.org/): **78 feeds** covering
-**24 states and union territories**: city buses, state transport corporations, suburban rail, MRTS, metro, RRTS and
-ferries. Together they hold 63,037 routes, 149,892 stops and 671,502 trips, with shapes on almost every trip.
+Public transit for India in [GTFS](https://gtfs.org/): **82 feeds** covering
+**27 states and union territories**: city buses, state transport corporations, suburban rail, MRTS, metro, RRTS and
+ferries. Together they hold 63,215 routes, 150,195 stops and 672,138 trips, with shapes on almost every trip.
 **10 networks also have live GTFS-Realtime feeds** (vehicle positions and trip updates).
 
 Every feed is the timetable behind a map on [maps.reclaim.city](https://maps.reclaim.city/), so the ids in the
@@ -29,6 +29,7 @@ changes we made.
 |---|---|---|--:|--:|--:|---|:-:|---|
 | [Andhra Pradesh](andhra-pradesh/README.md) | APSRTC (Andhra Pradesh, statewide) | bus | 5,095 | 11,156 | 54,812 | 2026-11-01 – 2027-10-31 | ✓ | [apsrtc.zip](andhra-pradesh/apsrtc.zip) |
 | [Andhra Pradesh](andhra-pradesh/README.md) | Vijayawada | bus | 331 | 1,525 | 3,171 | 2026-11-03 – 2027-11-03 |  | [bus.zip](andhra-pradesh/vijayawada/bus.zip) |
+| [Arunachal Pradesh](arunachal-pradesh/README.md) | APSTS (Arunachal Pradesh State Transport Services) | bus | 63 | 173 | 178 | 2026-11-21 – 2027-05-20 |  | [bus.zip](arunachal-pradesh/apsts/bus.zip) |
 | [Assam](assam/README.md) | ASTC (Assam State Transport Corporation) | bus | 135 | 224 | 304 | 2026-11-20 – 2027-05-19 |  | [bus.zip](assam/astc/bus.zip) |
 | [Assam](assam/README.md) | Guwahati | bus | 522 | 2,283 | 4,272 | 2026-11-02 – 2027-11-02 |  | [bus.zip](assam/guwahati/bus.zip) |
 | [Bihar](bihar/README.md) | BSRTC (Bihar State Road Transport Corporation) | bus | 48 | 40 | 323 | 2026-11-20 – 2027-05-19 |  | [bus.zip](bihar/bsrtc/bus.zip) |
@@ -47,6 +48,7 @@ changes we made.
 | [Haryana](haryana/README.md) | Haryana Roadways (Haryana, statewide) | bus | 420 | 238 | 10,447 | 2026-11-17 – 2027-11-17 | ✓ | [haryana-roadways.zip](haryana/haryana-roadways.zip) |
 | [Himachal Pradesh](himachal-pradesh/README.md) | HRTC (Himachal Road Transport Corporation) | bus | 313 | 8,294 | 614 | 2026-11-21 – 2027-05-20 |  | [bus.zip](himachal-pradesh/hrtc/bus.zip) |
 | [India](india/README.md) | Indian Railways (all-India trains, incl. EMU/MEMU) | rail | 10,389 | 8,550 | 10,389 | 2025-01-01 – 2099-12-31 |  | [indian-railways.zip](india/indian-railways.zip) |
+| [Jammu and Kashmir](jammu-and-kashmir/README.md) | JKRTC (Jammu & Kashmir Road Transport Corporation) | bus | 112 | 111 | 442 | 2026-11-21 – 2027-05-20 |  | [bus.zip](jammu-and-kashmir/jksrtc/bus.zip) |
 | [Jammu and Kashmir](jammu-and-kashmir/README.md) | Jammu | bus | 248 | 850 | 1,880 | 2026-11-02 – 2027-11-02 |  | [bus.zip](jammu-and-kashmir/jammu/bus.zip) |
 | [Jammu and Kashmir](jammu-and-kashmir/README.md) | Srinagar | bus | 168 | 1,065 | 2,404 | 2026-11-02 – 2027-11-02 |  | [bus.zip](jammu-and-kashmir/srinagar/bus.zip) |
 | [Karnataka](karnataka/README.md) | Belagavi | bus | 33 | 242 | 331 | 2026-11-02 – 2027-11-02 |  | [bus.zip](karnataka/belagavi/bus.zip) |
@@ -73,6 +75,8 @@ changes we made.
 | [Maharashtra](maharashtra/README.md) | Mumbai suburban rail (Western, Central, Harbour, Trans-Harbour, Uran) | rail | 9 | 123 | 3,721 | 2026-11-16 – 2027-11-16 |  | [suburban-rail.zip](maharashtra/mumbai/suburban-rail.zip) |
 | [Maharashtra](maharashtra/README.md) | Nagpur | bus | 900 | 3,896 | 8,619 | 2026-11-03 – 2027-11-03 |  | [bus.zip](maharashtra/nagpur/bus.zip) |
 | [Maharashtra](maharashtra/README.md) | Pune (PMPML) | bus | 628 | 6,745 | 10,128 | 2026-10-07 – 2027-04-05 |  | [bus.zip](maharashtra/pune/bus.zip) |
+| [Manipur](manipur/README.md) | Manipur State Transport (MST) | bus | 2 | 17 | 6 | 2026-11-21 – 2027-05-20 |  | [bus.zip](manipur/mst/bus.zip) |
+| [Mizoram](mizoram/README.md) | Mizoram State Transport (MST): Aizawl - Sairang railway station | bus | 1 | 2 | 10 | 2026-11-21 – 2027-05-20 |  | [bus.zip](mizoram/mst/bus.zip) |
 | [Odisha](odisha/README.md) | OSRTC (Odisha, statewide) | bus |  |  |  | | ✓ | [gtfs.zip](https://maps.reclaim.city/osrtc/rt/gtfs.zip) |
 | [Odisha](odisha/README.md) | Rourkela | bus | 160 | 1,081 | 1,042 | 2026-11-02 – 2027-11-02 |  | [bus.zip](odisha/rourkela/bus.zip) |
 | [Punjab](punjab/README.md) | Amritsar | bus |  |  |  | |  | — |
@@ -282,6 +286,7 @@ is. Check each source before commercial use.
 |---|---|---|
 | APSRTC (Andhra Pradesh, statewide) | [reclaimchennai/apsrtc](https://github.com/reclaimchennai/apsrtc) | none stated |
 | Vijayawada | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
+| APSTS (Arunachal Pradesh State Transport Services) | [APSTS online timetable (apsts.arunachal.gov.in, NIC StarBus), built into GTFS by reclaim.city (ne_states_bus)](https://apsts.arunachal.gov.in/timetable.aspx) | none stated |
 | ASTC (Assam State Transport Corporation) | [ASTC division timetables (astcbus.in/schedules, one PDF per division), built into GTFS by reclaim.city (astc_bus)](https://astcbus.in/schedules) | none stated |
 | Guwahati | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | BSRTC (Bihar State Road Transport Corporation) | [BSRTC depot timetables (bsrtc.co.in/schedules, one PDF per depot), built into GTFS by reclaim.city (bsrtc_bus)](https://bsrtc.co.in/schedules) | none stated |
@@ -300,6 +305,7 @@ is. Check each source before commercial use.
 | Haryana Roadways (Haryana, statewide) | [Haryana Roadways' depot timetables (hartrans.gov.in) and its live tracking, built into GTFS by reclaim.city](https://hartrans.gov.in/bus-time-table-depot-wise/) | none stated |
 | HRTC (Himachal Road Transport Corporation) | [HRTC's public booking site (online.hrtchp.com, OPRS guest search and Service Route Details), built into GTFS by reclaim.city (hrtc_bus)](https://online.hrtchp.com/oprs-web/guest/home.do) | none stated |
 | Indian Railways (all-India trains, incl. EMU/MEMU) | [Community GTFS of Indian Railways by P. Radha Krishna (github.com/Neo2308)](https://github.com/Neo2308) | none stated |
+| JKRTC (Jammu & Kashmir Road Transport Corporation) | [JKRTC division timetables (jksrtc.co.in, the Jammu and Kashmir division PDFs, Dec 2021), built into GTFS by reclaim.city (ne_states_bus)](https://jksrtc.co.in/timetable.php) | none stated |
 | Jammu | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Srinagar | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Belagavi | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
@@ -326,6 +332,8 @@ is. Check each source before commercial use.
 | Mumbai suburban rail (Western, Central, Harbour, Trans-Harbour, Uran) | [Rush Hour's Mumbai timetable (railway working timetables: WR Feb 2026, Harbour Oct 2024, Trans-Harbour Jan 2024, Port line Dec 2025), via India Metro's suburban map; built by tools/suburban_gtfs.py](https://git.sr.ht/~sphericalkat/rush-hour) | MIT |
 | Nagpur | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Pune (PMPML) | [croyla/pmpml-gtfs](https://github.com/croyla/pmpml-gtfs) | MIT-0 |
+| Manipur State Transport (MST) | [Manipur State Transport online timetable (manipurstatetransport.mn.gov.in, NIC StarBus), built into GTFS by reclaim.city (ne_states_bus)](https://manipurstatetransport.mn.gov.in/timetable.aspx) | none stated |
+| Mizoram State Transport (MST): Aizawl - Sairang railway station | [Mizoram Transport Department: Aizawl (Transport Complex, Chaltlang) - Sairang (Railway Station) daily MST bus timings w.e.f. 12-11-2026 (transport.mizoram.gov.in), built into GTFS by reclaim.city (ne_states_bus)](https://transport.mizoram.gov.in/page/aizawl-transport-complex-chaltlang-to-sairang-railway-station-daily-mst-bus-service-timings) | none stated |
 | OSRTC (Odisha, statewide) | [OSRTC Track a Bus, as seen by the reclaim.city live poller](https://osrtc.org/) | none stated |
 | Rourkela | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Amritsar | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |

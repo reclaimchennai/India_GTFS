@@ -375,5 +375,69 @@
     },
     "src": "~/Desktop/projects/ksrtc_ka_bus/gtfs/ksrtc_ka_gtfs.zip",
     "state": "Karnataka"
+  },
+  {
+    "fid": "jksrtc",
+    "path": "jammu-and-kashmir/jksrtc/bus",
+    "name": "JKRTC (Jammu & Kashmir Road Transport Corporation)",
+    "state": "Jammu and Kashmir",
+    "src": "~/Desktop/projects/ne_states_bus/gtfs/jksrtc/jksrtc_gtfs.zip",
+    "kind": "bus",
+    "source": {
+      "name": "JKRTC division timetables (jksrtc.co.in, the Jammu and Kashmir division PDFs, Dec 2021), built into GTFS by reclaim.city (ne_states_bus)",
+      "url": "https://jksrtc.co.in/timetable.php",
+      "licence": null,
+      "detail": "Unofficial: JKRTC publishes no open GTFS. Its two scanned division timetables (timejammu.pdf, timekashmirr.pdf, dated December 2021) transcribed by hand: interstate services from General Bus Stand Jammu, the Jammu e-bus city schedules, Doda/Ramban/Kishtwar stations, the Jammu District Services Division, Tourist Services (TRC Srinagar), the Kashmir depots and the Srinagar city services. Only rows the PDFs mark operational; obvious AM/PM slips corrected (noted in ne_states_bus ops/jksrtc_timetable.txt). Places from OpenStreetMap (settlements, bus stations; Photon for a few), each section's places looked up inside its own area; 442 of 500 operating trips placed (17 small places could not be). Departure times are the PDFs' (and arrivals where given; timepoint=1); other times are OSRM driving time x 1.35 (timepoint=0). Daily calendar. Schedule only, no live positions. Read Nov 2026."
+    },
+    "note": "Unofficial: JKRTC's Dec 2021 timetables (times may have changed); stops are bus stands and town or locality points.",
+    "mapdir": "jkrtc"
+  },
+  {
+    "fid": "manipur-mst",
+    "path": "manipur/mst/bus",
+    "name": "Manipur State Transport (MST)",
+    "state": "Manipur",
+    "src": "~/Desktop/projects/ne_states_bus/gtfs/mst/mst_gtfs.zip",
+    "kind": "bus",
+    "source": {
+      "name": "Manipur State Transport online timetable (manipurstatetransport.mn.gov.in, NIC StarBus), built into GTFS by reclaim.city (ne_states_bus)",
+      "url": "https://manipurstatetransport.mn.gov.in/timetable.aspx",
+      "licence": null,
+      "detail": "Unofficial: MST publishes no open GTFS. Every service the public timetable page lists for the routes on its Routes page, both directions, with each service's stops and (approximate) times from its Show Route view; no login. Of the 10 listed routes only Imphal ISBT-Chandel and Imphal ISBT-Moirang have timetabled services. Stops from OpenStreetMap (3 small stops it lacks are left out), roads by OSRM. Stop times are the site's (timepoint=1). Daily calendar. Schedule only. Read Nov 2026."
+    },
+    "note": "Unofficial: the site's own (approximate) stop times.",
+    "mapdir": "manipur"
+  },
+  {
+    "fid": "mizoram-mst",
+    "path": "mizoram/mst/bus",
+    "name": "Mizoram State Transport (MST): Aizawl - Sairang railway station",
+    "state": "Mizoram",
+    "src": "~/Desktop/projects/ne_states_bus/gtfs/mzst/mzst_gtfs.zip",
+    "kind": "bus",
+    "source": {
+      "name": "Mizoram Transport Department: Aizawl (Transport Complex, Chaltlang) - Sairang (Railway Station) daily MST bus timings w.e.f. 12-11-2026 (transport.mizoram.gov.in), built into GTFS by reclaim.city (ne_states_bus)",
+      "url": "https://transport.mizoram.gov.in/page/aizawl-transport-complex-chaltlang-to-sairang-railway-station-daily-mst-bus-service-timings",
+      "licence": null,
+      "detail": "Unofficial: the only MST timetable the Transport Department publishes (an image, departures by weekday), transcribed. One route, two stops; departures are the published times, the arrival is OSRM driving time x 1.4 (timepoint=0). Calendar per weekday. Schedule only. Read Nov 2026."
+    },
+    "note": "Unofficial: one route (the Sairang railway station link); weekday calendars.",
+    "mapdir": "mizoram"
+  },
+  {
+    "fid": "apsts",
+    "path": "arunachal-pradesh/apsts/bus",
+    "name": "APSTS (Arunachal Pradesh State Transport Services)",
+    "state": "Arunachal Pradesh",
+    "src": "~/Desktop/projects/ne_states_bus/gtfs/apsts/apsts_gtfs.zip",
+    "kind": "bus",
+    "source": {
+      "name": "APSTS online timetable (apsts.arunachal.gov.in, NIC StarBus), built into GTFS by reclaim.city (ne_states_bus)",
+      "url": "https://apsts.arunachal.gov.in/timetable.aspx",
+      "licence": null,
+      "detail": "Unofficial: APSTS publishes no open GTFS. Every service the public timetable page lists between the ends of each route on its Routes page (both directions, 184 searches; no login), with each service's stops and approximate times from its Show Route view. APSTS gives one service number per weekday at the same time and class (644 numbers, 193 distinct departures) and no operating days, so each distinct departure is one daily trip. Places: district headquarters and termini anchored to their OpenStreetMap town points, other stops from OpenStreetMap (Photon for a few) and checked against the published times (a stop that would need over 70 km/h is re-placed or left out); about 100 small villages could not be placed and are left out of their trips. 178 of 193 departures built (a test service, a record with impossible times and those whose end could not be placed are dropped). Stop times are the site's (timepoint=1). Daily calendar. Schedule only: 'Track My Bus' needs a ticket PNR. Read Nov 2026."
+    },
+    "note": "Unofficial: the site's approximate stop times; weekday-numbered services merged into daily trips; small villages missing.",
+    "mapdir": "apsts"
   }
 ]
