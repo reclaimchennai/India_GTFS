@@ -2,7 +2,7 @@
 
 Public transit for India in [GTFS](https://gtfs.org/): **85 feeds** covering
 **27 states and union territories**: city buses, state transport corporations, suburban rail, MRTS, metro, RRTS and
-ferries. Together they hold 79,199 routes, 216,472 stops and 743,564 trips, with shapes on almost every trip.
+ferries. Together they hold 79,210 routes, 216,533 stops and 743,949 trips, with shapes on almost every trip.
 **10 networks also have live GTFS-Realtime feeds** (vehicle positions and trip updates).
 
 Every feed is the timetable behind a map on [maps.reclaim.city](https://maps.reclaim.city/), so the ids in the
@@ -91,7 +91,7 @@ changes we made.
 | [Rajasthan](rajasthan/README.md) | RSRTC (Rajasthan State Road Transport Corporation, intercity) | bus | 1,964 | 2,000 | 96 | 2026-11-21 – 2027-12-31 |  | [bus.zip](rajasthan/rsrtc/bus.zip) |
 | [Rajasthan](rajasthan/README.md) | Udaipur | bus | 28 | 243 | 303 | 2026-11-02 – 2027-11-02 |  | [bus.zip](rajasthan/udaipur/bus.zip) |
 | [Sikkim](sikkim/README.md) | SNT (Sikkim Nationalised Transport) | bus | 10 | 9 | 23 | 2026-11-20 – 2027-05-19 |  | [bus.zip](sikkim/snt/bus.zip) |
-| [Tamil Nadu](tamil-nadu/README.md) | Chennai MTC | bus | 1,092 | 3,768 | 51,763 | 2026-01-01 – 2027-12-31 | ✓ | [mtc-bus.zip](tamil-nadu/chennai/mtc-bus.zip) |
+| [Tamil Nadu](tamil-nadu/README.md) | Chennai MTC | bus | 1,103 | 3,829 | 52,148 | 2026-01-01 – 2027-12-31 | ✓ | [mtc-bus.zip](tamil-nadu/chennai/mtc-bus.zip) |
 | [Tamil Nadu](tamil-nadu/README.md) | Chennai Metro (CMRL) | metro | 3 | 294 | 749 | 2026-01-01 – 2027-12-31 |  | [metro-cmrl.zip](tamil-nadu/chennai/metro-cmrl.zip) |
 | [Tamil Nadu](tamil-nadu/README.md) | Chennai suburban rail and MRTS (Southern Railway) | rail | 753 | 388 | 756 | 2026-01-01 – 2027-12-31 |  | [suburban-rail-mrts.zip](tamil-nadu/chennai/suburban-rail-mrts.zip) |
 | [Tamil Nadu](tamil-nadu/README.md) | TNSTC + SETC intercity (Tamil Nadu state transport) | bus | 940 | 171 | 3,424 | 2026-11-21 – 2027-05-20 |  | [bus.zip](tamil-nadu/tnstc/bus.zip) |
