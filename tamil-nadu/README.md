@@ -28,23 +28,23 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 | | |
 |---|---|
 | Feed id | `mtc` |
-| Download | [chennai/mtc-bus.zip](chennai/mtc-bus.zip) (13.7 MB), mirror <https://maps.reclaim.city/gtfs/mtc.zip> |
+| Download | [chennai/mtc-bus.zip](chennai/mtc-bus.zip) (13.8 MB), mirror <https://maps.reclaim.city/gtfs/mtc.zip> |
 | Modes | bus |
 | Agencies | Metropolitan Transport Corporation (Chennai) |
-| Routes / stops / trips | 1,103 / 3,829 / 52,148 |
-| Trips with a shape | 52,148 (4,311 shapes) |
+| Routes / stops / trips | 1,120 / 3,831 / 52,605 |
+| Trips with a shape | 52,605 (4,379 shapes) |
 | Service | 2026-01-01 to 2027-12-31 |
 | Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
 | Map | <https://maps.reclaim.city/mapsv2/> |
 | Source | [reclaimchennai/ChennaiGTFS, Chennai One MTC feed](https://github.com/reclaimchennai/ChennaiGTFS/tree/chennai-one-feeds) |
 | Licence | none stated by the source |
-| sha256 | `e9b390fa9fdb9d568d83659cb0a9de7801da61c851be393a0ee082bca2035bfa` |
+| sha256 | `0a32158fcb6c2d3bdc4f54da58b86521ceb7f324dcc86995c7dce01dc0fec54c` |
 | GTFS-Realtime | [VehiclePositions](https://maps.reclaim.city/mapsv2/rt/vehicle_positions.pb), [TripUpdates](https://maps.reclaim.city/mapsv2/rt/trip_updates.pb), [status](https://maps.reclaim.city/mapsv2/rt/status.json) |
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
 
 - packaging: files at the zip root, GTFS reference files only
-- route lines thinned to within 4 m (scripts/simplify_shapes.py): 1,004,270 -> 552,489 shape points
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 1,007,889 -> 555,374 shape points
 
 ## Chennai suburban rail and MRTS (Southern Railway)
 
