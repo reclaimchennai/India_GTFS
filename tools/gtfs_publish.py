@@ -65,7 +65,20 @@ CHALO = {'agra': ('uttar-pradesh/agra', 'Agra', 'Uttar Pradesh'), 'amritsar': ('
          'wayanad': ('kerala/wayanad', 'Wayanad', 'Kerala')}
 FEEDS = [F(c, f'{p}/bus', n, s, f'{HOME}/chalo_cities/gtfs/{c}', c, source=CHALO_SRC) for c, (p, n, s) in CHALO.items()]
 FEEDS += [
-    F('ahmedabad', 'gujarat/ahmedabad/bus', 'Ahmedabad (AMTS, Janmarg BRTS, Gandhinagar GTSL)', 'Gujarat', f'{HOME}/ahmedabad_bus/raw/amd_gtfs.zip', 'ahmedabad'),
+    F('ahmedabad', 'gujarat/ahmedabad/bus', 'Ahmedabad (AMTS, Janmarg BRTS, Gandhinagar GTSL)', 'Gujarat', f'{HOME}/ahmedabad_bus/gtfs/amts_gtfs.zip', 'amts', rt='amts',
+      source={'name': "AMTS and Janmarg's own timetables and tracker (Amdavad ONE, amcitms.in), built into GTFS by reclaim.city; "
+                      "Gandhinagar GTSL from croyla/amd-gtfs", 'url': 'https://amdavadone.in/amts/bus-tracking', 'licence': None,
+              'detail': "Unofficial: AMTS and Ahmedabad Janmarg publish no GTFS. Everything for AMTS and Janmarg comes from the "
+                        "operators' own backend behind the Amdavad ONE app (Amnex ITMS, mobileapi.amcitms.in): the route list "
+                        "(a route id is one direction), each route's stations in order and their places, every trip of the "
+                        "timetable and each stop's scheduled time on it (GetScheduelByRoute, GetScheduelDetail), and the "
+                        "route's road line for shapes (GetRoutePathData, cut from the first stop to the last; no shape where "
+                        "the stops do not fit a line). A stop of the route a trip passes without a time of its own is timed by "
+                        "distance between its timed neighbours (timepoint=0). Ids are the live map's (route_id = the tracker's "
+                        "route id, stop_id s<station id>), so the GTFS-Realtime feed and maps.reclaim.city/amts use them too. "
+                        "Gandhinagar GTSL's 16 routes, not on this backend, are croyla/amd-gtfs's (MIT), as before "
+                        "(ahmedabad_bus/server/timetable.py, gtfs_build.py)."},
+      note="Unofficial: built from AMTS and Janmarg's own timetable and tracker (Amdavad ONE). Service is every day; the timetable has no calendar."),
     F('bengaluru', 'karnataka/bengaluru/bus', 'Bengaluru (BMTC)', 'Karnataka', f'{HOME}/bengaluru_bus/raw/bmtc_plus.zip', 'bengaluru', rt='bengaluru',
       source={'name': 'Vonter/bmtc-gtfs, plus the routes only BMTC\'s own app has (reclaim.city)', 'url': 'https://github.com/Vonter/bmtc-gtfs', 'licence': 'ODbL',
               'detail': "Unofficial GTFS for BMTC built from the official Namma BMTC app (Vonter/bmtc-gtfs, feed version 9 Nov 2026, Mobility "

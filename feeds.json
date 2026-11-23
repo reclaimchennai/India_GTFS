@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T12:59:53Z",
+ "generated": "2026-11-23T16:54:45Z",
  "repository": "https://github.com/reclaimchennai/India_GTFS",
  "spec": {
   "schedule": "https://gtfs.org/documentation/schedule/reference/",
@@ -651,7 +651,7 @@
    "path": "gujarat/ahmedabad/bus.zip",
    "download": "https://raw.githubusercontent.com/reclaimchennai/India_GTFS/main/gujarat/ahmedabad/bus.zip",
    "mirror": "https://maps.reclaim.city/gtfs/ahmedabad.zip",
-   "map": "https://maps.reclaim.city/ahmedabad/",
+   "map": "https://maps.reclaim.city/amts/",
    "modes": [
     "bus"
    ],
@@ -660,43 +660,42 @@
     "Ahmedabad Janmarg Limited",
     "Gandhinagar Transport Services Limited"
    ],
-   "routes": 978,
-   "stops": 3235,
-   "trips": 14323,
-   "shapes": 944,
-   "trips_with_shape": 14316,
+   "routes": 975,
+   "stops": 6638,
+   "trips": 14459,
+   "shapes": 679,
+   "trips_with_shape": 12998,
    "files": [
     "agency.txt",
-    "areas.txt",
     "calendar.txt",
-    "fare_leg_rules.txt",
-    "fare_products.txt",
     "feed_info.txt",
-    "rider_categories.txt",
     "routes.txt",
     "shapes.txt",
-    "stop_areas.txt",
     "stop_times.txt",
     "stops.txt",
     "trips.txt"
    ],
    "service_start": "20260930",
-   "service_end": "20270329",
+   "service_end": "20271123",
    "source": {
-    "name": "croyla/amd-gtfs",
-    "url": "https://github.com/croyla/amd-gtfs",
-    "licence": "MIT",
-    "detail": "GTFS built from the AMTS, Ahmedabad Janmarg (BRTS) and Gandhinagar GTSL websites; feed 30 Sep 2026 to 29 Mar 2027; MIT. 813 AMTS, 149 Janmarg and 16 GTSL route entries. GTSL times come from the Gandhinagar corporation site and may be obsolete. Some AMTS stops are misplaced in the source. Read 3 Nov 2026."
+    "name": "AMTS and Janmarg's own timetables and tracker (Amdavad ONE, amcitms.in), built into GTFS by reclaim.city; Gandhinagar GTSL from croyla/amd-gtfs",
+    "url": "https://amdavadone.in/amts/bus-tracking",
+    "licence": null,
+    "detail": "Unofficial: AMTS and Ahmedabad Janmarg publish no GTFS. Everything for AMTS and Janmarg comes from the operators' own backend behind the Amdavad ONE app (Amnex ITMS, mobileapi.amcitms.in): the route list (a route id is one direction), each route's stations in order and their places, every trip of the timetable and each stop's scheduled time on it (GetScheduelByRoute, GetScheduelDetail), and the route's road line for shapes (GetRoutePathData, cut from the first stop to the last; no shape where the stops do not fit a line). A stop of the route a trip passes without a time of its own is timed by distance between its timed neighbours (timepoint=0). Ids are the live map's (route_id = the tracker's route id, stop_id s<station id>), so the GTFS-Realtime feed and maps.reclaim.city/amts use them too. Gandhinagar GTSL's 16 routes, not on this backend, are croyla/amd-gtfs's (MIT), as before (ahmedabad_bus/server/timetable.py, gtfs_build.py)."
    },
-   "note": null,
+   "note": "Unofficial: built from AMTS and Janmarg's own timetable and tracker (Amdavad ONE). Service is every day; the timetable has no calendar.",
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
-    "shapes for 14316 of 14323 trips that had none: the map's road-snapped line for the route (972 shapes)",
-    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 283,752 -> 247,111 shape points"
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 592,379 -> 159,273 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 6232042,
-   "sha256": "2ab7ff9586231f8302304224281abfb31104d8e54e9a8ef0b2ea0a07fdcd5154"
+   "bytes": 5464692,
+   "sha256": "962a8f86fe6357809e85ad4ab2cb40953158f2cba4e85bce49c53c65bb4bcb89",
+   "realtime": {
+    "vehicle_positions": "https://maps.reclaim.city/amts/rt/vehicle_positions.pb",
+    "trip_updates": "https://maps.reclaim.city/amts/rt/trip_updates.pb",
+    "status": "https://maps.reclaim.city/amts/rt/status.json"
+   }
   },
   {
    "id": "gsrtc",

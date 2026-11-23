@@ -7,23 +7,25 @@ Feeds in this folder: 4. Back to the [repository README](../README.md).
 | | |
 |---|---|
 | Feed id | `ahmedabad` |
-| Download | [ahmedabad/bus.zip](ahmedabad/bus.zip) (5.9 MB), mirror <https://maps.reclaim.city/gtfs/ahmedabad.zip> |
+| Download | [ahmedabad/bus.zip](ahmedabad/bus.zip) (5.2 MB), mirror <https://maps.reclaim.city/gtfs/ahmedabad.zip> |
 | Modes | bus |
 | Agencies | Ahmedabad Municipal Transport Services, Ahmedabad Janmarg Limited, Gandhinagar Transport Services Limited |
-| Routes / stops / trips | 978 / 3,235 / 14,323 |
-| Trips with a shape | 14,316 (944 shapes) |
-| Service | 2026-09-30 to 2027-03-29 |
-| Files | `agency.txt`, `areas.txt`, `calendar.txt`, `fare_leg_rules.txt`, `fare_products.txt`, `feed_info.txt`, `rider_categories.txt`, `routes.txt`, `shapes.txt`, `stop_areas.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
-| Map | <https://maps.reclaim.city/ahmedabad/> |
-| Source | [croyla/amd-gtfs](https://github.com/croyla/amd-gtfs) |
-| Licence | MIT |
-| sha256 | `2ab7ff9586231f8302304224281abfb31104d8e54e9a8ef0b2ea0a07fdcd5154` |
+| Routes / stops / trips | 975 / 6,638 / 14,459 |
+| Trips with a shape | 12,998 (679 shapes) |
+| Service | 2026-09-30 to 2027-11-23 |
+| Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
+| Map | <https://maps.reclaim.city/amts/> |
+| Source | [AMTS and Janmarg's own timetables and tracker (Amdavad ONE, amcitms.in), built into GTFS by reclaim.city; Gandhinagar GTSL from croyla/amd-gtfs](https://amdavadone.in/amts/bus-tracking) |
+| Licence | none stated by the source |
+| sha256 | `962a8f86fe6357809e85ad4ab2cb40953158f2cba4e85bce49c53c65bb4bcb89` |
+| GTFS-Realtime | [VehiclePositions](https://maps.reclaim.city/amts/rt/vehicle_positions.pb), [TripUpdates](https://maps.reclaim.city/amts/rt/trip_updates.pb), [status](https://maps.reclaim.city/amts/rt/status.json) |
+
+> Unofficial: built from AMTS and Janmarg's own timetable and tracker (Amdavad ONE). Service is every day; the timetable has no calendar.
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
 
 - packaging: files at the zip root, GTFS reference files only
-- shapes for 14316 of 14323 trips that had none: the map's road-snapped line for the route (972 shapes)
-- route lines thinned to within 4 m (scripts/simplify_shapes.py): 283,752 -> 247,111 shape points
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 592,379 -> 159,273 shape points
 
 ## GSRTC intercity (Gujarat State Road Transport Corporation)
 
