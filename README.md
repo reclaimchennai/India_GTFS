@@ -396,6 +396,8 @@ These feeds stand on other people's work. Thank you:
 - **[@CityOrdinary](https://x.com/CityOrdinary)**, **[@SripadUllas](https://x.com/SripadUllas)** and the Hyd Transit team
   for contributing their data and helping fix the TGSRTC feed.
 - **[av-j](https://github.com/av-j)** for the shape simplification (`scripts/simplify_shapes.py`) that made every feed smaller.
+- **[/u/Interesting-Day8519](https://www.reddit.com/user/Interesting-Day8519/)** on Reddit for suggesting the "near you" cards on the bus
+  maps built on these feeds: the nearest stop on a searched route, the walk there, and a countdown to the next bus you can still catch.
 
 ## Rebuilding
 
