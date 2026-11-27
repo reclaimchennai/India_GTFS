@@ -77,7 +77,7 @@ changes we made.
 | [Maharashtra](maharashtra/README.md) | Nagpur | bus | 900 | 3,896 | 8,619 | 2026-11-03 – 2027-11-03 |  | [bus.zip](maharashtra/nagpur/bus.zip) |
 | [Maharashtra](maharashtra/README.md) | Pune (PMPML) | bus | 689 | 7,011 | 9,738 | 2026-11-14 – 2027-05-13 |  | [bus.zip](maharashtra/pune/bus.zip) |
 | [Manipur](manipur/README.md) | Manipur State Transport (MST) | bus | 2 | 17 | 6 | 2026-11-21 – 2027-05-20 |  | [bus.zip](manipur/mst/bus.zip) |
-| [Mizoram](mizoram/README.md) | Mizoram State Transport (MST) | bus | 7 | 18 | 18 | 2026-11-21 – 2027-05-20 |  | [bus.zip](mizoram/mst/bus.zip) |
+| [Mizoram](mizoram/README.md) | Mizoram State Transport (MST) | bus | 7 | 18 | 18 | 2026-11-27 – 2027-05-26 |  | [bus.zip](mizoram/mst/bus.zip) |
 | [Odisha](odisha/README.md) | OSRTC (Odisha, statewide) | bus |  |  |  | | ✓ | [gtfs.zip](https://maps.reclaim.city/osrtc/rt/gtfs.zip) |
 | [Odisha](odisha/README.md) | Rourkela | bus | 160 | 1,081 | 1,042 | 2026-11-02 – 2027-11-02 |  | [bus.zip](odisha/rourkela/bus.zip) |
 | [Punjab](punjab/README.md) | Amritsar | bus |  |  |  | |  | — |

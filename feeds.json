@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T07:32:21Z",
+ "generated": "2026-11-27T10:19:29Z",
  "repository": "https://github.com/reclaimchennai/India_GTFS",
  "spec": {
   "schedule": "https://gtfs.org/documentation/schedule/reference/",
@@ -2489,8 +2489,8 @@
     "stops.txt",
     "trips.txt"
    ],
-   "service_start": "20261121",
-   "service_end": "20270520",
+   "service_start": "20261127",
+   "service_end": "20270526",
    "source": {
     "name": "Mizoram Transport Department: MST office orders and daily detailment sheets (transport.mizoram.gov.in), built into GTFS by reclaim.city (ne_states_bus)",
     "url": "https://transport.mizoram.gov.in/page/mst-bus-services",
@@ -2502,8 +2502,8 @@
     "packaging: files at the zip root, GTFS reference files only"
    ],
    "routes_without_timetable": null,
-   "bytes": 138553,
-   "sha256": "ebbb432e2718f53d41406e378cc0335c5c25e667cde0bb32eddd0ac1c7a83ba8"
+   "bytes": 138568,
+   "sha256": "4800c6d5a29e5f0dc4b74b2e56a15b89b8e3104d29fcbba985424fd0580eaf6c"
   },
   {
    "id": "rourkela",
