@@ -2,7 +2,7 @@
 
 Public transit for India in [GTFS](https://gtfs.org/): **85 feeds** covering
 **27 states and union territories**: city buses, state transport corporations, suburban rail, MRTS, metro, RRTS and
-ferries. Together they hold 79,224 routes, 219,938 stops and 744,542 trips, with shapes on almost every trip.
+ferries. Together they hold 79,285 routes, 220,204 stops and 744,152 trips, with shapes on almost every trip.
 **11 networks also have live GTFS-Realtime feeds** (vehicle positions and trip updates).
 
 Every feed is the timetable behind a map on [maps.reclaim.city](https://maps.reclaim.city/), so the ids in the
@@ -75,7 +75,7 @@ changes we made.
 | [Maharashtra](maharashtra/README.md) | Mumbai region bus (BEST, TMT, KDMT, VVMT) | bus | 1,609 | 10,279 | 99,080 | 2026-08-19 – 2027-02-15 | ✓ | [bus.zip](maharashtra/mumbai/bus.zip) |
 | [Maharashtra](maharashtra/README.md) | Mumbai suburban rail (Western, Central, Harbour, Trans-Harbour, Uran) | rail | 9 | 123 | 3,721 | 2026-11-16 – 2027-11-16 |  | [suburban-rail.zip](maharashtra/mumbai/suburban-rail.zip) |
 | [Maharashtra](maharashtra/README.md) | Nagpur | bus | 900 | 3,896 | 8,619 | 2026-11-03 – 2027-11-03 |  | [bus.zip](maharashtra/nagpur/bus.zip) |
-| [Maharashtra](maharashtra/README.md) | Pune (PMPML) | bus | 628 | 6,745 | 10,128 | 2026-10-07 – 2027-04-05 |  | [bus.zip](maharashtra/pune/bus.zip) |
+| [Maharashtra](maharashtra/README.md) | Pune (PMPML) | bus | 689 | 7,011 | 9,738 | 2026-11-14 – 2027-05-13 |  | [bus.zip](maharashtra/pune/bus.zip) |
 | [Manipur](manipur/README.md) | Manipur State Transport (MST) | bus | 2 | 17 | 6 | 2026-11-21 – 2027-05-20 |  | [bus.zip](manipur/mst/bus.zip) |
 | [Mizoram](mizoram/README.md) | Mizoram State Transport (MST) | bus | 7 | 18 | 18 | 2026-11-21 – 2027-05-20 |  | [bus.zip](mizoram/mst/bus.zip) |
 | [Odisha](odisha/README.md) | OSRTC (Odisha, statewide) | bus |  |  |  | | ✓ | [gtfs.zip](https://maps.reclaim.city/osrtc/rt/gtfs.zip) |

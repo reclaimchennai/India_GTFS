@@ -107,7 +107,7 @@ FEEDS += [
       note='The official feed\'s calendar ended on 1 Aug 2025; republished as it is.'),
     F('hyderabad', 'telangana/hyderabad/bus', 'Hyderabad (TGSRTC city, official open data)', 'Telangana', f'{HOME}/hyderabad_bus/raw/tgsrtc_gtfs_2026-02-08.zip', 'hyderabad'),
     F('vapi', 'gujarat/vapi/bus', 'Vapi (VCBS)', 'Gujarat', f'{HOME}/vapi_bus/raw/Vapi_GTFS.zip', 'vapi'),
-    F('pune', 'maharashtra/pune/bus', 'Pune (PMPML)', 'Maharashtra', f'{HOME}/pune_bus/raw/pmpml-gtfs/pmpml_gtfs.zip', 'pune',
+    F('pune', 'maharashtra/pune/bus', 'Pune (PMPML)', 'Maharashtra', f'{HOME}/pune_bus/src/gtfs', 'pune',   # the build the map is drawn from (pune_bus/build.sh GTFS_REF)
       source={'name': 'croyla/pmpml-gtfs', 'url': 'https://github.com/croyla/pmpml-gtfs', 'licence': 'MIT-0'}),
     F('rajkot', 'gujarat/rajkot/bus', 'Rajkot (RRL BRTS + city)', 'Gujarat', f'{HOME}/rajkot_bus/raw/rrl-gtfs/gtfs.zip', 'rajkot',
       source={'name': 'croyla/rrl-gtfs', 'url': 'https://github.com/croyla/rrl-gtfs', 'licence': 'MIT-0'}),

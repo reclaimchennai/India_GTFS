@@ -107,16 +107,16 @@ Changes from the source (see [what we change](../README.md#what-we-change-and-wh
 | Download | [pune/bus.zip](pune/bus.zip) (3.7 MB), mirror <https://maps.reclaim.city/gtfs/pune.zip> |
 | Modes | bus |
 | Agencies | Pune Mahanagar Parivahan Mahamandal Limited |
-| Routes / stops / trips | 628 / 6,745 / 10,128 |
-| Trips with a shape | 10,128 (628 shapes) |
-| Service | 2026-10-07 to 2027-04-05 |
+| Routes / stops / trips | 689 / 7,011 / 9,738 |
+| Trips with a shape | 9,738 (689 shapes) |
+| Service | 2026-11-14 to 2027-05-13 |
 | Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
 | Map | <https://maps.reclaim.city/pune/> |
 | Source | [croyla/pmpml-gtfs](https://github.com/croyla/pmpml-gtfs) |
 | Licence | MIT-0 |
-| sha256 | `c32d515fd87786d8129f082816624d0a7bbf3a4f81d1a4885ece2095a9aaf4f3` |
+| sha256 | `ab98579897126127c1abcad979120f807a115bfa4943fbac318ca62f28aa1733` |
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
 
 - packaging: files at the zip root, GTFS reference files only
-- route lines thinned to within 4 m (scripts/simplify_shapes.py): 256,823 -> 106,052 shape points
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 281,078 -> 115,983 shape points
