@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T10:19:29Z",
+ "generated": "2026-11-27T16:27:09Z",
  "repository": "https://github.com/reclaimchennai/India_GTFS",
  "spec": {
   "schedule": "https://gtfs.org/documentation/schedule/reference/",
@@ -3983,8 +3983,8 @@
     "stops.txt",
     "trips.txt"
    ],
-   "service_start": "20261121",
-   "service_end": "20270520",
+   "service_start": "20261127",
+   "service_end": "20270526",
    "source": {
     "name": "UTC's public online timetable (utconline.uk.gov.in/timetable.aspx), built into GTFS by reclaim.city (utc_bus)",
     "url": "https://utconline.uk.gov.in/timetable.aspx",
@@ -3994,11 +3994,11 @@
    "note": "Unofficial: services between the timetable's 83 stations only; stops between the ends are placed by name and timed by distance (timepoint=0).",
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
-    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 307,194 -> 213,803 shape points"
+    "route lines thinned to within 4 m (scripts/simplify_shapes.py): 283,884 -> 200,257 shape points"
    ],
    "routes_without_timetable": null,
-   "bytes": 1965872,
-   "sha256": "e869780f0aa37894f0c0397f93d67fb47a1979fb1bce6e7ae5bb227f9f7f93b3"
+   "bytes": 1881894,
+   "sha256": "cc4c550efe72a3bebb6066caa02404ea70e8185dd849f7fc38691f1c704aca8d"
   },
   {
    "id": "kolkata",

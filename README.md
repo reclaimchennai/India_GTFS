@@ -111,7 +111,7 @@ changes we made.
 | [Uttar Pradesh](uttar-pradesh/README.md) | Prayagraj | bus | 15 | 238 | 115 | 2026-11-02 – 2027-11-02 |  | [bus.zip](uttar-pradesh/prayagraj/bus.zip) |
 | [Uttar Pradesh](uttar-pradesh/README.md) | UPSRTC (Uttar Pradesh State Road Transport Corporation, intercity) | bus | 7,230 | 7,936 | 50,789 | 2026-11-21 – 2027-12-31 |  | [bus.zip](uttar-pradesh/upsrtc/bus.zip) |
 | [Uttar Pradesh](uttar-pradesh/README.md) | Varanasi | bus | 123 | 358 | 688 | 2026-11-02 – 2027-11-02 |  | [bus.zip](uttar-pradesh/varanasi/bus.zip) |
-| [Uttarakhand](uttarakhand/README.md) | UTC (Uttarakhand Transport Corporation) | bus | 135 | 860 | 730 | 2026-11-21 – 2027-05-20 |  | [bus.zip](uttarakhand/utc/bus.zip) |
+| [Uttarakhand](uttarakhand/README.md) | UTC (Uttarakhand Transport Corporation) | bus | 135 | 860 | 730 | 2026-11-27 – 2027-05-26 |  | [bus.zip](uttarakhand/utc/bus.zip) |
 | [West Bengal](west-bengal/README.md) | Kolkata (bus, metro, suburban rail, ferry) | bus, ferry, metro, rail | 2,449 | 9,208 | 6,646 | 2026-11-01 – 2027-10-31 |  | [all-modes.zip](west-bengal/kolkata/all-modes.zip) |
 | [West Bengal](west-bengal/README.md) | Kolkata Hooghly ferries | ferry | 20 | 30 | 40 | 2026-11-01 – 2027-10-31 |  | [ferry.zip](west-bengal/kolkata/ferry.zip) |
 | [West Bengal](west-bengal/README.md) | Kolkata Metro | metro | 5 | 55 | 1,704 | 2026-11-01 – 2027-10-31 |  | [metro.zip](west-bengal/kolkata/metro.zip) |
