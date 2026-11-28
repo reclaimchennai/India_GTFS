@@ -2,7 +2,7 @@
 
 Public transit for India in [GTFS](https://gtfs.org/): **85 feeds** covering
 **27 states and union territories**: city buses, state transport corporations, suburban rail, MRTS, metro, RRTS and
-ferries. Together they hold 79,285 routes, 220,204 stops and 744,152 trips, with shapes on almost every trip.
+ferries. Together they hold 79,322 routes, 220,236 stops and 744,353 trips, with shapes on almost every trip.
 **11 networks also have live GTFS-Realtime feeds** (vehicle positions and trip updates).
 
 Every feed is the timetable behind a map on [maps.reclaim.city](https://maps.reclaim.city/), so the ids in the
@@ -32,7 +32,7 @@ changes we made.
 | [Arunachal Pradesh](arunachal-pradesh/README.md) | APSTS (Arunachal Pradesh State Transport Services) | bus | 63 | 173 | 178 | 2026-11-21 – 2027-05-20 |  | [bus.zip](arunachal-pradesh/apsts/bus.zip) |
 | [Assam](assam/README.md) | ASTC (Assam State Transport Corporation) | bus | 135 | 224 | 304 | 2026-11-20 – 2027-05-19 |  | [bus.zip](assam/astc/bus.zip) |
 | [Assam](assam/README.md) | Guwahati | bus | 522 | 2,283 | 4,272 | 2026-11-02 – 2027-11-02 |  | [bus.zip](assam/guwahati/bus.zip) |
-| [Bihar](bihar/README.md) | BSRTC (Bihar State Road Transport Corporation) | bus | 48 | 40 | 323 | 2026-11-20 – 2027-05-19 |  | [bus.zip](bihar/bsrtc/bus.zip) |
+| [Bihar](bihar/README.md) | BSRTC (Bihar State Road Transport Corporation) | bus | 85 | 72 | 524 | 2026-11-28 – 2027-05-27 |  | [bus.zip](bihar/bsrtc/bus.zip) |
 | [Bihar](bihar/README.md) | Patna | bus | 54 | 356 | 577 | 2026-11-02 – 2027-11-02 |  | [bus.zip](bihar/patna/bus.zip) |
 | [Chandigarh](chandigarh/README.md) | Chandigarh tricity (CTU: Chandigarh, Mohali, Panchkula) | bus | 69 | 558 | 3,938 | 2026-11-17 – 2027-11-17 | ✓ | [bus.zip](chandigarh/tricity/bus.zip) |
 | [Delhi](delhi/README.md) | Delhi (DTC and cluster buses) | bus | 2,554 | 6,812 | 65,322 | 2025-01-01 – 2040-01-01 | ✓ | [bus.zip](delhi/bus.zip) |
@@ -293,7 +293,7 @@ is. Check each source before commercial use.
 | APSTS (Arunachal Pradesh State Transport Services) | [APSTS online timetable (apsts.arunachal.gov.in, NIC StarBus), built into GTFS by reclaim.city (ne_states_bus)](https://apsts.arunachal.gov.in/timetable.aspx) | none stated |
 | ASTC (Assam State Transport Corporation) | [ASTC division timetables (astcbus.in/schedules, one PDF per division), built into GTFS by reclaim.city (astc_bus)](https://astcbus.in/schedules) | none stated |
 | Guwahati | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
-| BSRTC (Bihar State Road Transport Corporation) | [BSRTC depot timetables (bsrtc.co.in/schedules, one PDF per depot), built into GTFS by reclaim.city (bsrtc_bus)](https://bsrtc.co.in/schedules) | none stated |
+| BSRTC (Bihar State Road Transport Corporation) | [BSRTC's e-ticketing site (bsrtc.bihar.gov.in, its open bus search and masters) and depot timetables (bsrtc.co.in/schedules, one PDF per depot), merged into GTFS by reclaim.city (bsrtc_bus)](https://bsrtc.bihar.gov.in/) | none stated |
 | Patna | [Chalo's public scheduler (production.zophop.com), every route and stop, trips from 48 half-hourly sweeps of one Monday (Nov 2026), built into GTFS by reclaim.city](https://chalo.com/) | none stated |
 | Chandigarh tricity (CTU: Chandigarh, Mohali, Panchkula) | [CTU's published timetables and its trycityBUS tracker, built into GTFS by reclaim.city](https://ctucitybus.com/) | none stated |
 | Delhi (DTC and cluster buses) | [Delhi Transport Department / DTC, Delhi bus static GTFS v1 (Open Transit Data Delhi)](https://otd.delhi.gov.in/) | OTD Delhi terms |

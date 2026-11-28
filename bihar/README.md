@@ -7,24 +7,24 @@ Feeds in this folder: 2. Back to the [repository README](../README.md).
 | | |
 |---|---|
 | Feed id | `bsrtc` |
-| Download | [bsrtc/bus.zip](bsrtc/bus.zip) (0.2 MB), mirror <https://maps.reclaim.city/gtfs/bsrtc.zip> |
+| Download | [bsrtc/bus.zip](bsrtc/bus.zip) (0.3 MB), mirror <https://maps.reclaim.city/gtfs/bsrtc.zip> |
 | Modes | bus |
 | Agencies | Bihar State Road Transport Corporation |
-| Routes / stops / trips | 48 / 40 / 323 |
-| Trips with a shape | 323 (95 shapes) |
-| Service | 2026-11-20 to 2027-05-19 |
-| Files | `agency.txt`, `calendar.txt`, `feed_info.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
+| Routes / stops / trips | 85 / 72 / 524 |
+| Trips with a shape | 522 (167 shapes) |
+| Service | 2026-11-28 to 2027-05-27 |
+| Files | `agency.txt`, `calendar.txt`, `fare_attributes.txt`, `fare_rules.txt`, `feed_info.txt`, `routes.txt`, `shapes.txt`, `stop_times.txt`, `stops.txt`, `trips.txt` |
 | Map | <https://maps.reclaim.city/bsrtc/> |
-| Source | [BSRTC depot timetables (bsrtc.co.in/schedules, one PDF per depot), built into GTFS by reclaim.city (bsrtc_bus)](https://bsrtc.co.in/schedules) |
+| Source | [BSRTC's e-ticketing site (bsrtc.bihar.gov.in, its open bus search and masters) and depot timetables (bsrtc.co.in/schedules, one PDF per depot), merged into GTFS by reclaim.city (bsrtc_bus)](https://bsrtc.bihar.gov.in/) |
 | Licence | none stated by the source |
-| sha256 | `7d5312c4a63df4621c6fb2b8a0dc8f643923d30b8c276d527e1d21148d9f4b1e` |
+| sha256 | `551ef4bb204bd2d10d1037b4c2417f05f874a8240857c13fb1881d576e7a250f` |
 
-> Unofficial: origin and destination only, as published; arrival times are estimates (timepoint=0).
+> Unofficial: the site's trips carry BSRTC's own times and fares; the PDF trips are origin and destination only, their arrival an estimate (timepoint=0).
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
 
 - packaging: files at the zip root, GTFS reference files only
-- route lines thinned to within 4 m (scripts/simplify_shapes.py): 19,070 -> 19,065 shape points
+- route lines thinned to within 4 m (scripts/simplify_shapes.py): 44,823 -> 29,515 shape points
 
 ## Patna
 
