@@ -1,0 +1,541 @@
+route_id,route_short_name,route_long_name,stop_sequence,stop_id,stop_name
+bsrtc-r10,01 Up,Biharsharif (Bihar) to Ranchi (Jharkhand),1,bsb15,Biharsharif
+bsrtc-r10,01 Up,Biharsharif (Bihar) to Ranchi (Jharkhand),2,bsb16,Ranchi (Gov Bus Stand)
+bsrtc-r11,Up 01,Patna (Bihar) to Gumla (Jharkhand),1,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r11,Up 01,Patna (Bihar) to Gumla (Jharkhand),2,bsb34,Gumla (Gumla Gov Bus Stand)
+bsrtc-r18,Up 02,Patna (Bihar) to Ranchi (Jharkhand),1,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r18,Up 02,Patna (Bihar) to Ranchi (Jharkhand),2,bsb16,Ranchi (Gov Bus Stand)
+bsrtc-r19,Up 03,Patna (Bihar) to Ghaziabad (U.P),1,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r19,Up 03,Patna (Bihar) to Ghaziabad (U.P),2,bsb73,Ghaziabad (Kaushambi Bus Depot)
+bsrtc-r21,Up 05,Patna (Bihar) to Siliguri,1,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r21,Up 05,Patna (Bihar) to Siliguri,2,bsb55,Siliguri (Howrah Petrol Pump)
+bsrtc-r26,Up 06,Patna to Kolkata,1,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r26,Up 06,Patna to Kolkata,2,bsb52,Kolkata (Babu Ghat)
+bsrtc-r27,Up 07,Patna (Bihar) to Ambala (Haryana),1,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r27,Up 07,Patna (Bihar) to Ambala (Haryana),2,bsb47,Ambala (Ambala Cantt)
+bsrtc-r28,Up 08,Patna (Bihar) to Gurugram (Haryana),1,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r28,Up 08,Patna (Bihar) to Gurugram (Haryana),2,bsb44,Gurugram (IFFCO Chowk)
+bsrtc-r29,Up 09,Patna (Bihar) to Gorakhpur,1,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r29,Up 09,Patna (Bihar) to Gorakhpur,2,bsb67,Gorakhpur (Gorakhpur Bus Stand)
+bsrtc-r31,Up 10,Patna (Bihar) to Hazaribagh,1,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r31,Up 10,Patna (Bihar) to Hazaribagh,2,bsb66,Hazaribagh (Hazaribagh Gov Bus Stand)
+bsrtc-r32,Up 11,Patna (Bihar) to Varanasi (U.P),1,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r32,Up 11,Patna (Bihar) to Varanasi (U.P),2,bsb40,Varanasi (Varanasi Gov Bus Stand)
+bsrtc-r33,07 Up,Supaul to Delhi(ISBT Anand Vihar),1,bsb26,Supaul
+bsrtc-r33,07 Up,Supaul to Delhi(ISBT Anand Vihar),2,bsb19,Delhi (ISBT Anand Vihar Parking No 2)
+bsrtc-r34,08 Up,Darbhanga to Delhi,1,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r34,08 Up,Darbhanga to Delhi,2,bsb19,Delhi (ISBT Anand Vihar Parking No 2)
+bsrtc-r35,09 Up,Madhubani (Bihar) to Panipat,1,bsb74,Madhubani
+bsrtc-r35,09 Up,Madhubani (Bihar) to Panipat,2,bsb50,Panipat (Panipat Gov Bus Stand)
+bsrtc-r36,10 Up,Laukha to Ambala (Haryana),1,bsb49,Laukha
+bsrtc-r36,10 Up,Laukha to Ambala (Haryana),2,bsb47,Ambala (Ambala Cantt)
+bsrtc-r37,11 Up,Madhubani (Bihar) to Gurugram (Haryana),1,bsb74,Madhubani
+bsrtc-r37,11 Up,Madhubani (Bihar) to Gurugram (Haryana),2,bsb44,Gurugram (IFFCO Chowk)
+bsrtc-r38,GY 01,Gaya Ji (Bihar) to Delhi (New Delhi-NCR),1,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r38,GY 01,Gaya Ji (Bihar) to Delhi (New Delhi-NCR),2,bsb19,Delhi (ISBT Anand Vihar Parking No 2)
+bsrtc-r39,MZ01,Muzaffarpur (Bihar) to Delhi (Badarpur),1,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r39,MZ01,Muzaffarpur (Bihar) to Delhi (Badarpur),2,bsb289,Delhi (Badarpur)
+bsrtc-r40,Aun 01,Aurangabad to Durgapur,1,bsb57,Aurangabad
+bsrtc-r40,Aun 01,Aurangabad to Durgapur,2,bsb58,Durgapur (Govt bus stand near city center)
+bsrtc-r41,MZ02,Muzaffarpur to Siliguri,1,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r41,MZ02,Muzaffarpur to Siliguri,2,bsb55,Siliguri (Howrah Petrol Pump)
+bsrtc-r42,Gy 03,Gaya to Kolkata,1,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r42,Gy 03,Gaya to Kolkata,2,bsb52,Kolkata (Babu Ghat)
+bsrtc-r43,Hs 02,Hisua to Kolkata,1,bsb59,Hisua
+bsrtc-r43,Hs 02,Hisua to Kolkata,2,bsb52,Kolkata (Babu Ghat)
+bsrtc-r44,Wz 02,Wazirganj to Kolkata,1,bsb60,Wazirganj
+bsrtc-r44,Wz 02,Wazirganj to Kolkata,2,bsb52,Kolkata (Babu Ghat)
+bsrtc-r45,MZ03,Muzaffarpur (Bihar) to Ranchi (Jharkhand),1,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r45,MZ03,Muzaffarpur (Bihar) to Ranchi (Jharkhand),2,bsb16,Ranchi (Gov Bus Stand)
+bsrtc-r46,Gy 04,Gaya ji to Gurugram (Haryana),1,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r46,Gy 04,Gaya ji to Gurugram (Haryana),2,bsb44,Gurugram (IFFCO Chowk)
+bsrtc-r47,MZ04,Bettiah to Siliguri,1,bsb151,Chalna
+bsrtc-r47,MZ04,Bettiah to Siliguri,2,bsb55,Siliguri (Howrah Petrol Pump)
+bsrtc-r48,Gy 05,Gaya Ji (Bihar) to Lucknow (U.P),1,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r48,Gy 05,Gaya Ji (Bihar) to Lucknow (U.P),2,bsb61,Lucknow (Alambagh)
+bsrtc-r50,PUR02,Purnea to Delhi,1,bsb20,Madhepura
+bsrtc-r50,PUR02,Purnea to Delhi,2,bsb19,Delhi (ISBT Anand Vihar Parking No 2)
+bsrtc-r51,PUR03,Bhagalpur (Bihar) to Delhi (New Delhi-NCR),1,bsb178,Bhagalpur Gov. Bus Stand
+bsrtc-r51,PUR03,Bhagalpur (Bihar) to Delhi (New Delhi-NCR),2,bsb19,Delhi (ISBT Anand Vihar Parking No 2)
+bsrtc-r52,Gy 06,Gaya ji (Bihar) to Sarnath (Varanasi U.P),1,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r52,Gy 06,Gaya ji (Bihar) to Sarnath (Varanasi U.P),2,bsb62,Sarnath (Pvt Bus Stand opp Tibet Dharamshala)
+bsrtc-r54,Gy 07,Gaya Ji (Bihar) to Varanasi (U.P),1,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r54,Gy 07,Gaya Ji (Bihar) to Varanasi (U.P),2,bsb40,Varanasi (Varanasi Gov Bus Stand)
+bsrtc-r55,PUR04,Araria (Bihar) to Gurugram (Haryana),1,bsb45,Arariya
+bsrtc-r55,PUR04,Araria (Bihar) to Gurugram (Haryana),2,bsb44,Gurugram (IFFCO Chowk)
+bsrtc-r56,PUR05,Purnea to Jaigoan,1,bsb20,Madhepura
+bsrtc-r56,PUR05,Purnea to Jaigoan,2,bsb46,Jaigaon
+bsrtc-r57,Gy 08,Gaya to Durgapur,1,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r57,Gy 08,Gaya to Durgapur,2,bsb58,Durgapur (Govt bus stand near city center)
+bsrtc-r58,PUR06,Purnea to Ambala (Haryana),1,bsb41,Purnea Gov. Bus Stand
+bsrtc-r58,PUR06,Purnea to Ambala (Haryana),2,bsb47,Ambala (Ambala Cantt)
+bsrtc-r59,PUR07,Forbesganj to Kolkata,1,bsb64,Forbesganj
+bsrtc-r59,PUR07,Forbesganj to Kolkata,2,bsb52,Kolkata (Babu Ghat)
+bsrtc-r61,PUR08,Begusarai to Kolkata,1,bsb69,Begusarai
+bsrtc-r61,PUR08,Begusarai to Kolkata,2,bsb52,Kolkata (Babu Ghat)
+bsrtc-r62,BH 01,Biharsharif (Bihar)  to Bokaro,1,bsb15,Biharsharif
+bsrtc-r62,BH 01,Biharsharif (Bihar)  to Bokaro,2,bsb65,Bokaro (Bokaro Gov Bus Stand)
+bsrtc-r63,AR 01,Arrah (Bihar) to Ranchi (Jharkhand),1,bsb32,Arrah
+bsrtc-r63,AR 01,Arrah (Bihar) to Ranchi (Jharkhand),2,bsb16,Ranchi (Gov Bus Stand)
+bsrtc-r64,MUZ05,Sitamarhi (Bihar) to Delhi (ISBT Anand Vihar),1,bsb51,Sitamarhi
+bsrtc-r64,MUZ05,Sitamarhi (Bihar) to Delhi (ISBT Anand Vihar),2,bsb19,Delhi (ISBT Anand Vihar Parking No 2)
+bsrtc-r65,AR 02,Arrah (Bihar) to Dhanbad,1,bsb32,Arrah
+bsrtc-r65,AR 02,Arrah (Bihar) to Dhanbad,2,bsb63,Dhanbad
+bsrtc-r66,MUZ06,Tariyani to Delhi,1,bsb70,Tariyani Chowk
+bsrtc-r66,MUZ06,Tariyani to Delhi,2,bsb19,Delhi (ISBT Anand Vihar Parking No 2)
+bsrtc-r67,AR 03,Arrah (Bihar) to Bokaro,1,bsb32,Arrah
+bsrtc-r67,AR 03,Arrah (Bihar) to Bokaro,2,bsb65,Bokaro (Bokaro Gov Bus Stand)
+bsrtc-r68,BIH 06,Biharsharif (Bihar) to Dhanbad,1,bsb15,Biharsharif
+bsrtc-r68,BIH 06,Biharsharif (Bihar) to Dhanbad,2,bsb63,Dhanbad
+bsrtc-r70,MUZ07,Chhapra to Siliguri,1,,Jagdeo Path
+bsrtc-r70,MUZ07,Chhapra to Siliguri,2,bsb55,Siliguri (Howrah Petrol Pump)
+bsrtc-r71,MUZ08,Motihari to Siliguri,1,bsb29,Motihari
+bsrtc-r71,MUZ08,Motihari to Siliguri,2,bsb55,Siliguri (Howrah Petrol Pump)
+bsrtc-r72,MUZ09,Gopalganj to Siliguri,1,bsb72,Gopalganj
+bsrtc-r72,MUZ09,Gopalganj to Siliguri,2,bsb55,Siliguri (Howrah Petrol Pump)
+bsrtc-r73,MUZ10,Motihari to Delhi,1,bsb29,Motihari
+bsrtc-r73,MUZ10,Motihari to Delhi,2,bsb19,Delhi (ISBT Anand Vihar Parking No 2)
+bsrtc-r74,MUZ11,Siwan to Delhi (New Delhi-NCR),1,bsb56,Siwan
+bsrtc-r74,MUZ11,Siwan to Delhi (New Delhi-NCR),2,bsb19,Delhi (ISBT Anand Vihar Parking No 2)
+bsrtc-r75,MUZ12,Chhapra to Baliya,1,,Jagdeo Path
+bsrtc-r75,MUZ12,Chhapra to Baliya,2,bsb71,Baliya
+bsrtc-r76,JO06,Jogbani to Siliguri,1,bsb68,Amarpur
+bsrtc-r76,JO06,Jogbani to Siliguri,2,bsb55,Siliguri (Howrah Petrol Pump)
+bsrtc-r77,TK01 UP,Thakurganj  to Siliguri,1,bsb79,Thakurganj
+bsrtc-r77,TK01 UP,Thakurganj  to Siliguri,2,bsb55,Siliguri (Howrah Petrol Pump)
+bsrtc-r78,10UP,Laukha to Delhi (New Delhi-NCR),1,bsb49,Laukha
+bsrtc-r78,10UP,Laukha to Delhi (New Delhi-NCR),2,bsb19,Delhi (ISBT Anand Vihar Parking No 2)
+bsrtc-r79,MU01,Madhubani (Bihar) to Ambala (Haryana),1,bsb74,Madhubani
+bsrtc-r79,MU01,Madhubani (Bihar) to Ambala (Haryana),2,bsb47,Ambala (Ambala Cantt)
+bsrtc-r80,GY 09,Gaya Ji (Bihar) to Ambala (Haryana),1,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r80,GY 09,Gaya Ji (Bihar) to Ambala (Haryana),2,bsb47,Ambala (Ambala Cantt)
+bsrtc-r89,DG07,Darbhanga (Bihar) to Kusheshwar Asthan,1,bsb119,Kusheshwar Asthan
+bsrtc-r89,DG07,Darbhanga (Bihar) to Kusheshwar Asthan,2,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r104,PT JY,Patna (Bihar) to Jaynagar,1,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r104,PT JY,Patna (Bihar) to Jaynagar,2,bsb92,Jaynagar
+bsrtc-r105,PA KA,Patna (Bihar) to Kakolat,1,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r105,PA KA,Patna (Bihar) to Kakolat,2,bsb93,Kakolat
+bsrtc-r109,HJ07,Hajipur (Bihar) to Dumariya,1,bsb24,Bhutaha
+bsrtc-r109,HJ07,Hajipur (Bihar) to Dumariya,2,,Manpur
+bsrtc-r114,08,Gaya Ji (Bihar) to Rajauli,1,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r114,08,Gaya Ji (Bihar) to Rajauli,2,bsb96,Rajauli
+bsrtc-r116,DAR-MUZ,Darbhanga (Bihar) to Muzaffarpur (Bihar),1,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r116,DAR-MUZ,Darbhanga (Bihar) to Muzaffarpur (Bihar),2,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r117,KU-Muz,Kusheshwar Asthan to Muzaffarpur (Bihar),1,bsb119,Kusheshwar Asthan
+bsrtc-r117,KU-Muz,Kusheshwar Asthan to Muzaffarpur (Bihar),2,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r119,Madh-Pat,Madhubani (Bihar) to Patna (Bihar),1,bsb74,Madhubani
+bsrtc-r119,Madh-Pat,Madhubani (Bihar) to Patna (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r120,Gho-Pat,Ghoghardiha to Patna (Bihar),1,bsb120,Ghoghardiha
+bsrtc-r120,Gho-Pat,Ghoghardiha to Patna (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r121,Lahe-Pat,Laheriyasarai to Patna (Bihar),1,bsb127,Laheriyasarai
+bsrtc-r121,Lahe-Pat,Laheriyasarai to Patna (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r122,Sup-Patn,Supaul To Patna (Bihar),1,bsb26,Supaul
+bsrtc-r122,Sup-Patn,Supaul To Patna (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r123,Kus-Pat,Kusheswar Sthan to Patna (Bihar),1,,Hanuman Nagar
+bsrtc-r123,Kus-Pat,Kusheswar Sthan to Patna (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r125,Jay-Pat,Jaynagar to Patna (Bihar),1,,Hayaghat
+bsrtc-r125,Jay-Pat,Jaynagar to Patna (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r126,Pat-Lau,Patna (Bihar) to Laukha,1,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r126,Pat-Lau,Patna (Bihar) to Laukha,2,bsb49,Laukha
+bsrtc-r127,Begu-Pur,Begusari to Purnea,1,bsb69,Begusarai
+bsrtc-r127,Begu-Pur,Begusari to Purnea,2,bsb20,Madhepura
+bsrtc-r128,Sah-Sili,Saharsa to Siliguri (W.B),1,bsb97,Saharsa
+bsrtc-r128,Sah-Sili,Saharsa to Siliguri (W.B),2,bsb55,Siliguri (Howrah Petrol Pump)
+bsrtc-r135,PA GOP,Patna (Bihar) to Gopalganj,1,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r135,PA GOP,Patna (Bihar) to Gopalganj,2,bsb72,Gopalganj
+bsrtc-r136,ARA-BUX,Arrah (Bihar) to Buxar,1,bsb32,Arrah
+bsrtc-r136,ARA-BUX,Arrah (Bihar) to Buxar,2,bsb95,Buxar
+bsrtc-r137,ARA SAS,Arrah (Bihar) to Sasaram (Rohtas Bihar),1,bsb32,Arrah
+bsrtc-r137,ARA SAS,Arrah (Bihar) to Sasaram (Rohtas Bihar),2,bsb100,Sasaram
+bsrtc-r138,ARA KOC,Arrah (Bihar) to Kochas (Rohtas Bihar),1,bsb32,Arrah
+bsrtc-r138,ARA KOC,Arrah (Bihar) to Kochas (Rohtas Bihar),2,bsb101,Kochas
+bsrtc-r139,PA KOC,Patna (Bihar) to Kochas (Rohtas Bihar),1,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r139,PA KOC,Patna (Bihar) to Kochas (Rohtas Bihar),2,bsb101,Kochas
+bsrtc-r140,ARA NAU,Arrah (Bihar) to Nauhatta,1,bsb32,Arrah
+bsrtc-r140,ARA NAU,Arrah (Bihar) to Nauhatta,2,bsb102,Nauhatta
+bsrtc-r141,ARA MUN,Arrah (Bihar) to Mundeswari,1,bsb32,Arrah
+bsrtc-r141,ARA MUN,Arrah (Bihar) to Mundeswari,2,bsb103,Mundeswari (Bhabhua)
+bsrtc-r142,GAYA,Gaya Ji (Bihar) to Tata,1,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r142,GAYA,Gaya Ji (Bihar) to Tata,2,bsb83,Tata
+bsrtc-r149,MUZ DAR,Muzaffarpur (Bihar) to Darbhanga (Bihar),1,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r149,MUZ DAR,Muzaffarpur (Bihar) to Darbhanga (Bihar),2,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r151,MUZ,Muzaffarpur (Bihar) to Kunauli,1,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r151,MUZ,Muzaffarpur (Bihar) to Kunauli,2,bsb126,Kunauli
+bsrtc-r153,KATE PA,Kateya to Patna (Bihar),1,bsb153,Triveniganj
+bsrtc-r153,KATE PA,Kateya to Patna (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r155,SIW PA,Siwan to Patna (Bihar),1,bsb56,Siwan
+bsrtc-r155,SIW PA,Siwan to Patna (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r161,Hajipurdanpur,Hajipur to Danapur,1,bsb110,Hajipur Junction
+bsrtc-r161,Hajipurdanpur,Hajipur to Danapur,2,,Agra
+bsrtc-r172,Aupat,Aurai to Patna (Bihar),1,bsb115,Aurai
+bsrtc-r172,Aupat,Aurai to Patna (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r179,RA KAD,Jehanabad to Kadwa,1,bsb39,Rangpo
+bsrtc-r179,RA KAD,Jehanabad to Kadwa,2,bsb20,Madhepura
+bsrtc-r181,KU PT,Kusheshwar Asthan to Patna (Bihar),1,bsb119,Kusheshwar Asthan
+bsrtc-r181,KU PT,Kusheshwar Asthan to Patna (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r182,PAT SUP,Supaul (Biroul) to Patna (Bihar),1,bsb76,Supaul(Biroul)
+bsrtc-r182,PAT SUP,Supaul (Biroul) to Patna (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r183,PD PT,Padri to Patna (Bihar),1,,Padri
+bsrtc-r183,PD PT,Padri to Patna (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r184,BettiahPatna,Bettiah to Patna (Bihar),1,bsb151,Chalna
+bsrtc-r184,BettiahPatna,Bettiah to Patna (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r192,KS PT,Purnea to Kasba (Bihar),1,,Kasba
+bsrtc-r192,KS PT,Purnea to Kasba (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r196,CHH DAR,Chhapra to Darbhanga (Bihar),1,bsb168,Chhapra
+bsrtc-r196,CHH DAR,Chhapra to Darbhanga (Bihar),2,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r198,DUM MUZ,Dumari to Muzaffarpur (Bihar),1,bsb193,Dumari
+bsrtc-r198,DUM MUZ,Dumari to Muzaffarpur (Bihar),2,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r199,JAJ MUZ,Jajuar to Muzaffarpur (Bihar),1,bsb124,Jajuar
+bsrtc-r199,JAJ MUZ,Jajuar to Muzaffarpur (Bihar),2,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r208,PAT PALI,Patna (Bihar)to Paliganj,1,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r208,PAT PALI,Patna (Bihar)to Paliganj,2,bsb269,Paliganj
+bsrtc-r209,Sh Gy,Sherghati to Gaya Ji (Bihar),1,bsb199,Sherghati
+bsrtc-r209,Sh Gy,Sherghati to Gaya Ji (Bihar),2,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r213,Gy Sh,Gaya Ji (Bihar) to Singhra,1,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r213,Gy Sh,Gaya Ji (Bihar) to Singhra,2,bsb208,Singhra
+bsrtc-r214,Gy Gr,Gaya Ji (Bihar) to Gurwa,1,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r214,Gy Gr,Gaya Ji (Bihar) to Gurwa,2,bsb210,Gurwa
+bsrtc-r215,Gr Gy,Gurwa to Gaya Ji (Bihar),1,bsb210,Gurwa
+bsrtc-r215,Gr Gy,Gurwa to Gaya Ji (Bihar),2,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r216,Mn Gy,mangrama to Gaya Ji (Bihar),1,bsb211,Mangrama
+bsrtc-r216,Mn Gy,mangrama to Gaya Ji (Bihar),2,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r218,Bh Gy,Bharaundha to Gaya Ji (Bihar),1,bsb212,Bharaundha
+bsrtc-r218,Bh Gy,Bharaundha to Gaya Ji (Bihar),2,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r219,An Gy,Aanti to Gaya Ji (Bihar),1,bsb207,Aanti
+bsrtc-r219,An Gy,Aanti to Gaya Ji (Bihar),2,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r220,PAT DA RL ST,Patna (Bihar) to Danapur Railway Station,1,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r220,PAT DA RL ST,Patna (Bihar) to Danapur Railway Station,2,bsb201,Danapur Railway Station
+bsrtc-r221,mY gY,Majhiyama to Gaya Ji (Bihar),1,bsb203,Majhiyama
+bsrtc-r221,mY gY,Majhiyama to Gaya Ji (Bihar),2,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r222,Gv Gy,Govindpur to Gaya Ji (Bihar),1,bsb216,Govindpur
+bsrtc-r222,Gv Gy,Govindpur to Gaya Ji (Bihar),2,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r223,Ng Gy,Nagma to Gaya Ji (Bihar),1,bsb213,Nagma
+bsrtc-r223,Ng Gy,Nagma to Gaya Ji (Bihar),2,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r227,Hn Gy,Hamidnagar to Gaya Ji (Bihar),1,bsb206,Hamidnagar
+bsrtc-r227,Hn Gy,Hamidnagar to Gaya Ji (Bihar),2,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r228,Sg Gy,Singhra to Gaya Ji (Bihar),1,bsb208,Singhra
+bsrtc-r228,Sg Gy,Singhra to Gaya Ji (Bihar),2,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r229,Vp Gy,Vishwanathpur to Gaya Ji (Bihar),1,bsb205,Vishwanathpur
+bsrtc-r229,Vp Gy,Vishwanathpur to Gaya Ji (Bihar),2,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r230,Dg Gy,Dhirbigha to Gaya Ji (Bihar),1,bsb209,Dhirbigha
+bsrtc-r230,Dg Gy,Dhirbigha to Gaya Ji (Bihar),2,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r233,Gy Hb,Gaya Ji (Bihar) to Hazaribagh,1,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r233,Gy Hb,Gaya Ji (Bihar) to Hazaribagh,2,bsb66,Hazaribagh (Hazaribagh Gov Bus Stand)
+bsrtc-r234,Dh Gy,Dhibari to Gaya Ji (Bihar),1,,Dhibari
+bsrtc-r234,Dh Gy,Dhibari to Gaya Ji (Bihar),2,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r235,Nw Gp,Nawad to Govindpur,1,bsb86,Nawada
+bsrtc-r235,Nw Gp,Nawad to Govindpur,2,bsb216,Govindpur
+bsrtc-r237,Gy Dm,Gaya Ji (Bihar) to Dumariya,1,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r237,Gy Dm,Gaya Ji (Bihar) to Dumariya,2,,Manpur
+bsrtc-r238,PAT BIH,Patna (Bihar) to Bihta,1,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r238,PAT BIH,Patna (Bihar) to Bihta,2,,Bihta
+bsrtc-r239,PAT IGI,Patna (Bihar)to IGIMS,1,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r239,PAT IGI,Patna (Bihar)to IGIMS,2,bsb130,IGIMS
+bsrtc-r240,Shi- Muz,Shivhar to Muzaffarpur (Bihar),1,bsb131,Shivhar
+bsrtc-r240,Shi- Muz,Shivhar to Muzaffarpur (Bihar),2,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r241,Pah- Muz,Pahsaul to Muzaffarpur (Bihar),1,bsb132,Pahsaul
+bsrtc-r241,Pah- Muz,Pahsaul to Muzaffarpur (Bihar),2,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r242,PAT AIM,Patna (Bihar) to AIIMS,1,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r242,PAT AIM,Patna (Bihar) to AIIMS,2,bsb133,AIIMS
+bsrtc-r243,MUZ PACH,Muzaffarpur (Bihar) to Pachpakri,1,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r243,MUZ PACH,Muzaffarpur (Bihar) to Pachpakri,2,bsb172,Pachpakari
+bsrtc-r244,SHI PAT,Shivhar to Patna (Bihar),1,bsb131,Shivhar
+bsrtc-r244,SHI PAT,Shivhar to Patna (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r255,MUZ PIP,Pipraun Rajghat to Piprahi,1,,Pipraun Rajghat
+bsrtc-r255,MUZ PIP,Pipraun Rajghat to Piprahi,2,bsb134,Piprahi
+bsrtc-r256,SIT SON,Sitamarhi (Bihar) to Sonbarsa,1,bsb51,Sitamarhi
+bsrtc-r256,SIT SON,Sitamarhi (Bihar) to Sonbarsa,2,,Sonbarsa
+bsrtc-r257,PAT SAH,Patna to Patna Sahib,1,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r257,PAT SAH,Patna to Patna Sahib,2,bsb135,Patna Sahib
+bsrtc-r258,Nw Am,Nawad to Ambha,1,bsb86,Nawada
+bsrtc-r258,Nw Am,Nawad to Ambha,2,,Ambha
+bsrtc-r259,Nw Kl,Nawada to Kaulkol,1,bsb86,Nawada
+bsrtc-r259,Nw Kl,Nawada to Kaulkol,2,,Kaulkol
+bsrtc-r260,Nw Rj,Nawada to Rajgir (Bihar),1,bsb86,Nawada
+bsrtc-r260,Nw Rj,Nawada to Rajgir (Bihar),2,bsb99,Rajgir
+bsrtc-r261,Dd Ar,Devdham to AN Road,1,bsb285,Devdham
+bsrtc-r261,Dd Ar,Devdham to AN Road,2,,A. N. Road
+bsrtc-r262,BIH BAR,Biharsharif (Bihar) to Barbigha,1,bsb15,Biharsharif
+bsrtc-r262,BIH BAR,Biharsharif (Bihar) to Barbigha,2,,Barbigha
+bsrtc-r263,Dr Bh,Darbhanga (Bihar) to Bheja,1,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r263,Dr Bh,Darbhanga (Bihar) to Bheja,2,bsb94,Karpuri Gram
+bsrtc-r264,DB Jy,Darbhanga (Bihar) to Jaynagar,1,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r264,DB Jy,Darbhanga (Bihar) to Jaynagar,2,bsb92,Jaynagar
+bsrtc-r265,DB JL,Darbhanga (Bihar) to Jale,1,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r265,DB JL,Darbhanga (Bihar) to Jale,2,,jale
+bsrtc-r266,BIH DAN,Biharsharif (Bihar) to Daniawan,1,bsb15,Biharsharif
+bsrtc-r266,BIH DAN,Biharsharif (Bihar) to Daniawan,2,bsb136,Daniawan
+bsrtc-r267,DBG- KUS,Darbhanga to Kusheshwar Asthan,1,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r267,DBG- KUS,Darbhanga to Kusheshwar Asthan,2,bsb119,Kusheshwar Asthan
+bsrtc-r268,Db Lk,Darbhanga (Bihar) to Laukha,1,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r268,Db Lk,Darbhanga (Bihar) to Laukha,2,bsb49,Laukha
+bsrtc-r269,Db Mb,Darbhanga (Bihar) to Madhubani`,1,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r269,Db Mb,Darbhanga (Bihar) to Madhubani`,2,bsb74,Madhubani
+bsrtc-r270,Db Pp,Darbhanga (Bihar) to Piprahi,1,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r270,Db Pp,Darbhanga (Bihar) to Piprahi,2,bsb134,Piprahi
+bsrtc-r271,GAN DAN RL ST,Gandhi Maidan to Danapur Railway Station,1,bsb109,Ghandhi Maidhan
+bsrtc-r271,GAN DAN RL ST,Gandhi Maidan to Danapur Railway Station,2,bsb201,Danapur Railway Station
+bsrtc-r272,DAR RAS,Darbhanga (Bihar) to Rasiyari,1,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r272,DAR RAS,Darbhanga (Bihar) to Rasiyari,2,,Rasiyari
+bsrtc-r273,DAR SAM,Darbhanga (Bihar) to Samastipur,1,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r273,DAR SAM,Darbhanga (Bihar) to Samastipur,2,bsb88,Samashtipur
+bsrtc-r274,PAT HAJI,Patna (Bihar) to Hajipur,1,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r274,PAT HAJI,Patna (Bihar) to Hajipur,2,bsb24,Bhutaha
+bsrtc-r275,DAR SA,Darbhanga (Bihar) to Sarauta,1,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r275,DAR SA,Darbhanga (Bihar) to Sarauta,2,bsb222,Baheri
+bsrtc-r276,DAR BA,Darbhanga (Bihar) to Banarjhulla,1,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r276,DAR BA,Darbhanga (Bihar) to Banarjhulla,2,,Banarjhulla
+bsrtc-r277,DAR BAS,Darbhanga (Bihar) to Bassipatti,1,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r277,DAR BAS,Darbhanga (Bihar) to Bassipatti,2,,Bassipatti
+bsrtc-r278,DAR BE,Darbhanga (Bihar) to Benipur,1,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r278,DAR BE,Darbhanga (Bihar) to Benipur,2,bsb229,Benipur
+bsrtc-r279,DAR GA,Darbhanga (Bihar) to Gayghat,1,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r279,DAR GA,Darbhanga (Bihar) to Gayghat,2,,Gayghat
+bsrtc-r280,GAN NIT,Gandhi Maidan to NIT,1,bsb109,Ghandhi Maidhan
+bsrtc-r280,GAN NIT,Gandhi Maidan to NIT,2,bsb137,NIT Patna (Bihar)
+bsrtc-r281,DAR KAL,Darbhanga (Bihar) to Kalyanpur,1,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r281,DAR KAL,Darbhanga (Bihar) to Kalyanpur,2,,Kalyanpur
+bsrtc-r282,DAR RAH,Delhi (New Delhi-NCR) to Rahika,1,bsb19,Delhi (ISBT Anand Vihar Parking No 2)
+bsrtc-r282,DAR RAH,Delhi (New Delhi-NCR) to Rahika,2,bsb234,Rahika
+bsrtc-r283,GHO PAT,Ghoghardiha to Patna,1,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r283,GHO PAT,Ghoghardiha to Patna,2,bsb120,Ghoghardiha
+bsrtc-r284,HAR DAR,Darbhanga (Bihar) to Harlakhi,1,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r284,HAR DAR,Darbhanga (Bihar) to Harlakhi,2,,Harlakhi
+bsrtc-r289,JAY PAT,Jaynagar to Patna (Bihar),1,bsb92,Jaynagar
+bsrtc-r289,JAY PAT,Jaynagar to Patna (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r290,LAU DAR,Laukha to Darbhanga (Bihar),1,bsb49,Laukha
+bsrtc-r290,LAU DAR,Laukha to Darbhanga (Bihar),2,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r291,LAU Muz,Laukha to Patna (Bihar),1,bsb49,Laukha
+bsrtc-r291,LAU Muz,Laukha to Patna (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r296,MA DAR,Mahesindhya to Darbhanga (Bihar),1,,Mahesindhiya
+bsrtc-r296,MA DAR,Mahesindhya to Darbhanga (Bihar),2,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r298,BET PAT,Bettia to Patna (Bihar),1,bsb90,Lal Bazar
+bsrtc-r298,BET PAT,Bettia to Patna (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r299,SIT BEL,Sitamarhi (Bihar)to Bela,1,bsb51,Sitamarhi
+bsrtc-r299,SIT BEL,Sitamarhi (Bihar)to Bela,2,bsb200,Bela
+bsrtc-r300,CH SITA,Chhapra to Sitabdiyar,1,bsb168,Chhapra
+bsrtc-r300,CH SITA,Chhapra to Sitabdiyar,2,bsb138,Sitabdiyara
+bsrtc-r302,CH RAG,Chhapra to Raghunathpur,1,bsb168,Chhapra
+bsrtc-r302,CH RAG,Chhapra to Raghunathpur,2,bsb139,Raghunathpur
+bsrtc-r307,BAI PAT,Bairginiya to Patna (Bihar),1,bsb141,Bairginiya
+bsrtc-r307,BAI PAT,Bairginiya to Patna (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r310,CH BAN,Chhapra to Baniyapur University,1,bsb168,Chhapra
+bsrtc-r310,CH BAN,Chhapra to Baniyapur University,2,,Baniyapur University
+bsrtc-r312,CH RA,Chhapra to Rasulpur University,1,bsb168,Chhapra
+bsrtc-r312,CH RA,Chhapra to Rasulpur University,2,bsb143,Rasulpur University
+bsrtc-r313,CH DA,Chhapra to Darauli,1,bsb168,Chhapra
+bsrtc-r313,CH DA,Chhapra to Darauli,2,bsb144,Darauli
+bsrtc-r317,HAJ PAT,Hajipur (Bihar) to Patna (Bihar),1,bsb24,Bhutaha
+bsrtc-r317,HAJ PAT,Hajipur (Bihar) to Patna (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r318,CH HA,Chhapra To Hasanpura,1,bsb168,Chhapra
+bsrtc-r318,CH HA,Chhapra To Hasanpura,2,bsb145,Hasanpura
+bsrtc-r319,JAJ PAT,Jajuar to Patna (Bihar),1,bsb124,Jajuar
+bsrtc-r319,JAJ PAT,Jajuar to Patna (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r320,JAU PAC,Jajuar to pachkariya,1,bsb124,Jajuar
+bsrtc-r320,JAU PAC,Jajuar to pachkariya,2,bsb172,Pachpakari
+bsrtc-r321,JAN HAJ,Jandaha to Hajipur (Bihar),1,bsb146,Jandaha
+bsrtc-r321,JAN HAJ,Jandaha to Hajipur (Bihar),2,bsb24,Bhutaha
+bsrtc-r322,JAN PAT,Jantabajar to Patna (Bihar),1,bsb147,Jantabajar
+bsrtc-r322,JAN PAT,Jantabajar to Patna (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r323,MAD PAT,Madhwapur to Patna (Bihar),1,bsb148,Madhwapur
+bsrtc-r323,MAD PAT,Madhwapur to Patna (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r324,MAN HAJ,Mahnar to Hajipur (Bihar),1,bsb149,Mahnar
+bsrtc-r324,MAN HAJ,Mahnar to Hajipur (Bihar),2,bsb24,Bhutaha
+bsrtc-r325,CHH MA,Chhapra to Maharajganj,1,bsb223,Marhaura
+bsrtc-r325,CHH MA,Chhapra to Maharajganj,2,bsb150,Maharajganj
+bsrtc-r327,MOT ARE,Motihari (Bihar) to Areraj,1,bsb29,Motihari
+bsrtc-r327,MOT ARE,Motihari (Bihar) to Areraj,2,bsb117,Areraj
+bsrtc-r329,MOT SIW,Motihari (Bihar) to Siwan,1,bsb29,Motihari
+bsrtc-r329,MOT SIW,Motihari (Bihar) to Siwan,2,,Mairwa
+bsrtc-r330,MOT CHA,Motihari (Bihar) to Chakiya,1,bsb29,Motihari
+bsrtc-r330,MOT CHA,Motihari (Bihar) to Chakiya,2,bsb195,Chakiya
+bsrtc-r331,MUZ PAH,Muzaffarpur (Bihar) to Pahsaul,1,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r331,MUZ PAH,Muzaffarpur (Bihar) to Pahsaul,2,bsb132,Pahsaul
+bsrtc-r332,MUZ KES,Muzaffarpur (Bihar) to Keshariya,1,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r332,MUZ KES,Muzaffarpur (Bihar) to Keshariya,2,bsb118,Keshariya
+bsrtc-r334,MUZSHI,Muzaffarpur (Bihar) to Shvihar,1,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r334,MUZSHI,Muzaffarpur (Bihar) to Shvihar,2,bsb131,Shivhar
+bsrtc-r338,BHAG SAL,Bhagalpur (Bihar) to Salpur,1,bsb178,Bhagalpur Gov. Bus Stand
+bsrtc-r338,BHAG SAL,Bhagalpur (Bihar) to Salpur,2,bsb121,Salpur
+bsrtc-r342,BHAG MUN,Bhagalpur (Bihar) to Munger,1,bsb178,Bhagalpur Gov. Bus Stand
+bsrtc-r342,BHAG MUN,Bhagalpur (Bihar) to Munger,2,bsb112,Munger
+bsrtc-r343,BHAG KHAG,Bhagalpur (Bihar) to Khagaria,1,bsb178,Bhagalpur Gov. Bus Stand
+bsrtc-r343,BHAG KHAG,Bhagalpur (Bihar) to Khagaria,2,bsb152,Khagaria
+bsrtc-r344,BAN PU,Banka to Purnea (Bihar),1,bsb166,Banka
+bsrtc-r344,BAN PU,Banka to Purnea (Bihar),2,bsb41,Purnea Gov. Bus Stand
+bsrtc-r345,BHAG NAU,Bhagalpur (Bihar) to Naugachhia,1,bsb178,Bhagalpur Gov. Bus Stand
+bsrtc-r345,BHAG NAU,Bhagalpur (Bihar) to Naugachhia,2,bsb82,Naugachhia Bus Stand
+bsrtc-r346,TRI SAH,Triveniganj to Saharsa,1,bsb153,Triveniganj
+bsrtc-r346,TRI SAH,Triveniganj to Saharsa,2,bsb97,Saharsa
+bsrtc-r347,BHAG JAG,Bhagalpur (Bihar) to Jagdishpur,1,bsb178,Bhagalpur Gov. Bus Stand
+bsrtc-r347,BHAG JAG,Bhagalpur (Bihar) to Jagdishpur,2,,Jagdishpur
+bsrtc-r348,SAH KUS,Saharsa to Kusheswar,1,bsb97,Saharsa
+bsrtc-r348,SAH KUS,Saharsa to Kusheswar,2,bsb119,Kusheshwar Asthan
+bsrtc-r350,BHAG EM,Bhagalpur (Bihar) to English Mor,1,bsb178,Bhagalpur Gov. Bus Stand
+bsrtc-r350,BHAG EM,Bhagalpur (Bihar) to English Mor,2,bsb198,English Mor
+bsrtc-r351,PU RU,Purnea (Bihar) to Rupauli,1,bsb41,Purnea Gov. Bus Stand
+bsrtc-r351,PU RU,Purnea (Bihar) to Rupauli,2,bsb154,Rupauli
+bsrtc-r352,BHAG RAJ,Bhagalpur (Bihar) to Rajaun,1,bsb178,Bhagalpur Gov. Bus Stand
+bsrtc-r352,BHAG RAJ,Bhagalpur (Bihar) to Rajaun,2,bsb227,Rajaun
+bsrtc-r354,PU PI,Purnea (Bihar)  to Pithaura,1,bsb41,Purnea Gov. Bus Stand
+bsrtc-r354,PU PI,Purnea (Bihar)  to Pithaura,2,bsb156,Pithaura
+bsrtc-r355,PU MA,Purnea (Bihar) to Mahadighi,1,bsb41,Purnea Gov. Bus Stand
+bsrtc-r355,PU MA,Purnea (Bihar) to Mahadighi,2,bsb157,Mahadighi
+bsrtc-r357,PU GE,Purnea (Bihar) to Gedabari,1,bsb41,Purnea Gov. Bus Stand
+bsrtc-r357,PU GE,Purnea (Bihar) to Gedabari,2,,Gedabari
+bsrtc-r358,PU BI,Purnea (Bihar) to Bishanpur,1,bsb41,Purnea Gov. Bus Stand
+bsrtc-r358,PU BI,Purnea (Bihar) to Bishanpur,2,bsb158,Bishanpur
+bsrtc-r360,PU FAR,Purnea (Bihar) to Farbesganj,1,bsb41,Purnea Gov. Bus Stand
+bsrtc-r360,PU FAR,Purnea (Bihar) to Farbesganj,2,bsb64,Forbesganj
+bsrtc-r361,PU CH,Purnea (Bihar) to Champanagar,1,bsb41,Purnea Gov. Bus Stand
+bsrtc-r361,PU CH,Purnea (Bihar) to Champanagar,2,,Champanagar
+bsrtc-r362,PU SU,Purnea (Bihar) to Supaul,1,bsb41,Purnea Gov. Bus Stand
+bsrtc-r362,PU SU,Purnea (Bihar) to Supaul,2,bsb26,Supaul
+bsrtc-r363,PU SRI,Purnea (Bihar) to Srinagar,1,bsb41,Purnea Gov. Bus Stand
+bsrtc-r363,PU SRI,Purnea (Bihar) to Srinagar,2,,Srinagar
+bsrtc-r364,PU KIS,Purnea to Kishanganj (Bihar),1,bsb41,Purnea Gov. Bus Stand
+bsrtc-r364,PU KIS,Purnea to Kishanganj (Bihar),2,bsb42,Kishanganj
+bsrtc-r365,PU AIRPORT,Purnea Airport (Bihar) to Banmankhi,1,bsb159,Purnea Airport
+bsrtc-r365,PU AIRPORT,Purnea Airport (Bihar) to Banmankhi,2,bsb263,Banmankhi
+bsrtc-r367,BIS KIS,Bishanpur to Kishanganj (Bihar),1,bsb158,Bishanpur
+bsrtc-r367,BIS KIS,Bishanpur to Kishanganj (Bihar),2,bsb42,Kishanganj
+bsrtc-r368,BIR BHA,Birpur to Bhagalpur (Bihar),1,,Birpur
+bsrtc-r368,BIR BHA,Birpur to Bhagalpur (Bihar),2,bsb178,Bhagalpur Gov. Bus Stand
+bsrtc-r370,BEG PUR,Begusari to Purnea (Bihar),1,bsb69,Begusarai
+bsrtc-r370,BEG PUR,Begusari to Purnea (Bihar),2,bsb41,Purnea Gov. Bus Stand
+bsrtc-r371,AUG PUR,Aguwani to Purnea (Bihar),1,bsb160,Aguwani
+bsrtc-r371,AUG PUR,Aguwani to Purnea (Bihar),2,bsb41,Purnea Gov. Bus Stand
+bsrtc-r372,MUN GAU,Munger to Gauravdih,1,bsb112,Munger
+bsrtc-r372,MUN GAU,Munger to Gauravdih,2,bsb161,Gauravdeeh
+bsrtc-r392,LU MUZ,Laukha to Muzaffarpur (Bihar),1,bsb49,Laukha
+bsrtc-r392,LU MUZ,Laukha to Muzaffarpur (Bihar),2,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r393,SU JA,Supaul to Jamua,1,bsb26,Supaul
+bsrtc-r393,SU JA,Supaul to Jamua,2,,Jamua
+bsrtc-r394,SU SAN,Sultanganj to Sangramour,1,bsb167,Sultanganj
+bsrtc-r394,SU SAN,Sultanganj to Sangramour,2,bsb54,Sangramour
+bsrtc-r395,MU KHA,Munger to Kharagpur,1,bsb112,Munger
+bsrtc-r395,MU KHA,Munger to Kharagpur,2,,Kharagpur
+bsrtc-r401,SH PA,Shekhpura to Patna (Bihar),1,bsb163,Shekhpura
+bsrtc-r401,SH PA,Shekhpura to Patna (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r403,JA CH,Jamui to Chakai,1,bsb108,Jamui Bus Stand
+bsrtc-r403,JA CH,Jamui to Chakai,2,bsb170,Chakai
+bsrtc-r404,JA TA,Jamui to Tarapur,1,bsb108,Jamui Bus Stand
+bsrtc-r404,JA TA,Jamui to Tarapur,2,bsb48,Tarapur
+bsrtc-r419,CHH KAT,Chhapra to Kataiya,1,bsb168,Chhapra
+bsrtc-r419,CHH KAT,Chhapra to Kataiya,2,bsb106,Kataiya
+bsrtc-r420,CHH PAG,Chhapra to Pagra,1,bsb168,Chhapra
+bsrtc-r420,CHH PAG,Chhapra to Pagra,2,bsb173,Pagra
+bsrtc-r432,BGP DEO,Bhagalpur (Bihar) To Deoghar,1,bsb178,Bhagalpur Gov. Bus Stand
+bsrtc-r432,BGP DEO,Bhagalpur (Bihar) To Deoghar,2,bsb177,Deoghar
+bsrtc-r433,MuzDevghar,Muzaffarpur (Bihar) to Basukinath Dham,1,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r433,MuzDevghar,Muzaffarpur (Bihar) to Basukinath Dham,2,bsb182,Basukinath Dham
+bsrtc-r440,111A,Kargil Chowk To Danapur Railway Station,1,,Kargil Chowk
+bsrtc-r440,111A,Kargil Chowk To Danapur Railway Station,2,bsb201,Danapur Railway Station
+bsrtc-r466,MUZDUMARI,Muzaffarpur(Bihar) to Dumari,1,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r466,MUZDUMARI,Muzaffarpur(Bihar) to Dumari,2,bsb193,Dumari
+bsrtc-r467,MUZ PAR,Muzaffarpur To Paroo,1,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r467,MUZ PAR,Muzaffarpur To Paroo,2,bsb194,Paroo
+bsrtc-r468,MUZ CHAK,Muzaffarpur To Chakiya,1,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r468,MUZ CHAK,Muzaffarpur To Chakiya,2,bsb195,Chakiya
+bsrtc-r469,MUZ KAT,Muzaffarpur To Katra,1,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r469,MUZ KAT,Muzaffarpur To Katra,2,bsb196,Katra
+bsrtc-r470,MUZ GAN,Muzaffarpur To Gangiya,1,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r470,MUZ GAN,Muzaffarpur To Gangiya,2,bsb197,Gangiya
+bsrtc-r471,MUZ BEL,Muzaffarpur To Belsand,1,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r471,MUZ BEL,Muzaffarpur To Belsand,2,bsb116,Belsand
+bsrtc-r486,MUZKISANGANJ,MUZAFFARPUR TO KISHANGANJ,1,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r486,MUZKISANGANJ,MUZAFFARPUR TO KISHANGANJ,2,bsb42,Kishanganj
+bsrtc-r488,SAH - KUSH,SAHARSA TO KUSHESHWAR,1,bsb119,Kusheshwar Asthan
+bsrtc-r488,SAH - KUSH,SAHARSA TO KUSHESHWAR,2,bsb97,Saharsa
+bsrtc-r492,DBG-BAHERI,DARBHANGA TO BAHERI,1,bsb222,Baheri
+bsrtc-r492,DBG-BAHERI,DARBHANGA TO BAHERI,2,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r540,MUNGER-KUTLUPUR 01,MUNGER TO KUTLUPUR,1,bsb112,Munger
+bsrtc-r540,MUNGER-KUTLUPUR 01,MUNGER TO KUTLUPUR,2,bsb255,Kutlupur
+bsrtc-r555,Chapra Baniyapur,Chapra Baniypur,1,bsb168,Chhapra
+bsrtc-r555,Chapra Baniyapur,Chapra Baniypur,2,,Baniyapur
+bsrtc-r567,8408,Motihari to parsauna,1,bsb29,Motihari
+bsrtc-r567,8408,Motihari to parsauna,2,bsb250,PARSAUNA
+bsrtc-r568,8407,Motihari To Sukhisemra,1,bsb29,Motihari
+bsrtc-r568,8407,Motihari To Sukhisemra,2,bsb251,SUKHISEMRA
+bsrtc-r569,8414,Motihari To Narha,1,bsb29,Motihari
+bsrtc-r569,8414,Motihari To Narha,2,bsb252,NARHA
+bsrtc-r570,8404,motihari to kadhan,1,bsb29,Motihari
+bsrtc-r570,8404,motihari to kadhan,2,bsb253,KADHAN
+bsrtc-r571,8402,motihari to Muzaffarpur,1,bsb29,Motihari
+bsrtc-r571,8402,motihari to Muzaffarpur,2,bsb254,Muzaffarpur
+bsrtc-r572,pach,Pachpakari to Patna,1,bsb172,Pachpakari
+bsrtc-r572,pach,Pachpakari to Patna,2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r575,8413,Motihari to Betiiah,1,bsb29,Motihari
+bsrtc-r575,8413,Motihari to Betiiah,2,bsb190,Bettiah Govt. Bus Satnd
+bsrtc-r614,SAH-KUSH,SAHARSA TO KUSHESHWAR,1,bsb97,Saharsa
+bsrtc-r614,SAH-KUSH,SAHARSA TO KUSHESHWAR,2,,SAHARSA To KUSHESHWAR
+bsrtc-r625,patna_kisha,Kishanganj to Muzaffarpur,1,bsb42,Kishanganj
+bsrtc-r625,patna_kisha,Kishanganj to Muzaffarpur,2,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r632,8403,MOTIHARI BAKHARI,1,bsb29,Motihari
+bsrtc-r632,8403,MOTIHARI BAKHARI,2,bsb261,BAKHARI
+bsrtc-r640,Purnea Airport to Dhamdaha,Dhamdaha,1,bsb159,Purnea Airport
+bsrtc-r640,Purnea Airport to Dhamdaha,Dhamdaha,2,bsb264,Dhamdaha
+bsrtc-r641,KIS to PT,Kishanganj (Bihar) To Patna (Bihar),1,,Kishanganj (Bihar)
+bsrtc-r641,KIS to PT,Kishanganj (Bihar) To Patna (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r643,8405,Motihari (Bihar) to Chhaudadano,1,bsb29,Motihari
+bsrtc-r643,8405,Motihari (Bihar) to Chhaudadano,2,bsb265,Chhaudadano
+bsrtc-r645,SAH- BAL,Saharsa to Baluaha,1,bsb97,Saharsa
+bsrtc-r645,SAH- BAL,Saharsa to Baluaha,2,,Baluaha
+bsrtc-r651,KOCHAS PATNA,Kochas (Rohtas) to  Patna (Bihar),1,bsb101,Kochas
+bsrtc-r651,KOCHAS PATNA,Kochas (Rohtas) to  Patna (Bihar),2,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r652,PATNA MUNDESWARI,Patna (Bihar) to Mundeswari (Bhabhua),1,bsb17,Patna Multi Model Hub (Patna)
+bsrtc-r652,PATNA MUNDESWARI,Patna (Bihar) to Mundeswari (Bhabhua),2,bsb103,Mundeswari (Bhabhua)
+bsrtc-r661,Rasulpur,Chhapra To Rasulpur,1,bsb168,Chhapra
+bsrtc-r661,Rasulpur,Chhapra To Rasulpur,2,bsb267,Rasulpur
+bsrtc-r662,SAH- PATARGHAT,SAHARSA TO PATARGHAT,1,bsb97,Saharsa
+bsrtc-r662,SAH- PATARGHAT,SAHARSA TO PATARGHAT,2,bsb268,Pataghat
+bsrtc-r669,JH060,Aurangabad to Ranchi,1,bsb57,Aurangabad
+bsrtc-r669,JH060,Aurangabad to Ranchi,2,bsb16,Ranchi (Gov Bus Stand)
+bsrtc-r671,pipronraj ghat to darbhanga,pipronraj ghat to darbhanga,1,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r671,pipronraj ghat to darbhanga,pipronraj ghat to darbhanga,2,,Pipraun Rajghat
+bsrtc-r673,Darbhanga- SAHUPARI,Darbhanga to  SAHUPARI,1,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r673,Darbhanga- SAHUPARI,Darbhanga to  SAHUPARI,2,bsb233,Sahupari
+bsrtc-r675,1591,Uphara to Aurangabad,1,bsb57,Aurangabad
+bsrtc-r675,1591,Uphara to Aurangabad,2,bsb274,Uphara
+bsrtc-r676,Gy Gh,Gaya Ji (Bihar) to Goh (Pink Bus),1,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r676,Gy Gh,Gaya Ji (Bihar) to Goh (Pink Bus),2,bsb273,Goh (Aurangabad)
+bsrtc-r677,DBG-BHEJA,Darbhanga to Bheja,1,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r677,DBG-BHEJA,Darbhanga to Bheja,2,bsb98,Bheja
+bsrtc-r682,PU Delhi,Purnea (Bihar)	to Delhi (New Delhi-NCR),1,bsb41,Purnea Gov. Bus Stand
+bsrtc-r682,PU Delhi,Purnea (Bihar)	to Delhi (New Delhi-NCR),2,bsb19,Delhi (ISBT Anand Vihar Parking No 2)
+bsrtc-r689,Gy Mu,Gaya Ji (Bihar) To Magadh University (Pink Bus),1,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r689,Gy Mu,Gaya Ji (Bihar) To Magadh University (Pink Bus),2,bsb277,Magadh University
+bsrtc-r695,Gy She,Gaya To Sherghati,1,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r695,Gy She,Gaya To Sherghati,2,bsb199,Sherghati
+bsrtc-r696,GY Cu,Gaya Ji (Bihar) To Central University Of South Bihar (PInk Bus),1,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r696,GY Cu,Gaya Ji (Bihar) To Central University Of South Bihar (PInk Bus),2,bsb278,Central University Of South Bihar
+bsrtc-r699,Gy Gu,Gaya Ji (Bihar) To Guraru (Pink Bus),1,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r699,Gy Gu,Gaya Ji (Bihar) To Guraru (Pink Bus),2,bsb279,Guraru
+bsrtc-r700,Gy Ks,Gaya Ji (Bihar) To Khizarsarai,1,bsb18,Gaya Ji (Govt Bus Stand)
+bsrtc-r700,Gy Ks,Gaya Ji (Bihar) To Khizarsarai,2,,Khizarsarai
+bsrtc-r701,Saharghat to New Delhi,Saharghat to New Delhi,1,bsb281,Saharghat
+bsrtc-r701,Saharghat to New Delhi,Saharghat to New Delhi,2,bsb282,New Delhi
+bsrtc-r709,Bhutha to New Delhi,Bhutha to New Delhi,1,bsb284,Bhutha
+bsrtc-r709,Bhutha to New Delhi,Bhutha to New Delhi,2,bsb282,New Delhi
+bsrtc-r710,D001,Devdham to A.N. Road,1,bsb57,Aurangabad
+bsrtc-r710,D001,Devdham to A.N. Road,2,bsb285,Devdham
+bsrtc-r718,Gurugram to Madhubani,Gurugram to Madhubani,1,bsb44,Gurugram (IFFCO Chowk)
+bsrtc-r718,Gurugram to Madhubani,Gurugram to Madhubani,2,bsb74,Madhubani
+bsrtc-r719,Muzaffarpur to Delhi,Muzaffarpur to Delhi,1,bsb53,Muzaffarpur (Imlichatti Govt. Bus Stand)
+bsrtc-r719,Muzaffarpur to Delhi,Muzaffarpur to Delhi,2,bsb19,Delhi (ISBT Anand Vihar Parking No 2)
+bsrtc-r720,PUR PAN,Purnea(Bihar) to Panipat,1,bsb41,Purnea Gov. Bus Stand
+bsrtc-r720,PUR PAN,Purnea(Bihar) to Panipat,2,bsb50,Panipat (Panipat Gov Bus Stand)
+bsrtc-r721,Sheo DEl,Sheohar to Delhi(ISBT Anand Vihar),1,bsb114,Sheohar
+bsrtc-r721,Sheo DEl,Sheohar to Delhi(ISBT Anand Vihar),2,bsb19,Delhi (ISBT Anand Vihar Parking No 2)
+bsrtc-r722,DBG - Ayo,Darbhanga To Ayodhya,1,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r722,DBG - Ayo,Darbhanga To Ayodhya,2,bsb223,Marhaura
+bsrtc-r723,Pur - Sili,Purnea To Siliguri,1,bsb41,Purnea Gov. Bus Stand
+bsrtc-r723,Pur - Sili,Purnea To Siliguri,2,bsb55,Siliguri (Howrah Petrol Pump)
+bsrtc-r729,AR DEL,Arariya(Bihar) to Delhi(ISBT Anand Vihar),1,bsb45,Arariya
+bsrtc-r729,AR DEL,Arariya(Bihar) to Delhi(ISBT Anand Vihar),2,bsb19,Delhi (ISBT Anand Vihar Parking No 2)
+bsrtc-r736,PUR GURU,Purnea(Bihar) to Gurugram(Haryana),1,bsb41,Purnea Gov. Bus Stand
+bsrtc-r736,PUR GURU,Purnea(Bihar) to Gurugram(Haryana),2,bsb44,Gurugram (IFFCO Chowk)
+bsrtc-r737,DBG- SHiliguri,Darbhanga to shiliguri,1,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r737,DBG- SHiliguri,Darbhanga to shiliguri,2,bsb55,Siliguri (Howrah Petrol Pump)
+bsrtc-r740,DBG-RANCHI,Darbhanga to Ranchi,1,bsb23,Darbhanga (Govt. Bus Stand)
+bsrtc-r740,DBG-RANCHI,Darbhanga to Ranchi,2,bsb16,Ranchi (Gov Bus Stand)

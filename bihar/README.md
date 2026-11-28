@@ -18,12 +18,14 @@ Feeds in this folder: 2. Back to the [repository README](../README.md).
 | Source | [BSRTC's e-ticketing site (bsrtc.bihar.gov.in, its open bus search and masters) and depot timetables (bsrtc.co.in/schedules, one PDF per depot), merged into GTFS by reclaim.city (bsrtc_bus)](https://bsrtc.bihar.gov.in/) |
 | Licence | none stated by the source |
 | sha256 | `551ef4bb204bd2d10d1037b4c2417f05f874a8240857c13fb1881d576e7a250f` |
+| Routes without a timetable | [bsrtc/bus.routes_without_timetable.csv](bsrtc/bus.routes_without_timetable.csv) (route, stops in order; not in the GTFS) |
 
 > Unofficial: the site's trips carry BSRTC's own times and fares; the PDF trips are origin and destination only, their arrival an estimate (timepoint=0).
 
 Changes from the source (see [what we change](../README.md#what-we-change-and-why)):
 
 - packaging: files at the zip root, GTFS reference files only
+- 270 routes the source lists with no timetable (no bus scheduled) listed in routes_without_timetable.csv
 - route lines thinned to within 4 m (scripts/simplify_shapes.py): 44,823 -> 29,515 shape points
 
 ## Patna

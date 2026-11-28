@@ -214,6 +214,7 @@
       "detail": "Unofficial: BSRTC publishes no open GTFS. Two sources, every trip tagged with its own (service_id site / pdf, and a source column in trips.txt). (1) BSRTC's e-ticketing site bsrtc.bihar.gov.in: every bookable departure from its public bus search (read for 29 Nov to 5 Dec 2026), with BSRTC's own departure and arrival time at each town it sells tickets to (timepoint=1) and the seat fare from the first town (fare_attributes / fare_rules, zone = stop); stands placed by name near their depot and checked against their fares, BSRTC's own coordinates used where they agree (many are missing or wrong); 23 trips to seven village stands that could not be placed are left out. (2) The 12 depot timetable PDFs linked from bsrtc.co.in/schedules (read 20 Nov 2026): origin, destination, departure, and where given BSRTC's service id and bus type; kept where the site has no trip from the same town within 30 minutes to the same destination (271 of 323), the arrival an estimate from the road (timepoint=0). Shapes are the road (OSRM, else Valhalla) between stands; a leg with no road (past the Nepal border, to Kathmandu) has no shape, never a straight line. Schedule only, no live positions."
     },
     "note": "Unofficial: the site's trips carry BSRTC's own times and fares; the PDF trips are origin and destination only, their arrival an estimate (timepoint=0).",
+    "sidecar": "~/Desktop/projects/bsrtc_bus/gtfs/routes_without_timetable.csv",
     "mapdir": "bsrtc"
   },
   {

@@ -39,10 +39,13 @@ CHALO_RD_SRC = {'name': "Chalo's public scheduler (production.zophop.com, the ba
                 'url': 'https://chalo.com/', 'licence': None}
 
 # ── the catalog: id, folder in the repo, display name, state, source, map folder, realtime, extra ──
-def F(fid, path, name, state, src, mapdir=None, rt=None, source=None, modes=None, note=None, kind='bus', route_type=None, drop_types=None):
-    """route_type: {route_id or '*': correct GTFS route_type}; drop_types: route_types whose trips are placeholders (moved out)"""
+def F(fid, path, name, state, src, mapdir=None, rt=None, source=None, modes=None, note=None, kind='bus', route_type=None, drop_types=None,
+      sidecar=None):
+    """route_type: {route_id or '*': correct GTFS route_type}; drop_types: route_types whose trips are placeholders (moved out);
+    sidecar: a CSV the source pipeline writes of routes it lists with no timetable at all (the routes_without_timetable.csv
+    columns), published beside the feed"""
     return {'id': fid, 'path': path, 'name': name, 'state': state, 'src': src, 'map': mapdir, 'rt': rt, 'source': source,
-            'note': note, 'kind': kind, 'route_type': route_type, 'drop_types': drop_types}
+            'note': note, 'kind': kind, 'route_type': route_type, 'drop_types': drop_types, 'sidecar': sidecar}
 
 CHALO = {'agra': ('uttar-pradesh/agra', 'Agra', 'Uttar Pradesh'), 'amritsar': ('punjab/amritsar', 'Amritsar', 'Punjab'),
          'ayodhya': ('uttar-pradesh/ayodhya', 'Ayodhya', 'Uttar Pradesh'), 'bareilly': ('uttar-pradesh/bareilly', 'Bareilly', 'Uttar Pradesh'),
@@ -419,6 +422,11 @@ def build(f, repo):
             put(data, 'routes.txt', rh, routes)
             changes.append(f'route_type corrected on {n} routes (' + ', '.join(sorted({MODES.get(v, v) for v in f['route_type'].values()})) + ')')
     drop_placeholders(f, data, changes, sidecar)
+    if f.get('sidecar'):
+        with open(os.path.expanduser(f['sidecar']), newline='') as fh:
+            extra = [r for r in csv.reader(fh)][1:]
+        sidecar += extra
+        changes.append(f'{len({r[0] for r in extra})} routes the source lists with no timetable (no bus scheduled) listed in routes_without_timetable.csv')
     for n_ in [n for n in data if n not in ('agency.txt', 'stops.txt', 'routes.txt', 'trips.txt', 'stop_times.txt')]:
         if not table(data, n_)[1]:
             del data[n_]; changes.append(f'{n_} left out (header only, no rows)')

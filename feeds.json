@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T10:46:58Z",
+ "generated": "2026-11-28T11:05:57Z",
  "repository": "https://github.com/reclaimchennai/India_GTFS",
  "spec": {
   "schedule": "https://gtfs.org/documentation/schedule/reference/",
@@ -291,9 +291,10 @@
    "note": "Unofficial: the site's trips carry BSRTC's own times and fares; the PDF trips are origin and destination only, their arrival an estimate (timepoint=0).",
    "changes": [
     "packaging: files at the zip root, GTFS reference files only",
+    "270 routes the source lists with no timetable (no bus scheduled) listed in routes_without_timetable.csv",
     "route lines thinned to within 4 m (scripts/simplify_shapes.py): 44,823 -> 29,515 shape points"
    ],
-   "routes_without_timetable": null,
+   "routes_without_timetable": "bihar/bsrtc/bus.routes_without_timetable.csv",
    "bytes": 283910,
    "sha256": "551ef4bb204bd2d10d1037b4c2417f05f874a8240857c13fb1881d576e7a250f"
   },
